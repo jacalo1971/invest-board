@@ -1,37 +1,32 @@
 [
 {
 "kind": "takeaway",
-"title": "Lo principal hoy",
-"text": "El mercado cerró la semana cerca de máximos: SPY está a 0.4% de su máximo de 52 semanas. Ahora la watchlist incluye a los gigantes de IA; MSFT es el de menor riesgo del grupo y AMD el más volátil. Los descuentos siguen en AVGO, VRT, ISRG y RKLB, todos con riesgo medio o alto."
+"title": "Today in one sentence",
+"text": "The market ended the week near its best level of the year, while a few companies on our list are still well below their highs."
 },
 {
 "kind": "alert",
-"title": "AMD ya alcanzó a los analistas",
-"text": "AMD subió 183% en un año y hoy cotiza en $608.10, prácticamente igual al precio objetivo de consenso ($607.59). Cuando el precio ya alcanzó el objetivo, el potencial adicional depende de que los analistas suban sus estimaciones; además su P/E es 154."
+"title": "AMD caught up with the experts",
+"text": "AMD went up about 183% in one year. It now trades at $608, almost exactly what experts expected it to be worth a year from now ($608). When a stock reaches its target early, it needs new good news to keep climbing."
 },
 {
 "kind": "alert",
-"title": "Tasas al alza",
-"text": "El bono del Tesoro a 10 años promedió 4.99% en septiembre, contra 4.06% hace un año. Tasas más altas suelen presionar a las acciones de crecimiento caras, como las de IA."
+"title": "Borrowing got more expensive",
+"text": "The U.S. government now pays about 5.0% a year to borrow for 10 years, up from about 4.1% a year ago. When safe bonds pay more, some investors move money out of pricey tech stocks."
 },
 {
 "kind": "alert",
-"title": "Rotación del viernes",
-"text": "En Nasdaq, Utilities (+2.8%) y Salud (+2.1%) lideraron; Tecnología (-0.6%) e Industriales (-0.9%) quedaron atrás. Un día no es tendencia; vale vigilar si se repite."
-},
-{
-"kind": "alert",
-"title": "Dato raro en LMT",
-"text": "FMP reporta beta de 0.095 para Lockheed Martin, muy por debajo de lo normal para el sector. Puede ser real (se movió distinto al mercado este año) pero lo trato con cautela en su score."
+"title": "Healthcare had a good Friday",
+"text": "Healthcare companies rose about 2.1% on Friday while tech slipped 0.6%. One day is not a trend; we will see if it repeats."
 },
 {
 "kind": "lesson",
-"title": "Lección 1: qué es la beta",
-"text": "La beta mide cuánto se mueve una acción frente al mercado. Beta 1 se mueve igual que el S&P 500; beta 2 tiende a moverse el doble, para arriba y para abajo. NVDA tiene 2.2 y RKLB 2.6; LLY 0.45. Con riesgo moderado, conviene que la mayor parte de tu dinero esté en betas cercanas a 1 o menos."
+"title": "Lesson 1: What is beta?",
+"text": "Beta tells you how much a stock moves compared with the whole market. A beta of 1 moves like the market. A beta of 2 tends to move twice as much, up and down. NVIDIA has a beta of about 2.2 and Rocket Lab about 2.6, so they are roller coasters. Eli Lilly is about 0.45, a much calmer ride."
 },
 {
 "kind": "coverage",
-"title": "Cobertura de datos",
-"text": "Con los planes gratis, los precios objetivo de analistas y los fundamentales están disponibles para NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT y GE. Para AVGO, VRT, RKLB, LLY e ISRG el score usa solo precio y volatilidad."
+"title": "About the data",
+"text": "Expert price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE. For the others we only use price movements."
 }
 ]
