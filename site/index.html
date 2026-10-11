@@ -205,7 +205,7 @@
   .gate-card { width: min(100%, 26rem); background: var(--card); border: 2px solid var(--line); border-radius: 22px; padding: 24px; display: grid; gap: 12px; box-shadow: var(--shadow); }
   .gate-card .kicker { font-family: var(--display); font-weight: 600; color: var(--sky); text-transform: uppercase; letter-spacing: .08em; font-size: .8rem; }
   .stack { display: grid; gap: 12px; }
-  input[type="text"], input[type="password"], input[type="number"], input[type="date"], input:not([type]), textarea { font: inherit; color: var(--ink); background: var(--paper); border: 2px solid var(--line); border-radius: 12px; padding: 9px 12px; width: 100%; min-width: 0; }
+  input[type="text"], input[type="password"], input[type="number"], input[type="date"], input[type="email"], input:not([type]), textarea { font: inherit; color: var(--ink); background: var(--paper); border: 2px solid var(--line); border-radius: 12px; padding: 9px 12px; width: 100%; min-width: 0; }
   textarea { resize: vertical; }
   input:focus, textarea:focus, select:focus { border-color: var(--sky); outline: none; }
   .btn { border: none; background: var(--ink); color: var(--paper); border-radius: 999px; padding: 10px 18px; font-weight: 700; cursor: pointer; }
@@ -233,6 +233,11 @@
   .ad-row { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; border: 2px solid var(--line); border-radius: 12px; padding: 8px 12px; }
   .ad-row .who b { display: block; }
   .ad-row .who span { font-size: .8rem; color: var(--ink-soft); }
+  .ad-mail { flex-basis: 100%; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; border-top: 1px dashed var(--line); padding-top: 8px; margin-top: 2px; }
+  .ad-mail input[type=email] { flex: 1 1 180px; width: auto; padding: 6px 10px; }
+  .ad-mail input[type=checkbox] { width: 18px; height: 18px; accent-color: var(--mint); }
+  .ad-mail label.chk { display: flex; align-items: center; gap: 6px; font-size: .85rem; font-weight: 700; white-space: nowrap; }
+  .ad-mail .msg { flex-basis: 100%; font-size: .8rem; color: var(--ink-soft); min-height: 1em; }
 
   /* Tabs */
   .tabs { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; background: var(--paper); padding-block: 8px; }
@@ -370,9 +375,9 @@
     </div>
   </section>
   <section class="level" id="admin" hidden>
-    <div class="level-head"><div class="badge">⚙</div><div><h2>Family admin</h2><p class="sub">Create accounts for each person and reset passwords. Only you see this.</p></div></div>
+    <div class="level-head"><div class="badge">⚙</div><div><h2>Family admin</h2><p class="sub">Create accounts, reset passwords and choose who gets the daily email. Only you see this.</p></div></div>
     <div class="grid">
-      <div class="card"><h3>Family members</h3><div id="ad-list" class="ad-list"></div><p class="err" id="ad-list-err" aria-live="polite"></p></div>
+      <div class="card"><h3>Family members</h3><p class="muted small-note">✉️ <b>Daily email:</b> check the box and add an email for each person who should get the report every weekday after the market closes. It includes their own stocks.</p><div id="ad-list" class="ad-list"></div><p class="err" id="ad-list-err" aria-live="polite"></p></div>
       <div class="card">
         <h3>Add a person</h3>
         <form id="ad-form" class="stack" novalidate>
@@ -974,9 +979,29 @@
           });
           acts.append(rm);
         }
-        r.append(who, acts); return r;
+        r.append(who, acts, mailRow(u)); return r;
       }));
     } catch (e) { $('ad-list-err').textContent = e.message; }
+  }
+  function mailRow(u) {
+    const box = el('div', 'ad-mail');
+    const em = el('input'); em.type = 'email'; em.placeholder = 'Email for the daily report'; em.value = u.email || ''; em.maxLength = 190; em.setAttribute('aria-label', 'Email for ' + u.display_name);
+    const lab = el('label', 'chk'); const cb = el('input'); cb.type = 'checkbox'; cb.checked = !!u.enabled; lab.append(cb, document.createTextNode('Daily email'));
+    const save = el('button', 'btn small', 'Save'); save.type = 'button';
+    const test = el('button', 'btn ghost small', 'Send test now'); test.type = 'button'; test.hidden = !u.email;
+    const msg = el('div', 'msg', u.enabled && u.last_sent ? 'Last sent ' + u.last_sent : '');
+    save.addEventListener('click', async () => {
+      msg.textContent = 'Saving...';
+      try { await call('admin.php?action=newsletter', { id: u.id, email: em.value.trim(), enabled: cb.checked }); u.email = em.value.trim(); u.enabled = cb.checked; test.hidden = !u.email; msg.textContent = !u.email ? 'Email removed.' : (cb.checked ? 'Saved. ' + u.display_name + ' will get the daily email.' : 'Saved. Daily email is off for ' + u.display_name + '.'); }
+      catch (e) { msg.textContent = e.message; }
+    });
+    test.addEventListener('click', async () => {
+      msg.textContent = 'Sending...'; busy(test, true);
+      try { const j = await call('admin.php?action=test', { id: u.id }); msg.textContent = 'Sent to ' + j.sent_to + '. Check the inbox (and spam, the first time).'; }
+      catch (e) { msg.textContent = e.message; }
+      busy(test, false);
+    });
+    box.append(em, lab, save, test, msg); return box;
   }
   $('ad-form').addEventListener('submit', async (e) => {
     e.preventDefault(); $('ad-err').textContent = '';

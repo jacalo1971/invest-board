@@ -1,7 +1,7 @@
 Options -Indexes
-<Files "lib.php">
+<FilesMatch "^(lib|mailer|send_newsletter)\.php$">
   Require all denied
-</Files>
+</FilesMatch>
 <IfModule mod_headers.c>
   Header set X-Frame-Options "DENY"
   Header set Referrer-Policy "same-origin"

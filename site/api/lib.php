@@ -1,5 +1,5 @@
 <?php
-// Shared helpers for the Family Stock School API.
+// Shared helpers for the Stock School API.
 declare(strict_types=1);
 
 function cfg(): array {
@@ -86,6 +86,75 @@ function migrate(): void {
         username VARCHAR(40) NOT NULL,
         at_ts INT NOT NULL
     )$engine");
+    $pdo->exec("CREATE TABLE IF NOT EXISTS fss_newsletter (
+        user_id INT PRIMARY KEY,
+        email VARCHAR(190) NOT NULL,
+        enabled INT NOT NULL DEFAULT 1,
+        token VARCHAR(64) NOT NULL,
+        last_sent VARCHAR(10) NULL
+    )$engine");
+}
+
+// ---------- Prices and holdings (used by My stocks and the daily email) ----------
+function load_watchlist(): array {
+    static $w = null;
+    if ($w !== null) return $w;
+    $w = [];
+    $rows = http_get_json(cfg()['data_base'] . 'watchlist.json?v=' . intdiv(time(), 300)) ?? [];
+    foreach ($rows as $r) if (isset($r['symbol'])) $w[$r['symbol']] = $r;
+    return $w;
+}
+
+// Price for any ticker: watchlist first, then FMP (cached 6 hours).
+function quote(string $sym): array {
+    $w = load_watchlist();
+    if (isset($w[$sym])) {
+        $r = $w[$sym];
+        return ['name' => $r['name'], 'price' => (float)$r['price'], 'chg_pct' => (float)$r['chg_pct'], 'risk_score' => (float)$r['risk_score'], 'source' => 'watchlist'];
+    }
+    $st = db()->prepare('SELECT * FROM fss_prices WHERE symbol = ?');
+    $st->execute([$sym]);
+    $c = $st->fetch();
+    $fresh = $c && (strtotime($c['fetched_at']) > time() - 6 * 3600);
+    if (!$fresh && !empty(cfg()['fmp_key'])) {
+        $j = http_get_json('https://financialmodelingprep.com/stable/profile?symbol=' . urlencode($sym) . '&apikey=' . urlencode(cfg()['fmp_key']));
+        if ($j && isset($j[0]['price'])) {
+            $p = $j[0];
+            [$lo, $hi] = array_map('floatval', array_pad(explode('-', (string)($p['range'] ?? '')), 2, 0));
+            $row = [$sym, mb_substr((string)($p['companyName'] ?? $sym), 0, 120), (float)$p['price'], (float)($p['changePercentage'] ?? 0), isset($p['beta']) ? (float)$p['beta'] : null, $lo ?: null, $hi ?: null, now_iso()];
+            db()->prepare('DELETE FROM fss_prices WHERE symbol = ?')->execute([$sym]);
+            db()->prepare('INSERT INTO fss_prices (symbol, name, price, chg_pct, beta, low52, high52, fetched_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?)')->execute($row);
+            $st->execute([$sym]);
+            $c = $st->fetch();
+        }
+    }
+    if (!$c) return ['name' => $sym, 'price' => null, 'chg_pct' => null, 'risk_score' => null, 'source' => 'none'];
+    $price = $c['price'] !== null ? (float)$c['price'] : null;
+    return [
+        'name' => $c['name'] ?: $sym, 'price' => $price, 'chg_pct' => $c['chg_pct'] !== null ? (float)$c['chg_pct'] : null,
+        'risk_score' => risk_score($c['beta'] !== null ? (float)$c['beta'] : null, $price, $c['low52'] !== null ? (float)$c['low52'] : null, $c['high52'] !== null ? (float)$c['high52'] : null),
+        'source' => 'fmp',
+    ];
+}
+
+// Each person's stocks with today's value.
+function user_holdings(int $uid): array {
+    $st = db()->prepare('SELECT id, symbol, shares, avg_cost, bought_on, note FROM fss_holdings WHERE user_id = ? ORDER BY symbol, id');
+    $st->execute([$uid]);
+    $out = [];
+    foreach ($st->fetchAll() as $h) {
+        $q = quote($h['symbol']);
+        $shares = (float)$h['shares']; $cost = (float)$h['avg_cost'];
+        $value = $q['price'] !== null ? $shares * $q['price'] : null;
+        $out[] = [
+            'id' => (int)$h['id'], 'symbol' => $h['symbol'], 'name' => $q['name'], 'shares' => $shares, 'avg_cost' => $cost,
+            'bought_on' => $h['bought_on'], 'note' => $h['note'], 'price' => $q['price'], 'chg_pct' => $q['chg_pct'],
+            'risk_score' => $q['risk_score'], 'value' => $value, 'invested' => $shares * $cost,
+            'gain' => $value !== null ? $value - $shares * $cost : null,
+            'gain_pct' => ($value !== null && $cost > 0) ? ($value / ($shares * $cost) - 1) * 100 : null,
+        ];
+    }
+    return $out;
 }
 
 function now_iso(): string { return gmdate('Y-m-d\TH:i:s\Z'); }
