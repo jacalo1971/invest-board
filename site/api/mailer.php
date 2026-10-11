@@ -2,7 +2,7 @@
 // Daily email for Stock School: builds one personal email per person and sends it.
 // Included by send_newsletter.php (cron) and admin.php (test button). Not reachable from the web.
 declare(strict_types=1);
-date_default_timezone_set('America/Los_Angeles'); // the family reads it in Pacific time
+date_default_timezone_set('America/New_York');
 
 function nl_site(): string { return rtrim((string)(cfg()['site_url'] ?? 'https://htv.studio/invest/'), '/') . '/'; }
 function nl_from(): string { return (string)(cfg()['mail_from'] ?? 'school@htv.studio'); }
