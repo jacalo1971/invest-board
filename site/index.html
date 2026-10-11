@@ -1,5 +1,5 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="robots" content="noindex"><meta name="description" content="Learn how the stock market works with real companies, simple words and games."></head><body>
-<title>Family Stock School</title>
+<title>Stock School</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
@@ -234,6 +234,16 @@
   .ad-row .who b { display: block; }
   .ad-row .who span { font-size: .8rem; color: var(--ink-soft); }
 
+  /* Tabs */
+  .tabs { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; background: var(--paper); padding-block: 8px; }
+  .tab { border: 2px solid var(--line); background: var(--card); border-radius: 14px; padding: 10px 8px; font-family: var(--display); font-weight: 600; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px; text-align: center; line-height: 1.15; }
+  .tab b { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 8px; background: var(--line); font-size: .85rem; flex: none; }
+  .tab[aria-selected="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .tab[aria-selected="true"] b { background: var(--mint); color: #fff; }
+  @media (max-width: 420px) { .tab { font-size: .88rem; flex-direction: column; gap: 4px; } }
+  .tabpanel { display: grid; gap: 44px; }
+  .tabintro { color: var(--ink-soft); margin-bottom: -24px; }
+
   footer { border-top: 2px solid var(--line); padding-top: 16px; display: grid; gap: 6px; font-size: .85rem; color: var(--ink-soft); }
 
   @media (prefers-reduced-motion: reduce) { .flip .inner, .jar .fill { transition: none; } html { scroll-behavior: auto; } }
@@ -241,7 +251,7 @@
 
 <div class="gate" id="gate" hidden>
   <div class="gate-card">
-    <div class="kicker">Family Stock School</div>
+    <div class="kicker">Stock School</div>
     <h2 id="gate-title">Sign in</h2>
     <p class="muted" id="gate-sub">Use the username and password your family admin gave you.</p>
     <form id="gate-form" class="stack" autocomplete="on" novalidate>
@@ -257,28 +267,58 @@
 <div class="bf">
   <div class="acct" id="acct" hidden></div>
   <header class="hero" id="inicio">
-    <div class="kicker">Learn to invest as a family</div>
-    <h1>Family <span>Stock School</span></h1>
-    <div class="version">V1.1-102026 · Created by JC Aguirre</div>
+    <div class="kicker">Learn to invest with real companies</div>
+    <h1>Stock <span>School</span></h1>
+    <div class="version">V1.2-102026 · Created by JC Aguirre</div>
     <p>Learn how the stock market works with companies you already know: Google, Amazon, NVIDIA and more. Real data, simple words.</p>
     <p class="muted small" id="stamp">Loading data…</p>
     <div class="tt"><label for="tt">Time machine</label><select id="tt"><option value="">Today (latest)</option></select></div>
     <div class="ttbanner" id="ttbanner" hidden><span id="tt-text"></span><button type="button" id="tt-back">Back to today</button></div>
-    <nav class="path" aria-label="Levels">
-      <a href="#mystocks" class="acct-only" hidden><b>$</b>My stocks</a>
-      <a href="#ask" class="acct-only" hidden><b>?</b>Ask Coach</a>
-      <a href="#nivel1"><b>1</b>What is the stock market?</a>
-      <a href="#nivel2"><b>2</b>Today's weather</a>
-      <a href="#nivel3"><b>3</b>In the news</a>
-      <a href="#nivel4"><b>4</b>Meet the companies</a>
-      <a href="#nivel5"><b>5</b>What if I invest $100?</a>
-      <a href="#nivel6"><b>6</b>Dictionary</a>
-      <a href="#nivel7"><b>7</b>The challenge</a>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button type="button" class="tab" role="tab" id="tb-daily" data-tab="daily" aria-selected="true"><b>1</b>Daily report</button>
+      <button type="button" class="tab" role="tab" id="tb-mine" data-tab="mine" aria-selected="false"><b>2</b>My investing</button>
+      <button type="button" class="tab" role="tab" id="tb-learn" data-tab="learn" aria-selected="false"><b>3</b>Learn</button>
     </nav>
   </header>
 
+  <div class="tabpanel" id="tab-daily" role="tabpanel" aria-labelledby="tb-daily">
+    <p class="tabintro">What happened in the market and with our companies. Updated every market day.</p>
+  <section class="level" id="nivel2">
+    <div class="level-head"><div class="badge">1</div><div><h2>Today's market weather</h2><p class="sub">Like a weather forecast, but for the stock market.</p></div></div>
+    <div class="weather">
+      <div class="card">
+        <div class="forecast">
+          <div id="wx-icon" aria-hidden="true"></div>
+          <div><div class="state" id="wx-state">…</div><p class="muted" id="wx-text"></p></div>
+        </div>
+        <div class="stats">
+          <div class="stat"><div class="v num" id="st-spy">…</div><div class="l">The 500 biggest companies (SPY) today</div></div>
+          <div class="stat"><div class="v num" id="st-qqq">…</div><div class="l">The top 100 tech-heavy (QQQ) today</div></div>
+          <div class="stat"><div class="v num" id="st-bond">…</div><div class="l">What the government pays to borrow for 10 years</div></div>
+        </div>
+      </div>
+      <div class="card">
+        <h3>What to watch</h3>
+        <div class="alerts" id="alerts"></div>
+      </div>
+    </div>
+  </section>
+  <section class="level" id="nivel3">
+    <div class="level-head"><div class="badge">2</div><div><h2>In the news</h2><p class="sub">Stories that could move our companies, and why they matter.</p></div></div>
+    <div class="chips" id="news-period" role="group" aria-label="Time period"></div>
+    <div class="chips" id="news-filter" role="group" aria-label="Filter news"></div>
+    <div class="news" id="news"></div>
+  </section>
+  <section class="level" id="nivel4">
+    <div class="level-head"><div class="badge">3</div><div><h2>Meet the companies</h2><p class="sub">Each card is like a trading card. See what they do, what they cost and how bumpy the ride is.</p></div></div>
+    <div class="chips" id="groups" role="group" aria-label="Filter by type"></div>
+    <div class="cromos" id="cromos"></div>
+  </section>
+  </div>
+  <div class="tabpanel" id="tab-mine" role="tabpanel" aria-labelledby="tb-mine">
+    <p class="tabintro">Your own stocks, your questions, and a practice simulator.</p>
   <section class="level acct-only" id="mystocks" hidden>
-    <div class="level-head"><div class="badge">$</div><div><h2 id="ms-title">My stocks</h2><p class="sub">Add the stocks you own in Greenlight and watch how they do. Only you can see this list.</p></div></div>
+    <div class="level-head"><div class="badge">1</div><div><h2 id="ms-title">My stocks</h2><p class="sub">Add the stocks you own in Greenlight and watch how they do. Only you can see this list.</p></div></div>
     <div class="ms-summary" id="ms-summary"></div>
     <div class="cromos" id="ms-list"></div>
     <div class="card">
@@ -296,9 +336,8 @@
       <p class="note">Tip: in Greenlight, open the stock to see how many shares you have and your average price. Fractions like 0.25 are fine.</p>
     </div>
   </section>
-
   <section class="level acct-only" id="ask" hidden>
-    <div class="level-head"><div class="badge">?</div><div><h2>Ask Coach</h2><p class="sub">Ask anything about money, investing or the companies on this page. Coach explains; it never tells you what to buy or sell.</p></div></div>
+    <div class="level-head"><div class="badge">2</div><div><h2>Ask Coach</h2><p class="sub">Ask anything about money, investing or the companies on this page. Coach explains; it never tells you what to buy or sell.</p></div></div>
     <div class="card ask">
       <div class="chips" id="ask-ideas"></div>
       <form id="ask-form" class="stack" novalidate>
@@ -310,7 +349,46 @@
       <div class="qa" id="ask-list"></div>
     </div>
   </section>
-
+  <section class="level" id="nivel5">
+    <div class="level-head"><div class="badge">3</div><div><h2>What if I invest $100?</h2><p class="sub">Play with pretend money and see what could happen.</p></div></div>
+    <div class="card sim">
+      <div style="display:grid;gap:16px;align-content:start">
+        <div class="field"><label for="sim-ticker">Company</label><select id="sim-ticker"></select></div>
+        <div class="field"><label for="sim-amount">How much do you invest?</label><div class="money num" id="sim-amount-v">$100</div><input type="range" id="sim-amount" min="50" max="1000" step="50" value="100"></div>
+        <div class="field"><div class="lab">How long do you wait?</div><div class="chips" id="sim-h" role="group" aria-label="Time">
+          <button type="button" class="chip" data-h="3m" aria-pressed="false">3 months</button>
+          <button type="button" class="chip" data-h="12m" aria-pressed="true">1 year</button>
+          <button type="button" class="chip" data-h="36m" aria-pressed="false">3 years</button>
+        </div></div>
+      </div>
+      <div style="display:grid;gap:12px">
+        <div class="jars" id="jars"></div>
+        <p class="note" id="sim-note"></p>
+        <div class="reality" id="reality" hidden></div>
+        <p class="note">This is not a prediction: these are three possible paths based on how much the stock usually moves. The dotted line marks what you put in.</p>
+      </div>
+    </div>
+  </section>
+  <section class="level" id="admin" hidden>
+    <div class="level-head"><div class="badge">⚙</div><div><h2>Family admin</h2><p class="sub">Create accounts for each person and reset passwords. Only you see this.</p></div></div>
+    <div class="grid">
+      <div class="card"><h3>Family members</h3><div id="ad-list" class="ad-list"></div><p class="err" id="ad-list-err" aria-live="polite"></p></div>
+      <div class="card">
+        <h3>Add a person</h3>
+        <form id="ad-form" class="stack" novalidate>
+          <div class="field"><label for="ad-name">Name</label><input id="ad-name" type="text" maxlength="60"></div>
+          <div class="field"><label for="ad-user">Username</label><input id="ad-user" type="text" maxlength="30" autocapitalize="none" spellcheck="false"></div>
+          <div class="field"><label for="ad-pass">Starting password (8+ characters)</label><input id="ad-pass" type="password" maxlength="200" autocomplete="new-password"></div>
+          <div class="field"><label for="ad-role">Type</label><select id="ad-role"><option value="member">Family member</option><option value="admin">Admin (can manage accounts)</option></select></div>
+          <p class="err" id="ad-err" aria-live="polite"></p>
+          <button type="submit" class="btn">Create account</button>
+        </form>
+      </div>
+    </div>
+  </section>
+  </div>
+  <div class="tabpanel" id="tab-learn" role="tabpanel" aria-labelledby="tb-learn">
+    <p class="tabintro">The basics, a dictionary and a quiz to test yourself.</p>
   <section class="level" id="nivel1">
     <div class="level-head"><div class="badge">1</div><div><h2>What is the stock market?</h2><p class="sub">Three ideas to get started.</p></div></div>
     <div class="grid">
@@ -331,69 +409,12 @@
       </div>
     </div>
   </section>
-
-  <section class="level" id="nivel2">
-    <div class="level-head"><div class="badge">2</div><div><h2>Today's market weather</h2><p class="sub">Like a weather forecast, but for the stock market.</p></div></div>
-    <div class="weather">
-      <div class="card">
-        <div class="forecast">
-          <div id="wx-icon" aria-hidden="true"></div>
-          <div><div class="state" id="wx-state">…</div><p class="muted" id="wx-text"></p></div>
-        </div>
-        <div class="stats">
-          <div class="stat"><div class="v num" id="st-spy">…</div><div class="l">The 500 biggest companies (SPY) today</div></div>
-          <div class="stat"><div class="v num" id="st-qqq">…</div><div class="l">The top 100 tech-heavy (QQQ) today</div></div>
-          <div class="stat"><div class="v num" id="st-bond">…</div><div class="l">What the government pays to borrow for 10 years</div></div>
-        </div>
-      </div>
-      <div class="card">
-        <h3>What to watch</h3>
-        <div class="alerts" id="alerts"></div>
-      </div>
-    </div>
-  </section>
-
-  <section class="level" id="nivel3">
-    <div class="level-head"><div class="badge">3</div><div><h2>In the news</h2><p class="sub">Stories that could move our companies, and why they matter.</p></div></div>
-    <div class="chips" id="news-period" role="group" aria-label="Time period"></div>
-    <div class="chips" id="news-filter" role="group" aria-label="Filter news"></div>
-    <div class="news" id="news"></div>
-  </section>
-
-  <section class="level" id="nivel4">
-    <div class="level-head"><div class="badge">4</div><div><h2>Meet the companies</h2><p class="sub">Each card is like a trading card. See what they do, what they cost and how bumpy the ride is.</p></div></div>
-    <div class="chips" id="groups" role="group" aria-label="Filter by type"></div>
-    <div class="cromos" id="cromos"></div>
-  </section>
-
-  <section class="level" id="nivel5">
-    <div class="level-head"><div class="badge">5</div><div><h2>What if I invest $100?</h2><p class="sub">Play with pretend money and see what could happen.</p></div></div>
-    <div class="card sim">
-      <div style="display:grid;gap:16px;align-content:start">
-        <div class="field"><label for="sim-ticker">Company</label><select id="sim-ticker"></select></div>
-        <div class="field"><label for="sim-amount">How much do you invest?</label><div class="money num" id="sim-amount-v">$100</div><input type="range" id="sim-amount" min="50" max="1000" step="50" value="100"></div>
-        <div class="field"><div class="lab">How long do you wait?</div><div class="chips" id="sim-h" role="group" aria-label="Time">
-          <button type="button" class="chip" data-h="3m" aria-pressed="false">3 months</button>
-          <button type="button" class="chip" data-h="12m" aria-pressed="true">1 year</button>
-          <button type="button" class="chip" data-h="36m" aria-pressed="false">3 years</button>
-        </div></div>
-      </div>
-      <div style="display:grid;gap:12px">
-        <div class="jars" id="jars"></div>
-        <p class="note" id="sim-note"></p>
-        <div class="reality" id="reality" hidden></div>
-        <p class="note">This is not a prediction: these are three possible paths based on how much the stock usually moves. The dotted line marks what you put in.</p>
-      </div>
-    </div>
-  </section>
-
   <section class="level" id="nivel6">
-    <div class="level-head"><div class="badge">6</div><div><h2>Stock market dictionary</h2><p class="sub">Tap a card to flip it.</p></div></div>
+    <div class="level-head"><div class="badge">2</div><div><h2>Stock market dictionary</h2><p class="sub">Tap a card to flip it.</p></div></div>
     <div class="dict" id="dict"></div>
   </section>
-
   <section class="level" id="nivel7">
-    <div class="level-head"><div class="badge">7</div><div><h2>The challenge</h2><p class="sub">Questions using today's data. How many can you get right?</p></div></div>
+    <div class="level-head"><div class="badge">3</div><div><h2>The challenge</h2><p class="sub">Questions using today's data. How many can you get right?</p></div></div>
     <div class="card quiz">
       <div class="q" id="q-text">…</div>
       <div class="opts" id="q-opts"></div>
@@ -401,7 +422,11 @@
       <div class="quizbar"><span class="score" id="q-score">0 of 0</span><button type="button" class="next" id="q-next">Next question</button></div>
     </div>
   </section>
-
+  <section class="level" id="leccion">
+    <div class="level-head"><div class="badge">✎</div><div><h2 id="lesson-title">Today's lesson</h2><p class="sub">A new idea every market day.</p></div></div>
+    <div class="card"><p id="lesson-text" style="max-width:65ch">…</p></div>
+    <details class="archive" id="lesson-archive-wrap"><summary>All lessons so far (<span id="lesson-count">0</span>)</summary><div id="lesson-archive"></div></details>
+  </section>
   <section class="level" id="reglas">
     <div class="level-head"><div class="badge">★</div><div><h2>Golden rules</h2><p class="sub">What good investors do.</p></div></div>
     <div class="rules">
@@ -412,30 +437,7 @@
       <div class="rule"><b>Little by little</b><span class="muted">Investing a fixed amount every month means you don't have to worry about the "perfect moment".</span></div>
     </div>
   </section>
-
-  <section class="level" id="leccion">
-    <div class="level-head"><div class="badge">✎</div><div><h2 id="lesson-title">Today's lesson</h2><p class="sub">A new idea every market day.</p></div></div>
-    <div class="card"><p id="lesson-text" style="max-width:65ch">…</p></div>
-    <details class="archive" id="lesson-archive-wrap"><summary>All lessons so far (<span id="lesson-count">0</span>)</summary><div id="lesson-archive"></div></details>
-  </section>
-
-  <section class="level" id="admin" hidden>
-    <div class="level-head"><div class="badge">⚙</div><div><h2>Family admin</h2><p class="sub">Create accounts for each person and reset passwords. Only you see this.</p></div></div>
-    <div class="grid">
-      <div class="card"><h3>Family members</h3><div id="ad-list" class="ad-list"></div><p class="err" id="ad-list-err" aria-live="polite"></p></div>
-      <div class="card">
-        <h3>Add a person</h3>
-        <form id="ad-form" class="stack" novalidate>
-          <div class="field"><label for="ad-name">Name</label><input id="ad-name" type="text" maxlength="60"></div>
-          <div class="field"><label for="ad-user">Username</label><input id="ad-user" type="text" maxlength="30" autocapitalize="none" spellcheck="false"></div>
-          <div class="field"><label for="ad-pass">Starting password (8+ characters)</label><input id="ad-pass" type="password" maxlength="200" autocomplete="new-password"></div>
-          <div class="field"><label for="ad-role">Type</label><select id="ad-role"><option value="member">Family member</option><option value="admin">Admin (can manage accounts)</option></select></div>
-          <p class="err" id="ad-err" aria-live="polite"></p>
-          <button type="submit" class="btn">Create account</button>
-        </form>
-      </div>
-    </div>
-  </section>
+  </div>
 
   <div class="modal" id="pw-modal" hidden>
     <div class="gate-card">
@@ -451,11 +453,30 @@
   </div>
 
   <footer>
-    <span>Family Stock School by HTV Studio. Data from Financial Modeling Prep and Alpha Vantage, explained with help from Claude. Updated every market day.</span>
+    <span>Stock School by HTV Studio. Data from Financial Modeling Prep and Alpha Vantage, explained with help from Claude. Updated every market day.</span>
     <span>For learning, not for deciding alone: this is not financial advice or a recommendation to buy or sell. In the U.S., anyone under 18 can only invest through a custodial account opened by an adult.</span>
   </footer>
 </div>
 
+<script>
+(() => {
+  const tabs = ['daily', 'mine', 'learn'];
+  const show = (t, focus) => {
+    if (!tabs.includes(t)) t = 'daily';
+    tabs.forEach((x) => { const p = document.getElementById('tab-' + x); p.hidden = x !== t; document.getElementById('tb-' + x).setAttribute('aria-selected', String(x === t)); });
+    try { localStorage.setItem('ss-tab', t); } catch (e) {}
+    try { history.replaceState(null, '', '#' + t); } catch (e) {}
+    if (focus) document.getElementById('tb-' + t).focus();
+  };
+  window.showTab = show;
+  window.goTo = (id) => { const el = document.getElementById(id); if (!el) return; const p = el.closest('.tabpanel'); if (p) show(p.id.replace('tab-', '')); requestAnimationFrame(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' })); };
+  document.querySelector('.tabs').addEventListener('click', (e) => { const b = e.target.closest('[data-tab]'); if (b) { show(b.dataset.tab); window.scrollTo({ top: document.querySelector('.tabs').offsetTop - 4, behavior: 'smooth' }); } });
+  document.querySelector('.tabs').addEventListener('keydown', (e) => { if (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft') return; const cur = tabs.findIndex((x) => document.getElementById('tb-' + x).getAttribute('aria-selected') === 'true'); show(tabs[(cur + (e.key === 'ArrowRight' ? 1 : 2)) % 3], true); });
+  let start = location.hash.slice(1);
+  if (!tabs.includes(start)) { try { start = localStorage.getItem('ss-tab') || 'daily'; } catch (e) { start = 'daily'; } }
+  show(start);
+})();
+</script>
 <script>
 (() => {
   const GH = 'https://raw.githubusercontent.com/jacalo1971/invest-board/main/data/';
@@ -638,7 +659,7 @@
   }
   document.getElementById('news-period').addEventListener('click', (e) => { const b = e.target.closest('[data-np]'); if (!b) return; S.newsPeriod = b.dataset.np; renderNews(); });
   document.getElementById('news-filter').addEventListener('click', (e) => { const b = e.target.closest('[data-nt]'); if (!b) return; S.newsTicker = b.dataset.nt; renderNews(); });
-  document.getElementById('news').addEventListener('click', (e) => { const b = e.target.closest('[data-goto]'); if (!b) return; S.group = 'All'; renderGroups(D.watchlist || []); renderCromos(D.watchlist || []); const c = document.getElementById('cromo-' + b.dataset.goto); if (c) c.scrollIntoView({ behavior: 'smooth', block: 'center' }); });
+  document.getElementById('news').addEventListener('click', (e) => { const b = e.target.closest('[data-goto]'); if (!b) return; S.group = 'All'; renderGroups(D.watchlist || []); renderCromos(D.watchlist || []); const c = document.getElementById('cromo-' + b.dataset.goto); if (c) window.goTo(c.id); });
 
   function renderGroups(w) {
     const gs = ['All', ...ORDER.filter((g) => w.some((r) => r.group === g)), ...[...new Set(w.map((r) => r.group))].filter((g) => !ORDER.includes(g))];
@@ -694,7 +715,7 @@
       return c;
     }));
   }
-  document.getElementById('cromos').addEventListener('click', (e) => { const nf = e.target.closest('[data-news]'); if (nf) { S.newsTicker = nf.dataset.news; renderNews(); document.getElementById('nivel3').scrollIntoView({ behavior: 'smooth' }); return; } const b = e.target.closest('[data-sim]'); if (!b) return; S.pick = b.dataset.sim; S.amount = 100; document.getElementById('sim-amount').value = 100; renderSim(D.watchlist || []); document.getElementById('nivel5').scrollIntoView({ behavior: 'smooth' }); });
+  document.getElementById('cromos').addEventListener('click', (e) => { const nf = e.target.closest('[data-news]'); if (nf) { S.newsTicker = nf.dataset.news; renderNews(); window.goTo('nivel3'); return; } const b = e.target.closest('[data-sim]'); if (!b) return; S.pick = b.dataset.sim; S.amount = 100; document.getElementById('sim-amount').value = 100; renderSim(D.watchlist || []); window.goTo('nivel5'); });
 
   function renderSim(w) {
     const sel = document.getElementById('sim-ticker');
