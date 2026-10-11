@@ -1,0 +1,8 @@
+Options -Indexes
+<Files "lib.php">
+  Require all denied
+</Files>
+<IfModule mod_headers.c>
+  Header set X-Frame-Options "DENY"
+  Header set Referrer-Policy "same-origin"
+</IfModule>

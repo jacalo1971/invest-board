@@ -1,0 +1,1000 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="robots" content="noindex"><meta name="description" content="Learn how the stock market works with real companies, simple words and games."></head><body>
+<title>Family Stock School</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+  /* Layout: a learning path of stacked "levels", one column, cards wrap into grids when wide */
+  :root {
+    --paper: #fbf8f1; --card: #ffffff; --ink: #1f2440; --ink-soft: #5d6283; --line: #e7e2d6;
+    --mint: #1f9d74; --mint-soft: #ddf3ea; --coral: #e2573f; --coral-soft: #fbe3dd;
+    --sun: #f2b01e; --sun-soft: #fdf0cf; --sky: #3d6fd9; --sky-soft: #e1e9fb;
+    --shadow: 0 2px 0 #e7e2d6;
+    --display: "Bricolage Grotesque", "Trebuchet MS", system-ui, sans-serif;
+    --body: "Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #14162a; --card: #1d2038; --ink: #f1efe8; --ink-soft: #a9acc6; --line: #2e3252;
+      --mint: #48c99d; --mint-soft: #173a33; --coral: #ff7d66; --coral-soft: #44221f;
+      --sun: #f7c34a; --sun-soft: #3f3418; --sky: #7ea2ff; --sky-soft: #1f2b52;
+      --shadow: 0 2px 0 #2e3252;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #14162a; --card: #1d2038; --ink: #f1efe8; --ink-soft: #a9acc6; --line: #2e3252;
+    --mint: #48c99d; --mint-soft: #173a33; --coral: #ff7d66; --coral-soft: #44221f;
+    --sun: #f7c34a; --sun-soft: #3f3418; --sky: #7ea2ff; --sky-soft: #1f2b52;
+    --shadow: 0 2px 0 #2e3252;
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.5; }
+  .bf { max-width: 68rem; margin-inline: auto; padding-inline: 16px; padding-block: 28px 56px; display: grid; gap: 44px; }
+  h1, h2, h3 { font-family: var(--display); margin: 0; text-wrap: balance; letter-spacing: -.01em; }
+  h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); font-weight: 800; line-height: 1; }
+  h2 { font-size: clamp(1.5rem, 3.6vw, 2.1rem); font-weight: 800; }
+  h3 { font-size: 1.2rem; font-weight: 600; }
+  p { margin: 0; }
+  .muted { color: var(--ink-soft); }
+  .small { font-size: .875rem; }
+  .num { font-variant-numeric: tabular-nums; }
+  .up { color: var(--mint); } .down { color: var(--coral); }
+  button { font: inherit; color: inherit; }
+  :focus-visible { outline: 3px solid var(--sky); outline-offset: 2px; }
+
+  /* Hero */
+  .hero { display: grid; gap: 14px; }
+  .hero .kicker { font-family: var(--display); font-weight: 600; color: var(--sky); text-transform: uppercase; letter-spacing: .08em; font-size: .85rem; }
+  .hero h1 span { color: var(--mint); }
+  .hero p { max-width: 46ch; font-size: 1.1rem; }
+  .path { display: flex; flex-wrap: wrap; gap: 8px; }
+  .path a { text-decoration: none; color: var(--ink); background: var(--card); border: 2px solid var(--line); border-radius: 999px; padding: 4px 12px; font-size: .875rem; font-weight: 700; }
+  .path a b { color: var(--sky); margin-right: 4px; }
+  .path a:hover { border-color: var(--sky); }
+
+  /* Levels */
+  .level { display: grid; gap: 16px; scroll-margin-top: 12px; }
+  .level-head { display: flex; gap: 12px; align-items: center; }
+  .badge { flex: none; width: 46px; height: 46px; border-radius: 14px; display: grid; place-items: center; font-family: var(--display); font-weight: 800; font-size: 1.3rem; background: var(--ink); color: var(--paper); transform: rotate(-4deg); }
+  .level-head .sub { color: var(--ink-soft); font-size: .95rem; }
+  .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); }
+  .card { background: var(--card); border: 2px solid var(--line); border-radius: 18px; padding: 18px; display: grid; gap: 10px; align-content: start; box-shadow: var(--shadow); min-width: 0; }
+
+  /* Level 1 explainers */
+  .explain .pic { height: 64px; }
+  .explain .pic svg { height: 100%; width: auto; }
+
+  /* Weather */
+  .weather { display: grid; gap: 16px; grid-template-columns: minmax(0, 1fr); }
+  @media (min-width: 760px) { .weather { grid-template-columns: 1.1fr 1fr; } }
+  .forecast { display: grid; grid-template-columns: 96px 1fr; gap: 14px; align-items: center; }
+  .forecast svg { width: 96px; height: 96px; }
+  .forecast .state { font-family: var(--display); font-weight: 800; font-size: 1.7rem; line-height: 1.1; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 10px; }
+  .stat { border-radius: 14px; padding: 12px; background: var(--paper); border: 2px solid var(--line); }
+  .stat .v { font-family: var(--display); font-weight: 800; font-size: 1.5rem; }
+  .stat .l { font-size: .8rem; color: var(--ink-soft); }
+  .alerts { display: grid; gap: 10px; }
+  .alert { border-radius: 14px; padding: 12px 14px; background: var(--sun-soft); }
+  .alert b { display: block; }
+
+  /* Cromos */
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { border: 2px solid var(--line); background: var(--card); border-radius: 999px; padding: 5px 14px; cursor: pointer; font-weight: 700; font-size: .9rem; }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .cromos { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr)); }
+  .cromo { background: var(--card); border: 2px solid var(--line); border-radius: 20px; overflow: hidden; display: grid; box-shadow: var(--shadow); min-width: 0; }
+  .cromo-top { padding: 14px 16px 12px; display: grid; gap: 6px; }
+  .cromo-top .row { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+  .tick { font-family: var(--display); font-weight: 800; font-size: 1.5rem; letter-spacing: .02em; }
+  .grp { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; padding: 2px 8px; border-radius: 999px; background: var(--sky-soft); color: var(--sky); white-space: nowrap; }
+  .grp.g-gig { background: var(--sky-soft); color: var(--sky); }
+  .grp.g-ins { background: var(--sun-soft); color: #9a6a00; }
+  :root[data-theme="dark"] .grp.g-ins { color: var(--sun); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .grp.g-ins { color: var(--sun); } }
+  .grp.g-etf { background: var(--mint-soft); color: var(--mint); }
+  .grp.g-aer, .grp.g-sal { background: var(--coral-soft); color: var(--coral); }
+  .cname { font-weight: 700; }
+  .what { color: var(--ink-soft); font-size: .92rem; min-height: 2.8em; }
+  .price { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+  .price .p { font-family: var(--display); font-weight: 800; font-size: 1.6rem; }
+  .cromo-body { border-top: 2px dashed var(--line); padding: 12px 16px 16px; display: grid; gap: 12px; }
+  .meter-label { display: flex; justify-content: space-between; gap: 8px; font-size: .82rem; }
+  .meter-label b { font-size: .82rem; }
+  .coaster { display: flex; gap: 3px; }
+  .coaster i { flex: 1; height: 10px; border-radius: 4px; background: var(--line); }
+  .yearbar { position: relative; height: 10px; border-radius: 5px; background: linear-gradient(90deg, var(--coral-soft), var(--mint-soft)); }
+  .yearbar i { position: absolute; top: -5px; width: 20px; height: 20px; border-radius: 50%; background: var(--ink); border: 3px solid var(--card); transform: translateX(-10px); }
+  .yearends { display: flex; justify-content: space-between; font-size: .75rem; color: var(--ink-soft); }
+  .expert { font-size: .88rem; border-radius: 12px; padding: 8px 10px; background: var(--paper); }
+  .cromo-btn { justify-self: start; border: 2px solid var(--ink); background: transparent; border-radius: 999px; padding: 4px 12px; font-weight: 700; font-size: .85rem; cursor: pointer; }
+  .cromo-btn:hover { background: var(--ink); color: var(--paper); }
+
+  /* Simulator */
+  .sim { display: grid; gap: 18px; grid-template-columns: minmax(0, 1fr); }
+  @media (min-width: 760px) { .sim { grid-template-columns: 1fr 1.3fr; } }
+  .field { display: grid; gap: 6px; }
+  .field label, .field .lab { font-weight: 700; font-size: .9rem; }
+  select, input[type="range"] { font: inherit; }
+  select { padding: 8px 10px; border-radius: 12px; border: 2px solid var(--line); background: var(--paper); color: var(--ink); }
+  input[type="range"] { width: 100%; accent-color: var(--mint); }
+  .money { font-family: var(--display); font-weight: 800; font-size: 2rem; }
+  .jars { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; align-items: end; }
+  .jar { display: grid; gap: 6px; text-align: center; }
+  .jar .glass { position: relative; height: 150px; border: 3px solid var(--ink); border-top: none; border-radius: 0 0 18px 18px; overflow: hidden; background: var(--paper); }
+  .jar .fill { position: absolute; left: 0; right: 0; bottom: 0; transition: height .5s ease; }
+  .jar .start { position: absolute; left: 0; right: 0; border-top: 2px dashed var(--ink); }
+  .jar .amt { font-family: var(--display); font-weight: 800; font-size: 1.2rem; }
+  .jar .tag { font-size: .8rem; color: var(--ink-soft); }
+  .note { font-size: .85rem; color: var(--ink-soft); }
+
+  /* Dictionary flip cards */
+  .dict { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr)); }
+  .flip { perspective: 900px; border: none; background: none; padding: 0; text-align: left; cursor: pointer; min-height: 168px; }
+  .flip .inner { position: relative; width: 100%; height: 100%; min-height: 168px; transition: transform .5s; transform-style: preserve-3d; }
+  .flip[aria-pressed="true"] .inner { transform: rotateY(180deg); }
+  .face { position: absolute; inset: 0; border-radius: 18px; padding: 16px; display: grid; gap: 6px; align-content: start; backface-visibility: hidden; border: 2px solid var(--line); box-shadow: var(--shadow); }
+  .front { background: var(--card); }
+  .front .term { font-family: var(--display); font-weight: 800; font-size: 1.35rem; }
+  .front .hint { font-size: .8rem; color: var(--ink-soft); margin-top: auto; }
+  .back { background: var(--sky-soft); transform: rotateY(180deg); font-size: .92rem; overflow: auto; }
+  .back b { font-family: var(--display); }
+
+  /* Quiz */
+  .quiz { display: grid; gap: 14px; }
+  .q { font-family: var(--display); font-weight: 600; font-size: 1.25rem; }
+  .opts { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); }
+  .opt { border: 2px solid var(--line); background: var(--card); border-radius: 14px; padding: 12px 14px; text-align: left; cursor: pointer; font-weight: 700; }
+  .opt:hover { border-color: var(--sky); }
+  .opt.right { border-color: var(--mint); background: var(--mint-soft); }
+  .opt.wrong { border-color: var(--coral); background: var(--coral-soft); }
+  .feedback { min-height: 1.5em; }
+  .quizbar { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .score { font-family: var(--display); font-weight: 800; }
+  .next { border: none; background: var(--ink); color: var(--paper); border-radius: 999px; padding: 8px 16px; font-weight: 700; cursor: pointer; }
+
+  /* Rules */
+  .rules { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); counter-reset: r; }
+  .rule { background: var(--card); border: 2px solid var(--line); border-radius: 16px; padding: 14px; }
+  .rule b { display: block; font-family: var(--display); font-size: 1.05rem; }
+
+
+  /* News */
+  .version { font-size: .8rem; font-weight: 700; letter-spacing: .04em; color: var(--ink-soft); }
+  .news { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); }
+  .story { background: var(--card); border: 2px solid var(--line); border-radius: 18px; padding: 16px; display: grid; gap: 10px; align-content: start; box-shadow: var(--shadow); min-width: 0; }
+  .story-top { display: flex; justify-content: space-between; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .effect { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; padding: 3px 10px; border-radius: 999px; }
+  .effect.good { background: var(--mint-soft); color: var(--mint); }
+  .effect.bad { background: var(--coral-soft); color: var(--coral); }
+  .effect.watch { background: var(--sun-soft); color: #9a6a00; }
+  :root[data-theme="dark"] .effect.watch { color: var(--sun); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .effect.watch { color: var(--sun); } }
+  .story .date { font-size: .8rem; color: var(--ink-soft); }
+  .story h3 { font-size: 1.1rem; }
+  .why { border-radius: 12px; padding: 10px 12px; background: var(--sky-soft); font-size: .92rem; }
+  .why b { display: block; font-family: var(--display); }
+  .tickers { display: flex; flex-wrap: wrap; gap: 6px; }
+  .tk { font-family: var(--display); font-weight: 800; font-size: .8rem; border: 2px solid var(--ink); border-radius: 8px; padding: 1px 7px; background: none; cursor: pointer; }
+  .tk:hover { background: var(--ink); color: var(--paper); }
+  .src { font-size: .8rem; color: var(--ink-soft); }
+  .src a { color: inherit; }
+  .newsflag { justify-self: start; font-size: .8rem; font-weight: 700; color: var(--sky); background: none; border: none; padding: 0; cursor: pointer; text-decoration: underline; }
+
+  /* History */
+  .tt { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: .875rem; font-weight: 700; }
+  .tt select { padding: 4px 8px; font-size: .875rem; }
+  .ttbanner { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; background: var(--sun-soft); border: 2px solid var(--sun); border-radius: 14px; padding: 10px 14px; font-weight: 700; }
+  .ttbanner button { border: none; background: var(--ink); color: var(--paper); border-radius: 999px; padding: 6px 14px; font-weight: 700; cursor: pointer; }
+  .spark { display: grid; gap: 4px; }
+  .spark svg { width: 100%; height: 44px; display: block; }
+  .reality { border-radius: 14px; padding: 12px 14px; background: var(--mint-soft); font-size: .95rem; }
+  .reality b { font-family: var(--display); }
+  .archive { background: var(--card); border: 2px solid var(--line); border-radius: 18px; padding: 14px 18px; }
+  .archive summary { cursor: pointer; font-family: var(--display); font-weight: 600; font-size: 1.05rem; }
+  .archive .item { border-top: 2px dashed var(--line); padding-top: 10px; margin-top: 10px; display: grid; gap: 4px; }
+  .archive .item .d { font-size: .8rem; color: var(--ink-soft); }
+
+  /* Accounts */
+  .gate, .modal { position: fixed; inset: 0; z-index: 50; background: var(--paper); display: grid; place-items: center; padding: calc(16px + env(safe-area-inset-top, 0px)) 16px calc(16px + env(safe-area-inset-bottom, 0px)); overflow: auto; }
+  .modal { background: rgba(20, 22, 42, .55); }
+  .gate-card { width: min(100%, 26rem); background: var(--card); border: 2px solid var(--line); border-radius: 22px; padding: 24px; display: grid; gap: 12px; box-shadow: var(--shadow); }
+  .gate-card .kicker { font-family: var(--display); font-weight: 600; color: var(--sky); text-transform: uppercase; letter-spacing: .08em; font-size: .8rem; }
+  .stack { display: grid; gap: 12px; }
+  input[type="text"], input[type="password"], input[type="number"], input[type="date"], input:not([type]), textarea { font: inherit; color: var(--ink); background: var(--paper); border: 2px solid var(--line); border-radius: 12px; padding: 9px 12px; width: 100%; min-width: 0; }
+  textarea { resize: vertical; }
+  input:focus, textarea:focus, select:focus { border-color: var(--sky); outline: none; }
+  .btn { border: none; background: var(--ink); color: var(--paper); border-radius: 999px; padding: 10px 18px; font-weight: 700; cursor: pointer; }
+  .btn.ghost { background: transparent; color: var(--ink); border: 2px solid var(--ink); }
+  .btn.small { padding: 5px 12px; font-size: .85rem; }
+  .btn[disabled] { opacity: .5; cursor: wait; }
+  .err { color: var(--coral); font-weight: 700; min-height: 1.2em; font-size: .9rem; }
+  .acct { display: flex; justify-content: flex-end; align-items: center; gap: 10px; flex-wrap: wrap; font-size: .9rem; }
+  .acct b { font-family: var(--display); }
+  .linkbtn { background: none; border: none; padding: 0; color: var(--sky); font-weight: 700; cursor: pointer; text-decoration: underline; }
+  .ms-summary { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); }
+  .ms-form { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); align-items: end; }
+  .ms-form .ms-note, .ms-form .err, .ms-form .ms-actions { grid-column: 1 / -1; }
+  .ms-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .hold-row { display: flex; justify-content: space-between; gap: 8px; font-size: .9rem; }
+  .hold-row span:first-child { color: var(--ink-soft); }
+  .hold-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .ask-bar { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .qa { display: grid; gap: 12px; }
+  .qa-item { border-top: 2px dashed var(--line); padding-top: 12px; display: grid; gap: 6px; }
+  .qa-q { font-weight: 700; }
+  .qa-a { white-space: pre-wrap; background: var(--sky-soft); border-radius: 14px; padding: 12px 14px; }
+  .qa-d { font-size: .78rem; color: var(--ink-soft); }
+  .ad-list { display: grid; gap: 8px; }
+  .ad-row { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; border: 2px solid var(--line); border-radius: 12px; padding: 8px 12px; }
+  .ad-row .who b { display: block; }
+  .ad-row .who span { font-size: .8rem; color: var(--ink-soft); }
+
+  footer { border-top: 2px solid var(--line); padding-top: 16px; display: grid; gap: 6px; font-size: .85rem; color: var(--ink-soft); }
+
+  @media (prefers-reduced-motion: reduce) { .flip .inner, .jar .fill { transition: none; } html { scroll-behavior: auto; } }
+</style>
+
+<div class="gate" id="gate" hidden>
+  <div class="gate-card">
+    <div class="kicker">Family Stock School</div>
+    <h2 id="gate-title">Sign in</h2>
+    <p class="muted" id="gate-sub">Use the username and password your family admin gave you.</p>
+    <form id="gate-form" class="stack" autocomplete="on" novalidate>
+      <div class="field" id="g-name-wrap" hidden><label for="g-name">Your name</label><input id="g-name" type="text" maxlength="60" autocomplete="name"></div>
+      <div class="field"><label for="g-user">Username</label><input id="g-user" type="text" maxlength="30" autocomplete="username" autocapitalize="none" spellcheck="false" required></div>
+      <div class="field"><label for="g-pass">Password</label><input id="g-pass" type="password" maxlength="200" autocomplete="current-password" required></div>
+      <p class="err" id="gate-err" aria-live="polite"></p>
+      <button type="submit" class="btn" id="gate-btn">Sign in</button>
+    </form>
+  </div>
+</div>
+
+<div class="bf">
+  <div class="acct" id="acct" hidden></div>
+  <header class="hero" id="inicio">
+    <div class="kicker">Learn to invest as a family</div>
+    <h1>Family <span>Stock School</span></h1>
+    <div class="version">V1.1-102026 · Created by JC Aguirre</div>
+    <p>Learn how the stock market works with companies you already know: Google, Amazon, NVIDIA and more. Real data, simple words.</p>
+    <p class="muted small" id="stamp">Loading data…</p>
+    <div class="tt"><label for="tt">Time machine</label><select id="tt"><option value="">Today (latest)</option></select></div>
+    <div class="ttbanner" id="ttbanner" hidden><span id="tt-text"></span><button type="button" id="tt-back">Back to today</button></div>
+    <nav class="path" aria-label="Levels">
+      <a href="#mystocks" class="acct-only" hidden><b>$</b>My stocks</a>
+      <a href="#ask" class="acct-only" hidden><b>?</b>Ask Coach</a>
+      <a href="#nivel1"><b>1</b>What is the stock market?</a>
+      <a href="#nivel2"><b>2</b>Today's weather</a>
+      <a href="#nivel3"><b>3</b>In the news</a>
+      <a href="#nivel4"><b>4</b>Meet the companies</a>
+      <a href="#nivel5"><b>5</b>What if I invest $100?</a>
+      <a href="#nivel6"><b>6</b>Dictionary</a>
+      <a href="#nivel7"><b>7</b>The challenge</a>
+    </nav>
+  </header>
+
+  <section class="level acct-only" id="mystocks" hidden>
+    <div class="level-head"><div class="badge">$</div><div><h2 id="ms-title">My stocks</h2><p class="sub">Add the stocks you own in Greenlight and watch how they do. Only you can see this list.</p></div></div>
+    <div class="ms-summary" id="ms-summary"></div>
+    <div class="cromos" id="ms-list"></div>
+    <div class="card">
+      <h3 id="ms-form-title">Add a stock</h3>
+      <form id="ms-form" class="ms-form" novalidate>
+        <input type="hidden" id="ms-id">
+        <div class="field"><label for="ms-symbol">Ticker</label><input id="ms-symbol" list="ms-tickers" maxlength="10" placeholder="NVDA" autocapitalize="characters" spellcheck="false" required><datalist id="ms-tickers"></datalist></div>
+        <div class="field"><label for="ms-shares">How many shares</label><input id="ms-shares" type="number" step="any" min="0" inputmode="decimal" placeholder="0.5" required></div>
+        <div class="field"><label for="ms-cost">Price you paid per share</label><input id="ms-cost" type="number" step="any" min="0" inputmode="decimal" placeholder="220.00" required></div>
+        <div class="field"><label for="ms-date">Date you bought it (optional)</label><input id="ms-date" type="date"></div>
+        <div class="field ms-note"><label for="ms-note">Why you bought it (optional)</label><input id="ms-note" type="text" maxlength="140" placeholder="I use their products every day"></div>
+        <p class="err" id="ms-err" aria-live="polite"></p>
+        <div class="ms-actions"><button type="submit" class="btn" id="ms-save">Add stock</button><button type="button" class="btn ghost" id="ms-cancel" hidden>Cancel</button></div>
+      </form>
+      <p class="note">Tip: in Greenlight, open the stock to see how many shares you have and your average price. Fractions like 0.25 are fine.</p>
+    </div>
+  </section>
+
+  <section class="level acct-only" id="ask" hidden>
+    <div class="level-head"><div class="badge">?</div><div><h2>Ask Coach</h2><p class="sub">Ask anything about money, investing or the companies on this page. Coach explains; it never tells you what to buy or sell.</p></div></div>
+    <div class="card ask">
+      <div class="chips" id="ask-ideas"></div>
+      <form id="ask-form" class="stack" novalidate>
+        <label for="ask-q" class="lab">Your question</label>
+        <textarea id="ask-q" rows="3" maxlength="600" placeholder="Why does NVIDIA move more than SPY?"></textarea>
+        <div class="ask-bar"><span class="note" id="ask-left"></span><button type="submit" class="btn" id="ask-btn">Ask Coach</button></div>
+        <p class="err" id="ask-err" aria-live="polite"></p>
+      </form>
+      <div class="qa" id="ask-list"></div>
+    </div>
+  </section>
+
+  <section class="level" id="nivel1">
+    <div class="level-head"><div class="badge">1</div><div><h2>What is the stock market?</h2><p class="sub">Three ideas to get started.</p></div></div>
+    <div class="grid">
+      <div class="card explain">
+        <div class="pic" aria-hidden="true"><svg viewBox="0 0 120 64"><circle cx="32" cy="32" r="28" fill="var(--sun-soft)" stroke="var(--ink)" stroke-width="3"/><path d="M32 32 L32 4 A28 28 0 0 1 58 24 Z" fill="var(--sun)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/><path d="M70 32 h22 m-8 -8 l8 8 l-8 8" fill="none" stroke="var(--ink)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="108" cy="32" r="9" fill="var(--sun)" stroke="var(--ink)" stroke-width="3"/></svg></div>
+        <h3>A share is a tiny piece of a company</h3>
+        <p class="muted">If you buy one share of NVIDIA, you own a tiny slice of NVIDIA. When the company does well, your slice is worth more.</p>
+      </div>
+      <div class="card explain">
+        <div class="pic" aria-hidden="true"><svg viewBox="0 0 120 64"><path d="M6 52 L30 30 L46 40 L70 14 L88 26 L114 8" fill="none" stroke="var(--mint)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 60 H114" stroke="var(--ink)" stroke-width="3" stroke-linecap="round"/></svg></div>
+        <h3>The price goes up and down every day</h3>
+        <p class="muted">When lots of people want to buy, the price goes up; when lots want to sell, it goes down. That is why it changes every minute the market is open.</p>
+      </div>
+      <div class="card explain">
+        <div class="pic" aria-hidden="true"><svg viewBox="0 0 120 64"><rect x="8" y="40" width="16" height="20" rx="3" fill="var(--sky-soft)" stroke="var(--ink)" stroke-width="3"/><rect x="36" y="30" width="16" height="30" rx="3" fill="var(--sky-soft)" stroke="var(--ink)" stroke-width="3"/><rect x="64" y="18" width="16" height="42" rx="3" fill="var(--sky-soft)" stroke="var(--ink)" stroke-width="3"/><rect x="92" y="6" width="16" height="54" rx="3" fill="var(--sky)" stroke="var(--ink)" stroke-width="3"/></svg></div>
+        <h3>Investing is a patience game</h3>
+        <p class="muted">On any given day the market can drop. Over many years, it has historically gone up. That is why you only invest money you won't need soon.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="level" id="nivel2">
+    <div class="level-head"><div class="badge">2</div><div><h2>Today's market weather</h2><p class="sub">Like a weather forecast, but for the stock market.</p></div></div>
+    <div class="weather">
+      <div class="card">
+        <div class="forecast">
+          <div id="wx-icon" aria-hidden="true"></div>
+          <div><div class="state" id="wx-state">…</div><p class="muted" id="wx-text"></p></div>
+        </div>
+        <div class="stats">
+          <div class="stat"><div class="v num" id="st-spy">…</div><div class="l">The 500 biggest companies (SPY) today</div></div>
+          <div class="stat"><div class="v num" id="st-qqq">…</div><div class="l">The top 100 tech-heavy (QQQ) today</div></div>
+          <div class="stat"><div class="v num" id="st-bond">…</div><div class="l">What the government pays to borrow for 10 years</div></div>
+        </div>
+      </div>
+      <div class="card">
+        <h3>What to watch</h3>
+        <div class="alerts" id="alerts"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="level" id="nivel3">
+    <div class="level-head"><div class="badge">3</div><div><h2>In the news</h2><p class="sub">Stories that could move our companies, and why they matter.</p></div></div>
+    <div class="chips" id="news-period" role="group" aria-label="Time period"></div>
+    <div class="chips" id="news-filter" role="group" aria-label="Filter news"></div>
+    <div class="news" id="news"></div>
+  </section>
+
+  <section class="level" id="nivel4">
+    <div class="level-head"><div class="badge">4</div><div><h2>Meet the companies</h2><p class="sub">Each card is like a trading card. See what they do, what they cost and how bumpy the ride is.</p></div></div>
+    <div class="chips" id="groups" role="group" aria-label="Filter by type"></div>
+    <div class="cromos" id="cromos"></div>
+  </section>
+
+  <section class="level" id="nivel5">
+    <div class="level-head"><div class="badge">5</div><div><h2>What if I invest $100?</h2><p class="sub">Play with pretend money and see what could happen.</p></div></div>
+    <div class="card sim">
+      <div style="display:grid;gap:16px;align-content:start">
+        <div class="field"><label for="sim-ticker">Company</label><select id="sim-ticker"></select></div>
+        <div class="field"><label for="sim-amount">How much do you invest?</label><div class="money num" id="sim-amount-v">$100</div><input type="range" id="sim-amount" min="50" max="1000" step="50" value="100"></div>
+        <div class="field"><div class="lab">How long do you wait?</div><div class="chips" id="sim-h" role="group" aria-label="Time">
+          <button type="button" class="chip" data-h="3m" aria-pressed="false">3 months</button>
+          <button type="button" class="chip" data-h="12m" aria-pressed="true">1 year</button>
+          <button type="button" class="chip" data-h="36m" aria-pressed="false">3 years</button>
+        </div></div>
+      </div>
+      <div style="display:grid;gap:12px">
+        <div class="jars" id="jars"></div>
+        <p class="note" id="sim-note"></p>
+        <div class="reality" id="reality" hidden></div>
+        <p class="note">This is not a prediction: these are three possible paths based on how much the stock usually moves. The dotted line marks what you put in.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="level" id="nivel6">
+    <div class="level-head"><div class="badge">6</div><div><h2>Stock market dictionary</h2><p class="sub">Tap a card to flip it.</p></div></div>
+    <div class="dict" id="dict"></div>
+  </section>
+
+  <section class="level" id="nivel7">
+    <div class="level-head"><div class="badge">7</div><div><h2>The challenge</h2><p class="sub">Questions using today's data. How many can you get right?</p></div></div>
+    <div class="card quiz">
+      <div class="q" id="q-text">…</div>
+      <div class="opts" id="q-opts"></div>
+      <p class="feedback" id="q-fb" aria-live="polite"></p>
+      <div class="quizbar"><span class="score" id="q-score">0 of 0</span><button type="button" class="next" id="q-next">Next question</button></div>
+    </div>
+  </section>
+
+  <section class="level" id="reglas">
+    <div class="level-head"><div class="badge">★</div><div><h2>Golden rules</h2><p class="sub">What good investors do.</p></div></div>
+    <div class="rules">
+      <div class="rule"><b>Don't put all your eggs in one basket</b><span class="muted">Spread your money across several companies or an ETF. If one falls, the others protect you.</span></div>
+      <div class="rule"><b>Invest in what you understand</b><span class="muted">If you can't explain what the company does in one sentence, research it before buying.</span></div>
+      <div class="rule"><b>Think in years, not days</b><span class="muted">One-day drops are normal. What matters is where the company is heading long term.</span></div>
+      <div class="rule"><b>Only money you won't need</b><span class="muted">Never invest money meant for rent, school or an emergency.</span></div>
+      <div class="rule"><b>Little by little</b><span class="muted">Investing a fixed amount every month means you don't have to worry about the "perfect moment".</span></div>
+    </div>
+  </section>
+
+  <section class="level" id="leccion">
+    <div class="level-head"><div class="badge">✎</div><div><h2 id="lesson-title">Today's lesson</h2><p class="sub">A new idea every market day.</p></div></div>
+    <div class="card"><p id="lesson-text" style="max-width:65ch">…</p></div>
+    <details class="archive" id="lesson-archive-wrap"><summary>All lessons so far (<span id="lesson-count">0</span>)</summary><div id="lesson-archive"></div></details>
+  </section>
+
+  <section class="level" id="admin" hidden>
+    <div class="level-head"><div class="badge">⚙</div><div><h2>Family admin</h2><p class="sub">Create accounts for each person and reset passwords. Only you see this.</p></div></div>
+    <div class="grid">
+      <div class="card"><h3>Family members</h3><div id="ad-list" class="ad-list"></div><p class="err" id="ad-list-err" aria-live="polite"></p></div>
+      <div class="card">
+        <h3>Add a person</h3>
+        <form id="ad-form" class="stack" novalidate>
+          <div class="field"><label for="ad-name">Name</label><input id="ad-name" type="text" maxlength="60"></div>
+          <div class="field"><label for="ad-user">Username</label><input id="ad-user" type="text" maxlength="30" autocapitalize="none" spellcheck="false"></div>
+          <div class="field"><label for="ad-pass">Starting password (8+ characters)</label><input id="ad-pass" type="password" maxlength="200" autocomplete="new-password"></div>
+          <div class="field"><label for="ad-role">Type</label><select id="ad-role"><option value="member">Family member</option><option value="admin">Admin (can manage accounts)</option></select></div>
+          <p class="err" id="ad-err" aria-live="polite"></p>
+          <button type="submit" class="btn">Create account</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <div class="modal" id="pw-modal" hidden>
+    <div class="gate-card">
+      <h2 id="pw-title">Change password</h2>
+      <form id="pw-form" class="stack" novalidate>
+        <input type="hidden" id="pw-target">
+        <div class="field" id="pw-cur-wrap"><label for="pw-cur">Current password</label><input id="pw-cur" type="password" autocomplete="current-password"></div>
+        <div class="field"><label for="pw-new">New password (8+ characters)</label><input id="pw-new" type="password" autocomplete="new-password"></div>
+        <p class="err" id="pw-err" aria-live="polite"></p>
+        <div class="ms-actions"><button type="submit" class="btn">Save</button><button type="button" class="btn ghost" id="pw-cancel">Cancel</button></div>
+      </form>
+    </div>
+  </div>
+
+  <footer>
+    <span>Family Stock School by HTV Studio. Data from Financial Modeling Prep and Alpha Vantage, explained with help from Claude. Updated every market day.</span>
+    <span>For learning, not for deciding alone: this is not financial advice or a recommendation to buy or sell. In the U.S., anyone under 18 can only invest through a custodial account opened by an adult.</span>
+  </footer>
+</div>
+
+<script>
+(() => {
+  const GH = 'https://raw.githubusercontent.com/jacalo1971/invest-board/main/data/';
+  const IDS = ['watchlist', 'treasury10y', 'briefing', 'meta', 'news'];
+  const WHAT = {
+    SPY: 'A basket of the 500 biggest U.S. companies. Like owning a tiny piece of all of them.',
+    QQQ: 'A basket of the 100 biggest Nasdaq companies, mostly tech.',
+    SCHD: 'A basket of companies that share part of their profits with their owners.',
+    GOOGL: 'Owns Google, YouTube and Android. Makes most of its money from ads.',
+    AMZN: 'The giant online store, and it also rents computers in the cloud (AWS).',
+    MSFT: 'Makes Windows, Office, Xbox and the Azure cloud; all in on AI.',
+    META: 'Owns Instagram, WhatsApp and Facebook.',
+    NVDA: 'Designs the chips that artificial intelligence learns on.',
+    AMD: 'NVIDIA\'s rival: chips for computers, game consoles and data centers.',
+    AVGO: 'Makes networking chips that connect data centers together.',
+    TSM: 'The world\'s most important chip factory; it builds chips for NVIDIA, Apple and AMD.',
+    VRT: 'Makes the power and cooling systems that keep data centers from overheating.',
+    RKLB: 'Launches small rockets into space and builds satellites.',
+    LMT: 'Builds fighter jets, missiles and satellites for governments.',
+    GE: 'Builds jet engines for airplanes.',
+    LLY: 'Drug maker with medicines for diabetes and weight loss.',
+    ISRG: 'Makes robots that help surgeons operate.',
+  };
+  const GROUP_CLASS = { 'ETFs base': 'g-etf', 'Gigantes de IA': 'g-gig', 'Insumos para IA': 'g-ins', 'Aeroespacial y espacio': 'g-aer', 'Salud': 'g-sal' };
+  const GROUP_LABEL = { 'ETFs base': 'Baskets (ETFs)', 'Gigantes de IA': 'AI giants', 'Insumos para IA': 'AI suppliers', 'Aeroespacial y espacio': 'Space and planes', 'Salud': 'Health' };
+  const ORDER = ['ETFs base', 'Gigantes de IA', 'Insumos para IA', 'Aeroespacial y espacio', 'Salud'];
+  const DICT = [
+    ['Stock (share)', 'A tiny piece of a company. If you own one share of Amazon, you own a very small part of Amazon.'],
+    ['ETF', 'A basket that holds many stocks together. With one purchase (like SPY) you own a little bit of 500 companies.'],
+    ['Ticker', 'A company\'s short nickname on the stock market: NVDA is NVIDIA, GOOGL is Alphabet (Google).'],
+    ['Volatility', 'How much the price jumps up and down. High volatility is like a roller coaster: thrills and scares.'],
+    ['Beta', 'Compares a stock to the whole market. Beta 2 means that if the market moves 1%, the stock tends to move 2%.'],
+    ['P/E ratio', 'How many years of profits you are paying for. A P/E of 30 means you pay 30 times what the company earns in a year.'],
+    ['52-week range', 'The lowest and highest price of the stock over the last year. It tells you if today looks pricey or cheap compared with its year.'],
+    ['Price target', 'What analysts (experts who study companies) think the stock will be worth in about 12 months. They are sometimes wrong.'],
+    ['Diversify', 'Spreading your money across several investments so you don\'t depend on just one.'],
+    ['Dividend', 'Part of the profits some companies pay to their owners, like a reward for being a shareholder.'],
+    ['Bond', 'A loan you make to a government or a company. They pay you fixed interest; it is calmer than stocks.'],
+    ['Bull and bear market', 'A bull market is when prices rise for a long time; a bear market is when they fall.'],
+  ];
+  const fmt$ = (v) => '$' + Number(v).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const fmtInt$ = (v) => '$' + Math.round(Number(v)).toLocaleString('en-US');
+  const pct = (v, d = 2) => (v > 0 ? '+' : '') + Number(v).toFixed(d) + '%';
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const coaster = (s) => (s < 4 ? ['Easy ride', 'var(--mint)'] : s < 6.5 ? ['Medium roller coaster', 'var(--sun)'] : ['Extreme roller coaster', 'var(--coral)']);
+
+  let D = {};
+  window.__bfD = () => D;
+  const S = { group: 'All', pick: 'NVDA', h: '12m', amount: 100, score: 0, total: 0 };
+  try { const sv = JSON.parse(localStorage.getItem('bf-score') || 'null'); if (sv) { S.score = sv.s; S.total = sv.t; } } catch (e) {}
+
+  async function load() {
+    const get = async (id) => {
+      for (const b of [GH, './data/']) {
+        try { const r = await fetch(b + id + '.json?v=' + Math.floor(Date.now() / 300000), { cache: 'no-store' }); if (r.ok) return await r.json(); } catch (e) {}
+      }
+      return (window.BF_EMBED || {})[id] || null;
+    };
+    const res = await Promise.all(IDS.map(get));
+    IDS.forEach((id, i) => { D[id] = res[i]; });
+    const hist = await Promise.all(['history/prices', 'history/lessons', 'history/news', 'history/snapshots/index'].map(get));
+    H.prices = hist[0] || []; H.lessons = hist[1] || []; H.news = hist[2] || []; H.snaps = hist[3] || [];
+    LIVE = { ...D };
+    window.__bfGet = get;
+    renderTT();
+    renderAll();
+  }
+  const H = { prices: [], lessons: [], news: [], snaps: [] };
+  let LIVE = null; let VIEW = null;
+  function renderTT() {
+    const sel = document.getElementById('tt');
+    const snaps = H.snaps.slice().sort((a, b) => String(b.id).localeCompare(String(a.id)));
+    sel.replaceChildren(new Option('Today (latest)', ''), ...snaps.map((x) => new Option(x.label || x.id, x.id)));
+    sel.value = VIEW ? VIEW.id : '';
+  }
+  document.getElementById('tt').addEventListener('change', async (e) => {
+    const id = e.target.value;
+    if (!id) { goLive(); return; }
+    const meta = H.snaps.find((x) => x.id === id);
+    const snap = await window.__bfGet('history/snapshots/' + id);
+    if (!snap) { e.target.value = ''; return; }
+    VIEW = { id, date: meta ? meta.date : id.slice(0, 10), label: meta ? (meta.label || id) : id };
+    D = { ...LIVE, watchlist: snap.watchlist || LIVE.watchlist, briefing: snap.briefing || LIVE.briefing, news: snap.news || LIVE.news, treasury10y: snap.treasury10y || LIVE.treasury10y, meta: { updated_at: snap.updated_at || (meta && meta.updated_at) } };
+    document.getElementById('tt-text').textContent = 'You are looking at the board from ' + VIEW.label + '.';
+    document.getElementById('ttbanner').hidden = false;
+    renderAll();
+  });
+  function goLive() { VIEW = null; D = { ...LIVE }; document.getElementById('ttbanner').hidden = true; renderTT(); renderAll(); }
+  document.getElementById('tt-back').addEventListener('click', goLive);
+  const asOf = () => (VIEW ? VIEW.date : '9999-12-31');
+  const priceSeries = (sym) => {
+    const m = new Map();
+    H.prices.filter((p) => p.symbol === sym && p.date <= asOf()).forEach((p) => m.set(p.date, Number(p.price)));
+    return [...m.entries()].sort((a, b) => a[0].localeCompare(b[0])).map(([date, price]) => ({ date, price }));
+  };
+  const niceDate = (d) => new Date(d + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+
+  function renderAll() {
+    const w = D.watchlist || [];
+    const by = Object.fromEntries(w.map((r) => [r.symbol, r]));
+    // stamp
+    const st = document.getElementById('stamp');
+    if (D.meta && D.meta.updated_at) st.textContent = 'Data updated ' + new Date(D.meta.updated_at).toLocaleString('en-US', { dateStyle: 'long', timeStyle: 'short', timeZone: 'America/New_York' }) + ' (New York time)';
+    else st.textContent = '';
+
+    // weather
+    const spy = by.SPY, qqq = by.QQQ;
+    let state = 'Partly cloudy', text = 'A calm day with small ups and downs.', kind = 'cloud';
+    if (spy) {
+      const c = Number(spy.chg_pct), off = Number(spy.off_high_pct);
+      if (c >= 0.3 && off < 3) { state = 'Sunny'; kind = 'sun'; text = 'The market went up and is very close to its best price of the year. Investors are in a good mood.'; }
+      else if (c >= 0) { state = 'Sun and clouds'; kind = 'suncloud'; text = 'The market went up a little. Nothing extreme.'; }
+      else if (c <= -1.5 || off > 10) { state = 'Stormy'; kind = 'storm'; text = 'The market dropped hard or is far from its best price. Time to stay calm and be patient.'; }
+      else { state = 'Cloudy'; kind = 'cloud'; text = 'The market dipped a little. That is normal; it happens on lots of days.'; }
+      setStat('st-spy', pct(Number(spy.chg_pct)), Number(spy.chg_pct));
+    }
+    if (qqq) setStat('st-qqq', pct(Number(qqq.chg_pct)), Number(qqq.chg_pct));
+    if (D.treasury10y && D.treasury10y.length) document.getElementById('st-bond').textContent = Number(D.treasury10y[D.treasury10y.length - 1].yield_pct).toFixed(2) + '%';
+    document.getElementById('wx-state').textContent = state;
+    document.getElementById('wx-text').textContent = text;
+    document.getElementById('wx-icon').innerHTML = WX[kind];
+
+    // alerts
+    const al = document.getElementById('alerts');
+    const alerts = (D.briefing || []).filter((r) => r.kind === 'alert');
+    al.replaceChildren(...(alerts.length ? alerts.map((r) => { const d = el('div', 'alert'); d.append(el('b', '', r.title), el('span', '', r.text)); return d; }) : [el('p', 'muted', 'Nothing to flag right now.')]));
+
+    // lesson
+    const ls = (D.briefing || []).find((r) => r.kind === 'lesson');
+    if (ls) { document.getElementById('lesson-title').textContent = ls.title; document.getElementById('lesson-text').textContent = ls.text; }
+
+    const arch = H.lessons.filter((l) => l.date <= asOf()).slice().sort((a, b) => String(b.date).localeCompare(String(a.date)));
+    document.getElementById('lesson-count').textContent = arch.length;
+    document.getElementById('lesson-archive').replaceChildren(...arch.map((l) => { const d = el('div', 'item'); d.append(el('span', 'd', niceDate(l.date)), el('b', '', l.title), el('span', '', l.text)); return d; }));
+
+    renderNews(); renderGroups(w); renderCromos(w); renderSim(w); renderDict(); newQuestion();
+  }
+  function setStat(id, t, v) { const e = document.getElementById(id); e.textContent = t; e.className = 'v num ' + (v >= 0 ? 'up' : 'down'); }
+
+  const WX = {
+    sun: '<svg viewBox="0 0 96 96"><g stroke="var(--ink)" stroke-width="3" stroke-linecap="round"><path d="M48 6v12M48 78v12M6 48h12M78 48h12M18 18l8 8M70 70l8 8M18 78l8-8M70 26l8-8"/></g><circle cx="48" cy="48" r="20" fill="var(--sun)" stroke="var(--ink)" stroke-width="3"/></svg>',
+    suncloud: '<svg viewBox="0 0 96 96"><circle cx="38" cy="36" r="18" fill="var(--sun)" stroke="var(--ink)" stroke-width="3"/><path d="M30 76h42a14 14 0 0 0 0-28a20 20 0 0 0-38 6a11 11 0 0 0-4 22z" fill="var(--card)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/></svg>',
+    cloud: '<svg viewBox="0 0 96 96"><path d="M24 70h48a16 16 0 0 0 0-32a22 22 0 0 0-42 6a13 13 0 0 0-6 26z" fill="var(--sky-soft)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/></svg>',
+    storm: '<svg viewBox="0 0 96 96"><path d="M24 60h48a16 16 0 0 0 0-32a22 22 0 0 0-42 6a13 13 0 0 0-6 26z" fill="var(--line)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/><path d="M50 62l-10 16h10l-6 14" fill="none" stroke="var(--sun)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></svg>',
+  };
+
+
+  // News
+  const EFFECT = { good: 'Good sign', bad: 'Warning sign', watch: 'Keep an eye on it' };
+  S.newsTicker = 'All'; S.newsPeriod = 'latest';
+  const PERIODS = [['latest', 'Latest'], ['30', 'Last 30 days'], ['all', 'All history']];
+  function renderNews() {
+    document.getElementById('news-period').replaceChildren(...PERIODS.map(([k, l]) => { const b = el('button', 'chip', l); b.type = 'button'; b.dataset.np = k; b.setAttribute('aria-pressed', String(S.newsPeriod === k)); return b; }));
+    let pool = D.news || [];
+    if (S.newsPeriod !== 'latest') {
+      const seen = new Set(); pool = [];
+      [...(D.news || []), ...H.news].forEach((n) => { const k = n.date + '|' + n.title; if (!seen.has(k)) { seen.add(k); pool.push(n); } });
+      const end = VIEW ? VIEW.date : pool.reduce((m, n) => (n.date > m ? n.date : m), '');
+      pool = pool.filter((n) => n.date <= end);
+      if (S.newsPeriod === '30') { const cut = new Date(new Date(end + 'T12:00:00').getTime() - 30 * 864e5).toISOString().slice(0, 10); pool = pool.filter((n) => n.date >= cut); }
+    }
+    const items = pool.slice().sort((a, b) => String(b.date).localeCompare(String(a.date)));
+    const tks = ['All', ...new Set(items.flatMap((n) => n.tickers || []).filter((t) => t !== 'ALL'))];
+    const fbox = document.getElementById('news-filter');
+    fbox.replaceChildren(...tks.map((t) => { const b = el('button', 'chip', t); b.type = 'button'; b.dataset.nt = t; b.setAttribute('aria-pressed', String(S.newsTicker === t)); return b; }));
+    const shown = items.filter((n) => S.newsTicker === 'All' || (n.tickers || []).includes(S.newsTicker) || (n.tickers || []).includes('ALL'));
+    const box = document.getElementById('news');
+    if (!shown.length) { box.replaceChildren(el('p', 'muted', 'No stories right now.')); return; }
+    box.replaceChildren(...shown.map((n) => {
+      const c = el('article', 'story');
+      const top = el('div', 'story-top'); top.append(el('span', 'effect ' + (n.effect || 'watch'), EFFECT[n.effect] || EFFECT.watch), el('span', 'date', n.date ? new Date(n.date + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : ''));
+      const why = el('div', 'why'); why.append(el('b', '', 'Why it matters'), el('span', '', n.why || ''));
+      const tk = el('div', 'tickers');
+      (n.tickers || []).forEach((t) => { const b = el('button', 'tk', t === 'ALL' ? 'Whole market' : t); b.type = 'button'; if (t !== 'ALL') b.dataset.goto = t; tk.append(b); });
+      const src = el('p', 'src'); src.append('Source: ');
+      if (n.url) { const a = el('a', '', n.source || 'link'); a.href = n.url; a.target = '_blank'; a.rel = 'noopener'; src.append(a); } else src.append(n.source || '');
+      c.append(top, el('h3', '', n.title), el('p', '', n.summary || ''), why, tk, src);
+      return c;
+    }));
+  }
+  document.getElementById('news-period').addEventListener('click', (e) => { const b = e.target.closest('[data-np]'); if (!b) return; S.newsPeriod = b.dataset.np; renderNews(); });
+  document.getElementById('news-filter').addEventListener('click', (e) => { const b = e.target.closest('[data-nt]'); if (!b) return; S.newsTicker = b.dataset.nt; renderNews(); });
+  document.getElementById('news').addEventListener('click', (e) => { const b = e.target.closest('[data-goto]'); if (!b) return; S.group = 'All'; renderGroups(D.watchlist || []); renderCromos(D.watchlist || []); const c = document.getElementById('cromo-' + b.dataset.goto); if (c) c.scrollIntoView({ behavior: 'smooth', block: 'center' }); });
+
+  function renderGroups(w) {
+    const gs = ['All', ...ORDER.filter((g) => w.some((r) => r.group === g)), ...[...new Set(w.map((r) => r.group))].filter((g) => !ORDER.includes(g))];
+    const box = document.getElementById('groups');
+    box.replaceChildren(...gs.map((g) => { const b = el('button', 'chip', g === 'All' ? 'All' : (GROUP_LABEL[g] || g)); b.type = 'button'; b.dataset.g = g; b.setAttribute('aria-pressed', String(S.group === g)); return b; }));
+  }
+  document.getElementById('groups').addEventListener('click', (e) => { const b = e.target.closest('[data-g]'); if (!b) return; S.group = b.dataset.g; renderGroups(D.watchlist || []); renderCromos(D.watchlist || []); });
+
+  function renderCromos(w) {
+    const box = document.getElementById('cromos');
+    const rows = w.filter((r) => S.group === 'All' || r.group === S.group).sort((a, b) => (ORDER.indexOf(a.group) - ORDER.indexOf(b.group)) || a.symbol.localeCompare(b.symbol));
+    box.replaceChildren(...rows.map((r) => {
+      const c = el('article', 'cromo'); c.id = 'cromo-' + r.symbol;
+      const top = el('div', 'cromo-top');
+      const row = el('div', 'row'); row.append(el('span', 'tick', r.symbol), el('span', 'grp ' + (GROUP_CLASS[r.group] || ''), GROUP_LABEL[r.group] || r.group));
+      const price = el('div', 'price'); const ch = Number(r.chg_pct);
+      price.append(el('span', 'p num', fmt$(r.price)), el('span', 'num ' + (ch >= 0 ? 'up' : 'down'), (ch >= 0 ? '▲ ' : '▼ ') + pct(ch) + ' today'));
+      top.append(row, el('div', 'cname', r.name), el('p', 'what', WHAT[r.symbol] || ''), price);
+      const body = el('div', 'cromo-body');
+      // coaster
+      const s = Number(r.risk_score); const [lab, col] = coaster(s);
+      const ml = el('div', 'meter-label'); ml.append(el('span', '', 'How bumpy the ride is'), el('b', '', lab));
+      const co = el('div', 'coaster'); co.setAttribute('role', 'img'); co.setAttribute('aria-label', 'Level ' + s.toFixed(1) + ' of 10');
+      for (let i = 1; i <= 10; i++) { const d = el('i'); if (i <= Math.round(s)) d.style.background = col; co.append(d); }
+      // year
+      const yl = el('div', 'meter-label'); const off = Number(r.off_high_pct);
+      yl.append(el('span', '', 'Its price over the last year'), el('b', '', off < 3 ? 'Near its high' : off > 25 ? 'Far below its high' : off.toFixed(0) + '% below its high'));
+      const yb = el('div', 'yearbar'); const dot = el('i'); dot.style.left = Math.max(0, Math.min(100, Number(r.pos_range_pct))) + '%'; yb.append(dot);
+      const ye = el('div', 'yearends num'); ye.append(el('span', '', 'Low ' + fmtInt$(r.low52)), el('span', '', 'High ' + fmtInt$(r.high52)));
+      // expert
+      const ex = el('div', 'expert');
+      if (r.t_cons != null) { const u = Number(r.upside_cons_pct); ex.textContent = 'Experts expect it to be worth about ' + fmtInt$(r.t_cons) + ' in a year (' + pct(u, 0) + ').'; }
+      else ex.textContent = r.type === 'ETF' ? 'Baskets have no price target: they move with all their companies.' : 'We don\'t have the experts\' view for this company yet.';
+      const btn = el('button', 'cromo-btn', 'Try it with $100'); btn.type = 'button'; btn.dataset.sim = r.symbol;
+      const nCount = (D.news || []).filter((n) => (n.tickers || []).includes(r.symbol)).length;
+      if (nCount) { const nf = el('button', 'newsflag', nCount === 1 ? '1 news story' : nCount + ' news stories'); nf.type = 'button'; nf.dataset.news = r.symbol; body.append(nf); }
+      const ser = priceSeries(r.symbol);
+      const sp = el('div', 'spark');
+      if (ser.length >= 2) {
+        const first = ser[0], last = ser[ser.length - 1]; const g = (last.price / first.price - 1) * 100;
+        const lab = el('div', 'meter-label'); lab.append(el('span', '', 'Since we started (' + niceDate(first.date) + ')'), el('b', g >= 0 ? 'up' : 'down', pct(g, 1)));
+        const W = 260, Hh = 44, lo = Math.min(...ser.map((x) => x.price)), hi = Math.max(...ser.map((x) => x.price)); const span = hi - lo || 1;
+        const pts = ser.map((x, i) => [(i / (ser.length - 1)) * (W - 8) + 4, Hh - 6 - ((x.price - lo) / span) * (Hh - 12)]);
+        const col = g >= 0 ? 'var(--mint)' : 'var(--coral)';
+        const svg = '<svg viewBox="0 0 ' + W + ' ' + Hh + '" preserveAspectRatio="none" role="img" aria-label="Price since we started"><polyline fill="none" stroke="' + col + '" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke" points="' + pts.map((p) => p.join(',')).join(' ') + '"/><circle cx="' + pts[pts.length - 1][0] + '" cy="' + pts[pts.length - 1][1] + '" r="3.5" fill="' + col + '"/></svg>';
+        sp.append(lab); sp.insertAdjacentHTML('beforeend', svg);
+      } else {
+        const lab = el('div', 'meter-label'); lab.append(el('span', '', 'Since we started'), el('b', '', 'Chart starts after the next update'));
+        sp.append(lab);
+      }
+      body.append(ml, co, yl, yb, ye, sp, ex, btn);
+      c.append(top, body);
+      return c;
+    }));
+  }
+  document.getElementById('cromos').addEventListener('click', (e) => { const nf = e.target.closest('[data-news]'); if (nf) { S.newsTicker = nf.dataset.news; renderNews(); document.getElementById('nivel3').scrollIntoView({ behavior: 'smooth' }); return; } const b = e.target.closest('[data-sim]'); if (!b) return; S.pick = b.dataset.sim; S.amount = 100; document.getElementById('sim-amount').value = 100; renderSim(D.watchlist || []); document.getElementById('nivel5').scrollIntoView({ behavior: 'smooth' }); });
+
+  function renderSim(w) {
+    const sel = document.getElementById('sim-ticker');
+    if (!w.some((r) => r.symbol === S.pick) && w.length) S.pick = w[0].symbol;
+    sel.replaceChildren(...w.map((r) => new Option(r.symbol + ' · ' + r.name, r.symbol))); sel.value = S.pick;
+    document.getElementById('sim-amount-v').textContent = fmtInt$(S.amount);
+    document.querySelectorAll('#sim-h [data-h]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.h === S.h)));
+    const r = w.find((x) => x.symbol === S.pick); if (!r) return;
+    const p = Number(r.price);
+    const vals = [['bear', 'If it goes badly', 'var(--coral)'], ['base', 'Expected', 'var(--sky)'], ['bull', 'If it goes great', 'var(--mint)']].map(([k, l, c]) => ({ l, c, v: S.amount * Number(r['s' + S.h + '_' + k]) / p }));
+    const max = Math.max(...vals.map((x) => x.v), S.amount) * 1.08;
+    const jars = document.getElementById('jars');
+    jars.replaceChildren(...vals.map((x) => {
+      const j = el('div', 'jar'); const g = el('div', 'glass'); const f = el('div', 'fill'); f.style.background = x.c; f.style.height = (x.v / max * 100) + '%';
+      const line = el('div', 'start'); line.style.bottom = (S.amount / max * 100) + '%';
+      g.append(f, line);
+      const gain = x.v - S.amount;
+      j.append(g, el('div', 'amt num', fmtInt$(x.v)), el('div', 'tag', x.l + ' (' + (gain >= 0 ? '+' : '-') + fmtInt$(Math.abs(gain)).replace('$', '$') + ')'));
+      return j;
+    }));
+    const hText = { '3m': '3 months', '12m': '1 year', '36m': '3 years' }[S.h];
+    const spread = vals[2].v - vals[0].v;
+    const rb = document.getElementById('reality'); const ser = priceSeries(r.symbol);
+    if (ser.length >= 2) {
+      const f = ser[0], l = ser[ser.length - 1]; const val = S.amount * l.price / f.price; const g = val - S.amount;
+      rb.replaceChildren(el('b', '', 'Reality check: '), document.createTextNode('if you had put ' + fmtInt$(S.amount) + ' into ' + r.name + ' on ' + niceDate(f.date) + ', on ' + niceDate(l.date) + ' it would be worth ' + fmtInt$(val) + ' (' + (g >= 0 ? '+' : '-') + fmtInt$(Math.abs(g)) + '). Compare that with the jars: real life usually lands somewhere between the paths.'));
+      rb.hidden = false;
+    } else rb.hidden = true;
+    document.getElementById('sim-note').textContent = 'With ' + r.name + ' over ' + hText + ', the gap between the worst and best path is ' + fmtInt$(spread) + '. ' + (Number(r.risk_score) >= 6.5 ? 'It is a roller coaster: it can gain a lot or lose a lot.' : Number(r.risk_score) < 4 ? 'It is an easy ride: the paths stay closer together.' : 'It is in the middle: not too calm, not too wild.');
+  }
+  document.getElementById('sim-ticker').addEventListener('change', (e) => { S.pick = e.target.value; renderSim(D.watchlist || []); });
+  document.getElementById('sim-amount').addEventListener('input', (e) => { S.amount = Number(e.target.value); renderSim(D.watchlist || []); });
+  document.getElementById('sim-h').addEventListener('click', (e) => { const b = e.target.closest('[data-h]'); if (!b) return; S.h = b.dataset.h; renderSim(D.watchlist || []); });
+
+  function renderDict() {
+    const box = document.getElementById('dict');
+    box.replaceChildren(...DICT.map(([t, d]) => {
+      const b = el('button', 'flip'); b.type = 'button'; b.setAttribute('aria-pressed', 'false'); b.setAttribute('aria-label', t + '. Tap to see what it means');
+      const inner = el('div', 'inner');
+      const fr = el('div', 'face front'); fr.append(el('div', 'term', t), el('div', 'hint', 'Tap to flip'));
+      const bk = el('div', 'face back'); bk.append(el('b', '', t), el('span', '', d));
+      inner.append(fr, bk); b.append(inner);
+      return b;
+    }));
+  }
+  document.getElementById('dict').addEventListener('click', (e) => { const b = e.target.closest('.flip'); if (!b) return; b.setAttribute('aria-pressed', String(b.getAttribute('aria-pressed') !== 'true')); });
+
+  // Quiz
+  let current = null;
+  const rand = (a) => a[Math.floor(Math.random() * a.length)];
+  const two = (w, pred) => { const pool = w.filter(pred); if (pool.length < 2) return null; const a = rand(pool); let b = rand(pool); let n = 0; while (b.symbol === a.symbol && n++ < 20) b = rand(pool); return a.symbol === b.symbol ? null : [a, b]; };
+  function makeQuestion() {
+    const w = (D.watchlist || []).filter((r) => r.type !== 'ETF');
+    const gens = [
+      () => { const p = two(w, (r) => priceSeries(r.symbol).length >= 2); if (!p) return null; const ch = (r) => { const s2 = priceSeries(r.symbol); return (s2[s2.length - 1].price / s2[0].price - 1) * 100; }; const [a, b] = p; if (Math.abs(ch(a) - ch(b)) < 0.5) return null; const right = ch(a) > ch(b) ? a : b;
+        return { q: 'Since we started tracking, which one did better?', opts: [a.symbol + ' · ' + a.name, b.symbol + ' · ' + b.name], ans: right === a ? 0 : 1, why: right.name + ' is ' + pct(ch(right), 1) + ' since ' + niceDate(priceSeries(right.symbol)[0].date) + '; the other is ' + pct(ch(right === a ? b : a), 1) + '.' }; },
+      () => { const p = two(w, (r) => true); if (!p || Math.abs(p[0].risk_score - p[1].risk_score) < 1) return null; const [a, b] = p; const right = a.risk_score > b.risk_score ? a : b;
+        return { q: 'Which one is more of a roller coaster (moves up and down more)?', opts: [a.symbol + ' · ' + a.name, b.symbol + ' · ' + b.name], ans: right === a ? 0 : 1, why: right.name + ' is level ' + Number(right.risk_score).toFixed(1) + ' of 10; the other is ' + Number((right === a ? b : a).risk_score).toFixed(1) + '.' }; },
+      () => { const p = two(w, (r) => true); if (!p || Math.abs(p[0].pos_range_pct - p[1].pos_range_pct) < 15) return null; const [a, b] = p; const right = a.pos_range_pct > b.pos_range_pct ? a : b;
+        return { q: 'Which one is closer to its highest price of the year?', opts: [a.symbol + ' · ' + a.name, b.symbol + ' · ' + b.name], ans: right === a ? 0 : 1, why: right.name + ' is only ' + Number(right.off_high_pct).toFixed(0) + '% below its high.' }; },
+      () => { const r = rand(w); return { q: 'What does ' + r.name + ' do?', opts: shuffle([WHAT[r.symbol], WHAT[rand(w.filter((x) => x.symbol !== r.symbol)).symbol], WHAT[rand(w.filter((x) => x.symbol !== r.symbol)).symbol]].filter((v, i, a) => a.indexOf(v) === i)), ansText: WHAT[r.symbol], why: 'Its ticker is ' + r.symbol + '.' }; },
+      () => ({ q: 'If a stock has a beta of 2 and the market goes up 5%, how much does the stock tend to go up?', opts: ['5%', '10%', '2%'], ans: 1, why: 'Beta 2 means it tends to move twice as much as the market: 5% times 2 is 10%. And that works when it drops, too!' }),
+      () => ({ q: 'What is an ETF like SPY?', opts: ['One very big company', 'A basket of many companies together', 'A loan to the government'], ans: 1, why: 'SPY holds the 500 biggest U.S. companies in a single purchase.' }),
+      () => ({ q: 'Diversifying means…', opts: ['Buying only the stock that went up the most', 'Spreading your money across several investments', 'Selling everything when it drops'], ans: 1, why: 'That way, if one investment falls, the others protect you.' }),
+      () => { const p = two(w, (r) => r.t_cons != null); if (!p) return null; const [a, b] = p; const right = Number(a.upside_cons_pct) > Number(b.upside_cons_pct) ? a : b;
+        return { q: 'According to the experts, which one has more room to grow in a year?', opts: [a.symbol + ' · ' + a.name, b.symbol + ' · ' + b.name], ans: right === a ? 0 : 1, why: 'Experts expect ' + pct(Number(right.upside_cons_pct), 0) + ' for ' + right.name + '. Remember: experts can be wrong too.' }; },
+    ];
+    for (let i = 0; i < 20; i++) { const q = rand(gens)(); if (q) { if (q.ansText) q.ans = q.opts.indexOf(q.ansText); return q; } }
+    return null;
+  }
+  function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+  function newQuestion() {
+    current = makeQuestion(); if (!current) return;
+    document.getElementById('q-text').textContent = current.q;
+    document.getElementById('q-fb').textContent = '';
+    const box = document.getElementById('q-opts');
+    box.replaceChildren(...current.opts.map((o, i) => { const b = el('button', 'opt', o); b.type = 'button'; b.dataset.i = i; return b; }));
+    document.getElementById('q-score').textContent = S.score + ' of ' + S.total + ' correct';
+  }
+  document.getElementById('q-opts').addEventListener('click', (e) => {
+    const b = e.target.closest('.opt'); if (!b || !current || current.done) return;
+    current.done = true; const i = Number(b.dataset.i); const ok = i === current.ans;
+    S.total++; if (ok) S.score++;
+    try { localStorage.setItem('bf-score', JSON.stringify({ s: S.score, t: S.total })); } catch (err) {}
+    document.querySelectorAll('#q-opts .opt').forEach((o, k) => { if (k === current.ans) o.classList.add('right'); else if (k === i) o.classList.add('wrong'); });
+    document.getElementById('q-fb').textContent = (ok ? 'Correct! ' : 'Not quite. ') + current.why;
+    document.getElementById('q-score').textContent = S.score + ' of ' + S.total + ' correct';
+  });
+  document.getElementById('q-next').addEventListener('click', newQuestion);
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', load); else load();
+})();
+</script>
+
+<script>
+(() => {
+  const API = './api/';
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const money = (v) => (v == null ? 'n/a' : (v < 0 ? '-$' : '$') + Math.abs(Number(v)).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }));
+  const pct = (v) => (v == null ? 'n/a' : (v > 0 ? '+' : '') + Number(v).toFixed(2) + '%');
+  const ACC = { user: null, available: false, holdings: [] };
+
+  async function call(path, data) {
+    const opts = { method: data ? 'POST' : 'GET', headers: { 'X-FSS': '1' }, credentials: 'same-origin', cache: 'no-store' };
+    if (data) { opts.headers['Content-Type'] = 'application/json'; opts.body = JSON.stringify(data); }
+    const r = await fetch(API + path, opts);
+    let j = null; try { j = await r.json(); } catch (e) { throw new Error('offline'); }
+    if (!j.ok) { const err = new Error(j.error || 'Something went wrong.'); err.status = r.status; throw err; }
+    return j;
+  }
+  const busy = (btn, on) => { if (btn) btn.disabled = on; };
+
+  // ---------- gate ----------
+  let mode = 'login';
+  function showGate(m) {
+    mode = m;
+    $('gate').hidden = false;
+    $('g-name-wrap').hidden = m !== 'setup';
+    $('gate-title').textContent = m === 'setup' ? 'Create the family admin' : 'Sign in';
+    $('gate-sub').textContent = m === 'setup' ? 'First time here. Create your admin account; you will add the rest of the family after.' : 'Use the username and password your family admin gave you.';
+    $('gate-btn').textContent = m === 'setup' ? 'Create admin account' : 'Sign in';
+    $('g-pass').autocomplete = m === 'setup' ? 'new-password' : 'current-password';
+    $('gate-err').textContent = '';
+    setTimeout(() => $(m === 'setup' ? 'g-name' : 'g-user').focus(), 50);
+  }
+  $('gate-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const btn = $('gate-btn'); busy(btn, true); $('gate-err').textContent = '';
+    try {
+      const body = { username: $('g-user').value, password: $('g-pass').value };
+      if (mode === 'setup') body.display_name = $('g-name').value;
+      const j = await call('auth.php?action=' + (mode === 'setup' ? 'setup' : 'login'), body);
+      $('g-pass').value = '';
+      signedIn(j.user);
+    } catch (err) { $('gate-err').textContent = err.message === 'offline' ? 'Cannot reach the server. Check your connection.' : err.message; }
+    busy(btn, false);
+  });
+
+  function signedIn(user) {
+    ACC.user = user;
+    $('gate').hidden = true;
+    document.querySelectorAll('.acct-only').forEach((x) => { x.hidden = false; });
+    $('admin').hidden = user.role !== 'admin';
+    const bar = $('acct'); bar.hidden = false; bar.replaceChildren();
+    const who = el('span'); who.append('Signed in as ', el('b', '', user.display_name));
+    const pw = el('button', 'linkbtn', 'Change password'); pw.type = 'button'; pw.addEventListener('click', () => openPw(null, null));
+    const out = el('button', 'linkbtn', 'Sign out'); out.type = 'button';
+    out.addEventListener('click', async () => { try { await call('auth.php?action=logout', {}); } catch (e) {} location.reload(); });
+    bar.append(who, pw, out);
+    $('ms-title').textContent = user.display_name.split(' ')[0] + "'s stocks";
+    loadHoldings(); loadAsk(); if (user.role === 'admin') loadAdmin();
+  }
+
+  // ---------- My stocks ----------
+  async function loadHoldings() {
+    try { const j = await call('holdings.php?action=list'); ACC.holdings = j.holdings; } catch (e) { ACC.holdings = []; $('ms-err').textContent = e.message; }
+    renderHoldings();
+  }
+  function tile(label, value, cls) { const t = el('div', 'stat'); t.append(el('div', 'v num ' + (cls || ''), value), el('div', 'l', label)); return t; }
+  function renderHoldings() {
+    const hs = ACC.holdings;
+    const inv = hs.reduce((s, h) => s + h.invested, 0);
+    const val = hs.reduce((s, h) => s + (h.value ?? h.invested), 0);
+    const g = val - inv;
+    $('ms-summary').replaceChildren(
+      tile('Money you put in', money(inv)),
+      tile('What it is worth now', money(val)),
+      tile('Gain or loss', (g >= 0 ? '+' : '') + money(g).replace('-', ''), g >= 0 ? 'up' : 'down'),
+      tile('Change', inv ? pct((val / inv - 1) * 100) : 'n/a', g >= 0 ? 'up' : 'down'),
+    );
+    if (g < 0) $('ms-summary').children[2].querySelector('.v').textContent = '-' + money(-g);
+    const list = $('ms-list');
+    if (!hs.length) { list.replaceChildren(el('p', 'muted', 'No stocks yet. Add your first one below.')); return; }
+    list.replaceChildren(...hs.map((h) => {
+      const c = el('article', 'cromo');
+      const top = el('div', 'cromo-top');
+      const row = el('div', 'row'); row.append(el('span', 'tick', h.symbol));
+      if (h.chg_pct != null) row.append(el('span', 'num ' + (h.chg_pct >= 0 ? 'up' : 'down'), (h.chg_pct >= 0 ? '▲ ' : '▼ ') + pct(h.chg_pct) + ' today'));
+      top.append(row, el('div', 'cname', h.name || h.symbol));
+      if (h.note) top.append(el('p', 'what', '"' + h.note + '"'));
+      const b = el('div', 'cromo-body');
+      const line = (k, v, cls) => { const r = el('div', 'hold-row'); r.append(el('span', '', k), el('b', 'num ' + (cls || ''), v)); return r; };
+      const sh = Number(h.shares).toLocaleString('en-US', { maximumFractionDigits: 6 });
+      b.append(line('Shares', sh), line('You paid', money(h.avg_cost) + ' each'), line('Price now', h.price != null ? money(h.price) : 'not available'), line('Worth now', money(h.value)));
+      if (h.gain != null) b.append(line('Gain or loss', (h.gain >= 0 ? '+' : '-') + money(Math.abs(h.gain)).replace('-', '') + ' (' + pct(h.gain_pct) + ')', h.gain >= 0 ? 'up' : 'down'));
+      if (h.risk_score != null) { const s = Number(h.risk_score); b.append(line('How bumpy', s < 4 ? 'Easy ride' : s < 6.5 ? 'Medium roller coaster' : 'Extreme roller coaster')); }
+      if (h.bought_on) b.append(line('Bought on', new Date(h.bought_on + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })));
+      const acts = el('div', 'hold-actions');
+      const ed = el('button', 'btn ghost small', 'Edit'); ed.type = 'button'; ed.addEventListener('click', () => editHolding(h));
+      const rm = el('button', 'btn ghost small', 'Remove'); rm.type = 'button';
+      rm.addEventListener('click', async () => {
+        if (rm.dataset.sure !== '1') { rm.dataset.sure = '1'; rm.textContent = 'Tap again to remove'; setTimeout(() => { rm.dataset.sure = ''; rm.textContent = 'Remove'; }, 4000); return; }
+        try { await call('holdings.php?action=remove', { id: h.id }); loadHoldings(); } catch (e) { $('ms-err').textContent = e.message; }
+      });
+      acts.append(ed, rm); b.append(acts);
+      c.append(top, b); return c;
+    }));
+  }
+  function editHolding(h) {
+    $('ms-id').value = h.id; $('ms-symbol').value = h.symbol; $('ms-shares').value = h.shares; $('ms-cost').value = h.avg_cost; $('ms-date').value = h.bought_on || ''; $('ms-note').value = h.note || '';
+    $('ms-form-title').textContent = 'Edit ' + h.symbol; $('ms-save').textContent = 'Save changes'; $('ms-cancel').hidden = false;
+    $('ms-form').scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+  function resetForm() { $('ms-form').reset(); $('ms-id').value = ''; $('ms-form-title').textContent = 'Add a stock'; $('ms-save').textContent = 'Add stock'; $('ms-cancel').hidden = true; $('ms-err').textContent = ''; }
+  $('ms-cancel').addEventListener('click', resetForm);
+  $('ms-form').addEventListener('submit', async (e) => {
+    e.preventDefault(); const btn = $('ms-save'); busy(btn, true); $('ms-err').textContent = '';
+    const id = $('ms-id').value;
+    try {
+      await call('holdings.php?action=' + (id ? 'update' : 'add'), { id: Number(id) || undefined, symbol: $('ms-symbol').value, shares: Number($('ms-shares').value), avg_cost: Number($('ms-cost').value), bought_on: $('ms-date').value, note: $('ms-note').value });
+      resetForm(); loadHoldings();
+    } catch (err) { $('ms-err').textContent = err.message; }
+    busy(btn, false);
+  });
+  function fillTickers() {
+    const w = (window.__bfD && window.__bfD().watchlist) || [];
+    $('ms-tickers').replaceChildren(...w.map((r) => { const o = el('option'); o.value = r.symbol; o.label = r.name; return o; }));
+  }
+
+  // ---------- Ask Coach ----------
+  const IDEAS = ['What is a P/E ratio, with an example?', 'Is my list of stocks diversified?', 'Why does NVIDIA move more than SPY?', 'What is the difference between saving and investing?'];
+  $('ask-ideas').replaceChildren(...IDEAS.map((q) => { const b = el('button', 'chip', q); b.type = 'button'; b.addEventListener('click', () => { $('ask-q').value = q; $('ask-q').focus(); }); return b; }));
+  async function loadAsk() {
+    try { const j = await call('ask.php?action=history'); renderQA(j.items); setLeft(j.left_today); } catch (e) { $('ask-err').textContent = e.message; }
+  }
+  const setLeft = (n) => { $('ask-left').textContent = n + (n === 1 ? ' question' : ' questions') + ' left today'; };
+  function qaItem(q, a, d) { const it = el('div', 'qa-item'); it.append(el('div', 'qa-q', q), el('div', 'qa-a', a), el('div', 'qa-d', d)); return it; }
+  function renderQA(items) {
+    $('ask-list').replaceChildren(...items.map((x) => qaItem(x.question, x.answer, new Date(x.created_at).toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }))));
+  }
+  $('ask-form').addEventListener('submit', async (e) => {
+    e.preventDefault(); const q = $('ask-q').value.trim(); if (!q) return;
+    const btn = $('ask-btn'); busy(btn, true); $('ask-err').textContent = ''; btn.textContent = 'Coach is thinking…';
+    try {
+      const j = await call('ask.php?action=ask', { question: q });
+      $('ask-list').prepend(qaItem(q, j.answer, 'Just now')); $('ask-q').value = ''; setLeft(j.left_today);
+    } catch (err) { $('ask-err').textContent = err.message; }
+    btn.textContent = 'Ask Coach'; busy(btn, false);
+  });
+
+  // ---------- Admin ----------
+  async function loadAdmin() {
+    try {
+      const j = await call('admin.php?action=list');
+      $('ad-list').replaceChildren(...j.users.map((u) => {
+        const r = el('div', 'ad-row'); const who = el('div', 'who'); who.append(el('b', '', u.display_name), el('span', '', '@' + u.username + (u.role === 'admin' ? ' · admin' : '')));
+        const acts = el('div', 'hold-actions');
+        const rp = el('button', 'btn ghost small', 'Reset password'); rp.type = 'button'; rp.addEventListener('click', () => openPw(u.id, u.display_name));
+        acts.append(rp);
+        if (u.id !== ACC.user.id) {
+          const rm = el('button', 'btn ghost small', 'Remove'); rm.type = 'button';
+          rm.addEventListener('click', async () => {
+            if (rm.dataset.sure !== '1') { rm.dataset.sure = '1'; rm.textContent = 'Tap again: removes their stocks too'; setTimeout(() => { rm.dataset.sure = ''; rm.textContent = 'Remove'; }, 4000); return; }
+            try { await call('admin.php?action=remove', { id: u.id }); loadAdmin(); } catch (e) { $('ad-list-err').textContent = e.message; }
+          });
+          acts.append(rm);
+        }
+        r.append(who, acts); return r;
+      }));
+    } catch (e) { $('ad-list-err').textContent = e.message; }
+  }
+  $('ad-form').addEventListener('submit', async (e) => {
+    e.preventDefault(); $('ad-err').textContent = '';
+    try {
+      await call('admin.php?action=add', { display_name: $('ad-name').value, username: $('ad-user').value, password: $('ad-pass').value, role: $('ad-role').value });
+      $('ad-form').reset(); $('ad-err').textContent = ''; loadAdmin();
+    } catch (err) { $('ad-err').textContent = err.message; }
+  });
+
+  // ---------- Password modal ----------
+  function openPw(targetId, name) {
+    $('pw-target').value = targetId || '';
+    $('pw-title').textContent = targetId ? 'New password for ' + name : 'Change your password';
+    $('pw-cur-wrap').hidden = !!targetId; $('pw-form').reset(); $('pw-err').textContent = ''; $('pw-modal').hidden = false;
+  }
+  $('pw-cancel').addEventListener('click', () => { $('pw-modal').hidden = true; });
+  $('pw-form').addEventListener('submit', async (e) => {
+    e.preventDefault(); $('pw-err').textContent = '';
+    const t = $('pw-target').value;
+    try {
+      if (t) await call('admin.php?action=reset', { id: Number(t), password: $('pw-new').value });
+      else await call('auth.php?action=password', { current: $('pw-cur').value, new: $('pw-new').value });
+      $('pw-modal').hidden = true;
+    } catch (err) { $('pw-err').textContent = err.message; }
+  });
+
+  // ---------- Start ----------
+  async function start() {
+    let j;
+    try { j = await call('auth.php?action=me'); } catch (e) { return; } // no server here (preview): page works without accounts
+    ACC.available = true;
+    if (j.setup_needed) { showGate('setup'); return; }
+    if (!j.user) { showGate('login'); return; }
+    signedIn(j.user);
+  }
+  const waitData = () => new Promise((res) => { const t = setInterval(() => { if (window.__bfD && window.__bfD().watchlist) { clearInterval(t); res(); } }, 150); setTimeout(() => { clearInterval(t); res(); }, 8000); });
+  waitData().then(fillTickers);
+  start();
+})();
+</script>
+
+</body></html>
