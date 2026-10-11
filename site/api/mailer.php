@@ -38,12 +38,11 @@ function nl_build(array $user, string $token): array {
     $date = date('l, F j', time());
     $c = ['ink' => '#1f2340', 'soft' => '#5b6080', 'line' => '#e6e3f5', 'brand' => '#5b4bff', 'good' => '#138a52', 'bad' => '#c23b3b', 'bg' => '#f6f4ff'];
 
-    $take = ''; $alerts = ''; $lesson = '';
+    $take = ''; $alerts = '';
     foreach ($d['briefing'] as $b) {
         $k = $b['kind'] ?? '';
         if ($k === 'takeaway') $take = '<p style="font-size:18px;line-height:1.45;margin:0;color:' . $c['ink'] . '"><b>' . h($b['text'] ?? '') . '</b></p>';
         elseif ($k === 'alert') $alerts .= '<tr><td style="padding:10px 0;border-top:1px solid ' . $c['line'] . '"><b style="color:' . $c['ink'] . '">' . h($b['title'] ?? '') . '</b><br><span style="color:' . $c['soft'] . '">' . h($b['text'] ?? '') . '</span></td></tr>';
-        elseif ($k === 'lesson' && !$lesson) $lesson = '<b>' . h($b['title'] ?? '') . '</b><br>' . h($b['text'] ?? '');
     }
 
     $news = '';
@@ -95,7 +94,6 @@ function nl_build(array $user, string $token): array {
         . $sec('Your stocks', $mine)
         . ($news ? $sec('In the news', '<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-size:14px">' . $news . '</table>') : '')
         . ($alerts ? $sec('Worth knowing', '<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-size:14px">' . $alerts . '</table>') : '')
-        . ($lesson ? $sec("Today's lesson", '<div style="background:' . $c['bg'] . ';border-radius:12px;padding:12px 14px;font-size:14px">' . $lesson . '</div>') : '')
         . '<tr><td align="center" style="padding:22px 24px">' . $btn . '</td></tr>'
         . '<tr><td style="padding:0 24px 22px;font-size:12px;color:' . $c['soft'] . '">This is for learning, not advice to buy or sell. Prices are from the morning update and change during the day; open Stock School for the latest.<br>'
         . 'You get this because your family admin turned on the daily email. <a href="' . h($unsub) . '" style="color:' . $c['soft'] . '">Stop these emails</a>.</td></tr>'
