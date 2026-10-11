@@ -2,7 +2,7 @@
 // Daily email for Stock School: builds one personal email per person and sends it.
 // Included by send_newsletter.php (cron) and admin.php (test button). Not reachable from the web.
 declare(strict_types=1);
-date_default_timezone_set('America/New_York');
+date_default_timezone_set('America/Los_Angeles'); // the family reads it in Pacific time
 
 function nl_site(): string { return rtrim((string)(cfg()['site_url'] ?? 'https://htv.studio/invest/'), '/') . '/'; }
 function nl_from(): string { return (string)(cfg()['mail_from'] ?? 'school@htv.studio'); }
@@ -76,7 +76,7 @@ function nl_build(array $user, string $token): array {
             ? '<p style="margin:0 0 10px;color:' . $c['ink'] . '">Your stocks are worth <b>' . money($tv) . '</b>. You put in ' . money($ti) . ', so you are <b style="color:' . ($tg >= 0 ? $c['good'] : $c['bad']) . '">' . ($tg >= 0 ? 'up ' : 'down ') . money(abs($tg)) . ' (' . pct(($tv / $ti - 1) * 100) . ')</b>.</p>'
             : '';
         $mine = $sum . '<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-size:14px;color:' . $c['ink'] . '">'
-            . '<tr style="font-size:12px;color:' . $c['soft'] . '"><td style="padding:0 6px 4px">Stock</td><td align="right" style="padding:0 6px 4px">Worth now</td><td align="right" style="padding:0 6px 4px">Today</td><td align="right" style="padding:0 6px 4px">Gain or loss</td></tr>'
+            . '<tr style="font-size:12px;color:' . $c['soft'] . '"><td style="padding:0 6px 4px">Stock</td><td align="right" style="padding:0 6px 4px">Worth now</td><td align="right" style="padding:0 6px 4px">Last day</td><td align="right" style="padding:0 6px 4px">Gain or loss</td></tr>'
             . $rows . '</table>';
     } else {
         $mine = '<p style="margin:0;color:' . $c['soft'] . '">You have not added any stocks yet. Open <b>My investing &gt; My stocks</b> and type in what you own in Greenlight to see it here every day.</p>';
@@ -90,14 +90,14 @@ function nl_build(array $user, string $token): array {
         . '<body style="margin:0;padding:0;background:' . $c['bg'] . ';font-family:Arial,Helvetica,sans-serif">'
         . '<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:' . $c['bg'] . '"><tr><td align="center" style="padding:16px 8px">'
         . '<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;background:#ffffff;border-radius:16px;font-size:15px;line-height:1.5;color:' . $c['ink'] . '">'
-        . '<tr><td style="padding:22px 24px 0"><div style="font-size:24px;font-weight:bold;color:' . $c['brand'] . '">📈 Stock School</div><div style="color:' . $c['soft'] . ';font-size:13px">Daily report for ' . $first . ' &middot; ' . h($date) . '</div></td></tr>'
+        . '<tr><td style="padding:22px 24px 0"><div style="font-size:24px;font-weight:bold;color:' . $c['brand'] . '">📈 Stock School</div><div style="color:' . $c['soft'] . ';font-size:13px">Morning report for ' . $first . ' &middot; ' . h($date) . '</div></td></tr>'
         . ($take ? $sec("Today's weather", $take) : '')
         . $sec('Your stocks', $mine)
         . ($news ? $sec('In the news', '<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-size:14px">' . $news . '</table>') : '')
         . ($alerts ? $sec('Worth knowing', '<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="font-size:14px">' . $alerts . '</table>') : '')
         . ($lesson ? $sec("Today's lesson", '<div style="background:' . $c['bg'] . ';border-radius:12px;padding:12px 14px;font-size:14px">' . $lesson . '</div>') : '')
         . '<tr><td align="center" style="padding:22px 24px">' . $btn . '</td></tr>'
-        . '<tr><td style="padding:0 24px 22px;font-size:12px;color:' . $c['soft'] . '">This is for learning, not advice to buy or sell. Prices can be a few hours old.<br>'
+        . '<tr><td style="padding:0 24px 22px;font-size:12px;color:' . $c['soft'] . '">This is for learning, not advice to buy or sell. Prices are from the morning update and change during the day; open Stock School for the latest.<br>'
         . 'You get this because your family admin turned on the daily email. <a href="' . h($unsub) . '" style="color:' . $c['soft'] . '">Stop these emails</a>.</td></tr>'
         . '</table></td></tr></table></body></html>';
 
@@ -106,7 +106,7 @@ function nl_build(array $user, string $token): array {
     foreach ($d['briefing'] as $b) if (($b['kind'] ?? '') === 'takeaway') $txt .= ($b['text'] ?? '') . "\n\n";
     if ($hold) {
         $txt .= "YOUR STOCKS\n";
-        foreach ($hold as $x) $txt .= sprintf("%s: worth %s, today %s, gain or loss %s (%s)\n", $x['symbol'], money($x['value']), pct($x['chg_pct']), money($x['gain']), pct($x['gain_pct']));
+        foreach ($hold as $x) $txt .= sprintf("%s: worth %s, last day %s, gain or loss %s (%s)\n", $x['symbol'], money($x['value']), pct($x['chg_pct']), money($x['gain']), pct($x['gain_pct']));
         $txt .= "\n";
     }
     if ($d['news']) {
@@ -116,7 +116,7 @@ function nl_build(array $user, string $token): array {
     }
     $txt .= "Open Stock School: " . nl_site() . "\nStop these emails: $unsub\n";
 
-    $subj = 'Stock School: ' . date('M j') . ($hold ? ', how your stocks did today' : ', today\'s market report');
+    $subj = 'Stock School: ' . date('M j') . ($hold ? ', your stocks this morning' : ', your morning market report');
     return [$subj, $html, $txt, $unsub];
 }
 
