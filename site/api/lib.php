@@ -19,12 +19,24 @@ function db(): PDO {
     static $pdo = null;
     if ($pdo) return $pdo;
     $c = cfg();
-    $pdo = new PDO($c['db_dsn'], $c['db_user'] ?? null, $c['db_pass'] ?? null, [
-        PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
-        PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
-    ]);
+    try {
+        $pdo = new PDO($c['db_dsn'], $c['db_user'] ?? null, $c['db_pass'] ?? null, [
+            PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
+            PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+        ]);
+    } catch (Throwable $e) {
+        fail(503, 'The family database is not ready yet.');
+    }
     return $pdo;
 }
+
+// Never show technical errors to visitors.
+ini_set('display_errors', '0');
+set_exception_handler(function (Throwable $e) {
+    error_log('FSS: ' . $e->getMessage());
+    if (!headers_sent()) { http_response_code(500); header('Content-Type: application/json; charset=utf-8'); }
+    echo json_encode(['ok' => false, 'error' => 'Something went wrong on the server. Try again later.']);
+});
 
 function is_sqlite(): bool { return str_starts_with(cfg()['db_dsn'], 'sqlite'); }
 
