@@ -38,6 +38,17 @@ if ($action === 'reset') {
     json_out(['ok' => true]);
 }
 
+// Change someone's type: admin or family member.
+if ($action === 'role') {
+    $id = (int)($b['id'] ?? 0);
+    $role = ($b['role'] ?? '') === 'admin' ? 'admin' : 'member';
+    if ($id === (int)$admin['id'] && $role !== 'admin') fail(400, 'You cannot remove your own admin access. Ask another admin to do it.');
+    $st = db()->prepare('SELECT COUNT(*) FROM fss_users WHERE id = ?'); $st->execute([$id]);
+    if ((int)$st->fetchColumn() === 0) fail(404, 'That person was not found.');
+    db()->prepare('UPDATE fss_users SET role = ? WHERE id = ?')->execute([$role, $id]);
+    json_out(['ok' => true]);
+}
+
 // Daily email: save someone's address and whether they get it.
 if ($action === 'newsletter') {
     $id = (int)($b['id'] ?? 0);

@@ -972,6 +972,14 @@
         const rp = el('button', 'btn ghost small', 'Reset password'); rp.type = 'button'; rp.addEventListener('click', () => openPw(u.id, u.display_name));
         acts.append(rp);
         if (u.id !== ACC.user.id) {
+          const isAdm = u.role === 'admin';
+          const rb = el('button', 'btn ghost small', isAdm ? 'Remove admin' : 'Make admin'); rb.type = 'button';
+          rb.addEventListener('click', async () => {
+            try { await call('admin.php?action=role', { id: u.id, role: isAdm ? 'member' : 'admin' }); loadAdmin(); } catch (e) { $('ad-list-err').textContent = e.message; }
+          });
+          acts.append(rb);
+        }
+        if (u.id !== ACC.user.id) {
           const rm = el('button', 'btn ghost small', 'Remove'); rm.type = 'button';
           rm.addEventListener('click', async () => {
             if (rm.dataset.sure !== '1') { rm.dataset.sure = '1'; rm.textContent = 'Tap again: removes their stocks too'; setTimeout(() => { rm.dataset.sure = ''; rm.textContent = 'Remove'; }, 4000); return; }
