@@ -8,5 +8,10 @@
   "date": "2026-10-12",
   "title": "Lesson 2: What is a price target?",
   "text": "A price target is an expert's guess of what a stock could be worth in about 12 months. The consensus is the average of many experts' guesses. GE trades near $309 and experts expect about $410, which is 33% higher. AMD is already at its target ($594 vs $608). Targets change often and are often wrong, so use them as a clue, not a promise."
+ },
+ {
+  "date": "2026-10-12",
+  "title": "Lesson 3: What is a dividend?",
+  "text": "A dividend is a small payment that some companies send to their owners, usually every three months, just for holding the stock. Think of it as a thank-you share of the profits. Microsoft and Lockheed Martin pay dividends, while Amazon, AMD and Rocket Lab do not, because they keep their money to grow. The fund SCHD is built from companies that pay steady dividends, which is why it has been a calmer ride (beta 0.58). A dividend is not free money: the stock price usually drops a little when the dividend is paid."
  }
 ]

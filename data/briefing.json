@@ -2,31 +2,31 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "The whole market ended almost flat, but money moved around: big AI companies like Meta (+3.4%) and Microsoft (+1.1%) went up, while chip makers like AMD (-2.3%), TSMC (-2.0%) and NVIDIA (-1.3%) went down."
+  "text": "The market ended almost flat (SPY -0.1%, QQQ -0.7%), but money moved around: Meta (+3.4%) and Microsoft (+1.1%) went up, while chip and space companies like TSMC (-2.0%), AMD (-2.3%), NVIDIA (-1.3%) and Rocket Lab (-3.7%) went down."
  },
  {
   "kind": "alert",
   "title": "Meta is close to its high",
-  "text": "Meta rose 3.4% to $742.96 after showing a new AI model. It is now less than 5% below its highest price of the past year, and about 5% below what experts expect it to be worth in a year ($781). When a stock gets close to its target, there is less room left in the experts' guess."
+  "text": "Meta rose 3.4% to $742.96. It is now about 5% below its highest price of the past year ($779.82) and about 5% below what experts expect it to be worth in a year ($781). When a stock gets close to the experts' guess, there is less room left in that guess."
  },
  {
   "kind": "alert",
-  "title": "Microsoft is making its own chip",
-  "text": "Microsoft showed a chip called Maia 300 and plans to use it for its AI from 2027. That could mean buying fewer chips from NVIDIA over time. But TSMC is the factory that builds it, so TSMC still wins either way."
+  "title": "AMD already sits near its target",
+  "text": "AMD fell 2.3% to $594.24, but the experts' average guess is $607.59, only 2% higher. AMD is also a roller coaster stock (beta 2.5, which means it tends to move about two and a half times as much as the market), so its price can swing a lot in either direction."
  },
  {
   "kind": "alert",
-  "title": "A busy week for news",
-  "text": "Big banks report their results on Tuesday, the inflation report (how fast prices are rising) comes out Wednesday, and TSMC reports on Thursday. If inflation comes in high, expensive stocks like AMD can drop, because interest rates may stay high."
+  "title": "Big inflation report on Wednesday",
+  "text": "The September inflation report (how fast prices are rising) comes out Wednesday, Oct. 14. Experts expect prices to be up around 3.6% from a year ago, which would be higher than August's 3.4%. These are forecasts, not facts yet. The Fed meets Oct. 27 to 28, and higher inflation can keep interest rates high, which tends to hurt expensive stocks like AMD."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 2: What is a price target?",
-  "text": "A price target is an expert's guess of what a stock could be worth in about 12 months. The consensus is the average of many experts' guesses. GE trades near $309 and experts expect about $410, which is 33% higher. AMD is already at its target ($594 vs $608). Targets change often and are often wrong, so use them as a clue, not a promise."
+  "title": "Lesson 3: What is a dividend?",
+  "text": "A dividend is a small payment that some companies send to their owners, usually every three months, just for holding the stock. Think of it as a thank-you share of the profits. Microsoft and Lockheed Martin pay dividends, while Amazon, AMD and Rocket Lab do not, because they keep their money to grow. The fund SCHD is built from companies that pay steady dividends, which is why it has been a calmer ride (beta 0.58). A dividend is not free money: the stock price usually drops a little when the dividend is paid."
  },
  {
   "kind": "coverage",
-  "title": "About the data",
-  "text": "Expert price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE. For the others we only use price movements. Prices are from the close on Monday, October 12, 2026."
+  "title": "What we could and could not check",
+  "text": "Prices are from the close on Oct. 12. Analyst targets and some company numbers are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical, and the ETFs have no targets, so those stay blank. News is picked by hand from public sources."
  }
 ]

@@ -1,73 +1,40 @@
 [
-{
-"date": "2026-10-09",
-"tickers": [
-"ALL",
-"LLY",
-"ISRG",
-"MSFT",
-"NVDA"
-],
-"effect": "watch",
-"title": "Health stocks up, tech stocks down on Friday",
-"summary": "On the last trading day of the week, healthcare companies on the Nasdaq rose about 2.1% on average, while technology companies slipped about 0.6%.",
-"why": "When money moves from one group of stocks to another, people call it a rotation. One day is not a trend, but if it keeps happening, our tech-heavy companies could lag while health companies like Eli Lilly do better.",
-"source": "Financial Modeling Prep sector data",
-"url": ""
-},
-{
-"date": "2026-10-08",
-"tickers": [
-"TSM",
-"NVDA",
-"AMD",
-"AVGO"
-],
-"effect": "good",
-"title": "TSMC's sales jumped 55% in a year",
-"summary": "TSMC, the factory that builds chips for NVIDIA, AMD and Apple, reported September sales of about NT$512 billion, 54.6% more than a year earlier. Sales for the first nine months of 2026 grew about 41%.",
-"why": "TSMC builds the chips that power AI. When its sales keep growing this fast, it means companies are still buying lots of AI chips, which is good news for the AI suppliers on our list.",
-"source": "TSMC press release",
-"url": "https://pr.tsmc.com/english/news/3343"
-},
-{
-"date": "2026-10-07",
-"tickers": [
-"ALL",
-"NVDA",
-"AMD",
-"META",
-"AMZN"
-],
-"effect": "bad",
-"title": "The Fed may raise interest rates again",
-"summary": "Notes from the Federal Reserve's last meeting showed most officials expect another rate increase this year, because prices are still rising about 3.4% a year, well above their 2% goal. The Fed already raised rates in September.",
-"why": "Higher interest rates make borrowing more expensive and make safe savings pay more. That can pull money away from stocks, especially fast-growing companies that look expensive, like many AI stocks.",
-"source": "Associated Press via News4JAX",
-"url": "https://www.news4jax.com/business/2026/10/07/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes/"
-},
-{
-"date": "2026-10-07",
-"tickers": [
-"ALL"
-],
-"effect": "watch",
-"title": "Coming up: the Fed decides on rates Oct. 28-29",
-"summary": "The Federal Reserve's next meeting is October 28-29. According to the same report, traders expect the Fed to wait at that meeting and raise rates in December.",
-"why": "Fed meeting days often make the whole market jumpy. A surprise in either direction can move every stock on our list.",
-"source": "Associated Press via News4JAX",
-"url": "https://www.news4jax.com/business/2026/10/07/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes/"
-},
-{
-"date": "2026-08-10",
-"tickers": [
-"RKLB"
-],
-"effect": "bad",
-"title": "Rocket Lab's big new rocket might slip to 2027",
-"summary": "Rocket Lab said the window to launch its larger Neutron rocket before the end of 2026 is narrowing, and a filing said the first flight could slip into 2027. A fuel tank broke during a test in January, which already caused a delay.",
-"why": "Investors are paying today for rockets Rocket Lab plans to fly tomorrow. Delays push back the money those launches would earn, which is one reason the stock is far below its high.",
-"source": "Spaceflight Now",
-"url": "https://spaceflightnow.com/2026/08/10/window-for-2026-launch-debut-of-rocket-labs-neutron-rocket-is-narrowing-as-development-continues/"
-}
+ {
+  "date": "2026-10-12",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Inflation report due Wednesday",
+  "summary": "The government will publish September price numbers on Wednesday, Oct. 14. Forecasters expect yearly inflation to rise to about 3.6%, up from 3.4% in August, mostly because gasoline prices were very high. Until the real number comes out, this is only a guess.",
+  "why": "Inflation is how fast prices go up. If it is higher than people expect, the Fed may keep interest rates high or raise them, and that usually makes stocks that cost a lot compared with their profits, like AMD, fall more.",
+  "source": "Admirals (CPI preview, forecasts only)",
+  "url": "https://admiralmarkets.com/analytics/traders-blog/us-cpi-preview-september-2026-forecasts-and-the-core-cpi-outlook"
+ },
+ {
+  "date": "2026-10-07",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Coming up: the Fed decides on rates Oct. 27-28",
+  "summary": "Minutes from the Fed's last meeting showed that officials expect another rate increase may be needed this year. The next decision is at the end of October.",
+  "why": "The Fed sets the rate banks charge each other, and that moves what everyone pays to borrow. Higher rates usually make bonds look better and can pull stock prices down.",
+  "source": "AP via News4JAX",
+  "url": "https://www.news4jax.com/business/2026/10/07/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes/"
+ },
+ {
+  "date": "2026-08-10",
+  "tickers": [
+   "MSFT",
+   "TSM",
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "Microsoft reportedly plans its own AI chip",
+  "summary": "Press reports say Microsoft plans to show a new chip called Maia 300 and has talked with TSMC about making hundreds of thousands of them for 2027. Microsoft has not confirmed the timing, and reports disagree on when it will arrive.",
+  "why": "If big companies build their own chips, they may buy fewer from NVIDIA over time. But TSMC would likely make the chips either way, so this is something to watch, not a sure thing.",
+  "source": "The Star (citing The Information)",
+  "url": "https://www.thestar.com.my/tech/tech-news/2026/08/10/microsoft-plans-to-unveil-its-new-maia-300-ai-chip-this-fall-the-information-reports"
+ }
 ]
