@@ -1,7 +1,12 @@
 [
-{
-"date": "2026-10-09",
-"title": "Lesson 1: What is beta?",
-"text": "Beta tells you how much a stock moves compared with the whole market. A beta of 1 moves like the market. A beta of 2 tends to move twice as much, up and down. NVIDIA has a beta of about 2.2 and Rocket Lab about 2.6, so they are roller coasters. Eli Lilly is about 0.45, a much calmer ride."
-}
+ {
+  "date": "2026-10-09",
+  "title": "Lesson 1: What is beta?",
+  "text": "Beta tells you how much a stock moves compared with the whole market. A beta of 1 moves like the market. A beta of 2 tends to move twice as much, up and down. NVIDIA has a beta of about 2.2 and Rocket Lab about 2.6, so they are roller coasters. Eli Lilly is about 0.45, a much calmer ride."
+ },
+ {
+  "date": "2026-10-12",
+  "title": "Lesson 2: What is a price target?",
+  "text": "A price target is an expert's guess of what a stock could be worth in about 12 months. The consensus is the average of many experts' guesses. GE trades near $309 and experts expect about $410, which is 33% higher. AMD is already at its target ($594 vs $608). Targets change often and are often wrong, so use them as a clue, not a promise."
+ }
 ]

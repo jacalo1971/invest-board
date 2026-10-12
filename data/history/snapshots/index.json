@@ -1,9 +1,16 @@
 [
-{
-"id": "2026-10-09-evening",
-"date": "2026-10-09",
-"session": "evening",
-"label": "Oct 9, 2026 (after the close)",
-"updated_at": "2026-10-11T02:40:00Z"
-}
+ {
+  "id": "2026-10-09-evening",
+  "date": "2026-10-09",
+  "session": "evening",
+  "label": "Oct 9, 2026 (after the close)",
+  "updated_at": "2026-10-11T02:40:00Z"
+ },
+ {
+  "id": "2026-10-12-evening",
+  "date": "2026-10-12",
+  "session": "evening",
+  "label": "Oct 12, 2026 (after the close)",
+  "updated_at": "2026-10-12T20:45:00Z"
+ }
 ]
