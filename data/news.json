@@ -1,5 +1,20 @@
 [
  {
+  "date": "2026-10-13",
+  "tickers": [
+   "TSM",
+   "NVDA",
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "watch",
+  "title": "TSMC will report its results on Thursday",
+  "summary": "TSMC, the world's biggest maker of advanced chips, will share its July to September results on Thursday, Oct. 15, at 2:00 am Eastern time. Its own forecast for the quarter was sales of about $44.6 billion to $45.8 billion.",
+  "why": "TSMC builds chips for NVIDIA, AMD and Broadcom. If it says orders are strong, that is a good clue for those companies too; if it sounds careful, they can fall together. A forecast is not a result, so wait for the real numbers.",
+  "source": "TSMC Investor Relations (quarterly results page)",
+  "url": "https://investor.tsmc.com/quarterly-results"
+ },
+ {
   "date": "2026-10-12",
   "tickers": [
    "ALL"
@@ -22,19 +37,5 @@
   "why": "The Fed sets the rate banks charge each other, and that moves what everyone pays to borrow. Higher rates usually make bonds look better and can pull stock prices down.",
   "source": "AP via News4JAX",
   "url": "https://www.news4jax.com/business/2026/10/07/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes/"
- },
- {
-  "date": "2026-08-10",
-  "tickers": [
-   "MSFT",
-   "TSM",
-   "NVDA"
-  ],
-  "effect": "watch",
-  "title": "Microsoft reportedly plans its own AI chip",
-  "summary": "Press reports say Microsoft plans to show a new chip called Maia 300 and has talked with TSMC about making hundreds of thousands of them for 2027. Microsoft has not confirmed the timing, and reports disagree on when it will arrive.",
-  "why": "If big companies build their own chips, they may buy fewer from NVIDIA over time. But TSMC would likely make the chips either way, so this is something to watch, not a sure thing.",
-  "source": "The Star (citing The Information)",
-  "url": "https://www.thestar.com.my/tech/tech-news/2026/08/10/microsoft-plans-to-unveil-its-new-maia-300-ai-chip-this-fall-the-information-reports"
  }
 ]

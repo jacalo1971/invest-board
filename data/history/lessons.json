@@ -13,5 +13,10 @@
   "date": "2026-10-12",
   "title": "Lesson 3: What is a dividend?",
   "text": "A dividend is a small payment that some companies send to their owners, usually every three months, just for holding the stock. Think of it as a thank-you share of the profits. Microsoft and Lockheed Martin pay dividends, while Amazon, AMD and Rocket Lab do not, because they keep their money to grow. The fund SCHD is built from companies that pay steady dividends, which is why it has been a calmer ride (beta 0.58). A dividend is not free money: the stock price usually drops a little when the dividend is paid."
+ },
+ {
+  "date": "2026-10-13",
+  "title": "Lesson 4: What is diversification?",
+  "text": "Diversification means not putting all your eggs in one basket. On Monday, chip stocks fell (TSMC -2.0%, NVIDIA -1.3%) while Meta rose 3.4% and Microsoft rose 1.1%. If you owned only chip companies, you felt the whole drop. If you owned a mix, the ups and downs partly cancelled out. A fund like SPY holds about 500 companies at once, which is diversification in one purchase. It does not remove risk, and a mix can still go down when the whole market falls, but it can make the ride smoother."
  }
 ]

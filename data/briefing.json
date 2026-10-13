@@ -2,31 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "The market ended almost flat (SPY -0.1%, QQQ -0.7%), but money moved around: Meta (+3.4%) and Microsoft (+1.1%) went up, while chip and space companies like TSMC (-2.0%), AMD (-2.3%), NVIDIA (-1.3%) and Rocket Lab (-3.7%) went down."
+  "text": "US stocks open at 9:30 am Eastern, and the prices here are Monday's close; the thing to watch is whether chip companies keep sliding (TSMC -2.0%, AMD -2.3%, NVIDIA -1.3% on Monday) while Meta (+3.4%) and Microsoft (+1.1%) held up, with inflation numbers due Wednesday and TSMC's report due Thursday."
  },
  {
   "kind": "alert",
-  "title": "Meta is close to its high",
-  "text": "Meta rose 3.4% to $742.96. It is now about 5% below its highest price of the past year ($779.82) and about 5% below what experts expect it to be worth in a year ($781). When a stock gets close to the experts' guess, there is less room left in that guess."
+  "title": "TSMC reports on Thursday",
+  "text": "TSMC makes chips for NVIDIA, AMD and Broadcom, so investors treat its report card as a clue about the whole AI chip business. TSMC says it will share its results on Thursday, Oct. 15 (2:00 am Eastern time). It closed Monday at $444.35, about 9% below its highest price of the past year ($487.47). Big reports can move a stock a lot in either direction."
  },
  {
   "kind": "alert",
-  "title": "AMD already sits near its target",
-  "text": "AMD fell 2.3% to $594.24, but the experts' average guess is $607.59, only 2% higher. AMD is also a roller coaster stock (beta 2.5, which means it tends to move about two and a half times as much as the market), so its price can swing a lot in either direction."
+  "title": "Inflation report on Wednesday",
+  "text": "The September inflation report (how fast prices are rising) is due Wednesday, Oct. 14. One analyst preview expects prices to be up about 3.6% from a year ago, compared with 3.4% in August. That is only a forecast. Higher inflation can keep interest rates high, and the Fed meets Oct. 27 to 28. Expensive-looking stocks tend to feel rate worries the most."
  },
  {
   "kind": "alert",
-  "title": "Big inflation report on Wednesday",
-  "text": "The September inflation report (how fast prices are rising) comes out Wednesday, Oct. 14. Experts expect prices to be up around 3.6% from a year ago, which would be higher than August's 3.4%. These are forecasts, not facts yet. The Fed meets Oct. 27 to 28, and higher inflation can keep interest rates high, which tends to hurt expensive stocks like AMD."
+  "title": "AMD is still near its target",
+  "text": "AMD fell 2.3% to $594.24, but the experts' average guess for its price in a year is $607.59, only 2% higher. AMD is also a roller coaster stock (beta 2.5, so it tends to move about two and a half times as much as the market). Its price can swing a lot in either direction."
+ },
+ {
+  "kind": "alert",
+  "title": "Rocket Lab had the biggest drop",
+  "text": "Rocket Lab fell 3.7% to $65.71 on Monday, the biggest drop on our list. It is still about 56% below its highest price of the past year ($151). That shows how wild a small, fast-growing company can be: it also has the highest risk score on our list (9.9 out of 10)."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 3: What is a dividend?",
-  "text": "A dividend is a small payment that some companies send to their owners, usually every three months, just for holding the stock. Think of it as a thank-you share of the profits. Microsoft and Lockheed Martin pay dividends, while Amazon, AMD and Rocket Lab do not, because they keep their money to grow. The fund SCHD is built from companies that pay steady dividends, which is why it has been a calmer ride (beta 0.58). A dividend is not free money: the stock price usually drops a little when the dividend is paid."
+  "title": "Lesson 4: What is diversification?",
+  "text": "Diversification means not putting all your eggs in one basket. On Monday, chip stocks fell (TSMC -2.0%, NVIDIA -1.3%) while Meta rose 3.4% and Microsoft rose 1.1%. If you owned only chip companies, you felt the whole drop. If you owned a mix, the ups and downs partly cancelled out. A fund like SPY holds about 500 companies at once, which is diversification in one purchase. It does not remove risk, and a mix can still go down when the whole market falls, but it can make the ride smoother."
  },
  {
   "kind": "coverage",
   "title": "What we could and could not check",
-  "text": "Prices are from the close on Oct. 12. Analyst targets and some company numbers are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical, and the ETFs have no targets, so those stay blank. News is picked by hand from public sources."
+  "text": "Prices, 52-week ranges and expert price targets come from FMP, and prices are Monday's close. Experts' targets and company numbers were not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical, so those spots are empty. The inflation forecast comes from one analyst preview, not from the government. Government and company websites could not be opened today, so the TSMC date was confirmed through search results that point to TSMC's own page. This is information to learn from, not advice to buy or sell."
  }
 ]

@@ -107,5 +107,20 @@
   "why": "If big companies build their own chips, they may buy fewer from NVIDIA over time. But TSMC would likely make the chips either way, so this is something to watch, not a sure thing.",
   "source": "The Star (citing The Information)",
   "url": "https://www.thestar.com.my/tech/tech-news/2026/08/10/microsoft-plans-to-unveil-its-new-maia-300-ai-chip-this-fall-the-information-reports"
+ },
+ {
+  "date": "2026-10-13",
+  "tickers": [
+   "TSM",
+   "NVDA",
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "watch",
+  "title": "TSMC will report its results on Thursday",
+  "summary": "TSMC, the world's biggest maker of advanced chips, will share its July to September results on Thursday, Oct. 15, at 2:00 am Eastern time. Its own forecast for the quarter was sales of about $44.6 billion to $45.8 billion.",
+  "why": "TSMC builds chips for NVIDIA, AMD and Broadcom. If it says orders are strong, that is a good clue for those companies too; if it sounds careful, they can fall together. A forecast is not a result, so wait for the real numbers.",
+  "source": "TSMC Investor Relations (quarterly results page)",
+  "url": "https://investor.tsmc.com/quarterly-results"
  }
 ]
