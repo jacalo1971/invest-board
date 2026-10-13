@@ -122,5 +122,17 @@
   "why": "TSMC builds chips for NVIDIA, AMD and Broadcom. If it says orders are strong, that is a good clue for those companies too; if it sounds careful, they can fall together. A forecast is not a result, so wait for the real numbers.",
   "source": "TSMC Investor Relations (quarterly results page)",
   "url": "https://investor.tsmc.com/quarterly-results"
+ },
+ {
+  "date": "2026-10-13",
+  "tickers": [
+   "META"
+  ],
+  "effect": "good",
+  "title": "Meta shares rise after new AI model launch",
+  "summary": "Meta stock climbed about 2.6% on Tuesday, adding to a jump on Monday. Reports link the rise to the company's new AI models and to analysts raising their price targets. We could not open the article, so the details come from a search summary.",
+  "why": "Investors pay more for a company when they believe its new products will earn money. But a stock that has already jumped has less room to rise if the news turns out to be smaller than hoped.",
+  "source": "Investing.com",
+  "url": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-rallying-today-93CH-4947019"
  }
 ]

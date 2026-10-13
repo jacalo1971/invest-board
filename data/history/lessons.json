@@ -18,5 +18,10 @@
   "date": "2026-10-13",
   "title": "Lesson 4: What is diversification?",
   "text": "Diversification means not putting all your eggs in one basket. On Monday, chip stocks fell (TSMC -2.0%, NVIDIA -1.3%) while Meta rose 3.4% and Microsoft rose 1.1%. If you owned only chip companies, you felt the whole drop. If you owned a mix, the ups and downs partly cancelled out. A fund like SPY holds about 500 companies at once, which is diversification in one purchase. It does not remove risk, and a mix can still go down when the whole market falls, but it can make the ride smoother."
+ },
+ {
+  "date": "2026-10-13",
+  "title": "Lesson 5: What is a P/E ratio?",
+  "text": "P/E means price divided by earnings. Earnings are a company's profit for each share over the last year. If a stock costs $100 and the company earned $5 per share, the P/E is 20. You are paying $20 for every $1 of yearly profit. Today Alphabet's P/E is about 17, Microsoft's is about 30, and AMD's is about 154. A high P/E often means people expect fast growth, and a stock with a high P/E can fall harder if the growth is disappointing. A low P/E is not always a bargain either; sometimes the company is growing slowly. P/E works best when you compare similar companies."
  }
 ]
