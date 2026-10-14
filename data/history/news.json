@@ -134,5 +134,44 @@
   "why": "Investors pay more for a company when they believe its new products will earn money. But a stock that has already jumped has less room to rise if the news turns out to be smaller than hoped.",
   "source": "Investing.com",
   "url": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-rallying-today-93CH-4947019"
+ },
+ {
+  "date": "2026-10-13",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Inflation report due Wednesday morning",
+  "summary": "The September consumer price report comes out on Oct. 14 at 8:30 am Eastern. Economists polled by Dow Jones expect prices to rise 0.6% in the month and 3.6% over the past year, helped by higher energy costs. The Fed's next meeting is Oct. 27 and 28.",
+  "why": "Inflation is how fast prices rise. If it is hotter than expected, investors may think interest rates will stay high or go up, which can pull down stocks that already cost a lot compared with their profits.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html"
+ },
+ {
+  "date": "2026-10-08",
+  "tickers": [
+   "TSM",
+   "NVDA",
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "good",
+  "title": "TSMC reports record sales for July to September",
+  "summary": "The Taiwanese chipmaker said its sales for the third quarter were about 50% higher than a year before and above what analysts expected. It did not give an outlook yet. That comes with its full earnings report on Thursday, Oct. 15.",
+  "why": "TSMC builds chips for many AI companies, so strong sales suggest those customers are still buying. The outlook it gives on Thursday matters even more than last quarter's numbers.",
+  "source": "Reuters (via The Star)",
+  "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tsmc039s-third-quarter-revenue-surges-to-record-beating-market-forecast"
+ },
+ {
+  "date": "2026-10-13",
+  "tickers": [
+   "LLY"
+  ],
+  "effect": "watch",
+  "title": "Eli Lilly slips about 1.3% on Tuesday",
+  "summary": "Shares of the drugmaker dipped to about $1,167 in lighter than normal trading. The article notes that analysts still lean positive, and also points to questions about how many people stopped taking an experimental weight loss drug in a trial.",
+  "why": "Drug company shares often move on trial results, since a medicine's success drives future sales. A small dip on low volume is usually not a big signal by itself.",
+  "source": "MarketBeat",
+  "url": "https://marketbeat.com/instant-alerts/price-eli-lilly-and-company-nyse-lly-shares-down-13-heres-why-2026-10-13"
  }
 ]

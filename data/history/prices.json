@@ -206,7 +206,7 @@
  {
   "date": "2026-10-13",
   "symbol": "SPY",
-  "price": 778.05,
+  "price": 778.01,
   "risk_score": 2.2
  },
  {
@@ -255,7 +255,7 @@
   "date": "2026-10-13",
   "symbol": "GOOGL",
   "price": 353.78,
-  "risk_score": 4.3
+  "risk_score": 4.2
  },
  {
   "date": "2026-10-13",

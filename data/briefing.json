@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Stocks closed Tuesday with Meta up 2.6% and AMD up 1.9%, while Rocket Lab fell 2.3%; the thing to watch tomorrow is the inflation report at 8:30 am Eastern, and then TSMC's report card on Thursday morning."
+  "text": "Stocks ended Tuesday with Meta up 2.6% and AMD up 1.9%, while Rocket Lab fell 2.3%; at the open, watch how stocks react to the inflation report that comes out at 8:30 am Eastern today."
  },
  {
   "kind": "alert",
-  "title": "Inflation report is tomorrow",
-  "text": "The September inflation report (how fast prices are rising) comes out Wednesday, Oct. 14. One analyst preview expects prices to be up about 3.6% from a year ago, compared with 3.4% in August. That is only a forecast. If the real number is higher, the Fed may keep interest rates high, and stocks that cost a lot compared with their profits, like AMD, often feel it most. The Fed meets again Oct. 27 to 28."
+  "title": "Inflation report at 8:30 am today",
+  "text": "The September inflation report (how fast prices are rising) comes out today, Oct. 14. Economists polled by Dow Jones expect prices to be up 0.6% from August and 3.6% from a year ago. Those are forecasts, not facts. A higher number can make people think interest rates will stay high or go up, and stocks that are expensive compared with their profits, like AMD, often feel that most. The Fed meets next on Oct. 27 and 28."
  },
  {
   "kind": "alert",
   "title": "TSMC reports on Thursday",
-  "text": "TSMC makes chips for NVIDIA, AMD and Broadcom, so its report card is a clue for the whole AI chip business. It reports Thursday, Oct. 15, at 2:00 am Eastern. TSMC closed Tuesday at $445.12, about 9% below its highest price of the past year ($487.47). Its own forecast for the quarter was sales of $44.6 to $45.8 billion; the real numbers could be better or worse."
+  "text": "TSMC makes chips for NVIDIA, AMD and Broadcom, so its report on Thursday, Oct. 15, is a clue for the whole AI chip business. Earlier this month it said its sales for July to September were a record, about 50% more than a year before. TSMC closed Tuesday at $445.12, about 9% below its highest price of the past year ($487.47). The report will also tell us what TSMC expects for the months ahead."
  },
  {
   "kind": "alert",
-  "title": "Meta led the day",
-  "text": "Meta rose 2.6% to $762.50, close to its one-year high of $779.82. Reports say the move followed Meta's launch of new AI models and several analyst price target increases. Experts' average price target is $800.30, only 5% above where the stock closed. When a stock has already run up, there is less room left to reach what experts guess."
+  "title": "Bond yields keep climbing",
+  "text": "The 10 year Treasury yield (what the US government pays to borrow for ten years) averaged 4.99% in September. That is the highest in the past 12 months and up from 4.06% a year earlier. When bonds pay more, stocks have to look more attractive to compete, which is one reason expensive stocks can wobble."
  },
  {
   "kind": "alert",
-  "title": "Health and industrial stocks slipped",
-  "text": "Among Nasdaq companies, healthcare fell 1.7% and industrials fell 1.8% on average, while energy and utilities rose about 1.8%. In our list, Eli Lilly fell 1.4%, Intuitive Surgical fell 1.3% and Lockheed Martin fell 1.5%. One day of moves is a small piece of the story, not a trend."
+  "title": "Health and industrial stocks lagged",
+  "text": "On Tuesday, Nasdaq healthcare stocks fell about 1.7% and industrial stocks about 1.8% on average. In our list, Eli Lilly fell 1.4%, Intuitive Surgical 1.3%, Lockheed Martin 1.5% and Rocket Lab 2.3%. One day does not make a trend, but it shows the market favored energy, utilities and tech that day."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 5: What is a P/E ratio?",
-  "text": "P/E means price divided by earnings. Earnings are a company's profit for each share over the last year. If a stock costs $100 and the company earned $5 per share, the P/E is 20. You are paying $20 for every $1 of yearly profit. Today Alphabet's P/E is about 17, Microsoft's is about 30, and AMD's is about 154. A high P/E often means people expect fast growth, and a stock with a high P/E can fall harder if the growth is disappointing. A low P/E is not always a bargain either; sometimes the company is growing slowly. P/E works best when you compare similar companies."
+  "title": "Lesson 6: What is the 52 week range?",
+  "text": "The 52 week range shows the lowest and highest price of a stock over the past year. It helps you see where today's price sits. AMD's range is $188.22 to $658.52, and it closed at $605.53, about 89% of the way up. Vertiv's range is $147.82 to $379.94, and it closed at $237.29, only about 39% of the way up. A price near the top means the stock has run a lot; a price near the bottom may mean people are worried, or that it is on sale. The range does not tell you which one is true. It only tells you where to start asking questions."
  },
  {
   "kind": "coverage",
-  "title": "What we could and could not check",
-  "text": "Prices, 52-week ranges and expert price targets come from FMP, and prices are Tuesday's close. Experts' targets and company numbers were not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical, so those spots are empty. The inflation forecast comes from one analyst preview, not from the government. Company and news websites could not be opened today, so the TSMC date and forecast were confirmed through search results that point to TSMC's own page, and the Meta reason comes from a search summary and is not fully confirmed. This is information to learn from, not advice to buy or sell."
+  "title": "What this covers",
+  "text": "Prices are from Tuesday's close. Analyst price targets and company numbers are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE Aerospace and Lockheed Martin. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have prices and risk scores only. This is information to learn from, not advice to buy or sell."
  }
 ]

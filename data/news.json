@@ -2,6 +2,45 @@
  {
   "date": "2026-10-13",
   "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Inflation report due Wednesday morning",
+  "summary": "The September consumer price report comes out on Oct. 14 at 8:30 am Eastern. Economists polled by Dow Jones expect prices to rise 0.6% in the month and 3.6% over the past year, helped by higher energy costs. The Fed's next meeting is Oct. 27 and 28.",
+  "why": "Inflation is how fast prices rise. If it is hotter than expected, investors may think interest rates will stay high or go up, which can pull down stocks that already cost a lot compared with their profits.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html"
+ },
+ {
+  "date": "2026-10-08",
+  "tickers": [
+   "TSM",
+   "NVDA",
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "good",
+  "title": "TSMC reports record sales for July to September",
+  "summary": "The Taiwanese chipmaker said its sales for the third quarter were about 50% higher than a year before and above what analysts expected. It did not give an outlook yet. That comes with its full earnings report on Thursday, Oct. 15.",
+  "why": "TSMC builds chips for many AI companies, so strong sales suggest those customers are still buying. The outlook it gives on Thursday matters even more than last quarter's numbers.",
+  "source": "Reuters (via The Star)",
+  "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tsmc039s-third-quarter-revenue-surges-to-record-beating-market-forecast"
+ },
+ {
+  "date": "2026-10-13",
+  "tickers": [
+   "LLY"
+  ],
+  "effect": "watch",
+  "title": "Eli Lilly slips about 1.3% on Tuesday",
+  "summary": "Shares of the drugmaker dipped to about $1,167 in lighter than normal trading. The article notes that analysts still lean positive, and also points to questions about how many people stopped taking an experimental weight loss drug in a trial.",
+  "why": "Drug company shares often move on trial results, since a medicine's success drives future sales. A small dip on low volume is usually not a big signal by itself.",
+  "source": "MarketBeat",
+  "url": "https://marketbeat.com/instant-alerts/price-eli-lilly-and-company-nyse-lly-shares-down-13-heres-why-2026-10-13"
+ },
+ {
+  "date": "2026-10-13",
+  "tickers": [
    "META"
   ],
   "effect": "good",
@@ -10,44 +49,5 @@
   "why": "Investors pay more for a company when they believe its new products will earn money. But a stock that has already jumped has less room to rise if the news turns out to be smaller than hoped.",
   "source": "Investing.com",
   "url": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-rallying-today-93CH-4947019"
- },
- {
-  "date": "2026-10-13",
-  "tickers": [
-   "TSM",
-   "NVDA",
-   "AMD",
-   "AVGO"
-  ],
-  "effect": "watch",
-  "title": "TSMC will report its results on Thursday",
-  "summary": "TSMC, the world's biggest maker of advanced chips, will share its July to September results on Thursday, Oct. 15, at 2:00 am Eastern time. Its own forecast for the quarter was sales of about $44.6 billion to $45.8 billion.",
-  "why": "TSMC builds chips for NVIDIA, AMD and Broadcom. If it says orders are strong, that is a good clue for those companies too; if it sounds careful, they can fall together. A forecast is not a result, so wait for the real numbers.",
-  "source": "TSMC Investor Relations (quarterly results page)",
-  "url": "https://investor.tsmc.com/quarterly-results"
- },
- {
-  "date": "2026-10-12",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Inflation report due Wednesday",
-  "summary": "The government will publish September price numbers on Wednesday, Oct. 14. Forecasters expect yearly inflation to rise to about 3.6%, up from 3.4% in August, mostly because gasoline prices were very high. Until the real number comes out, this is only a guess.",
-  "why": "Inflation is how fast prices go up. If it is higher than people expect, the Fed may keep interest rates high or raise them, and that usually makes stocks that cost a lot compared with their profits, like AMD, fall more.",
-  "source": "Admirals (CPI preview, forecasts only)",
-  "url": "https://admiralmarkets.com/analytics/traders-blog/us-cpi-preview-september-2026-forecasts-and-the-core-cpi-outlook"
- },
- {
-  "date": "2026-10-07",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Coming up: the Fed decides on rates Oct. 27-28",
-  "summary": "Minutes from the Fed's last meeting showed that officials expect another rate increase may be needed this year. The next decision is at the end of October.",
-  "why": "The Fed sets the rate banks charge each other, and that moves what everyone pays to borrow. Higher rates usually make bonds look better and can pull stock prices down.",
-  "source": "AP via News4JAX",
-  "url": "https://www.news4jax.com/business/2026/10/07/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes/"
  }
 ]
