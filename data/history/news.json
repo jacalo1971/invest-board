@@ -173,5 +173,48 @@
   "why": "Drug company shares often move on trial results, since a medicine's success drives future sales. A small dip on low volume is usually not a big signal by itself.",
   "source": "MarketBeat",
   "url": "https://marketbeat.com/instant-alerts/price-eli-lilly-and-company-nyse-lly-shares-down-13-heres-why-2026-10-13"
+ },
+ {
+  "date": "2026-10-14",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Inflation rises to 3.7% as gasoline jumps",
+  "summary": "Consumer prices in September were 3.7% higher than a year earlier, up from 3.4% in August and a bit above the 3.6% economists expected. Prices rose 0.6% in the month, with gasoline up 9.1% making up about half of that. Without food and energy, prices rose 0.3% in the month and 2.6% over the year.",
+  "why": "Inflation is how fast prices go up. When it speeds up, people expect the Fed to keep interest rates high or raise them, and that tends to push down stocks that already cost a lot compared with what they earn.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/amp/2026/10/14/cpi-inflation-report-september-2026.html"
+ },
+ {
+  "date": "2026-10-14",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "bad",
+  "title": "Hot inflation report drags tech and chip stocks lower",
+  "summary": "Wall Street ended lower on Wednesday after the inflation numbers. The Nasdaq lost about 1.9% and the S&P 500 about 1%, with chip stocks leading the way down and NVIDIA off more than 3%.",
+  "why": "Chip companies are often priced for fast growth far in the future. When interest rates look likely to stay high, that future money is worth less today, so these shares tend to fall more than the rest of the market.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html"
+ },
+ {
+  "date": "2026-10-14",
+  "tickers": [
+   "TSM",
+   "NVDA",
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "watch",
+  "title": "TSMC reports earnings on Thursday",
+  "summary": "The Taiwanese chipmaker will share its full results on Oct. 15. Earlier this month it said its July to September sales were a record, about 50% above a year before and above what analysts expected. Investors now want to hear its plan for the coming months.",
+  "why": "TSMC builds chips for many AI companies. What it says about future orders hints at how much those customers expect to sell, so its outlook can move many stocks on your list.",
+  "source": "Reuters (via The Star)",
+  "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tsmc039s-third-quarter-revenue-surges-to-record-beating-market-forecast"
  }
 ]

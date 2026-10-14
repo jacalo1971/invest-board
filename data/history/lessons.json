@@ -28,5 +28,10 @@
   "date": "2026-10-14",
   "title": "Lesson 6: What is the 52 week range?",
   "text": "The 52 week range shows the lowest and highest price of a stock over the past year. It helps you see where today's price sits. AMD's range is $188.22 to $658.52, and it closed at $605.53, about 89% of the way up. Vertiv's range is $147.82 to $379.94, and it closed at $237.29, only about 39% of the way up. A price near the top means the stock has run a lot; a price near the bottom may mean people are worried, or that it is on sale. The range does not tell you which one is true. It only tells you where to start asking questions."
+ },
+ {
+  "date": "2026-10-14",
+  "title": "Lesson 7: What is dollar cost averaging?",
+  "text": "Dollar cost averaging means putting in the same amount of money on a regular schedule, like $100 every month, no matter what the price is. Say a stock costs $10, then $8, then $12. Your $100 buys 10 shares, then 12.5, then 8.33, so you own 30.83 shares for $300. That is about $9.73 each, a little less than the $10 average price, because you automatically buy more when the price is low and fewer when it is high. Today is a good example: SPY fell 1.1%, and a person buying every month would simply get slightly more shares today than yesterday. It does not guarantee a profit and it does not protect from losses, but it takes away the stress of guessing the perfect day."
  }
 ]
