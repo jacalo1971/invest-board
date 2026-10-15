@@ -33,5 +33,10 @@
   "date": "2026-10-14",
   "title": "Lesson 7: What is dollar cost averaging?",
   "text": "Dollar cost averaging means putting in the same amount of money on a regular schedule, like $100 every month, no matter what the price is. Say a stock costs $10, then $8, then $12. Your $100 buys 10 shares, then 12.5, then 8.33, so you own 30.83 shares for $300. That is about $9.73 each, a little less than the $10 average price, because you automatically buy more when the price is low and fewer when it is high. Today is a good example: SPY fell 1.1%, and a person buying every month would simply get slightly more shares today than yesterday. It does not guarantee a profit and it does not protect from losses, but it takes away the stress of guessing the perfect day."
+ },
+ {
+  "date": "2026-10-15",
+  "title": "Lesson 8: Bonds vs stocks",
+  "text": "A bond is a loan. You lend money to the government or a company, and they pay you interest and give the money back later. The 10 year US Treasury bond, a loan to the US government, paid an average of 4.99% in September, up from 4.06% a year earlier (see the chart on the board). When a very safe bond pays that much, stocks have to look attractive to compete, which is one reason expensive stocks wobble when yields rise. Stocks can grow more over many years but swing more; bonds usually swing less but grow less. Bonds are not risk free either: if rates rise, the price of an existing bond falls."
  }
 ]

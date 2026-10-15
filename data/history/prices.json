@@ -308,7 +308,7 @@
  {
   "date": "2026-10-14",
   "symbol": "SPY",
-  "price": 769.67,
+  "price": 769.6,
   "risk_score": 2.2
  },
  {
@@ -326,7 +326,7 @@
  {
   "date": "2026-10-14",
   "symbol": "NVDA",
-  "price": 221.51,
+  "price": 221.3,
   "risk_score": 5.3
  },
  {
@@ -380,7 +380,7 @@
  {
   "date": "2026-10-14",
   "symbol": "RKLB",
-  "price": 59.21,
+  "price": 59.18,
   "risk_score": 10
  },
  {
@@ -393,7 +393,7 @@
   "date": "2026-10-14",
   "symbol": "GE",
   "price": 307.02,
-  "risk_score": 4.9
+  "risk_score": 5.5
  },
  {
   "date": "2026-10-14",

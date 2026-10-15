@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Stocks fell on Wednesday after the inflation report came in a bit hotter than expected: the S&P 500 fund SPY lost 1.1% and the Nasdaq 100 fund QQQ lost 2.0%, with chip and space stocks hit hardest; tomorrow, watch TSMC's earnings report."
+  "text": "Wall Street opens today after a rough Wednesday, when the S&P 500 fund SPY lost 1.1% and the Nasdaq 100 fund QQQ lost 2.0%; the big thing to watch at the open is how chip stocks react to TSMC's full earnings report."
  },
  {
   "kind": "alert",
-  "title": "Inflation came in a bit hot",
-  "text": "Prices in September were 3.7% higher than a year earlier, above the 3.6% economists expected, and up 0.6% from August, as forecast. About half of the monthly rise came from gasoline, which jumped 9.1%. Prices without food and energy rose a calmer 0.3% in the month. When prices rise faster, people worry that interest rates stay high, and that often hurts stocks that are expensive compared with their profits. The Fed meets next on Oct. 27 and 28."
+  "title": "Prices shown are Wednesday's close",
+  "text": "The market has not opened yet, so every price on the board is still from Wednesday's close. Stocks fell that day after an inflation report showed prices rising a bit faster than experts expected. When prices rise faster, people worry that interest rates will stay high, and high rates tend to hurt stocks that already cost a lot compared with what they earn."
  },
  {
   "kind": "alert",
-  "title": "Chip and space stocks led the drop",
-  "text": "Rocket Lab fell 7.8%, Vertiv 6.1%, AMD 5.7%, TSMC 3.4%, Broadcom 3.1% and NVIDIA 3.1%. These companies have big price swings (their beta is high, which means they move more than the market). AMD is the most expensive of the group: its price is about 145 times its yearly profit, so it feels rising rates the most. The Nasdaq stocks in the tech sector fell 1.8% on average."
+  "title": "TSMC reports its full results today",
+  "text": "TSMC makes chips for many AI companies. On Oct. 8 it said its July to September sales were a record, about 50% above a year earlier and above what analysts expected. Today it shares its profit and its plan for the coming months. We have not confirmed those numbers yet, so check TSMC's own report. Its outlook can move NVIDIA, AMD, Broadcom and others on your list."
  },
  {
   "kind": "alert",
-  "title": "Health and defense went the other way",
-  "text": "Eli Lilly rose 3.8% and Lockheed Martin 3.6%, and the dividend fund SCHD gained 1.0%, while most of the list fell. In the Nasdaq, healthcare stocks gained 1.3% on average and consumer staples (everyday goods) gained 2.0%. This is why people mix different kinds of companies: when one group falls, another may hold up. One day is not a trend."
+  "title": "Some AI stocks are far below their highs",
+  "text": "Rocket Lab is about 61% below its 52 week high, Vertiv about 41% and Broadcom about 30%, while NVIDIA is only 9% below and AMD 13%. A stock that fell a lot is not automatically cheap; it can mean the market sees more risk. AMD costs about 145 times its yearly profit, so it is the one most sensitive to interest rate worries."
  },
  {
   "kind": "alert",
-  "title": "TSMC reports on Thursday",
-  "text": "TSMC makes chips for NVIDIA, AMD and Broadcom, so its report on Thursday, Oct. 15 is a clue for the whole AI chip world. Earlier this month it said its sales for July to September were a record, about 50% above a year before. The stock closed at $430.00, about 12% below its highest price of the past year ($487.47). The report will also say what TSMC expects for the months ahead."
+  "title": "The calm corners held up on Wednesday",
+  "text": "Eli Lilly rose 3.8%, Lockheed Martin 3.6% and the dividend fund SCHD 1.0%, while most of the list fell. Healthcare and consumer staples (food and household goods) were the only big sectors that went up on the Nasdaq. This is why mixing different kinds of companies can make the ride smoother."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 7: What is dollar cost averaging?",
-  "text": "Dollar cost averaging means putting in the same amount of money on a regular schedule, like $100 every month, no matter what the price is. Say a stock costs $10, then $8, then $12. Your $100 buys 10 shares, then 12.5, then 8.33, so you own 30.83 shares for $300. That is about $9.73 each, a little less than the $10 average price, because you automatically buy more when the price is low and fewer when it is high. Today is a good example: SPY fell 1.1%, and a person buying every month would simply get slightly more shares today than yesterday. It does not guarantee a profit and it does not protect from losses, but it takes away the stress of guessing the perfect day."
+  "title": "Lesson 8: Bonds vs stocks",
+  "text": "A bond is a loan. You lend money to the government or a company, and they pay you interest and give the money back later. The 10 year US Treasury bond, a loan to the US government, paid an average of 4.99% in September, up from 4.06% a year earlier (see the chart on the board). When a very safe bond pays that much, stocks have to look attractive to compete, which is one reason expensive stocks wobble when yields rise. Stocks can grow more over many years but swing more; bonds usually swing less but grow less. Bonds are not risk free either: if rates rise, the price of an existing bond falls."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "Prices are from Wednesday's close. Analyst price targets and company numbers are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE Aerospace and Lockheed Martin. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have prices and risk scores only. This is information to learn from, not advice to buy or sell anything."
+  "text": "Prices are from Wednesday's close because the market has not opened yet. Analyst price targets and company numbers are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE Aerospace and Lockheed Martin. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have prices and risk scores only. This is information to learn from, not advice to buy or sell anything."
  }
 ]
