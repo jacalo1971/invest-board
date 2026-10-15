@@ -38,5 +38,10 @@
   "date": "2026-10-15",
   "title": "Lesson 8: Bonds vs stocks",
   "text": "A bond is a loan. You lend money to the government or a company, and they pay you interest and give the money back later. The 10 year US Treasury bond, a loan to the US government, paid an average of 4.99% in September, up from 4.06% a year earlier (see the chart on the board). When a very safe bond pays that much, stocks have to look attractive to compete, which is one reason expensive stocks wobble when yields rise. Stocks can grow more over many years but swing more; bonds usually swing less but grow less. Bonds are not risk free either: if rates rise, the price of an existing bond falls."
+ },
+ {
+  "date": "2026-10-15",
+  "title": "Lesson 9: ETFs vs single stocks",
+  "text": "A single stock is a tiny piece of one company. An ETF (exchange traded fund) is a basket that holds pieces of many companies, and you buy the whole basket in one step. Look at today. NVIDIA, a single stock, fell 1.8%. The SPY fund, which holds 500 big US companies, rose 0.3%. The basket was calmer because the winners and losers in it partly cancel each other out. That is diversification, which Lesson 4 explained, built into one purchase. The tradeoff: a single stock can grow much faster than a basket if the company does great, but it can also fall much harder if the company stumbles. A basket will never be the top performer, and it will rarely be the worst. Many investors keep a basket as the base and add a few single stocks around it only if they understand each company."
  }
 ]

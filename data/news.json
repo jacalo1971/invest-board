@@ -1,33 +1,5 @@
 [
  {
-  "date": "2026-10-14",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "bad",
-  "title": "Inflation rises to 3.7% as gasoline jumps",
-  "summary": "Consumer prices in September were 3.7% higher than a year earlier, up from 3.4% in August and a bit above the 3.6% economists expected. Prices rose 0.6% in the month, with gasoline up 9.1% making up about half of that. Without food and energy, prices rose 0.3% in the month and 2.6% over the year.",
-  "why": "Inflation is how fast prices go up. When it speeds up, people expect the Fed to keep interest rates high or raise them, and that tends to push down stocks that already cost a lot compared with what they earn.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/amp/2026/10/14/cpi-inflation-report-september-2026.html"
- },
- {
-  "date": "2026-10-14",
-  "tickers": [
-   "NVDA",
-   "AMD",
-   "AVGO",
-   "TSM",
-   "VRT"
-  ],
-  "effect": "bad",
-  "title": "Hot inflation report drags tech and chip stocks lower",
-  "summary": "Wall Street ended lower on Wednesday after the inflation numbers. The Nasdaq lost about 1.9% and the S&P 500 about 1%, with chip stocks leading the way down and NVIDIA off more than 3%.",
-  "why": "Chip companies are often priced for fast growth far in the future. When interest rates look likely to stay high, that future money is worth less today, so these shares tend to fall more than the rest of the market.",
-  "source": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/live/stock-market-today-hot-inflation-report-drops-tech-drives-sp-500-nasdaq-down-152206632.html"
- },
- {
   "date": "2026-10-15",
   "tickers": [
    "TSM",
@@ -36,10 +8,38 @@
    "AVGO"
   ],
   "effect": "watch",
-  "title": "TSMC reports earnings today",
-  "summary": "The Taiwanese chipmaker shares its full results today, Oct. 15. Earlier this month it said its July to September sales were a record, about 50% above a year before and above what analysts expected. Investors now want to hear its plan for the coming months.",
-  "why": "TSMC builds chips for many AI companies. What it says about future orders hints at how much those customers expect to sell, so its outlook can move many stocks on your list.",
-  "source": "Reuters (via The Star)",
-  "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tsmc039s-third-quarter-revenue-surges-to-record-beating-market-forecast"
+  "title": "TSMC beats forecasts and guides higher",
+  "summary": "The chipmaker said July to September earnings per ADR share were $4.60, above the $4.45 analysts expected, with sales of about $46.5 billion. Its filing also points to October to December sales of $52.3 billion to $54.3 billion. Even so, its shares and other chip stocks ended the day lower.",
+  "why": "TSMC makes chips for many AI companies, so strong orders hint that its customers expect to sell a lot. Stocks can still fall on good news when investors hoped for even more.",
+  "source": "TSMC Form 6-K (SEC) and FMP earnings data",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+ },
+ {
+  "date": "2026-10-15",
+  "tickers": [
+   "GE",
+   "META",
+   "LMT"
+  ],
+  "effect": "watch",
+  "title": "Three of your companies report next week",
+  "summary": "Market calendars list GE Aerospace for Oct. 20, Meta for Oct. 21 and Lockheed Martin for Oct. 22. Analysts expect earnings of about $2.00, $6.74 and $7.52 per share. Company dates can still change.",
+  "why": "An earnings report is a company's report card for three months. If results beat or miss what analysts expected, the share price can jump or drop quickly.",
+  "source": "Financial Modeling Prep earnings calendar",
+  "url": "https://site.financialmodelingprep.com/developer/docs/earnings-calendar-api"
+ },
+ {
+  "date": "2026-10-15",
+  "tickers": [
+   "RKLB",
+   "LLY",
+   "LMT"
+  ],
+  "effect": "watch",
+  "title": "A mixed day: Eli Lilly up, Rocket Lab down",
+  "summary": "Eli Lilly gained 3.5% and Lockheed Martin 2.0%, while Rocket Lab lost 6.6%. The broad S&P 500 fund rose 0.3%. Stocks in different industries often move in different directions on the same day.",
+  "why": "This is why owning a mix of companies can smooth the ride. When one part of the portfolio falls, another part may rise.",
+  "source": "Financial Modeling Prep market data",
+  "url": "https://site.financialmodelingprep.com/"
  }
 ]

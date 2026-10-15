@@ -231,5 +231,48 @@
   "why": "TSMC builds chips for many AI companies. What it says about future orders hints at how much those customers expect to sell, so its outlook can move many stocks on your list.",
   "source": "Reuters (via The Star)",
   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/tsmc039s-third-quarter-revenue-surges-to-record-beating-market-forecast"
+ },
+ {
+  "date": "2026-10-15",
+  "tickers": [
+   "TSM",
+   "NVDA",
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "watch",
+  "title": "TSMC beats forecasts and guides higher",
+  "summary": "The chipmaker said July to September earnings per ADR share were $4.60, above the $4.45 analysts expected, with sales of about $46.5 billion. Its filing also points to October to December sales of $52.3 billion to $54.3 billion. Even so, its shares and other chip stocks ended the day lower.",
+  "why": "TSMC makes chips for many AI companies, so strong orders hint that its customers expect to sell a lot. Stocks can still fall on good news when investors hoped for even more.",
+  "source": "TSMC Form 6-K (SEC) and FMP earnings data",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+ },
+ {
+  "date": "2026-10-15",
+  "tickers": [
+   "GE",
+   "META",
+   "LMT"
+  ],
+  "effect": "watch",
+  "title": "Three of your companies report next week",
+  "summary": "Market calendars list GE Aerospace for Oct. 20, Meta for Oct. 21 and Lockheed Martin for Oct. 22. Analysts expect earnings of about $2.00, $6.74 and $7.52 per share. Company dates can still change.",
+  "why": "An earnings report is a company's report card for three months. If results beat or miss what analysts expected, the share price can jump or drop quickly.",
+  "source": "Financial Modeling Prep earnings calendar",
+  "url": "https://site.financialmodelingprep.com/developer/docs/earnings-calendar-api"
+ },
+ {
+  "date": "2026-10-15",
+  "tickers": [
+   "RKLB",
+   "LLY",
+   "LMT"
+  ],
+  "effect": "watch",
+  "title": "A mixed day: Eli Lilly up, Rocket Lab down",
+  "summary": "Eli Lilly gained 3.5% and Lockheed Martin 2.0%, while Rocket Lab lost 6.6%. The broad S&P 500 fund rose 0.3%. Stocks in different industries often move in different directions on the same day.",
+  "why": "This is why owning a mix of companies can smooth the ride. When one part of the portfolio falls, another part may rise.",
+  "source": "Financial Modeling Prep market data",
+  "url": "https://site.financialmodelingprep.com/"
  }
 ]
