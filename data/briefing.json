@@ -2,32 +2,32 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "The market closed mixed on Thursday: the S&P 500 fund SPY rose 0.3% and the Nasdaq 100 fund QQQ slipped 0.1%, while chip stocks fell even after TSMC reported better than expected results; tomorrow, watch whether chips keep sliding or bounce back."
+  "text": "On Thursday the S&P 500 fund SPY rose 0.3% and the Nasdaq 100 fund QQQ slipped 0.1%, so at the open watch whether chip stocks keep falling or bounce while drug and defense stocks stay strong; the next big test is next week, when GE, Meta and Lockheed report their results."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks dipped despite good news",
-  "text": "TSMC reported earnings per share of $4.60 against the $4.45 analysts expected, and sales of about $46.5 billion, also above forecasts. Yet TSMC fell 1.8%, NVIDIA 1.8%, AMD 1.5% and Vertiv 3.6%. Sometimes a stock drops on good news because investors had already hoped for even more. That is why prices can fall when a company does well."
+  "title": "Drug and defense stocks held up while chips slid",
+  "text": "On Thursday, Eli Lilly rose 3.5%, Lockheed Martin 2.0% and Intuitive Surgical 1.8%. In the same session Vertiv fell 3.6%, NVIDIA 1.8% and AMD 1.5%. When one group of stocks falls, money often moves to another group. Owning companies from different industries is called diversification, and days like this show why people like it."
  },
  {
   "kind": "alert",
-  "title": "Big companies beat chip suppliers today",
-  "text": "Microsoft rose 1.1%, Alphabet 0.5% and Amazon 0.3%, while all five AI supplier stocks on the list closed lower. Companies that build AI chips and equipment tend to swing more than the big companies that buy them, so they move up and down by larger amounts."
+  "title": "Why Rocket Lab swings so much",
+  "text": "Rocket Lab fell 6.6% on Thursday and sits near $55, far below its 52 week high of $151. Its beta is about 2.6, which means it has tended to move more than twice as much as the overall market. Big swings can go both ways, which is why our risk score for it is the highest on the list, 10 out of 10."
  },
  {
   "kind": "alert",
-  "title": "Rocket Lab dropped 6.6%",
-  "text": "Rocket Lab is a stock with a very high beta of 2.6, meaning it tends to move much more than the market. It is now about 63% below its 52 week high, which is why our risk score for it is the highest on the board. A stock that fell a lot is not automatically a bargain; it can mean the market sees more risk."
+  "title": "Three earnings reports start Tuesday",
+  "text": "An earnings report is a company's report card for the last three months. GE Aerospace reports on Oct 20, Meta on Oct 21 and Lockheed Martin on Oct 22. Analysts expect earnings per share of about $2.01 for GE, $6.67 for Meta and $7.52 for Lockheed. Stocks often jump or drop on report days, even when the results are good."
  },
  {
   "kind": "alert",
-  "title": "Earnings week ahead for three names",
-  "text": "An earnings report is a company's report card for the last three months. According to market calendars, GE Aerospace is expected to report on Oct. 20, Meta on Oct. 21 and Lockheed Martin on Oct. 22. Prices often jump around these dates, so expect bigger moves than usual."
+  "title": "Bond yields are the highest in a year",
+  "text": "The 10 year Treasury yield is what the US government pays to borrow money for ten years. Its monthly average was 4.99% in September, up from 4.06% a year ago. Higher yields make safer bonds more attractive, and they can pull some money away from stocks."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 9: ETFs vs single stocks",
-  "text": "A single stock is a tiny piece of one company. An ETF (exchange traded fund) is a basket that holds pieces of many companies, and you buy the whole basket in one step. Look at today. NVIDIA, a single stock, fell 1.8%. The SPY fund, which holds 500 big US companies, rose 0.3%. The basket was calmer because the winners and losers in it partly cancel each other out. That is diversification, which Lesson 4 explained, built into one purchase. The tradeoff: a single stock can grow much faster than a basket if the company does great, but it can also fall much harder if the company stumbles. A basket will never be the top performer, and it will rarely be the worst. Many investors keep a basket as the base and add a few single stocks around it only if they understand each company."
+  "title": "Lesson 10: What is compound interest?",
+  "text": "Compound interest means you earn growth on your growth. Say you invest $1,000 and it grows 7% in a year. You now have $1,070. Next year the 7% is applied to $1,070, not $1,000, so you gain $74.90 instead of $70. That small difference looks tiny at first, but it snowballs. At 7% a year, $1,000 becomes about $1,967 after 10 years and about $7,612 after 30 years. The most important ingredient is time, so starting early matters more than starting big. The 7% is only an example; real investments go up and down, and nothing is guaranteed."
  },
  {
   "kind": "coverage",

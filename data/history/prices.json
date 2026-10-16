@@ -410,14 +410,14 @@
  {
   "date": "2026-10-15",
   "symbol": "SPY",
-  "price": 771.77,
+  "price": 771.79,
   "risk_score": 2.2
  },
  {
   "date": "2026-10-15",
   "symbol": "QQQ",
   "price": 728,
-  "risk_score": 3.3
+  "risk_score": 2.9
  },
  {
   "date": "2026-10-15",
@@ -489,13 +489,13 @@
   "date": "2026-10-15",
   "symbol": "LMT",
   "price": 532.64,
-  "risk_score": 3.2
+  "risk_score": 3.4
  },
  {
   "date": "2026-10-15",
   "symbol": "GE",
   "price": 312,
-  "risk_score": 5.5
+  "risk_score": 4.9
  },
  {
   "date": "2026-10-15",

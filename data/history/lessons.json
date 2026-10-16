@@ -43,5 +43,10 @@
   "date": "2026-10-15",
   "title": "Lesson 9: ETFs vs single stocks",
   "text": "A single stock is a tiny piece of one company. An ETF (exchange traded fund) is a basket that holds pieces of many companies, and you buy the whole basket in one step. Look at today. NVIDIA, a single stock, fell 1.8%. The SPY fund, which holds 500 big US companies, rose 0.3%. The basket was calmer because the winners and losers in it partly cancel each other out. That is diversification, which Lesson 4 explained, built into one purchase. The tradeoff: a single stock can grow much faster than a basket if the company does great, but it can also fall much harder if the company stumbles. A basket will never be the top performer, and it will rarely be the worst. Many investors keep a basket as the base and add a few single stocks around it only if they understand each company."
+ },
+ {
+  "date": "2026-10-16",
+  "title": "Lesson 10: What is compound interest?",
+  "text": "Compound interest means you earn growth on your growth. Say you invest $1,000 and it grows 7% in a year. You now have $1,070. Next year the 7% is applied to $1,070, not $1,000, so you gain $74.90 instead of $70. That small difference looks tiny at first, but it snowballs. At 7% a year, $1,000 becomes about $1,967 after 10 years and about $7,612 after 30 years. The most important ingredient is time, so starting early matters more than starting big. The 7% is only an example; real investments go up and down, and nothing is guaranteed."
  }
 ]
