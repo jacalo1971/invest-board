@@ -4,68 +4,47 @@
   "tickers": [
    "ALL"
   ],
-  "effect": "watch",
-  "title": "Government bond yield sits at its highest in a year",
-  "summary": "The average yield on 10 year US Treasury bonds was 4.99% in September, up from 4.06% in October 2025. It has risen from 4.13% in February.",
-  "why": "A bond yield is the interest the government pays you for lending it money. When that safe interest goes up, investors can ask for more before they buy riskier things like stocks, so high yields can weigh on share prices.",
-  "source": "Alpha Vantage (10 year Treasury constant maturity, monthly)",
-  "url": "https://www.alphavantage.co/documentation/#treasury-yield"
+  "effect": "bad",
+  "title": "Tech selloff drags the market lower on Friday",
+  "summary": "US stocks fell on Friday as big technology companies kept sliding. The S&P 500 lost about 1.1% and the Nasdaq about 2%, and chip makers were hit hard as worries grew about how long the AI building boom can last. The Nasdaq ended the week down roughly 4.5%, its worst week since late June.",
+  "why": "When investors get nervous about one hot idea, like AI chips, many stocks tied to it fall together. That is why owning companies from different industries can make the ride smoother. A bad day or week is common and does not say what happens next.",
+  "source": "BNN Bloomberg",
+  "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector"
  },
  {
   "date": "2026-10-16",
   "tickers": [
-   "GE",
-   "META",
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Long term US government bond yield stays near 5.1%",
+  "summary": "The yield on the 10 year Treasury was reported near 5.1% on Friday, slightly lower on the day. Our own monthly data show the September average at 4.99%, up from 4.06% a year earlier.",
+  "why": "A bond yield is the interest the government pays you for lending it money. When safe bonds pay more, stocks have to look more attractive to compete, so high yields can push share prices down, especially for fast growing tech companies.",
+  "source": "BNN Bloomberg and Alpha Vantage",
+  "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector"
+ },
+ {
+  "date": "2026-10-14",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Core inflation comes in hotter than expected",
+  "summary": "The latest US consumer price report showed core inflation, which leaves out food and energy, rising faster than analysts expected. Coverage says this raises the chance that the Federal Reserve raises interest rates again at its meeting at the end of October.",
+  "why": "Inflation means prices keep rising. To cool it, the Fed can raise interest rates, which makes borrowing more expensive and can slow companies down. Markets often drop when rate hikes look more likely.",
+  "source": "InvestmentNews",
+  "url": "https://www.investmentnews.com/equities/core-inflation-comes-in-hot-again-increasing-the-likelihood-of-an-october-fed-rate-hike/268599"
+ },
+ {
+  "date": "2026-10-01",
+  "tickers": [
    "LMT"
   ],
   "effect": "watch",
-  "title": "GE, Meta and Lockheed report results next week",
-  "summary": "GE Aerospace reports on Oct 20, Meta on Oct 21 and Lockheed Martin on Oct 22. Analysts expect earnings per share of about $2.01, $6.67 and $7.52.",
-  "why": "An earnings report shows if a company made more or less money than experts guessed. A stock can drop even after good news if people hoped for more, so these days are often bumpy.",
-  "source": "Financial Modeling Prep earnings calendar",
-  "url": "https://site.financialmodelingprep.com/developer/docs/earnings-calendar-api"
- },
- {
-  "date": "2026-10-16",
-  "tickers": [
-   "MSFT",
-   "GOOGL",
-   "AMZN"
-  ],
-  "effect": "watch",
-  "title": "Big tech reports land the week of Oct 26",
-  "summary": "Microsoft and Alphabet are scheduled to report on Oct 28, and Amazon on Oct 29. Analysts expect about $4.72, $3.02 and $1.96 in earnings per share.",
-  "why": "These three run huge cloud and AI businesses, so their numbers show how much companies are really spending on AI. That can move the chip makers that sell to them too.",
-  "source": "Financial Modeling Prep earnings calendar",
-  "url": "https://site.financialmodelingprep.com/developer/docs/earnings-calendar-api"
- },
- {
-  "date": "2026-10-15",
-  "tickers": [
-   "LLY",
-   "LMT",
-   "ISRG"
-  ],
-  "effect": "good",
-  "title": "Drug and defense shares rise as chips fall",
-  "summary": "Eli Lilly closed up 3.5% at $1,251.61, about 3% under its 52 week high of $1,292.65. Lockheed Martin gained 2.0% and Intuitive Surgical 1.8%, while Vertiv and NVIDIA fell.",
-  "why": "Money moves between industries all the time. When chip stocks fall, some investors shift to steadier areas such as medicine and defense, which shows why holding different kinds of companies can smooth the ride.",
-  "source": "Financial Modeling Prep market data",
-  "url": "https://site.financialmodelingprep.com/"
- },
- {
-  "date": "2026-10-15",
-  "tickers": [
-   "TSM",
-   "NVDA",
-   "AMD",
-   "AVGO"
-  ],
-  "effect": "watch",
-  "title": "TSMC beats forecasts and guides higher",
-  "summary": "The chipmaker said July to September earnings per ADR share were $4.60, above the $4.45 analysts expected, with sales of about $46.5 billion. Its filing also points to October to December sales of $52.3 billion to $54.3 billion. Even so, its shares and other chip stocks ended the day lower.",
-  "why": "TSMC makes chips for many AI companies, so strong orders hint that its customers expect to sell a lot. Stocks can still fall on good news when investors hoped for even more.",
-  "source": "TSMC Form 6-K (SEC) and FMP earnings data",
-  "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+  "title": "Lockheed Martin will report quarterly results on October 22",
+  "summary": "The company announced it will publish its third quarter results before the market opens on Thursday, October 22, with a webcast at 8:30 a.m. Eastern time. Its stock rose 3.7% on Friday ahead of the report.",
+  "why": "An earnings report shows how much a company really sold and earned. Stocks often move a lot on report day, up or down, depending on whether results beat what analysts expected.",
+  "source": "Lockheed Martin press release",
+  "url": "https://news.lockheedmartin.com/2026-10-01-Lockheed-Martin-Announces-Third-Quarter-2026-Earnings-Results-Webcast"
  }
 ]

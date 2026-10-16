@@ -48,5 +48,10 @@
   "date": "2026-10-16",
   "title": "Lesson 10: What is compound interest?",
   "text": "Compound interest means you earn growth on your growth. Say you invest $1,000 and it grows 7% in a year. You now have $1,070. Next year the 7% is applied to $1,070, not $1,000, so you gain $74.90 instead of $70. That small difference looks tiny at first, but it snowballs. At 7% a year, $1,000 becomes about $1,967 after 10 years and about $7,612 after 30 years. The most important ingredient is time, so starting early matters more than starting big. The 7% is only an example; real investments go up and down, and nothing is guaranteed."
+ },
+ {
+  "date": "2026-10-16",
+  "title": "Lesson 11: What is position sizing?",
+  "text": "Position sizing means deciding how much money goes into each investment. Imagine you have $1,000 and put all of it in one stock that then drops 8% in a day, like Rocket Lab did today. You lose $80. If you had put only $100 in it, you would lose just $8. The riskier a stock swings, the smaller the slice many investors choose, so one bad day cannot hurt the whole plan. This is not advice to buy or sell anything; it is a way to think about how much any single idea matters to your total."
  }
 ]

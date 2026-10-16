@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "On Thursday the S&P 500 fund SPY rose 0.3% and the Nasdaq 100 fund QQQ slipped 0.1%, so at the open watch whether chip stocks keep falling or bounce while drug and defense stocks stay strong; the next big test is next week, when GE, Meta and Lockheed report their results."
+  "text": "Friday was a rough day for tech: the S&P 500 fund SPY fell 1.1% and the Nasdaq 100 fund QQQ fell 2.5% while defense stock Lockheed Martin rose 3.7%; over the weekend, think about how many of your eggs sit in one basket, and on Monday watch whether chip stocks keep sliding or settle."
  },
  {
   "kind": "alert",
-  "title": "Drug and defense stocks held up while chips slid",
-  "text": "On Thursday, Eli Lilly rose 3.5%, Lockheed Martin 2.0% and Intuitive Surgical 1.8%. In the same session Vertiv fell 3.6%, NVIDIA 1.8% and AMD 1.5%. When one group of stocks falls, money often moves to another group. Owning companies from different industries is called diversification, and days like this show why people like it."
+  "title": "Chip stocks had their worst day in weeks",
+  "text": "AMD fell 6.0%, Broadcom 4.5%, Vertiv 3.9% and TSMC 2.3% on Friday. Rocket Lab dropped 8.0%, the biggest fall on our list. These companies make or support the hardware behind AI, so they tend to move together when investors get worried about AI."
  },
  {
   "kind": "alert",
-  "title": "Why Rocket Lab swings so much",
-  "text": "Rocket Lab fell 6.6% on Thursday and sits near $55, far below its 52 week high of $151. Its beta is about 2.6, which means it has tended to move more than twice as much as the overall market. Big swings can go both ways, which is why our risk score for it is the highest on the list, 10 out of 10."
+  "title": "Defense and dividend funds held steady",
+  "text": "Lockheed Martin rose 3.7%, the dividend fund SCHD rose 0.7% and GE Aerospace rose 0.6%. When tech falls, money often moves to steadier areas. That does not mean they always win, only that different industries often act differently on the same day."
  },
  {
   "kind": "alert",
-  "title": "Three earnings reports start Tuesday",
-  "text": "An earnings report is a company's report card for the last three months. GE Aerospace reports on Oct 20, Meta on Oct 21 and Lockheed Martin on Oct 22. Analysts expect earnings per share of about $2.01 for GE, $6.67 for Meta and $7.52 for Lockheed. Stocks often jump or drop on report days, even when the results are good."
+  "title": "Lockheed reports on October 22",
+  "text": "Lockheed Martin reports quarterly results before the market opens on Thursday, October 22. Report days often bring big moves, so it is a good chance to see how a company's real numbers affect its stock, up or down."
  },
  {
   "kind": "alert",
-  "title": "Bond yields are the highest in a year",
-  "text": "The 10 year Treasury yield is what the US government pays to borrow money for ten years. Its monthly average was 4.99% in September, up from 4.06% a year ago. Higher yields make safer bonds more attractive, and they can pull some money away from stocks."
+  "title": "Interest rates are the big worry",
+  "text": "The 10 year Treasury yield is near 5.1%, and hot inflation news this week makes another Fed rate hike more likely at the end of October. Higher rates make borrowing costlier and make safe bonds more attractive, which can weigh on stocks."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 10: What is compound interest?",
-  "text": "Compound interest means you earn growth on your growth. Say you invest $1,000 and it grows 7% in a year. You now have $1,070. Next year the 7% is applied to $1,070, not $1,000, so you gain $74.90 instead of $70. That small difference looks tiny at first, but it snowballs. At 7% a year, $1,000 becomes about $1,967 after 10 years and about $7,612 after 30 years. The most important ingredient is time, so starting early matters more than starting big. The 7% is only an example; real investments go up and down, and nothing is guaranteed."
+  "title": "Lesson 11: What is position sizing?",
+  "text": "Position sizing means deciding how much money goes into each investment. Imagine you have $1,000 and put all of it in one stock that then drops 8% in a day, like Rocket Lab did today. You lose $80. If you had put only $100 in it, you would lose just $8. The riskier a stock swings, the smaller the slice many investors choose, so one bad day cannot hurt the whole plan. This is not advice to buy or sell anything; it is a way to think about how much any single idea matters to your total."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "Prices are from Thursday's close. Analyst price targets and company numbers are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE Aerospace and Lockheed Martin. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have prices and risk scores only. This is information to learn from, not advice to buy or sell anything."
+  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
  }
 ]
