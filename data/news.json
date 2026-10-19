@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-19",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Tech rebounds from last week's sell-off",
+  "summary": "Stocks climbed on Monday as technology companies recovered part of the ground they lost last week. In our data, the Nasdaq 100 fund QQQ rose 1.2% and Amazon rose about 5%.",
+  "why": "After a big drop, prices often bounce back a little as some investors buy at lower prices. A bounce does not mean the slide is over, and a drop does not mean it will keep going. It shows how quickly the mood in the market can change.",
+  "source": "TheStreet",
+  "url": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+ },
+ {
   "date": "2026-10-14",
   "tickers": [
    "ALL"
@@ -10,18 +22,6 @@
   "why": "The Fed's rate decision changes what banks, companies and families pay to borrow. When rates go up, safe bonds pay more and stocks, especially fast growing tech ones, can look less attractive. Nobody knows the decision in advance, so the weeks before it are often bumpy.",
   "source": "XTB",
   "url": "https://www.xtb.com/int/market-analysis/news-and-research/us-inflation-concerns-rise"
- },
- {
-  "date": "2026-10-16",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "bad",
-  "title": "Tech selloff drags the market lower on Friday",
-  "summary": "US stocks fell on Friday as big technology companies kept sliding. The S&P 500 lost about 1.1% and the Nasdaq about 2%, and chip makers were hit hard as worries grew about how long the AI building boom can last. The Nasdaq ended the week down roughly 4.5%, its worst week since late June.",
-  "why": "When investors get nervous about one hot idea, like AI chips, many stocks tied to it fall together. That is why owning companies from different industries can make the ride smoother. A bad day or week is common and does not say what happens next.",
-  "source": "BNN Bloomberg",
-  "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector"
  },
  {
   "date": "2026-10-14",
@@ -46,5 +46,17 @@
   "why": "An earnings report shows how much a company really sold and earned. Stocks often move a lot on report day, up or down, depending on whether results beat what analysts expected.",
   "source": "Lockheed Martin press release",
   "url": "https://news.lockheedmartin.com/2026-10-01-Lockheed-Martin-Announces-Third-Quarter-2026-Earnings-Results-Webcast"
+ },
+ {
+  "date": "2026-10-16",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Tech selloff drags the market lower on Friday",
+  "summary": "US stocks fell on Friday as big technology companies kept sliding. The S&P 500 lost about 1.1% and the Nasdaq about 2%, and chip makers were hit hard as worries grew about how long the AI building boom can last. The Nasdaq ended the week down roughly 4.5%, its worst week since late June.",
+  "why": "When investors get nervous about one hot idea, like AI chips, many stocks tied to it fall together. That is why owning companies from different industries can make the ride smoother. A bad day or week is common and does not say what happens next.",
+  "source": "BNN Bloomberg",
+  "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector"
  }
 ]

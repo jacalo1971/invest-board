@@ -388,5 +388,17 @@
   "why": "The Fed's rate decision changes what banks, companies and families pay to borrow. When rates go up, safe bonds pay more and stocks, especially fast growing tech ones, can look less attractive. Nobody knows the decision in advance, so the weeks before it are often bumpy.",
   "source": "XTB",
   "url": "https://www.xtb.com/int/market-analysis/news-and-research/us-inflation-concerns-rise"
+ },
+ {
+  "date": "2026-10-19",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Tech rebounds from last week's sell-off",
+  "summary": "Stocks climbed on Monday as technology companies recovered part of the ground they lost last week. In our data, the Nasdaq 100 fund QQQ rose 1.2% and Amazon rose about 5%.",
+  "why": "After a big drop, prices often bounce back a little as some investors buy at lower prices. A bounce does not mean the slide is over, and a drop does not mean it will keep going. It shows how quickly the mood in the market can change.",
+  "source": "TheStreet",
+  "url": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
  }
 ]

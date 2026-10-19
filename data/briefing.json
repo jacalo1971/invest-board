@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Markets open Monday after a rough Friday, when the Nasdaq 100 fund QQQ fell 2.5% and chip maker AMD fell 6.0%; at the open, watch whether tech stocks keep sliding or settle down, and keep an eye on interest rates, because the Fed meets October 27 and 28."
+  "text": "Tech stocks bounced back on Monday: the Nasdaq 100 fund QQQ rose 1.2%, the S&P 500 fund SPY rose 0.4% and Amazon jumped 5.0%, but Friday's drop was bigger, so the week starts as a partial recovery; next up are Lockheed Martin's results on Thursday and the Fed meeting on October 27 and 28."
  },
  {
   "kind": "alert",
-  "title": "Tech and chips start the week down",
-  "text": "On Friday, Meta fell 3.7%, Broadcom 4.5%, Vertiv 3.9% and Rocket Lab 8.0%. These companies are tied to the AI boom, so they often rise and fall together. Mondays can bring a bounce or more selling, and nobody can know which one in advance."
+  "title": "Chip stocks recover part of Friday's drop",
+  "text": "Nvidia rose 1.4%, Broadcom 1.8%, Taiwan Semiconductor 1.8% and AMD 1.8%. After a hard fall, a partial bounce is common, but it does not tell us what comes next. These companies still sit well below their highs for the year."
  },
  {
   "kind": "alert",
-  "title": "Steadier areas held up",
-  "text": "Lockheed Martin rose 3.7% and the dividend fund SCHD rose 0.7% on Friday, while energy was the best sector on the Nasdaq (up 1.6%). When one corner of the market gets nervous, other corners often act differently, which is the idea behind mixing industries."
+  "title": "Amazon is the biggest mover, up 5.0%",
+  "text": "Amazon rose about 5% to $262.45, the largest gain on our list. We have not confirmed one single reason, so treat any explanation you read with care. On the Nasdaq, the Consumer Cyclical group, which includes online shopping, was the best sector, up 2.3%."
  },
  {
   "kind": "alert",
-  "title": "Lockheed reports on October 22",
-  "text": "Lockheed Martin has said it will publish quarterly results before the market opens on Thursday, October 22. Report days can bring big moves, up or down, because real numbers replace guesses."
+  "title": "Safer-feeling areas lagged",
+  "text": "Utilities on the Nasdaq fell 3.4% and real estate fell 1.7%, while Lockheed Martin slipped 0.7% and Eli Lilly fell 1.3%. When money rushes back into tech, quieter areas can fall behind for a day. That is one more reason a mix of industries can smooth the ride."
  },
  {
   "kind": "alert",
-  "title": "The Fed meets October 27 and 28",
-  "text": "The 10 year Treasury yield is near 5.1%, and a hotter than expected inflation report last week made another rate hike a real possibility. Reports differ on how likely it is. Higher rates make borrowing costlier and make safe bonds more attractive, which can weigh on stocks."
+  "title": "Lockheed reports on Thursday",
+  "text": "Lockheed Martin will publish its quarterly results before the market opens on Thursday, October 22. Report days can bring big moves, up or down, because real numbers replace guesses."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 12: What is market capitalization?",
-  "text": "Market capitalization, or market cap, is the total price tag the stock market puts on a whole company. You get it by multiplying the share price by the number of shares. For example, Nvidia is worth about $5.2 trillion, while Rocket Lab is worth about $30 billion. A share price alone does not tell you which company is bigger: a $1,257 share of Eli Lilly and a $50 share of Rocket Lab come from companies of very different sizes. Bigger companies often swing less than small ones, but not always. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 13: What is an earnings report?",
+  "text": "Four times a year, a public company must tell everyone how much it sold and how much it earned in the last three months. That report is called an earnings report. Analysts, who are people paid to study companies, make a guess ahead of time. If the real numbers beat the guess, the stock often jumps; if they fall short, it often drops, even when the company made a lot of money. What the company says about the next few months matters too. Lockheed Martin reports this Thursday, so it is a good one to watch. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Friday's close. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
+  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Monday's close. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
  }
 ]
