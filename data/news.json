@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-14",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Fed meets October 27 and 28 as rate hike odds swing",
+  "summary": "After the hot inflation report, traders raised their bets that the Federal Reserve would raise interest rates again at its next meeting on October 27 and 28. Reports disagree on how likely that is, with estimates ranging from about one in five to about one in two. The 10 year Treasury yield was reported above 5%.",
+  "why": "The Fed's rate decision changes what banks, companies and families pay to borrow. When rates go up, safe bonds pay more and stocks, especially fast growing tech ones, can look less attractive. Nobody knows the decision in advance, so the weeks before it are often bumpy.",
+  "source": "XTB",
+  "url": "https://www.xtb.com/int/market-analysis/news-and-research/us-inflation-concerns-rise"
+ },
+ {
   "date": "2026-10-16",
   "tickers": [
    "ALL"
@@ -9,18 +21,6 @@
   "summary": "US stocks fell on Friday as big technology companies kept sliding. The S&P 500 lost about 1.1% and the Nasdaq about 2%, and chip makers were hit hard as worries grew about how long the AI building boom can last. The Nasdaq ended the week down roughly 4.5%, its worst week since late June.",
   "why": "When investors get nervous about one hot idea, like AI chips, many stocks tied to it fall together. That is why owning companies from different industries can make the ride smoother. A bad day or week is common and does not say what happens next.",
   "source": "BNN Bloomberg",
-  "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector"
- },
- {
-  "date": "2026-10-16",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Long term US government bond yield stays near 5.1%",
-  "summary": "The yield on the 10 year Treasury was reported near 5.1% on Friday, slightly lower on the day. Our own monthly data show the September average at 4.99%, up from 4.06% a year earlier.",
-  "why": "A bond yield is the interest the government pays you for lending it money. When safe bonds pay more, stocks have to look more attractive to compete, so high yields can push share prices down, especially for fast growing tech companies.",
-  "source": "BNN Bloomberg and Alpha Vantage",
   "url": "https://bnnbloomberg.ca/markets/dow-jones/2026/10/16/us-markets-weighed-down-by-extended-sell-off-in-the-tech-sector"
  },
  {

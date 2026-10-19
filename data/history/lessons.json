@@ -53,5 +53,10 @@
   "date": "2026-10-16",
   "title": "Lesson 11: What is position sizing?",
   "text": "Position sizing means deciding how much money goes into each investment. Imagine you have $1,000 and put all of it in one stock that then drops 8% in a day, like Rocket Lab did today. You lose $80. If you had put only $100 in it, you would lose just $8. The riskier a stock swings, the smaller the slice many investors choose, so one bad day cannot hurt the whole plan. This is not advice to buy or sell anything; it is a way to think about how much any single idea matters to your total."
+ },
+ {
+  "date": "2026-10-19",
+  "title": "Lesson 12: What is market capitalization?",
+  "text": "Market capitalization, or market cap, is the total price tag the stock market puts on a whole company. You get it by multiplying the share price by the number of shares. For example, Nvidia is worth about $5.2 trillion, while Rocket Lab is worth about $30 billion. A share price alone does not tell you which company is bigger: a $1,257 share of Eli Lilly and a $50 share of Rocket Lab come from companies of very different sizes. Bigger companies often swing less than small ones, but not always. This is for learning, not advice to buy or sell anything."
  }
 ]

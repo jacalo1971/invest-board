@@ -376,5 +376,17 @@
   "why": "An earnings report shows how much a company really sold and earned. Stocks often move a lot on report day, up or down, depending on whether results beat what analysts expected.",
   "source": "Lockheed Martin press release",
   "url": "https://news.lockheedmartin.com/2026-10-01-Lockheed-Martin-Announces-Third-Quarter-2026-Earnings-Results-Webcast"
+ },
+ {
+  "date": "2026-10-14",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Fed meets October 27 and 28 as rate hike odds swing",
+  "summary": "After the hot inflation report, traders raised their bets that the Federal Reserve would raise interest rates again at its next meeting on October 27 and 28. Reports disagree on how likely that is, with estimates ranging from about one in five to about one in two. The 10 year Treasury yield was reported above 5%.",
+  "why": "The Fed's rate decision changes what banks, companies and families pay to borrow. When rates go up, safe bonds pay more and stocks, especially fast growing tech ones, can look less attractive. Nobody knows the decision in advance, so the weeks before it are often bumpy.",
+  "source": "XTB",
+  "url": "https://www.xtb.com/int/market-analysis/news-and-research/us-inflation-concerns-rise"
  }
 ]

@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Friday was a rough day for tech: the S&P 500 fund SPY fell 1.1% and the Nasdaq 100 fund QQQ fell 2.5% while defense stock Lockheed Martin rose 3.7%; over the weekend, think about how many of your eggs sit in one basket, and on Monday watch whether chip stocks keep sliding or settle."
+  "text": "Markets open Monday after a rough Friday, when the Nasdaq 100 fund QQQ fell 2.5% and chip maker AMD fell 6.0%; at the open, watch whether tech stocks keep sliding or settle down, and keep an eye on interest rates, because the Fed meets October 27 and 28."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks had their worst day in weeks",
-  "text": "AMD fell 6.0%, Broadcom 4.5%, Vertiv 3.9% and TSMC 2.3% on Friday. Rocket Lab dropped 8.0%, the biggest fall on our list. These companies make or support the hardware behind AI, so they tend to move together when investors get worried about AI."
+  "title": "Tech and chips start the week down",
+  "text": "On Friday, Meta fell 3.7%, Broadcom 4.5%, Vertiv 3.9% and Rocket Lab 8.0%. These companies are tied to the AI boom, so they often rise and fall together. Mondays can bring a bounce or more selling, and nobody can know which one in advance."
  },
  {
   "kind": "alert",
-  "title": "Defense and dividend funds held steady",
-  "text": "Lockheed Martin rose 3.7%, the dividend fund SCHD rose 0.7% and GE Aerospace rose 0.6%. When tech falls, money often moves to steadier areas. That does not mean they always win, only that different industries often act differently on the same day."
+  "title": "Steadier areas held up",
+  "text": "Lockheed Martin rose 3.7% and the dividend fund SCHD rose 0.7% on Friday, while energy was the best sector on the Nasdaq (up 1.6%). When one corner of the market gets nervous, other corners often act differently, which is the idea behind mixing industries."
  },
  {
   "kind": "alert",
   "title": "Lockheed reports on October 22",
-  "text": "Lockheed Martin reports quarterly results before the market opens on Thursday, October 22. Report days often bring big moves, so it is a good chance to see how a company's real numbers affect its stock, up or down."
+  "text": "Lockheed Martin has said it will publish quarterly results before the market opens on Thursday, October 22. Report days can bring big moves, up or down, because real numbers replace guesses."
  },
  {
   "kind": "alert",
-  "title": "Interest rates are the big worry",
-  "text": "The 10 year Treasury yield is near 5.1%, and hot inflation news this week makes another Fed rate hike more likely at the end of October. Higher rates make borrowing costlier and make safe bonds more attractive, which can weigh on stocks."
+  "title": "The Fed meets October 27 and 28",
+  "text": "The 10 year Treasury yield is near 5.1%, and a hotter than expected inflation report last week made another rate hike a real possibility. Reports differ on how likely it is. Higher rates make borrowing costlier and make safe bonds more attractive, which can weigh on stocks."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 11: What is position sizing?",
-  "text": "Position sizing means deciding how much money goes into each investment. Imagine you have $1,000 and put all of it in one stock that then drops 8% in a day, like Rocket Lab did today. You lose $80. If you had put only $100 in it, you would lose just $8. The riskier a stock swings, the smaller the slice many investors choose, so one bad day cannot hurt the whole plan. This is not advice to buy or sell anything; it is a way to think about how much any single idea matters to your total."
+  "title": "Lesson 12: What is market capitalization?",
+  "text": "Market capitalization, or market cap, is the total price tag the stock market puts on a whole company. You get it by multiplying the share price by the number of shares. For example, Nvidia is worth about $5.2 trillion, while Rocket Lab is worth about $30 billion. A share price alone does not tell you which company is bigger: a $1,257 share of Eli Lilly and a $50 share of Rocket Lab come from companies of very different sizes. Bigger companies often swing less than small ones, but not always. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
+  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Friday's close. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
  }
 ]
