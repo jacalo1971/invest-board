@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Tech stocks bounced back on Monday: the Nasdaq 100 fund QQQ rose 1.2%, the S&P 500 fund SPY rose 0.4% and Amazon jumped 5.0%, but Friday's drop was bigger, so the week starts as a partial recovery; next up are Lockheed Martin's results on Thursday and the Fed meeting on October 27 and 28."
+  "text": "Before the open, the main question is whether Monday's tech bounce (QQQ up 1.2%, Amazon up 5.0%) carries on after last week's drop, with Lockheed Martin's results on Thursday and the Fed meeting on October 27 and 28 still ahead."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks recover part of Friday's drop",
-  "text": "Nvidia rose 1.4%, Broadcom 1.8%, Taiwan Semiconductor 1.8% and AMD 1.8%. After a hard fall, a partial bounce is common, but it does not tell us what comes next. These companies still sit well below their highs for the year."
+  "title": "Chip stocks still below their highs",
+  "text": "Nvidia, Broadcom, Taiwan Semiconductor and AMD each rose between 1.4% and 1.8% on Monday. Even so, Broadcom sits about 32% below its 52 week high and AMD about 18% below. A bounce is one good day, not a new trend, so watch whether the buying continues at the open."
  },
  {
   "kind": "alert",
-  "title": "Amazon is the biggest mover, up 5.0%",
-  "text": "Amazon rose about 5% to $262.45, the largest gain on our list. We have not confirmed one single reason, so treat any explanation you read with care. On the Nasdaq, the Consumer Cyclical group, which includes online shopping, was the best sector, up 2.3%."
+  "title": "Lockheed Martin reports on Thursday",
+  "text": "Lockheed Martin will share its quarterly results before the market opens on Thursday, October 22, with a call at 8:30 a.m. Eastern. On report days a stock can move a lot, up or down, because real numbers replace guesses."
  },
  {
   "kind": "alert",
-  "title": "Safer-feeling areas lagged",
-  "text": "Utilities on the Nasdaq fell 3.4% and real estate fell 1.7%, while Lockheed Martin slipped 0.7% and Eli Lilly fell 1.3%. When money rushes back into tech, quieter areas can fall behind for a day. That is one more reason a mix of industries can smooth the ride."
+  "title": "Interest rates are still the big worry",
+  "text": "The Federal Reserve meets October 27 and 28, and recent inflation news was hotter than analysts expected. Reports disagree on how likely another rate hike is. The monthly average 10 year Treasury yield was 4.99% in September, the highest in our 12 month chart."
  },
  {
   "kind": "alert",
-  "title": "Lockheed reports on Thursday",
-  "text": "Lockheed Martin will publish its quarterly results before the market opens on Thursday, October 22. Report days can bring big moves, up or down, because real numbers replace guesses."
+  "title": "Calmer areas slipped on Monday",
+  "text": "Eli Lilly fell 1.3%, GE Aerospace 0.8% and Lockheed Martin 0.7%, while utilities on the Nasdaq dropped 3.4%. When money rushes into tech, quieter areas can lag for a day."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 13: What is an earnings report?",
-  "text": "Four times a year, a public company must tell everyone how much it sold and how much it earned in the last three months. That report is called an earnings report. Analysts, who are people paid to study companies, make a guess ahead of time. If the real numbers beat the guess, the stock often jumps; if they fall short, it often drops, even when the company made a lot of money. What the company says about the next few months matters too. Lockheed Martin reports this Thursday, so it is a good one to watch. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 14: What is inflation?",
+  "text": "Inflation means prices slowly rise over time, so the same dollar buys a little less each year. If a snack costs $1.00 today and prices rise 3% in a year, it costs $1.03 next year. Governments measure it with a report called the Consumer Price Index, or CPI. When inflation is higher than expected, the Federal Reserve may raise interest rates to cool things down, and that is why stock markets watch these reports so closely. It also shows why saving money in a place that earns nothing can lose buying power. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Monday's close. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
+  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Monday's close, before today's open. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
  }
 ]
