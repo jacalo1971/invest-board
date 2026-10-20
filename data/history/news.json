@@ -400,5 +400,41 @@
   "why": "After a big drop, prices often bounce back a little as some investors buy at lower prices. A bounce does not mean the slide is over, and a drop does not mean it will keep going. It shows how quickly the mood in the market can change.",
   "source": "TheStreet",
   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-oct-19-2026-nasdaq-futures-climb-as-tech-rebound-from-sell-off"
+ },
+ {
+  "date": "2026-10-20",
+  "tickers": [
+   "GE"
+  ],
+  "effect": "watch",
+  "title": "GE Aerospace reports strong quarter, raises outlook",
+  "summary": "GE Aerospace shared third quarter results on October 20. Orders grew 49% to $19.0 billion, adjusted revenue rose 18% to $13.3 billion, and adjusted earnings per share reached $2.25. The company said it is raising its 2026 guidance across the board.",
+  "why": "A company's guidance is its own forecast for the year. Raising it is usually good news. But the stock still fell 3.7% in our data, which shows that prices depend on what investors hoped for, not only on the results.",
+  "source": "GE Aerospace earnings release (SEC filing)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm"
+ },
+ {
+  "date": "2026-10-16",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Fed chair's speech makes a rate hike this month less likely",
+  "summary": "Speaking at the IMF meetings in Bangkok, the Fed chair gave no clear signal about future rate moves. Afterward, traders cut the odds of a hike at the October 27 and 28 meeting to under 15%, down from about 27%.",
+  "why": "The Fed sets short term interest rates. Higher rates make borrowing cost more and can slow company profits, so stocks often wobble when traders expect a hike. The meeting is the next big date to watch.",
+  "source": "Trading Economics",
+  "url": "https://tradingeconomics.com/united-states/interest-rate/news/592678"
+ },
+ {
+  "date": "2026-10-16",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "10 year Treasury yield stays near 5.1%",
+  "summary": "The yield on the 10 year US Treasury note ended last week near 5.12%. That is a bit lower than earlier in October, when it hit its highest level since 2002.",
+  "why": "A Treasury is a loan to the US government, and the yield is the interest it pays. When safe bonds pay more, stocks have to look more attractive to compete, so high yields can pull stock prices down.",
+  "source": "Trading Economics",
+  "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/592783"
  }
 ]

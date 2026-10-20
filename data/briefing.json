@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Before the open, the main question is whether Monday's tech bounce (QQQ up 1.2%, Amazon up 5.0%) carries on after last week's drop, with Lockheed Martin's results on Thursday and the Fed meeting on October 27 and 28 still ahead."
+  "text": "At the close on Tuesday, health stocks led (Eli Lilly rose 3.5%) while GE Aerospace fell 3.7% after its quarterly report, and the next big events are Lockheed Martin's report on Thursday and the Fed meeting on October 27 and 28."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks still below their highs",
-  "text": "Nvidia, Broadcom, Taiwan Semiconductor and AMD each rose between 1.4% and 1.8% on Monday. Even so, Broadcom sits about 32% below its 52 week high and AMD about 18% below. A bounce is one good day, not a new trend, so watch whether the buying continues at the open."
+  "title": "GE Aerospace fell after its report",
+  "text": "GE reported third quarter results today. Its own release shows orders up 49% to $19.0 billion and adjusted earnings per share of $2.25, up 36%, and the company raised its 2026 outlook. Even so, the stock fell 3.7% to $299.87. Prices move on what investors expected, not only on what a company reports."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin reports on Thursday",
-  "text": "Lockheed Martin will share its quarterly results before the market opens on Thursday, October 22, with a call at 8:30 a.m. Eastern. On report days a stock can move a lot, up or down, because real numbers replace guesses."
+  "title": "Health stocks led the day",
+  "text": "Healthcare companies on the Nasdaq rose about 2.0% on average, the best sector. Eli Lilly gained 3.5% and Intuitive Surgical 1.1%. We did not verify a single cause for Lilly's jump, so treat it as one day of data."
  },
  {
   "kind": "alert",
-  "title": "Interest rates are still the big worry",
-  "text": "The Federal Reserve meets October 27 and 28, and recent inflation news was hotter than analysts expected. Reports disagree on how likely another rate hike is. The monthly average 10 year Treasury yield was 4.99% in September, the highest in our 12 month chart."
+  "title": "Big tech slipped, chips mixed",
+  "text": "Meta fell 1.6%, Alphabet 1.1% and AMD 0.6%, while TSMC rose 1.2%. The Nasdaq 100 fund QQQ ended almost flat, down 0.1%. After Monday's bounce, a quiet or mixed day is normal."
  },
  {
   "kind": "alert",
-  "title": "Calmer areas slipped on Monday",
-  "text": "Eli Lilly fell 1.3%, GE Aerospace 0.8% and Lockheed Martin 0.7%, while utilities on the Nasdaq dropped 3.4%. When money rushes into tech, quieter areas can lag for a day."
+  "title": "Rates stay in focus before the Fed",
+  "text": "The Federal Reserve meets October 27 and 28. After the Fed chair spoke on October 16, traders put the odds of a hike at that meeting below 15%. The 10 year Treasury yield was near 5.1% last Friday, near its highest levels since 2002."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 14: What is inflation?",
-  "text": "Inflation means prices slowly rise over time, so the same dollar buys a little less each year. If a snack costs $1.00 today and prices rise 3% in a year, it costs $1.03 next year. Governments measure it with a report called the Consumer Price Index, or CPI. When inflation is higher than expected, the Federal Reserve may raise interest rates to cool things down, and that is why stock markets watch these reports so closely. It also shows why saving money in a place that earns nothing can lose buying power. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 15: What is a sector?",
+  "text": "A sector is a group of companies that do a similar kind of work. Technology, healthcare, energy and banks are all sectors. Think of a school with different clubs: each club is a sector, and the students are the companies. Sectors often move in different directions on the same day. On Tuesday, healthcare stocks rose about 2% while energy and consumer staples fell. Holding companies from several sectors is one way to avoid putting all your eggs in one basket. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Monday's close, before today's open. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
+  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Tuesday's close, after the market closed. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
  }
 ]
