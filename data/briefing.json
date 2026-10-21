@@ -2,36 +2,31 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "At the close on Tuesday, health stocks led (Eli Lilly rose 3.5%) while GE Aerospace fell 3.7% after its quarterly report, and the next big events are Lockheed Martin's report on Thursday and the Fed meeting on October 27 and 28."
+  "text": "Before the open on Wednesday, the numbers are still Tuesday's closing prices, so the thing to watch is whether the market keeps leaning toward health stocks and away from big tech, with Lockheed Martin's report coming Thursday morning and the Fed meeting on October 27 and 28."
  },
  {
   "kind": "alert",
-  "title": "GE Aerospace fell after its report",
-  "text": "GE reported third quarter results today. Its own release shows orders up 49% to $19.0 billion and adjusted earnings per share of $2.25, up 36%, and the company raised its 2026 outlook. Even so, the stock fell 3.7% to $299.87. Prices move on what investors expected, not only on what a company reports."
+  "title": "Lockheed Martin reports on Thursday",
+  "text": "Lockheed Martin said it will share its third quarter results before the market opens on Thursday, October 22, with a call at 8:30 a.m. Eastern. Its stock closed Tuesday at $548.71, a little under the $554 low end of analyst price targets. Reports can move a stock in either direction, so Thursday is a good day to watch."
  },
  {
   "kind": "alert",
-  "title": "Health stocks led the day",
-  "text": "Healthcare companies on the Nasdaq rose about 2.0% on average, the best sector. Eli Lilly gained 3.5% and Intuitive Surgical 1.1%. We did not verify a single cause for Lilly's jump, so treat it as one day of data."
+  "title": "Bond yields are the quiet worry",
+  "text": "The 10 year Treasury yield averaged 4.99% in September, up from 4.06% a year earlier, and news reports put it near 5.1% in mid October. A yield is the interest the government pays for a loan. When it rises, safer bonds become more tempting and stocks can feel pressure."
  },
  {
   "kind": "alert",
-  "title": "Big tech slipped, chips mixed",
-  "text": "Meta fell 1.6%, Alphabet 1.1% and AMD 0.6%, while TSMC rose 1.2%. The Nasdaq 100 fund QQQ ended almost flat, down 0.1%. After Monday's bounce, a quiet or mixed day is normal."
- },
- {
-  "kind": "alert",
-  "title": "Rates stay in focus before the Fed",
-  "text": "The Federal Reserve meets October 27 and 28. After the Fed chair spoke on October 16, traders put the odds of a hike at that meeting below 15%. The 10 year Treasury yield was near 5.1% last Friday, near its highest levels since 2002."
+  "title": "Chip stocks swing a lot",
+  "text": "AMD closed at $534.74. Over the past year it has traded between $188.22 and $658.52, which is a very wide range. Nvidia has a smaller range, $164.27 to $243.37. A wide range is a sign that the price can move a lot in both directions."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 15: What is a sector?",
-  "text": "A sector is a group of companies that do a similar kind of work. Technology, healthcare, energy and banks are all sectors. Think of a school with different clubs: each club is a sector, and the students are the companies. Sectors often move in different directions on the same day. On Tuesday, healthcare stocks rose about 2% while energy and consumer staples fell. Holding companies from several sectors is one way to avoid putting all your eggs in one basket. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 16: What is volatility?",
+  "text": "Volatility is how much a price jumps around. A calm stock moves a little each day, like a bike on a flat road. A volatile stock goes up and down a lot, like a bike on a hilly trail. You can see it in the 52 week range: AMD traded between about $188 and $659 in a year, while the Schwab dividend fund SCHD stayed between about $26 and $35. Volatility is not good or bad by itself. It just tells you how bumpy the ride might be, and it is why people who need their money soon often like calmer investments. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Tuesday's close, after the market closed. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
+  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Tuesday's close, before Wednesday's market opened. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
  }
 ]

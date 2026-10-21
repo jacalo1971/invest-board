@@ -436,5 +436,17 @@
   "why": "A Treasury is a loan to the US government, and the yield is the interest it pays. When safe bonds pay more, stocks have to look more attractive to compete, so high yields can pull stock prices down.",
   "source": "Trading Economics",
   "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/592783"
+ },
+ {
+  "date": "2026-10-01",
+  "tickers": [
+   "LMT"
+  ],
+  "effect": "watch",
+  "title": "Lockheed Martin sets its third quarter report for Thursday",
+  "summary": "Lockheed Martin announced that it will release third quarter earnings before the stock market opens on October 22, followed by a call with investors at 8:30 a.m. Eastern. The stock closed Tuesday at $548.71.",
+  "why": "Every three months a company reports how much it sold and earned. If the numbers or the outlook differ from what analysts expected, the stock can jump or drop quickly, so report days are often the bumpiest.",
+  "source": "Lockheed Martin press release",
+  "url": "https://news.lockheedmartin.com/2026-10-01-Lockheed-Martin-Announces-Third-Quarter-2026-Earnings-Results-Webcast"
  }
 ]
