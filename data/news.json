@@ -1,5 +1,44 @@
 [
  {
+  "date": "2026-10-21",
+  "tickers": [
+   "META"
+  ],
+  "effect": "watch",
+  "title": "Meta reports third quarter results tonight",
+  "summary": "Earnings calendars list Meta for Wednesday, October 21, after the market closes, with an investor call at 4:30 p.m. Eastern. Analysts are expecting a big jump in profit compared with a weak quarter a year ago.",
+  "why": "A quarterly report shows how much a company really sold and earned. Stocks often move a lot the next morning if the numbers or the outlook differ from what analysts guessed.",
+  "source": "HeyGoTrade weekly outlook",
+  "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-10-19/"
+ },
+ {
+  "date": "2026-10-20",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Dow climbs while AI stocks stay under pressure",
+  "summary": "On Tuesday the Dow rose about 1% to 52,495.88 and the S&P 500 added about 0.3%, helped by good company earnings and lower oil prices. The Nasdaq ended nearly flat after worries about the AI trade.",
+  "why": "An index is a basket of many companies, so its move shows the mood of the market. Falling oil prices can lower costs for many businesses, but some investors are still unsure if AI spending will pay off.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
+ },
+ {
+  "date": "2026-10-19",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "TSM"
+  ],
+  "effect": "good",
+  "title": "Nasdaq rebounds as investors return to chip stocks",
+  "summary": "On Monday the Nasdaq rose about 1.1% to 26,430.89 as buyers came back to chip and other AI related companies after a rough week before.",
+  "why": "When many chip stocks rise together, it often means investors feel more confident about AI demand. One strong day does not guarantee a trend, so it helps to watch several days.",
+  "source": "Reuters via U.S. News",
+  "url": "https://money.usnews.com/investing/news/articles/2026-10-19/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall"
+ },
+ {
   "date": "2026-10-01",
   "tickers": [
    "LMT"
@@ -10,18 +49,6 @@
   "why": "Every three months a company reports how much it sold and earned. If the numbers or the outlook differ from what analysts expected, the stock can jump or drop quickly, so report days are often the bumpiest.",
   "source": "Lockheed Martin press release",
   "url": "https://news.lockheedmartin.com/2026-10-01-Lockheed-Martin-Announces-Third-Quarter-2026-Earnings-Results-Webcast"
- },
- {
-  "date": "2026-10-20",
-  "tickers": [
-   "GE"
-  ],
-  "effect": "watch",
-  "title": "GE Aerospace reports strong quarter, raises outlook",
-  "summary": "GE Aerospace shared third quarter results on October 20. Orders grew 49% to $19.0 billion, adjusted revenue rose 18% to $13.3 billion, and adjusted earnings per share reached $2.25. The company said it is raising its 2026 guidance across the board.",
-  "why": "A company's guidance is its own forecast for the year. Raising it is usually good news. But the stock still fell 3.7% in our data, which shows that prices depend on what investors hoped for, not only on the results.",
-  "source": "GE Aerospace earnings release (SEC filing)",
-  "url": "https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm"
  },
  {
   "date": "2026-10-16",

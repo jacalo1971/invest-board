@@ -2,31 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Before the open on Wednesday, the numbers are still Tuesday's closing prices, so the thing to watch is whether the market keeps leaning toward health stocks and away from big tech, with Lockheed Martin's report coming Thursday morning and the Fed meeting on October 27 and 28."
+  "text": "Chip and space stocks bounced hard today (Vertiv rose 4.2% and Rocket Lab 5.4%), while Intuitive Surgical, Alphabet and GE Aerospace slipped, and tonight Meta reports its quarterly results after the close."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin reports on Thursday",
-  "text": "Lockheed Martin said it will share its third quarter results before the market opens on Thursday, October 22, with a call at 8:30 a.m. Eastern. Its stock closed Tuesday at $548.71, a little under the $554 low end of analyst price targets. Reports can move a stock in either direction, so Thursday is a good day to watch."
+  "title": "Meta reports tonight",
+  "text": "Meta is scheduled to share its third quarter results after the market closed on Wednesday, October 21, with a call at 4:30 p.m. Eastern, according to earnings calendars. It closed at $697.52. Tomorrow morning the price may jump or drop depending on how the numbers compare with what analysts expected."
  },
  {
   "kind": "alert",
-  "title": "Bond yields are the quiet worry",
-  "text": "The 10 year Treasury yield averaged 4.99% in September, up from 4.06% a year earlier, and news reports put it near 5.1% in mid October. A yield is the interest the government pays for a loan. When it rises, safer bonds become more tempting and stocks can feel pressure."
+  "title": "Lockheed Martin reports Thursday",
+  "text": "Lockheed Martin will release its third quarter results before the market opens on Thursday, October 22. The stock closed at $551.51, just under the $554 low end of analyst price targets. A price target is a guess by professional analysts about where a stock could be in a year."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks swing a lot",
-  "text": "AMD closed at $534.74. Over the past year it has traded between $188.22 and $658.52, which is a very wide range. Nvidia has a smaller range, $164.27 to $243.37. A wide range is a sign that the price can move a lot in both directions."
+  "title": "Chips led the bounce",
+  "text": "AMD gained 3.4% to $552.72, Nvidia gained 2.5% to $221.97 and Taiwan Semiconductor gained 1.6%. After a rough stretch for AI stocks, buyers came back today. Chip stocks can swing a lot in both directions, so one good day does not tell us where they go next."
+ },
+ {
+  "kind": "alert",
+  "title": "Health stocks were mixed",
+  "text": "On Nasdaq, health care companies were the best sector on average, up 1.3%. But Eli Lilly fell 1.0% and Intuitive Surgical fell 2.3%. A sector average hides what each company did, which is one reason people look at companies one by one."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 16: What is volatility?",
-  "text": "Volatility is how much a price jumps around. A calm stock moves a little each day, like a bike on a flat road. A volatile stock goes up and down a lot, like a bike on a hilly trail. You can see it in the 52 week range: AMD traded between about $188 and $659 in a year, while the Schwab dividend fund SCHD stayed between about $26 and $35. Volatility is not good or bad by itself. It just tells you how bumpy the ride might be, and it is why people who need their money soon often like calmer investments. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 17: Bull markets and bear markets",
+  "text": "A bull market is a long stretch when prices mostly go up. A bear market is when they fall a lot, often 20% or more from a recent high. The names come from how the animals attack: a bull thrusts its horns up, a bear swipes down. In this board, the bear, base and bull numbers are three imagined futures, not predictions. Bear means a rough path, base means steady growth, and bull means a great path. Markets have always gone through both kinds of stretches, which is why patience matters. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
-  "title": "What this covers",
-  "text": "This page tracks 17 funds and companies using market data from Financial Modeling Prep and Alpha Vantage, plus news from the sources linked above. Prices shown are Tuesday's close, before Wednesday's market opened. Analyst price targets are not available for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical on our free data plan. This is for learning, not financial advice."
+  "title": "Data coverage",
+  "text": "Prices, 52 week ranges and sector changes come from FMP at today's close. Analyst targets and ratios are available only for some companies (NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT). Broadcom, Vertiv, Rocket Lab, Lilly and Intuitive Surgical show no targets because the free data plan blocks them. The 10 year Treasury data runs through September."
  }
 ]
