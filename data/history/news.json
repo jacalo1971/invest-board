@@ -487,5 +487,41 @@
   "why": "When many chip stocks rise together, it often means investors feel more confident about AI demand. One strong day does not guarantee a trend, so it helps to watch several days.",
   "source": "Reuters via U.S. News",
   "url": "https://money.usnews.com/investing/news/articles/2026-10-19/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "LMT"
+  ],
+  "effect": "good",
+  "title": "Lockheed Martin posts record backlog",
+  "summary": "Lockheed Martin said sales grew 11% to about $20.7 billion in the third quarter. Its backlog, the pile of signed orders still to be filled, reached a record $292 billion, helped by a large multi year missile interceptor award.",
+  "why": "A backlog tells you how much work a company already has lined up. A bigger one can mean steadier sales in coming years, though the stock price can still move for other reasons.",
+  "source": "Lockheed Martin (SEC filing)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
+ },
+ {
+  "date": "2026-10-21",
+  "tickers": [
+   "META"
+  ],
+  "effect": "watch",
+  "title": "Meta grows sales 26% but a legal charge hits profit",
+  "summary": "Meta reported third quarter sales of about $64.6 billion, a quarter more than last year. A one time charge tied to an agreement with state attorneys general made its operating profit shrink, and spending on computers and data centers stayed very high.",
+  "why": "Sales growing fast is good news, but investors also look at profit and at how much cash is going out. A one time cost is different from everyday costs, so it helps to read both numbers.",
+  "source": "Stock Titan (Meta press release)",
+  "url": "https://www.stocktitan.net/news/META/meta-reports-third-quarter-2026-13ysmyjaxliq.html"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "The 10 year Treasury rate hits a 12 month high",
+  "summary": "Data from Alpha Vantage show the 10 year Treasury yield averaged 4.99% in September, up from 4.68% in August and 4.06% a year ago.",
+  "why": "The 10 year rate is what the government pays to borrow for ten years. When it rises, new bonds pay more, and some investors move money away from riskier stocks.",
+  "source": "Alpha Vantage (Treasury yield data)",
+  "url": "https://www.alphavantage.co/documentation/#treasury-yield"
  }
 ]

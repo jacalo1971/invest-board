@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Chip and space stocks bounced hard today (Vertiv rose 4.2% and Rocket Lab 5.4%), while Intuitive Surgical, Alphabet and GE Aerospace slipped, and tonight Meta reports its quarterly results after the close."
+  "text": "Before the open on Thursday, Lockheed Martin has just reported its quarterly results and Meta reported last night, so those two stocks are the ones to watch when trading starts at 9:30 a.m. Eastern."
  },
  {
   "kind": "alert",
-  "title": "Meta reports tonight",
-  "text": "Meta is scheduled to share its third quarter results after the market closed on Wednesday, October 21, with a call at 4:30 p.m. Eastern, according to earnings calendars. It closed at $697.52. Tomorrow morning the price may jump or drop depending on how the numbers compare with what analysts expected."
+  "title": "Meta reported after the close",
+  "text": "Meta shared its third quarter results on Wednesday evening. Reports say sales were about $64.6 billion, up 26% from a year ago, but a large one-time legal charge cut its profit. The stock closed at $697.52 before the news, so today's first trades will show how investors feel about it."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin reports Thursday",
-  "text": "Lockheed Martin will release its third quarter results before the market opens on Thursday, October 22. The stock closed at $551.51, just under the $554 low end of analyst price targets. A price target is a guess by professional analysts about where a stock could be in a year."
+  "title": "Lockheed Martin results are out",
+  "text": "Lockheed Martin reported this morning that sales rose 11% to about $20.7 billion and that its backlog (orders not yet delivered) hit a record $292 billion. The stock closed at $551.51, just under the $554 low end of analyst price targets, so watch whether it moves toward that range."
  },
  {
   "kind": "alert",
-  "title": "Chips led the bounce",
-  "text": "AMD gained 3.4% to $552.72, Nvidia gained 2.5% to $221.97 and Taiwan Semiconductor gained 1.6%. After a rough stretch for AI stocks, buyers came back today. Chip stocks can swing a lot in both directions, so one good day does not tell us where they go next."
+  "title": "The 10 year bond rate is climbing",
+  "text": "The 10 year Treasury yield is the interest the US government pays to borrow for ten years. Its monthly average rose to 4.99% in September, the highest of the past 12 months. When safe bonds pay more, some investors find stocks less exciting, so tech stocks can feel it."
  },
  {
   "kind": "alert",
-  "title": "Health stocks were mixed",
-  "text": "On Nasdaq, health care companies were the best sector on average, up 1.3%. But Eli Lilly fell 1.0% and Intuitive Surgical fell 2.3%. A sector average hides what each company did, which is one reason people look at companies one by one."
+  "title": "Big gap in the AI group",
+  "text": "Yesterday the chip makers AMD (up 3.4%) and Nvidia (up 2.5%) rose, while Alphabet fell 1.6% and Intuitive Surgical fell 2.3%. Prices can swing a lot in one day, which is why spreading money across many companies matters."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 17: Bull markets and bear markets",
-  "text": "A bull market is a long stretch when prices mostly go up. A bear market is when they fall a lot, often 20% or more from a recent high. The names come from how the animals attack: a bull thrusts its horns up, a bear swipes down. In this board, the bear, base and bull numbers are three imagined futures, not predictions. Bear means a rough path, base means steady growth, and bull means a great path. Markets have always gone through both kinds of stretches, which is why patience matters. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 18: What is free cash flow?",
+  "text": "Free cash flow is the money a company has left after paying its bills and its big spending on things like factories and computers. Think of a lemonade stand: sales minus lemons, cups and a new table is what you can really keep. A company with lots of free cash flow can pay dividends, buy back shares or save for hard times. A company that spends more than it earns for a while can still be fine if the spending builds something valuable, but it is something to watch. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices, 52 week ranges and sector changes come from FMP at today's close. Analyst targets and ratios are available only for some companies (NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT). Broadcom, Vertiv, Rocket Lab, Lilly and Intuitive Surgical show no targets because the free data plan blocks them. The 10 year Treasury data runs through September."
+  "text": "Prices, 52 week ranges and sector changes come from FMP and show the last close (Wednesday, October 21). Analyst targets are available only for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT; other fundamentals are carried over from the last update. News facts come from company reports as summarized by news sites and were not all checked at the original filing."
  }
 ]

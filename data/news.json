@@ -1,15 +1,27 @@
 [
  {
+  "date": "2026-10-22",
+  "tickers": [
+   "LMT"
+  ],
+  "effect": "good",
+  "title": "Lockheed Martin posts record backlog",
+  "summary": "Lockheed Martin said sales grew 11% to about $20.7 billion in the third quarter. Its backlog, the pile of signed orders still to be filled, reached a record $292 billion, helped by a large multi year missile interceptor award.",
+  "why": "A backlog tells you how much work a company already has lined up. A bigger one can mean steadier sales in coming years, though the stock price can still move for other reasons.",
+  "source": "Lockheed Martin (SEC filing)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
+ },
+ {
   "date": "2026-10-21",
   "tickers": [
    "META"
   ],
   "effect": "watch",
-  "title": "Meta reports third quarter results tonight",
-  "summary": "Earnings calendars list Meta for Wednesday, October 21, after the market closes, with an investor call at 4:30 p.m. Eastern. Analysts are expecting a big jump in profit compared with a weak quarter a year ago.",
-  "why": "A quarterly report shows how much a company really sold and earned. Stocks often move a lot the next morning if the numbers or the outlook differ from what analysts guessed.",
-  "source": "HeyGoTrade weekly outlook",
-  "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-10-19/"
+  "title": "Meta grows sales 26% but a legal charge hits profit",
+  "summary": "Meta reported third quarter sales of about $64.6 billion, a quarter more than last year. A one time charge tied to an agreement with state attorneys general made its operating profit shrink, and spending on computers and data centers stayed very high.",
+  "why": "Sales growing fast is good news, but investors also look at profit and at how much cash is going out. A one time cost is different from everyday costs, so it helps to read both numbers.",
+  "source": "Stock Titan (Meta press release)",
+  "url": "https://www.stocktitan.net/news/META/meta-reports-third-quarter-2026-13ysmyjaxliq.html"
  },
  {
   "date": "2026-10-20",
@@ -24,54 +36,15 @@
   "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
  },
  {
-  "date": "2026-10-19",
-  "tickers": [
-   "NVDA",
-   "AMD",
-   "AVGO",
-   "TSM"
-  ],
-  "effect": "good",
-  "title": "Nasdaq rebounds as investors return to chip stocks",
-  "summary": "On Monday the Nasdaq rose about 1.1% to 26,430.89 as buyers came back to chip and other AI related companies after a rough week before.",
-  "why": "When many chip stocks rise together, it often means investors feel more confident about AI demand. One strong day does not guarantee a trend, so it helps to watch several days.",
-  "source": "Reuters via U.S. News",
-  "url": "https://money.usnews.com/investing/news/articles/2026-10-19/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall"
- },
- {
-  "date": "2026-10-01",
-  "tickers": [
-   "LMT"
-  ],
-  "effect": "watch",
-  "title": "Lockheed Martin sets its third quarter report for Thursday",
-  "summary": "Lockheed Martin announced that it will release third quarter earnings before the stock market opens on October 22, followed by a call with investors at 8:30 a.m. Eastern. The stock closed Tuesday at $548.71.",
-  "why": "Every three months a company reports how much it sold and earned. If the numbers or the outlook differ from what analysts expected, the stock can jump or drop quickly, so report days are often the bumpiest.",
-  "source": "Lockheed Martin press release",
-  "url": "https://news.lockheedmartin.com/2026-10-01-Lockheed-Martin-Announces-Third-Quarter-2026-Earnings-Results-Webcast"
- },
- {
-  "date": "2026-10-16",
+  "date": "2026-10-22",
   "tickers": [
    "ALL"
   ],
   "effect": "watch",
-  "title": "Fed chair's speech makes a rate hike this month less likely",
-  "summary": "Speaking at the IMF meetings in Bangkok, the Fed chair gave no clear signal about future rate moves. Afterward, traders cut the odds of a hike at the October 27 and 28 meeting to under 15%, down from about 27%.",
-  "why": "The Fed sets short term interest rates. Higher rates make borrowing cost more and can slow company profits, so stocks often wobble when traders expect a hike. The meeting is the next big date to watch.",
-  "source": "Trading Economics",
-  "url": "https://tradingeconomics.com/united-states/interest-rate/news/592678"
- },
- {
-  "date": "2026-10-16",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "bad",
-  "title": "10 year Treasury yield stays near 5.1%",
-  "summary": "The yield on the 10 year US Treasury note ended last week near 5.12%. That is a bit lower than earlier in October, when it hit its highest level since 2002.",
-  "why": "A Treasury is a loan to the US government, and the yield is the interest it pays. When safe bonds pay more, stocks have to look more attractive to compete, so high yields can pull stock prices down.",
-  "source": "Trading Economics",
-  "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/592783"
+  "title": "The 10 year Treasury rate hits a 12 month high",
+  "summary": "Data from Alpha Vantage show the 10 year Treasury yield averaged 4.99% in September, up from 4.68% in August and 4.06% a year ago.",
+  "why": "The 10 year rate is what the government pays to borrow for ten years. When it rises, new bonds pay more, and some investors move money away from riskier stocks.",
+  "source": "Alpha Vantage (Treasury yield data)",
+  "url": "https://www.alphavantage.co/documentation/#treasury-yield"
  }
 ]
