@@ -2,36 +2,36 @@
  {
   "kind": "takeaway",
   "title": "Today in one sentence",
-  "text": "Before the open on Thursday, Lockheed Martin has just reported its quarterly results and Meta reported last night, so those two stocks are the ones to watch when trading starts at 9:30 a.m. Eastern."
+  "text": "Tech stocks had a rough Thursday, with the Nasdaq 100 fund (QQQ) down 2.9% and the S&P 500 fund (SPY) down 1.2%, while Lockheed Martin, health companies and the dividend fund SCHD went up."
  },
  {
   "kind": "alert",
-  "title": "Meta reported after the close",
-  "text": "Meta shared its third quarter results on Wednesday evening. Reports say sales were about $64.6 billion, up 26% from a year ago, but a large one-time legal charge cut its profit. The stock closed at $697.52 before the news, so today's first trades will show how investors feel about it."
+  "title": "AI stocks took the biggest hit",
+  "text": "Chip and AI companies fell the most today. AMD dropped 8.1%, Vertiv 7.8%, TSMC 4.5% and Nvidia 4.4%. When many stocks in the same group fall together, it often means investors are worried about the whole theme, not one company."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin results are out",
-  "text": "Lockheed Martin reported this morning that sales rose 11% to about $20.7 billion and that its backlog (orders not yet delivered) hit a record $292 billion. The stock closed at $551.51, just under the $554 low end of analyst price targets, so watch whether it moves toward that range."
+  "title": "Meta fell after its report",
+  "text": "Meta fell 7.0% to $648.85, the day after it shared its quarterly results. Sales grew 26%, but news sites say investors are uneasy about how much money the company is spending on AI. Even good sales can be overshadowed by big spending."
  },
  {
   "kind": "alert",
-  "title": "The 10 year bond rate is climbing",
-  "text": "The 10 year Treasury yield is the interest the US government pays to borrow for ten years. Its monthly average rose to 4.99% in September, the highest of the past 12 months. When safe bonds pay more, some investors find stocks less exciting, so tech stocks can feel it."
+  "title": "Lockheed Martin jumped 7%",
+  "text": "Lockheed Martin rose 7.0% to $589.91 after reporting sales up 11% to $20.7 billion and a record backlog (orders not yet delivered) of $292 billion. It now sits above the $554 low end of analyst price targets, and a price target is just the average guess of analysts, not a promise."
  },
  {
   "kind": "alert",
-  "title": "Big gap in the AI group",
-  "text": "Yesterday the chip makers AMD (up 3.4%) and Nvidia (up 2.5%) rose, while Alphabet fell 1.6% and Intuitive Surgical fell 2.3%. Prices can swing a lot in one day, which is why spreading money across many companies matters."
+  "title": "Calmer stocks held up",
+  "text": "While tech fell, the dividend fund SCHD rose 2.1% to a new 52 week high, Eli Lilly gained 2.8% and Intuitive Surgical 3.7%. Owning different kinds of companies, called diversification, helps soften days like this."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 18: What is free cash flow?",
-  "text": "Free cash flow is the money a company has left after paying its bills and its big spending on things like factories and computers. Think of a lemonade stand: sales minus lemons, cups and a new table is what you can really keep. A company with lots of free cash flow can pay dividends, buy back shares or save for hard times. A company that spends more than it earns for a while can still be fine if the spending builds something valuable, but it is something to watch. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 19: What is a pullback?",
+  "text": "A pullback is when a stock or the whole market drops for a short time after rising. Think of climbing a hill: you sometimes stop and slide back a few steps before you keep going. Drops of 5% to 10% happen fairly often, even in healthy markets, and a drop of 20% or more is called a bear market. Today the Nasdaq 100 fund fell almost 3% in one day, which feels big, but it is a normal kind of event. A pullback is a good moment to ask what you own and why you own it, not to panic. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices, 52 week ranges and sector changes come from FMP and show the last close (Wednesday, October 21). Analyst targets are available only for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT; other fundamentals are carried over from the last update. News facts come from company reports as summarized by news sites and were not all checked at the original filing."
+  "text": "Prices, 52 week ranges and sector changes come from FMP and show today's close (Thursday, October 22). Analyst targets are available only for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT; other fundamentals are carried over from the last update. The 10 year bond data is monthly and the latest month is September. News facts come from company filings and news sites and were not all checked at the original source."
  }
 ]

@@ -5,46 +5,64 @@
    "LMT"
   ],
   "effect": "good",
-  "title": "Lockheed Martin posts record backlog",
-  "summary": "Lockheed Martin said sales grew 11% to about $20.7 billion in the third quarter. Its backlog, the pile of signed orders still to be filled, reached a record $292 billion, helped by a large multi year missile interceptor award.",
-  "why": "A backlog tells you how much work a company already has lined up. A bigger one can mean steadier sales in coming years, though the stock price can still move for other reasons.",
+  "title": "Lockheed Martin stock jumps 7% on its results",
+  "summary": "Lockheed Martin closed up about 7% at $589.91 after it reported quarterly sales of $20.7 billion, up 11%. Its backlog, the orders it has not delivered yet, reached a record $292 billion, helped by a large award for PAC-3 interceptor missiles. The company also updated its outlook for the year.",
+  "why": "A backlog is like a long list of paid orders waiting to be filled, so it gives a company steady work for years. That is why investors liked the news, but one good day does not guarantee future results.",
   "source": "Lockheed Martin (SEC filing)",
   "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
- },
- {
-  "date": "2026-10-21",
-  "tickers": [
-   "META"
-  ],
-  "effect": "watch",
-  "title": "Meta grows sales 26% but a legal charge hits profit",
-  "summary": "Meta reported third quarter sales of about $64.6 billion, a quarter more than last year. A one time charge tied to an agreement with state attorneys general made its operating profit shrink, and spending on computers and data centers stayed very high.",
-  "why": "Sales growing fast is good news, but investors also look at profit and at how much cash is going out. A one time cost is different from everyday costs, so it helps to read both numbers.",
-  "source": "Stock Titan (Meta press release)",
-  "url": "https://www.stocktitan.net/news/META/meta-reports-third-quarter-2026-13ysmyjaxliq.html"
- },
- {
-  "date": "2026-10-20",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Dow climbs while AI stocks stay under pressure",
-  "summary": "On Tuesday the Dow rose about 1% to 52,495.88 and the S&P 500 added about 0.3%, helped by good company earnings and lower oil prices. The Nasdaq ended nearly flat after worries about the AI trade.",
-  "why": "An index is a basket of many companies, so its move shows the mood of the market. Falling oil prices can lower costs for many businesses, but some investors are still unsure if AI spending will pay off.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
  },
  {
   "date": "2026-10-22",
   "tickers": [
    "ALL"
   ],
-  "effect": "watch",
-  "title": "The 10 year Treasury rate hits a 12 month high",
-  "summary": "Data from Alpha Vantage show the 10 year Treasury yield averaged 4.99% in September, up from 4.68% in August and 4.06% a year ago.",
-  "why": "The 10 year rate is what the government pays to borrow for ten years. When it rises, new bonds pay more, and some investors move money away from riskier stocks.",
-  "source": "Alpha Vantage (Treasury yield data)",
-  "url": "https://www.alphavantage.co/documentation/#treasury-yield"
+  "effect": "bad",
+  "title": "Tech leads a sharp drop in US stocks",
+  "summary": "The Nasdaq Composite fell about 2.6% and the S&P 500 about 1.2%, according to market reports, while the Dow barely moved. Our own price data agrees, with the Nasdaq 100 fund (QQQ) down 2.9% and the S&P 500 fund (SPY) down 1.2%. Technology and communication companies fell the most.",
+  "why": "When the biggest tech names drop, the index funds that hold them drop too, even if you own no single tech stock. This is one reason spreading money across different kinds of companies matters.",
+  "source": "Yahoo Finance (market wrap)",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "AMD",
+   "NVDA",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "bad",
+  "title": "AI chip and equipment stocks slide together",
+  "summary": "Prices at the close show AMD down 8.1%, Vertiv down 7.8%, TSMC down 4.5%, Nvidia down 4.4% and Broadcom down 4.3%. Market reports link the drop to renewed worry about how much money is going into AI and who will pay for it.",
+  "why": "These companies make the chips and equipment that AI needs, so they often move as a group. If investors doubt that AI spending will keep growing, the whole group can fall at once.",
+  "source": "Financial Modeling Prep (closing prices)",
+  "url": "https://financialmodelingprep.com"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "META"
+  ],
+  "effect": "bad",
+  "title": "Meta falls 7% a day after its report",
+  "summary": "Meta closed at $648.85, down 7.0%, the day after sharing quarterly results. Sales grew about 26%, but reports say investors were uneasy about how much the company is spending on AI and what that does to its cash.",
+  "why": "A company can sell more and still see its stock fall if people worry the spending will not pay off. Watching cash left over after spending, called free cash flow, helps explain moves like this.",
+  "source": "Yahoo Finance (market wrap)",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "SCHD",
+   "LLY",
+   "ISRG"
+  ],
+  "effect": "good",
+  "title": "Dividend and health stocks rise as tech falls",
+  "summary": "The dividend fund SCHD gained 2.1% and closed at $35.40, near its 52 week high. Eli Lilly rose 2.8% and Intuitive Surgical 3.7%, while health care was one of the few sectors in the green.",
+  "why": "Different kinds of companies do not always move together. On days when tech falls, steadier areas like dividend payers and health care can hold up, which is the idea behind diversification.",
+  "source": "Financial Modeling Prep (closing prices)",
+  "url": "https://financialmodelingprep.com"
  }
 ]

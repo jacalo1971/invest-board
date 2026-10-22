@@ -916,5 +916,107 @@
   "symbol": "ISRG",
   "price": 428.12,
   "risk_score": 5.7
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "SPY",
+  "price": 763.96,
+  "risk_score": 2.2
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "QQQ",
+  "price": 704.47,
+  "risk_score": 3.0
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "SCHD",
+  "price": 35.4,
+  "risk_score": 1.7
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "NVDA",
+  "price": 212.21,
+  "risk_score": 5.3
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "AVGO",
+  "price": 323.24,
+  "risk_score": 5.7
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "TSM",
+  "price": 412.35,
+  "risk_score": 4.7
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "VRT",
+  "price": 195.59,
+  "risk_score": 8.0
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "AMD",
+  "price": 507.93,
+  "risk_score": 7.5
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "GOOGL",
+  "price": 324.22,
+  "risk_score": 4.3
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "AMZN",
+  "price": 250.38,
+  "risk_score": 4.4
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "MSFT",
+  "price": 521.08,
+  "risk_score": 3.9
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "META",
+  "price": 648.85,
+  "risk_score": 4.2
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "RKLB",
+  "price": 51.22,
+  "risk_score": 10
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "LMT",
+  "price": 589.91,
+  "risk_score": 2.9
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "GE",
+  "price": 293.54,
+  "risk_score": 5.0
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "LLY",
+  "price": 1306.69,
+  "risk_score": 3.0
+ },
+ {
+  "date": "2026-10-22",
+  "symbol": "ISRG",
+  "price": 443.85,
+  "risk_score": 5.6
  }
 ]

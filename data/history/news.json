@@ -523,5 +523,71 @@
   "why": "The 10 year rate is what the government pays to borrow for ten years. When it rises, new bonds pay more, and some investors move money away from riskier stocks.",
   "source": "Alpha Vantage (Treasury yield data)",
   "url": "https://www.alphavantage.co/documentation/#treasury-yield"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "LMT"
+  ],
+  "effect": "good",
+  "title": "Lockheed Martin stock jumps 7% on its results",
+  "summary": "Lockheed Martin closed up about 7% at $589.91 after it reported quarterly sales of $20.7 billion, up 11%. Its backlog, the orders it has not delivered yet, reached a record $292 billion, helped by a large award for PAC-3 interceptor missiles. The company also updated its outlook for the year.",
+  "why": "A backlog is like a long list of paid orders waiting to be filled, so it gives a company steady work for years. That is why investors liked the news, but one good day does not guarantee future results.",
+  "source": "Lockheed Martin (SEC filing)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Tech leads a sharp drop in US stocks",
+  "summary": "The Nasdaq Composite fell about 2.6% and the S&P 500 about 1.2%, according to market reports, while the Dow barely moved. Our own price data agrees, with the Nasdaq 100 fund (QQQ) down 2.9% and the S&P 500 fund (SPY) down 1.2%. Technology and communication companies fell the most.",
+  "why": "When the biggest tech names drop, the index funds that hold them drop too, even if you own no single tech stock. This is one reason spreading money across different kinds of companies matters.",
+  "source": "Yahoo Finance (market wrap)",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "AMD",
+   "NVDA",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "bad",
+  "title": "AI chip and equipment stocks slide together",
+  "summary": "Prices at the close show AMD down 8.1%, Vertiv down 7.8%, TSMC down 4.5%, Nvidia down 4.4% and Broadcom down 4.3%. Market reports link the drop to renewed worry about how much money is going into AI and who will pay for it.",
+  "why": "These companies make the chips and equipment that AI needs, so they often move as a group. If investors doubt that AI spending will keep growing, the whole group can fall at once.",
+  "source": "Financial Modeling Prep (closing prices)",
+  "url": "https://financialmodelingprep.com"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "META"
+  ],
+  "effect": "bad",
+  "title": "Meta falls 7% a day after its report",
+  "summary": "Meta closed at $648.85, down 7.0%, the day after sharing quarterly results. Sales grew about 26%, but reports say investors were uneasy about how much the company is spending on AI and what that does to its cash.",
+  "why": "A company can sell more and still see its stock fall if people worry the spending will not pay off. Watching cash left over after spending, called free cash flow, helps explain moves like this.",
+  "source": "Yahoo Finance (market wrap)",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "SCHD",
+   "LLY",
+   "ISRG"
+  ],
+  "effect": "good",
+  "title": "Dividend and health stocks rise as tech falls",
+  "summary": "The dividend fund SCHD gained 2.1% and closed at $35.40, near its 52 week high. Eli Lilly rose 2.8% and Intuitive Surgical 3.7%, while health care was one of the few sectors in the green.",
+  "why": "Different kinds of companies do not always move together. On days when tech falls, steadier areas like dividend payers and health care can hold up, which is the idea behind diversification.",
+  "source": "Financial Modeling Prep (closing prices)",
+  "url": "https://financialmodelingprep.com"
  }
 ]
