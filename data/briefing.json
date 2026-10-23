@@ -1,37 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "Today in one sentence",
-  "text": "Tech stocks had a rough Thursday, with the Nasdaq 100 fund (QQQ) down 2.9% and the S&P 500 fund (SPY) down 1.2%, while Lockheed Martin, health companies and the dividend fund SCHD went up."
+  "title": "What to watch at the open",
+  "text": "The numbers below are Thursday's closing prices. Tech stocks fell hard that day (the Nasdaq 100 fund QQQ lost 2.9%), so at the open the thing to watch is whether chip and AI stocks steady themselves or keep sliding. Calmer holdings like the dividend fund SCHD and Eli Lilly closed near their 52 week highs."
  },
  {
   "kind": "alert",
-  "title": "AI stocks took the biggest hit",
-  "text": "Chip and AI companies fell the most today. AMD dropped 8.1%, Vertiv 7.8%, TSMC 4.5% and Nvidia 4.4%. When many stocks in the same group fall together, it often means investors are worried about the whole theme, not one company."
+  "title": "Chip stocks are far below their highs",
+  "text": "Vertiv closed 48.5% below its 52 week high, Broadcom 34.7% below and AMD 22.9% below. A stock that sits far under its high has already had a big fall, which tells you it can swing a lot in both directions. That swing is what the risk score measures."
  },
  {
   "kind": "alert",
-  "title": "Meta fell after its report",
-  "text": "Meta fell 7.0% to $648.85, the day after it shared its quarterly results. Sales grew 26%, but news sites say investors are uneasy about how much money the company is spending on AI. Even good sales can be overshadowed by big spending."
+  "title": "Meta: big drop, analysts still higher",
+  "text": "Meta closed at $648.85 after a 7.0% drop. The average analyst price target is $834.36, about 28.6% above the price. A price target is only an opinion about where a stock might go in a year, and analysts are often wrong, so treat it as one clue and not a promise."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin jumped 7%",
-  "text": "Lockheed Martin rose 7.0% to $589.91 after reporting sales up 11% to $20.7 billion and a record backlog (orders not yet delivered) of $292 billion. It now sits above the $554 low end of analyst price targets, and a price target is just the average guess of analysts, not a promise."
- },
- {
-  "kind": "alert",
-  "title": "Calmer stocks held up",
-  "text": "While tech fell, the dividend fund SCHD rose 2.1% to a new 52 week high, Eli Lilly gained 2.8% and Intuitive Surgical 3.7%. Owning different kinds of companies, called diversification, helps soften days like this."
+  "title": "Two stocks closed near the top of their range",
+  "text": "SCHD closed at $35.40 and Eli Lilly at $1,306.69, both within about 1% of their 52 week highs. Being near a high is not good or bad by itself. It only says the price has already risen a lot, so a small slip is easier to notice."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 19: What is a pullback?",
-  "text": "A pullback is when a stock or the whole market drops for a short time after rising. Think of climbing a hill: you sometimes stop and slide back a few steps before you keep going. Drops of 5% to 10% happen fairly often, even in healthy markets, and a drop of 20% or more is called a bear market. Today the Nasdaq 100 fund fell almost 3% in one day, which feels big, but it is a normal kind of event. A pullback is a good moment to ask what you own and why you own it, not to panic. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 20: What is a time horizon?",
+  "text": "A time horizon is how long you plan to keep your money invested before you need it. Money for a bike next summer has a short horizon. Money for college in 10 years has a long one. This matters because stocks can fall a lot in a few weeks, like they did on Thursday, but over many years they have usually had time to recover. A short horizon means you cannot wait out a drop, so people usually keep that money in safer places like savings or bonds. A long horizon can handle more ups and downs. Before you look at any stock, ask yourself when you will need the money. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices, 52 week ranges and sector changes come from FMP and show today's close (Thursday, October 22). Analyst targets are available only for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT; other fundamentals are carried over from the last update. The 10 year bond data is monthly and the latest month is September. News facts come from company filings and news sites and were not all checked at the original source."
+  "text": "Prices, 52 week ranges and sector changes come from FMP and show Thursday, October 22 closing values. Analyst targets are available only for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT; other fundamentals are carried over from the last update. The 10 year bond data is monthly and the latest month is September. News facts come from company filings and news sites and were not all checked at the original source."
  }
 ]

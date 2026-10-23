@@ -589,5 +589,33 @@
   "why": "Different kinds of companies do not always move together. On days when tech falls, steadier areas like dividend payers and health care can hold up, which is the idea behind diversification.",
   "source": "Financial Modeling Prep (closing prices)",
   "url": "https://financialmodelingprep.com"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "AMZN",
+   "MSFT",
+   "GOOGL",
+   "META",
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "Big tech earnings season is close",
+  "summary": "Calendar sites list Microsoft and Alphabet as expected to report around October 27 or 28, and Amazon around October 29. The companies had not yet confirmed those dates in the sources found, and the sites disagree by a day.",
+  "why": "When a company reports earnings, it shows how much it sold and earned. Stocks can jump or drop a lot that day, and the results of the biggest companies can move the whole market, so it helps to know the dates are coming.",
+  "source": "Blofin earnings calendar (dates not confirmed by companies)",
+  "url": "https://blofin.com/academy/education/tradfi/earnings-season-october-2026"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Intel plans to share results on October 29",
+  "summary": "Intel says it will publish its third quarter results after the market closes on Thursday, October 29. Intel is not on our list, but it is a large chip company.",
+  "why": "Chip companies often move together. A report from a big name like Intel can shift how investors feel about chip stocks such as Nvidia or AMD, even when the news is not about them.",
+  "source": "Intel investor relations",
+  "url": "https://www.intc.com/news-events/press-releases/detail/1782/intel-to-report-third-quarter-2026-financial-results"
  }
 ]
