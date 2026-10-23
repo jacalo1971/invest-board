@@ -617,5 +617,55 @@
   "why": "Chip companies often move together. A report from a big name like Intel can shift how investors feel about chip stocks such as Nvidia or AMD, even when the news is not about them.",
   "source": "Intel investor relations",
   "url": "https://www.intc.com/news-events/press-releases/detail/1782/intel-to-report-third-quarter-2026-financial-results"
+ },
+ {
+  "date": "2026-10-23",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Stocks end a rocky week a little lower",
+  "summary": "The S&P 500 fund SPY slipped about half a percent on Friday and the Nasdaq 100 fund QQQ finished almost flat. Reports on the day pointed to worries about how much companies are spending on AI and what it costs to borrow money. Investors are also waiting for a Federal Reserve decision next week.",
+  "why": "When a market falls a little after a big drop, it can mean investors are still nervous but not panicking. Beginners can learn from this that a few calm days do not always mean the worry is over.",
+  "source": "Reuters, via Virginia Business",
+  "url": "https://virginiabusiness.com/sp-500-closes-lower-ai-trade-earnings-outlook/"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Oil jumps and many stocks drop on Thursday",
+  "summary": "CNBC reported that the Dow fell by more than 600 points on Thursday as oil prices rose and the sell-off hit most parts of the market. It was the day tech stocks took their biggest one-day fall in months.",
+  "why": "Oil is used to make gasoline and ship goods, so higher oil prices can raise costs for many companies and for families. When costs go up, investors sometimes expect smaller profits and sell stocks.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+ },
+ {
+  "date": "2026-10-20",
+  "tickers": [
+   "GE"
+  ],
+  "effect": "watch",
+  "title": "GE Aerospace beats estimates but its stock still falls",
+  "summary": "GE Aerospace reported third quarter profit of $2.25 per share, above the roughly $2.01 analysts expected, and raised its 2026 profit forecast to $8.00 to $8.10 per share. The stock still fell, because the fourth quarter outlook looked a bit lower than analysts hoped and cash flow dipped.",
+  "why": "A stock price reflects what investors expect in the future, not only what just happened. A good report can still disappoint if people were hoping for even more.",
+  "source": "TIKR",
+  "url": "https://www.tikr.com/blog/ge-aerospace-stock-drops-despite-q3-earnings-beat"
+ },
+ {
+  "date": "2026-10-23",
+  "tickers": [
+   "GOOGL",
+   "MSFT",
+   "AMZN"
+  ],
+  "effect": "watch",
+  "title": "A big week ahead: the Fed and big tech earnings",
+  "summary": "Alphabet says it will report its third quarter results on October 28. Reports say Microsoft and Amazon also report in the coming days, and the Federal Reserve is expected to keep interest rates steady at its meeting on Wednesday.",
+  "why": "Earnings reports show whether a company is really making money, and the Fed's rate decision changes the cost of borrowing for everyone. Both can move prices fast, so many investors watch this week closely.",
+  "source": "Main Street (Alphabet date) and Reuters (Fed outlook)",
+  "url": "https://wearemainstreet.org/world/us/2026/10/21/alphabet-report-third-quarter-earnings"
  }
 ]

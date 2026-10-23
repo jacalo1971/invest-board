@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "The numbers below are Thursday's closing prices. Tech stocks fell hard that day (the Nasdaq 100 fund QQQ lost 2.9%), so at the open the thing to watch is whether chip and AI stocks steady themselves or keep sliding. Calmer holdings like the dividend fund SCHD and Eli Lilly closed near their 52 week highs."
+  "title": "What happened at the close",
+  "text": "Stocks ended the week a little lower. The S&P 500 fund SPY lost 0.5% on Friday to $759.97, and the Nasdaq 100 fund QQQ ended almost flat at $704.40. Energy was the strongest group on the Nasdaq, up 3.1%, while consumer staples lagged. Next week is busy: the Fed meets on Wednesday and Alphabet reports its results on October 28, so prices may swing. This is information for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks are far below their highs",
-  "text": "Vertiv closed 48.5% below its 52 week high, Broadcom 34.7% below and AMD 22.9% below. A stock that sits far under its high has already had a big fall, which tells you it can swing a lot in both directions. That swing is what the risk score measures."
+  "title": "GE fell even after good news",
+  "text": "GE Aerospace closed at $285.64, down 2.7%, and sits 26.5% below its 52 week high. Earlier this week it reported profit above what analysts expected and raised its yearly forecast, yet the stock still dropped. The average analyst price target is $385.71, about 35.0% above the price. A price target is just an opinion about where a stock might go in a year, so treat it as one clue."
  },
  {
   "kind": "alert",
-  "title": "Meta: big drop, analysts still higher",
-  "text": "Meta closed at $648.85 after a 7.0% drop. The average analyst price target is $834.36, about 28.6% above the price. A price target is only an opinion about where a stock might go in a year, and analysts are often wrong, so treat it as one clue and not a promise."
+  "title": "Eli Lilly slips from near its high",
+  "text": "Eli Lilly closed at $1,273.46, down 2.5%, but it is still only 3.6% below its 52 week high of $1,321.21. The dividend fund SCHD closed at $35.27, just 0.5% below its high. A stock near its high has already risen a lot, so a small drop is easier to notice. That is not good or bad by itself."
  },
  {
   "kind": "alert",
-  "title": "Two stocks closed near the top of their range",
-  "text": "SCHD closed at $35.40 and Eli Lilly at $1,306.69, both within about 1% of their 52 week highs. Being near a high is not good or bad by itself. It only says the price has already risen a lot, so a small slip is easier to notice."
+  "title": "Chip stocks bounce but are still low",
+  "text": "AMD rose 1.7% and TSMC rose 1.5%, a small bounce after Thursday's fall. Even so, Vertiv is 48.9% below its 52 week high and Broadcom is 35.0% below. A stock that has fallen far can swing a lot in both directions, and that swing is what the risk score measures."
  },
  {
-  "kind": "lesson",
-  "title": "Lesson 20: What is a time horizon?",
-  "text": "A time horizon is how long you plan to keep your money invested before you need it. Money for a bike next summer has a short horizon. Money for college in 10 years has a long one. This matters because stocks can fall a lot in a few weeks, like they did on Thursday, but over many years they have usually had time to recover. A short horizon means you cannot wait out a drop, so people usually keep that money in safer places like savings or bonds. A long horizon can handle more ups and downs. Before you look at any stock, ask yourself when you will need the money. This is for learning, not advice to buy or sell anything."
+  "date": "2026-10-23",
+  "title": "Lesson 21: What is the Federal Reserve?",
+  "text": "The Federal Reserve, often called the Fed, is the central bank of the United States. One of its main jobs is to set a key interest rate that affects how much it costs to borrow money. When the Fed raises rates, loans like mortgages and car loans usually get more expensive, and bonds often pay more. When it lowers rates, borrowing gets cheaper. Stocks often react because company profits and investor moods change with the cost of money. The Fed meets several times a year and announces its decision, and investors watch every word. Next week the Fed meets again, which is why markets can feel jumpy beforehand. The Fed does not tell anyone what to buy or sell, and this is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices, 52 week ranges and sector changes come from FMP and show Thursday, October 22 closing values. Analyst targets are available only for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT; other fundamentals are carried over from the last update. The 10 year bond data is monthly and the latest month is September. News facts come from company filings and news sites and were not all checked at the original source."
+  "text": "Prices, 52 week ranges and sector changes come from FMP and show Friday, October 23 closing values. Analyst targets are available only for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT; other fundamentals are carried over from the last update. The 10 year bond data is monthly and the latest month is September. News facts come from news sites and company reports and were not all checked at the original source."
  }
 ]

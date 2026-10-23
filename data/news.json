@@ -1,15 +1,15 @@
 [
  {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "tickers": [
-   "LMT"
+   "ALL"
   ],
-  "effect": "good",
-  "title": "Lockheed Martin stock jumps 7% on its results",
-  "summary": "Lockheed Martin closed up about 7% at $589.91 after it reported quarterly sales of $20.7 billion, up 11%. Its backlog, the orders it has not delivered yet, reached a record $292 billion, helped by a large award for PAC-3 interceptor missiles. The company also updated its outlook for the year.",
-  "why": "A backlog is like a long list of paid orders waiting to be filled, so it gives a company steady work for years. That is why investors liked the news, but one good day does not guarantee future results.",
-  "source": "Lockheed Martin (SEC filing)",
-  "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
+  "effect": "watch",
+  "title": "Stocks end a rocky week a little lower",
+  "summary": "The S&P 500 fund SPY slipped about half a percent on Friday and the Nasdaq 100 fund QQQ finished almost flat. Reports on the day pointed to worries about how much companies are spending on AI and what it costs to borrow money. Investors are also waiting for a Federal Reserve decision next week.",
+  "why": "When a market falls a little after a big drop, it can mean investors are still nervous but not panicking. Beginners can learn from this that a few calm days do not always mean the worry is over.",
+  "source": "Reuters, via Virginia Business",
+  "url": "https://virginiabusiness.com/sp-500-closes-lower-ai-trade-earnings-outlook/"
  },
  {
   "date": "2026-10-22",
@@ -17,80 +17,36 @@
    "ALL"
   ],
   "effect": "bad",
-  "title": "Tech leads a sharp drop in US stocks",
-  "summary": "The Nasdaq Composite fell about 2.6% and the S&P 500 about 1.2%, according to market reports, while the Dow barely moved. Our own price data agrees, with the Nasdaq 100 fund (QQQ) down 2.9% and the S&P 500 fund (SPY) down 1.2%. Technology and communication companies fell the most.",
-  "why": "When the biggest tech names drop, the index funds that hold them drop too, even if you own no single tech stock. This is one reason spreading money across different kinds of companies matters.",
-  "source": "Yahoo Finance (market wrap)",
-  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+  "title": "Oil jumps and many stocks drop on Thursday",
+  "summary": "CNBC reported that the Dow fell by more than 600 points on Thursday as oil prices rose and the sell-off hit most parts of the market. It was the day tech stocks took their biggest one-day fall in months.",
+  "why": "Oil is used to make gasoline and ship goods, so higher oil prices can raise costs for many companies and for families. When costs go up, investors sometimes expect smaller profits and sell stocks.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
  },
  {
-  "date": "2026-10-22",
+  "date": "2026-10-20",
   "tickers": [
-   "AMD",
-   "NVDA",
-   "AVGO",
-   "TSM",
-   "VRT"
+   "GE"
   ],
-  "effect": "bad",
-  "title": "AI chip and equipment stocks slide together",
-  "summary": "Prices at the close show AMD down 8.1%, Vertiv down 7.8%, TSMC down 4.5%, Nvidia down 4.4% and Broadcom down 4.3%. Market reports link the drop to renewed worry about how much money is going into AI and who will pay for it.",
-  "why": "These companies make the chips and equipment that AI needs, so they often move as a group. If investors doubt that AI spending will keep growing, the whole group can fall at once.",
-  "source": "Financial Modeling Prep (closing prices)",
-  "url": "https://financialmodelingprep.com"
+  "effect": "watch",
+  "title": "GE Aerospace beats estimates but its stock still falls",
+  "summary": "GE Aerospace reported third quarter profit of $2.25 per share, above the roughly $2.01 analysts expected, and raised its 2026 profit forecast to $8.00 to $8.10 per share. The stock still fell, because the fourth quarter outlook looked a bit lower than analysts hoped and cash flow dipped.",
+  "why": "A stock price reflects what investors expect in the future, not only what just happened. A good report can still disappoint if people were hoping for even more.",
+  "source": "TIKR",
+  "url": "https://www.tikr.com/blog/ge-aerospace-stock-drops-despite-q3-earnings-beat"
  },
  {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "tickers": [
-   "META"
-  ],
-  "effect": "bad",
-  "title": "Meta falls 7% a day after its report",
-  "summary": "Meta closed at $648.85, down 7.0%, the day after sharing quarterly results. Sales grew about 26%, but reports say investors were uneasy about how much the company is spending on AI and what that does to its cash.",
-  "why": "A company can sell more and still see its stock fall if people worry the spending will not pay off. Watching cash left over after spending, called free cash flow, helps explain moves like this.",
-  "source": "Yahoo Finance (market wrap)",
-  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
- },
- {
-  "date": "2026-10-22",
-  "tickers": [
-   "SCHD",
-   "LLY",
-   "ISRG"
-  ],
-  "effect": "good",
-  "title": "Dividend and health stocks rise as tech falls",
-  "summary": "The dividend fund SCHD gained 2.1% and closed at $35.40, near its 52 week high. Eli Lilly rose 2.8% and Intuitive Surgical 3.7%, while health care was one of the few sectors in the green.",
-  "why": "Different kinds of companies do not always move together. On days when tech falls, steadier areas like dividend payers and health care can hold up, which is the idea behind diversification.",
-  "source": "Financial Modeling Prep (closing prices)",
-  "url": "https://financialmodelingprep.com"
- },
- {
-  "date": "2026-10-22",
-  "tickers": [
-   "AMZN",
-   "MSFT",
    "GOOGL",
-   "META",
-   "NVDA"
+   "MSFT",
+   "AMZN"
   ],
   "effect": "watch",
-  "title": "Big tech earnings season is close",
-  "summary": "Calendar sites list Microsoft and Alphabet as expected to report around October 27 or 28, and Amazon around October 29. The companies had not yet confirmed those dates in the sources found, and the sites disagree by a day.",
-  "why": "When a company reports earnings, it shows how much it sold and earned. Stocks can jump or drop a lot that day, and the results of the biggest companies can move the whole market, so it helps to know the dates are coming.",
-  "source": "Blofin earnings calendar (dates not confirmed by companies)",
-  "url": "https://blofin.com/academy/education/tradfi/earnings-season-october-2026"
- },
- {
-  "date": "2026-10-22",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Intel plans to share results on October 29",
-  "summary": "Intel says it will publish its third quarter results after the market closes on Thursday, October 29. Intel is not on our list, but it is a large chip company.",
-  "why": "Chip companies often move together. A report from a big name like Intel can shift how investors feel about chip stocks such as Nvidia or AMD, even when the news is not about them.",
-  "source": "Intel investor relations",
-  "url": "https://www.intc.com/news-events/press-releases/detail/1782/intel-to-report-third-quarter-2026-financial-results"
+  "title": "A big week ahead: the Fed and big tech earnings",
+  "summary": "Alphabet says it will report its third quarter results on October 28. Reports say Microsoft and Amazon also report in the coming days, and the Federal Reserve is expected to keep interest rates steady at its meeting on Wednesday.",
+  "why": "Earnings reports show whether a company is really making money, and the Fed's rate decision changes the cost of borrowing for everyone. Both can move prices fast, so many investors watch this week closely.",
+  "source": "Main Street (Alphabet date) and Reuters (Fed outlook)",
+  "url": "https://wearemainstreet.org/world/us/2026/10/21/alphabet-report-third-quarter-earnings"
  }
 ]
