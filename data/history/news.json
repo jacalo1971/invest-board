@@ -705,5 +705,19 @@
   "why": "Earnings reports show how much money a company really made. Prices can move a lot when the real numbers are better or worse than the guesses, so this week may feel bumpy.",
   "source": "Financial Modeling Prep earnings calendar",
   "url": "https://site.financialmodelingprep.com/financial-summary/GOOGL"
+ },
+ {
+  "date": "2026-10-26",
+  "tickers": [
+   "GOOGL",
+   "MSFT",
+   "AMZN"
+  ],
+  "effect": "watch",
+  "title": "Alphabet and Microsoft report Wednesday, Amazon Thursday",
+  "summary": "Earnings calendars show Alphabet and Microsoft reporting on October 28 and Amazon on October 29. Analysts expect Alphabet to earn about $3.03 per share and Microsoft about $4.71 per share. Amazon is expected to earn about $1.97 per share.",
+  "why": "Earnings reports show how much money a company really made. Prices can move a lot when the real numbers are better or worse than the guesses, so the next few days may feel bumpy.",
+  "source": "Financial Modeling Prep earnings calendar",
+  "url": "https://site.financialmodelingprep.com/financial-summary/GOOGL"
  }
 ]

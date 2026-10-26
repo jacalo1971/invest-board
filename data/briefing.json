@@ -1,37 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "It is Monday morning, and the numbers below are still Friday's closing prices, because stocks have not started trading yet. On Friday the S&P 500 fund SPY ended at $759.97 and the Nasdaq 100 fund QQQ at $704.40. This week is a big one. Alphabet and Microsoft report their results on Wednesday, October 28, and Amazon reports on Thursday, October 29. A Federal Reserve meeting is also on the calendar for the middle of the week. Big news can make prices jump up or down, so watch how the first hour of trading goes. This is for learning, not advice."
+  "title": "What to watch at tomorrow's open",
+  "text": "Stocks rose on Monday. The S&P 500 fund SPY closed at $765.28, up 0.7%, and the Nasdaq 100 fund QQQ closed at $712.18, up 1.1%. Chip and tech names led the way, while Alphabet and Meta slipped. Tomorrow, watch how stocks start after this gain. Alphabet and Microsoft are expected to report results on Wednesday, October 28, and Amazon on Thursday, October 29. Big news can move prices fast. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin is up after its report",
-  "text": "Lockheed Martin closed Friday at $604.18, up 2.4%, after it reported third quarter sales of $20.7 billion and a record backlog (orders it has not finished yet) of $292.0 billion. The stock is still 12.7% below its 52 week high of $692. Its beta is only 0.10, which means it usually moves much less than the whole market. Low beta can feel calm, but it does not mean a stock cannot fall."
+  "title": "Lockheed Martin jumps 5.1%",
+  "text": "Lockheed Martin closed at $635.20, up 5.1%, a big move for a stock with a beta of only 0.10. Beta tells us how much a stock usually moves compared with the whole market, and a low beta means it normally moves less. We could not confirm what caused today's jump. Last week the company reported a record backlog (orders not yet finished) of $292.0 billion. The price is now just 0.5% below the average analyst target of $638.22. A target is only an opinion, not a promise."
  },
  {
   "kind": "alert",
-  "title": "GE Aerospace is down despite good news",
-  "text": "GE Aerospace closed at $285.64, down 2.7%, and it sits 26.5% below its 52 week high. The company reported on October 20 that it raised its yearly profit forecast, yet the price still fell. The average analyst price target is $385.00, about 34.8% above the price. A price target is just an opinion about where a stock might be in a year. Good news does not always lift a price, because investors had already hoped for it."
+  "title": "Chip stocks climb together",
+  "text": "AMD rose 2.8% to $531.28, NVIDIA rose 2.4% to $216.02, Broadcom rose 2.3% and Vertiv rose 2.8%. The Nasdaq technology group gained about 1.0% on average. Even so, Vertiv is still 47.4% below its 52 week high, and AMD has a risk score of 7.4 out of 10 because its price swings are big. One good day does not tell us what comes next."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks bounce but are still low",
-  "text": "AMD rose 1.7% to $516.79 and TSMC rose 1.5% to $418.51 on Friday. Even so, Vertiv is 48.9% below its 52 week high, and Broadcom is 35.0% below its high. AMD has a risk score of 7.4 out of 10 because its price swings are big. A big bounce one day does not tell us where a stock goes next."
- },
- {
-  "kind": "alert",
-  "title": "Eli Lilly slips from near its high",
-  "text": "Eli Lilly closed at $1,273.46, down 2.5%, but it is still only 3.6% below its 52 week high of $1,321.21. The dividend fund SCHD closed at $35.27, just 0.5% below its high. A stock near its high has already risen a lot, so a small drop is easy to notice. That is not good or bad by itself."
+  "title": "Alphabet and Meta slip before earnings",
+  "text": "Meta fell 1.9% to $630.56 and Alphabet fell 1.1% to $316.80. Communication services, the sector group that includes both, lost about 1.2% on Nasdaq. Alphabet reports on Wednesday, so traders may be nervous about the numbers. Prices often move before and after a report, in either direction."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 22: What is EPS (earnings per share)?",
-  "text": "EPS stands for earnings per share. Take a company's profit for a period and divide it by the number of shares people own. If a company earns $100 and has 10 shares, EPS is $10. EPS lets us compare a big company and a small one on the same scale. During earnings season, news stories often say a company beat or missed what analysts expected for EPS. Beating the guess can lift a stock, and missing can drop it, even when the company is still making money. EPS is also the bottom part of the P/E ratio you learned in Lesson 5: price divided by EPS. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 23: What is a stock split?",
+  "text": "A stock split is when a company cuts each share into smaller pieces. In a 2 for 1 split, if you own 1 share worth $100, you end up with 2 shares worth $50 each. Your total stays $100. It is like cutting a pizza into more slices: the pizza is the same size. Companies sometimes split so each share costs less and feels easier to buy. A split does not make a company worth more by itself. What matters is how well the business is doing. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "What this board covers",
-  "text": "All 17 stocks and funds have fresh prices. Analyst price targets and company numbers came through for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. For AVGO, VRT, RKLB, LLY and ISRG the free data plan does not include targets, so those show older or blank values. Prices are Friday's close until the market opens."
+  "text": "All 17 stocks and funds have fresh prices from today's close. Analyst price targets came through for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. Company numbers like P/E come from the last successful update. For AVGO, VRT, RKLB, LLY and ISRG the free data plan does not include targets, so those show older or blank values."
  }
 ]
