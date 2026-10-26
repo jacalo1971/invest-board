@@ -667,5 +667,43 @@
   "why": "Earnings reports show whether a company is really making money, and the Fed's rate decision changes the cost of borrowing for everyone. Both can move prices fast, so many investors watch this week closely.",
   "source": "Main Street (Alphabet date) and Reuters (Fed outlook)",
   "url": "https://wearemainstreet.org/world/us/2026/10/21/alphabet-report-third-quarter-earnings"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "LMT"
+  ],
+  "effect": "good",
+  "title": "Lockheed Martin reports record backlog",
+  "summary": "Lockheed Martin said its third quarter sales grew about 11% to $20.7 billion. Its backlog, the pile of signed orders still to be built, hit a record $292.0 billion, and $52.5 billion of that comes from a long missile interceptor contract. The company also updated its outlook for the year.",
+  "why": "A backlog is like a long line of customers who already paid or promised to pay. A bigger line can mean steady business for years, but it does not guarantee the stock price will go up.",
+  "source": "Lockheed Martin, SEC Form 8-K",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
+ },
+ {
+  "date": "2026-10-20",
+  "tickers": [
+   "GE"
+  ],
+  "effect": "good",
+  "title": "GE Aerospace raises its yearly profit goal",
+  "summary": "GE Aerospace reported third quarter revenue up 16% to $14.1 billion and said it now expects adjusted profit of $8.00 to $8.10 per share this year, higher than its earlier range. Demand for engines and for repair services is a big reason.",
+  "why": "When a company raises its goal, it is telling investors business is going better than planned. Even so, the stock fell on Friday, which shows prices also depend on what investors already expected.",
+  "source": "GE Aerospace, SEC Form 8-K",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm"
+ },
+ {
+  "date": "2026-10-26",
+  "tickers": [
+   "GOOGL",
+   "MSFT",
+   "AMZN"
+  ],
+  "effect": "watch",
+  "title": "Big tech reports earnings this week",
+  "summary": "Earnings calendars show Alphabet and Microsoft reporting on October 28 and Amazon on October 29. Analysts expect Alphabet to earn about $3.03 per share and Microsoft about $4.71 per share.",
+  "why": "Earnings reports show how much money a company really made. Prices can move a lot when the real numbers are better or worse than the guesses, so this week may feel bumpy.",
+  "source": "Financial Modeling Prep earnings calendar",
+  "url": "https://site.financialmodelingprep.com/financial-summary/GOOGL"
  }
 ]

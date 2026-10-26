@@ -1,52 +1,40 @@
 [
  {
-  "date": "2026-10-23",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Stocks end a rocky week a little lower",
-  "summary": "The S&P 500 fund SPY slipped about half a percent on Friday and the Nasdaq 100 fund QQQ finished almost flat. Reports on the day pointed to worries about how much companies are spending on AI and what it costs to borrow money. Investors are also waiting for a Federal Reserve decision next week.",
-  "why": "When a market falls a little after a big drop, it can mean investors are still nervous but not panicking. Beginners can learn from this that a few calm days do not always mean the worry is over.",
-  "source": "Reuters, via Virginia Business",
-  "url": "https://virginiabusiness.com/sp-500-closes-lower-ai-trade-earnings-outlook/"
- },
- {
   "date": "2026-10-22",
   "tickers": [
-   "ALL"
+   "LMT"
   ],
-  "effect": "bad",
-  "title": "Oil jumps and many stocks drop on Thursday",
-  "summary": "CNBC reported that the Dow fell by more than 600 points on Thursday as oil prices rose and the sell-off hit most parts of the market. It was the day tech stocks took their biggest one-day fall in months.",
-  "why": "Oil is used to make gasoline and ship goods, so higher oil prices can raise costs for many companies and for families. When costs go up, investors sometimes expect smaller profits and sell stocks.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+  "effect": "good",
+  "title": "Lockheed Martin reports record backlog",
+  "summary": "Lockheed Martin said its third quarter sales grew about 11% to $20.7 billion. Its backlog, the pile of signed orders still to be built, hit a record $292.0 billion, and $52.5 billion of that comes from a long missile interceptor contract. The company also updated its outlook for the year.",
+  "why": "A backlog is like a long line of customers who already paid or promised to pay. A bigger line can mean steady business for years, but it does not guarantee the stock price will go up.",
+  "source": "Lockheed Martin, SEC Form 8-K",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
  },
  {
   "date": "2026-10-20",
   "tickers": [
    "GE"
   ],
-  "effect": "watch",
-  "title": "GE Aerospace beats estimates but its stock still falls",
-  "summary": "GE Aerospace reported third quarter profit of $2.25 per share, above the roughly $2.01 analysts expected, and raised its 2026 profit forecast to $8.00 to $8.10 per share. The stock still fell, because the fourth quarter outlook looked a bit lower than analysts hoped and cash flow dipped.",
-  "why": "A stock price reflects what investors expect in the future, not only what just happened. A good report can still disappoint if people were hoping for even more.",
-  "source": "TIKR",
-  "url": "https://www.tikr.com/blog/ge-aerospace-stock-drops-despite-q3-earnings-beat"
+  "effect": "good",
+  "title": "GE Aerospace raises its yearly profit goal",
+  "summary": "GE Aerospace reported third quarter revenue up 16% to $14.1 billion and said it now expects adjusted profit of $8.00 to $8.10 per share this year, higher than its earlier range. Demand for engines and for repair services is a big reason.",
+  "why": "When a company raises its goal, it is telling investors business is going better than planned. Even so, the stock fell on Friday, which shows prices also depend on what investors already expected.",
+  "source": "GE Aerospace, SEC Form 8-K",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000040545/000004054526000063/ge3q2026earningsrelease.htm"
  },
  {
-  "date": "2026-10-23",
+  "date": "2026-10-26",
   "tickers": [
    "GOOGL",
    "MSFT",
    "AMZN"
   ],
   "effect": "watch",
-  "title": "A big week ahead: the Fed and big tech earnings",
-  "summary": "Alphabet says it will report its third quarter results on October 28. Reports say Microsoft and Amazon also report in the coming days, and the Federal Reserve is expected to keep interest rates steady at its meeting on Wednesday.",
-  "why": "Earnings reports show whether a company is really making money, and the Fed's rate decision changes the cost of borrowing for everyone. Both can move prices fast, so many investors watch this week closely.",
-  "source": "Main Street (Alphabet date) and Reuters (Fed outlook)",
-  "url": "https://wearemainstreet.org/world/us/2026/10/21/alphabet-report-third-quarter-earnings"
+  "title": "Big tech reports earnings this week",
+  "summary": "Earnings calendars show Alphabet and Microsoft reporting on October 28 and Amazon on October 29. Analysts expect Alphabet to earn about $3.03 per share and Microsoft about $4.71 per share.",
+  "why": "Earnings reports show how much money a company really made. Prices can move a lot when the real numbers are better or worse than the guesses, so this week may feel bumpy.",
+  "source": "Financial Modeling Prep earnings calendar",
+  "url": "https://site.financialmodelingprep.com/financial-summary/GOOGL"
  }
 ]
