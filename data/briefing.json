@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at tomorrow's open",
-  "text": "Stocks rose on Monday. The S&P 500 fund SPY closed at $765.28, up 0.7%, and the Nasdaq 100 fund QQQ closed at $712.18, up 1.1%. Chip and tech names led the way, while Alphabet and Meta slipped. Tomorrow, watch how stocks start after this gain. Alphabet and Microsoft are expected to report results on Wednesday, October 28, and Amazon on Thursday, October 29. Big news can move prices fast. This is for learning, not advice."
+  "title": "What to watch at today's open",
+  "text": "Stocks ended Monday higher. The S&P 500 fund SPY closed at $765.37, up 0.7%, and the Nasdaq 100 fund QQQ closed at $712.20, up 1.1%. Today, watch how stocks start after that gain, because the big reports are close. The Federal Reserve meets today and tomorrow, with its decision on Wednesday, October 28. Alphabet and Microsoft report that day, and Amazon reports Thursday. Big news can move prices fast. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin jumps 5.1%",
-  "text": "Lockheed Martin closed at $635.20, up 5.1%, a big move for a stock with a beta of only 0.10. Beta tells us how much a stock usually moves compared with the whole market, and a low beta means it normally moves less. We could not confirm what caused today's jump. Last week the company reported a record backlog (orders not yet finished) of $292.0 billion. The price is now just 0.5% below the average analyst target of $638.22. A target is only an opinion, not a promise."
+  "title": "Fed meeting this week",
+  "text": "The Federal Reserve, the group that sets the main interest rate, meets October 27 and 28, and shares its decision on Wednesday afternoon. Interest rates are the price of borrowing money, so they affect many stocks at once. Growth companies like the AI names often react the most. The decision lands on the same day as Alphabet and Microsoft earnings, so Wednesday may be a bumpy day."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks climb together",
-  "text": "AMD rose 2.8% to $531.28, NVIDIA rose 2.4% to $216.02, Broadcom rose 2.3% and Vertiv rose 2.8%. The Nasdaq technology group gained about 1.0% on average. Even so, Vertiv is still 47.4% below its 52 week high, and AMD has a risk score of 7.4 out of 10 because its price swings are big. One good day does not tell us what comes next."
+  "title": "Lockheed Martin is close to its analyst target",
+  "text": "Lockheed Martin closed at $635.20, up 5.1%, a big move for a stock with a beta of only 0.10. Beta tells us how much a stock usually moves compared with the whole market, and a low beta means it normally moves less. The price is now just 0.5% below the average analyst target of $638.22. A target is only an opinion, not a promise, and we could not confirm what caused the jump."
  },
  {
   "kind": "alert",
-  "title": "Alphabet and Meta slip before earnings",
-  "text": "Meta fell 1.9% to $630.56 and Alphabet fell 1.1% to $316.80. Communication services, the sector group that includes both, lost about 1.2% on Nasdaq. Alphabet reports on Wednesday, so traders may be nervous about the numbers. Prices often move before and after a report, in either direction."
+  "title": "Chip stocks rally, but Vertiv is still far from its high",
+  "text": "AMD rose 2.8% to $531.28, NVIDIA rose 2.4% to $216.00, Broadcom rose 2.3% and Vertiv rose 2.8%. Even so, Vertiv is still 47.4% below its 52 week high, and AMD has a risk score of 7.4 out of 10 because its price swings are big. One good day does not tell us what comes next."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 23: What is a stock split?",
-  "text": "A stock split is when a company cuts each share into smaller pieces. In a 2 for 1 split, if you own 1 share worth $100, you end up with 2 shares worth $50 each. Your total stays $100. It is like cutting a pizza into more slices: the pizza is the same size. Companies sometimes split so each share costs less and feels easier to buy. A split does not make a company worth more by itself. What matters is how well the business is doing. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 24: What is a profit margin?",
+  "text": "A profit margin tells us how many cents a company keeps from each dollar it sells. Say a lemonade stand sells $100 of lemonade and, after paying for lemons, cups and helpers, keeps $20. Its profit margin is 20%. A higher margin means the company keeps more of each sale. NVIDIA keeps about 64 cents of each dollar, while Amazon keeps about 17 cents, because selling and shipping products costs a lot. A lower margin is not always bad, since it depends on the kind of business. Compare companies that do similar things. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "What this board covers",
-  "text": "All 17 stocks and funds have fresh prices from today's close. Analyst price targets came through for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. Company numbers like P/E come from the last successful update. For AVGO, VRT, RKLB, LLY and ISRG the free data plan does not include targets, so those show older or blank values."
+  "text": "All 17 stocks and funds have prices from Monday's close, since the market has not opened yet today. Analyst price targets came through for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. Company numbers like P/E come from the last successful update. For AVGO, VRT, RKLB, LLY and ISRG the free data plan does not include targets, so those show older or blank values."
  }
 ]

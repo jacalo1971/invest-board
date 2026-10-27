@@ -1124,13 +1124,13 @@
  {
   "date": "2026-10-26",
   "symbol": "SPY",
-  "price": 765.28,
+  "price": 765.37,
   "risk_score": 2.2
  },
  {
   "date": "2026-10-26",
   "symbol": "QQQ",
-  "price": 712.18,
+  "price": 712.2,
   "risk_score": 2.9
  },
  {
@@ -1142,7 +1142,7 @@
  {
   "date": "2026-10-26",
   "symbol": "NVDA",
-  "price": 216.02,
+  "price": 216,
   "risk_score": 5.3
  },
  {
