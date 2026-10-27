@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at today's open",
-  "text": "Stocks ended Monday higher. The S&P 500 fund SPY closed at $765.37, up 0.7%, and the Nasdaq 100 fund QQQ closed at $712.20, up 1.1%. Today, watch how stocks start after that gain, because the big reports are close. The Federal Reserve meets today and tomorrow, with its decision on Wednesday, October 28. Alphabet and Microsoft report that day, and Amazon reports Thursday. Big news can move prices fast. This is for learning, not advice."
+  "title": "How the day ended",
+  "text": "Stocks rose again on Tuesday. The S&P 500 fund SPY closed at $769.71, up 0.6%, and the Nasdaq 100 fund QQQ closed at $721.21, up 1.3%. Tech led the way, and chip companies had a strong day. Tomorrow the Federal Reserve shares its interest rate decision at 2:00 PM Eastern time, so watch how stocks react. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Fed meeting this week",
-  "text": "The Federal Reserve, the group that sets the main interest rate, meets October 27 and 28, and shares its decision on Wednesday afternoon. Interest rates are the price of borrowing money, so they affect many stocks at once. Growth companies like the AI names often react the most. The decision lands on the same day as Alphabet and Microsoft earnings, so Wednesday may be a bumpy day."
+  "title": "Fed decision comes tomorrow",
+  "text": "The Federal Reserve, the group that sets the main interest rate, meets October 27 and 28 and shares its decision on Wednesday at 2:00 PM Eastern time. Interest rates are the price of borrowing money, so they touch almost every stock. Growth companies like the AI names often move the most when the news surprises people. Expect a bumpy afternoon."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin is close to its analyst target",
-  "text": "Lockheed Martin closed at $635.20, up 5.1%, a big move for a stock with a beta of only 0.10. Beta tells us how much a stock usually moves compared with the whole market, and a low beta means it normally moves less. The price is now just 0.5% below the average analyst target of $638.22. A target is only an opinion, not a promise, and we could not confirm what caused the jump."
+  "title": "AMD and Rocket Lab jump, with big swings",
+  "text": "AMD closed at $560.26, up 5.5%, and Rocket Lab closed at $58.31, up 8.3%. Both have a high beta (2.45 and 2.61). Beta tells us how much a stock usually moves compared with the whole market, and 1.0 means it moves about the same. A beta above 2 means bigger jumps up and bigger drops down. Rocket Lab is still far below its 52 week high of $151.00. We could not confirm what caused either move."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks rally, but Vertiv is still far from its high",
-  "text": "AMD rose 2.8% to $531.28, NVIDIA rose 2.4% to $216.00, Broadcom rose 2.3% and Vertiv rose 2.8%. Even so, Vertiv is still 47.4% below its 52 week high, and AMD has a risk score of 7.4 out of 10 because its price swings are big. One good day does not tell us what comes next."
+  "title": "Meta and Lockheed give back some ground",
+  "text": "Meta fell 1.6% to $620.19, and Lockheed Martin fell 1.9% to $622.99 after its big jump on Monday. Lockheed has a very low beta of 0.10, so it usually moves less than the market. A stock that jumps one day often settles back the next. One day tells us little, so it helps to look at longer stretches of time."
+ },
+ {
+  "kind": "alert",
+  "title": "Broadcom rises on AI financing reports",
+  "text": "Broadcom closed at $342.33, up 4.0%. News outlets have reported that Broadcom is in talks to raise more than $60 billion in debt to pay for AI chips used by Anthropic and others. These are reports of talks, not a finished deal. It shows how much money is flowing into the equipment behind AI."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 24: What is a profit margin?",
-  "text": "A profit margin tells us how many cents a company keeps from each dollar it sells. Say a lemonade stand sells $100 of lemonade and, after paying for lemons, cups and helpers, keeps $20. Its profit margin is 20%. A higher margin means the company keeps more of each sale. NVIDIA keeps about 64 cents of each dollar, while Amazon keeps about 17 cents, because selling and shipping products costs a lot. A lower margin is not always bad, since it depends on the kind of business. Compare companies that do similar things. This is for learning, not advice to buy or sell anything."
+  "title": "Lesson 25: What is rebalancing?",
+  "text": "Rebalancing means resetting your mix of investments back to the plan you chose. Say your plan is half in a stock fund and half in a bond fund. After stocks have a great year, the stock part might grow to 70% of your money. That is riskier than you planned. Rebalancing means moving some money back toward 50/50. It keeps your risk close to what you meant it to be. Some people rebalance once a year, or when the mix drifts a lot. It can feel odd to trim what is winning, but the goal is steady risk, not chasing the best performer. This is for learning, not advice to buy or sell anything."
  },
  {
   "kind": "coverage",
   "title": "What this board covers",
-  "text": "All 17 stocks and funds have prices from Monday's close, since the market has not opened yet today. Analyst price targets came through for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. Company numbers like P/E come from the last successful update. For AVGO, VRT, RKLB, LLY and ISRG the free data plan does not include targets, so those show older or blank values."
+  "text": "This board follows 17 funds and companies in five groups: base ETFs, AI giants, AI suppliers, aerospace and space, and health. Prices and analyst targets come from FMP. Targets are missing for some companies because the free data plan does not include them. The risk score is our own simple estimate from 1 to 10, not a rating from any expert. Everything here is for learning, not advice to buy or sell."
  }
 ]

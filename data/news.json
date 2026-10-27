@@ -1,55 +1,38 @@
 [
  {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "tickers": [
    "ALL"
   ],
   "effect": "watch",
-  "title": "The Fed meets this week, decision Wednesday",
-  "summary": "The Federal Reserve holds its policy meeting on October 27 and 28, with the interest rate decision due Wednesday afternoon. This meeting does not come with new economic forecasts. Alphabet and Microsoft also report earnings on Wednesday.",
-  "why": "The Fed sets the cost of borrowing money. When borrowing gets cheaper or more expensive, many stocks move together, so a day with a Fed decision and big earnings can feel bumpy.",
-  "source": "FedRateCalc FOMC schedule",
-  "url": "https://fedratecalc.com/fomc-meeting-schedule/october-2026/"
+  "title": "The Federal Reserve decides on interest rates Wednesday",
+  "summary": "The Fed's policy committee meets on October 27 and 28. Its decision is due Wednesday at 2:00 PM Eastern time, followed by a press conference at 2:30 PM. Stocks rose on Tuesday as investors waited for the news.",
+  "why": "Interest rates are the price of borrowing money. When rates change, or when the Fed hints at what comes next, prices of many stocks can move at once, especially fast growing companies.",
+  "source": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
  },
  {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "tickers": [
-   "NVDA",
-   "AMD",
-   "AVGO",
-   "VRT"
+   "ALL"
   ],
   "effect": "good",
-  "title": "Chip and AI supplier stocks climb on Monday",
-  "summary": "NVIDIA closed up 2.4%, AMD up 2.8%, Broadcom up 2.3% and Vertiv up 2.8%. The Nasdaq technology group gained about 1.0% on average, according to market data from Financial Modeling Prep.",
-  "why": "Companies that supply parts for AI often move together because they depend on the same big customers. One good day is a data point, not a trend, and these stocks can swing a lot both ways.",
-  "source": "Financial Modeling Prep market data",
-  "url": "https://site.financialmodelingprep.com/financial-summary/NVDA"
+  "title": "Wall Street climbs as oil eases and AI hopes hold",
+  "summary": "US stocks rose on Tuesday, with technology leading and chip companies strong. Reuters reported that cooling oil prices and optimism about AI helped lift the mood before the Fed decision.",
+  "why": "When oil gets cheaper, costs for many businesses and families can ease. Strong AI news tends to lift the companies that build the chips and equipment behind it.",
+  "source": "Reuters",
+  "url": "https://www.detroitnews.com/story/business/2026/10/27/sp-500-nasdaq-advance-as-oil-eases-ahead-of-fed-decision/92459851007/"
  },
  {
-  "date": "2026-10-22",
+  "date": "2026-10-27",
   "tickers": [
-   "LMT"
-  ],
-  "effect": "good",
-  "title": "Lockheed Martin reports record backlog",
-  "summary": "Lockheed Martin said its third quarter sales grew about 11% to $20.7 billion. Its backlog, the pile of signed orders still to be built, hit a record $292.0 billion, and $52.5 billion of that comes from a long missile interceptor contract. The company also updated its outlook for the year.",
-  "why": "A backlog is like a long line of customers who already paid or promised to pay. A bigger line can mean steady business for years, but it does not guarantee the stock price will go up.",
-  "source": "Lockheed Martin, SEC Form 8-K",
-  "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
- },
- {
-  "date": "2026-10-26",
-  "tickers": [
-   "GOOGL",
-   "MSFT",
-   "AMZN"
+   "AVGO"
   ],
   "effect": "watch",
-  "title": "Alphabet and Microsoft report Wednesday, Amazon Thursday",
-  "summary": "Earnings calendars show Alphabet and Microsoft reporting on October 28 and Amazon on October 29. Analysts expect Alphabet to earn about $3.03 per share and Microsoft about $4.71 per share. Amazon is expected to earn about $1.97 per share.",
-  "why": "Earnings reports show how much money a company really made. Prices can move a lot when the real numbers are better or worse than the guesses, so the next few days may feel bumpy.",
-  "source": "Financial Modeling Prep earnings calendar",
-  "url": "https://site.financialmodelingprep.com/financial-summary/GOOGL"
+  "title": "Broadcom reportedly seeks more than $60 billion in debt for AI chips",
+  "summary": "Reports citing Bloomberg say Broadcom is talking with lenders about raising more than $60 billion. The money would help pay for AI chips that Anthropic and other customers would use. The talks were not a finished deal in the reports we found.",
+  "why": "It shows how much money is going into AI equipment. It also shows that the companies building it are borrowing heavily, which adds risk if demand slows.",
+  "source": "Dealroom, citing Bloomberg",
+  "url": "https://dealroom.co/news/146284-broadcom-seeks-over-60b-in-debt-to-bankroll-ai-chips-for-anthropic/"
  }
 ]

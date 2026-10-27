@@ -746,5 +746,41 @@
   "why": "Companies that supply parts for AI often move together because they depend on the same big customers. One good day is a data point, not a trend, and these stocks can swing a lot both ways.",
   "source": "Financial Modeling Prep market data",
   "url": "https://site.financialmodelingprep.com/financial-summary/NVDA"
+ },
+ {
+  "date": "2026-10-27",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "The Federal Reserve decides on interest rates Wednesday",
+  "summary": "The Fed's policy committee meets on October 27 and 28. Its decision is due Wednesday at 2:00 PM Eastern time, followed by a press conference at 2:30 PM. Stocks rose on Tuesday as investors waited for the news.",
+  "why": "Interest rates are the price of borrowing money. When rates change, or when the Fed hints at what comes next, prices of many stocks can move at once, especially fast growing companies.",
+  "source": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+ },
+ {
+  "date": "2026-10-27",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Wall Street climbs as oil eases and AI hopes hold",
+  "summary": "US stocks rose on Tuesday, with technology leading and chip companies strong. Reuters reported that cooling oil prices and optimism about AI helped lift the mood before the Fed decision.",
+  "why": "When oil gets cheaper, costs for many businesses and families can ease. Strong AI news tends to lift the companies that build the chips and equipment behind it.",
+  "source": "Reuters",
+  "url": "https://www.detroitnews.com/story/business/2026/10/27/sp-500-nasdaq-advance-as-oil-eases-ahead-of-fed-decision/92459851007/"
+ },
+ {
+  "date": "2026-10-27",
+  "tickers": [
+   "AVGO"
+  ],
+  "effect": "watch",
+  "title": "Broadcom reportedly seeks more than $60 billion in debt for AI chips",
+  "summary": "Reports citing Bloomberg say Broadcom is talking with lenders about raising more than $60 billion. The money would help pay for AI chips that Anthropic and other customers would use. The talks were not a finished deal in the reports we found.",
+  "why": "It shows how much money is going into AI equipment. It also shows that the companies building it are borrowing heavily, which adds risk if demand slows.",
+  "source": "Dealroom, citing Bloomberg",
+  "url": "https://dealroom.co/news/146284-broadcom-seeks-over-60b-in-debt-to-bankroll-ai-chips-for-anthropic/"
  }
 ]
