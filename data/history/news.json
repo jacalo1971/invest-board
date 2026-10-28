@@ -782,5 +782,41 @@
   "why": "It shows how much money is going into AI equipment. It also shows that the companies building it are borrowing heavily, which adds risk if demand slows.",
   "source": "Dealroom, citing Bloomberg",
   "url": "https://dealroom.co/news/146284-broadcom-seeks-over-60b-in-debt-to-bankroll-ai-chips-for-anthropic/"
+ },
+ {
+  "date": "2026-10-28",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "The Fed announces its interest rate decision today",
+  "summary": "The Federal Reserve's policy committee meets on October 27 and 28. It shares its decision at 2:00 PM Eastern time today, with a press conference after. The result was not known when we wrote this.",
+  "why": "Interest rates are the price of borrowing money. When the Fed changes rates, or hints at what is next, prices of many stocks can move at once, especially fast growing companies.",
+  "source": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "LMT"
+  ],
+  "effect": "good",
+  "title": "Lockheed Martin lifts its yearly forecast after a strong quarter",
+  "summary": "Lockheed reported third quarter sales of about $20.7 billion, up 11%, and said its order backlog hit a record near $292 billion. It also raised its profit outlook for the year. Its stock rose on the news.",
+  "why": "A backlog is work customers have already ordered but the company has not finished. A bigger backlog gives a company steady future sales, which helps calm the ride for owners.",
+  "source": "Lockheed Martin (SEC filing)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm"
+ },
+ {
+  "date": "2026-10-22",
+  "tickers": [
+   "META"
+  ],
+  "effect": "bad",
+  "title": "Meta stock drops about 7% after its quarterly report",
+  "summary": "Meta's sales grew about 26% to roughly $64.6 billion. Even so, its stock fell about 7% as investors worried about how much it will spend on AI. Many analysts still raised their price targets.",
+  "why": "Good sales do not always lift a stock. If a company spends a lot on new projects, investors may fear lower profits for a while. This shows why price depends on expectations, not just results.",
+  "source": "HeyGoTrade, citing Reuters",
+  "url": "https://www.heygotrade.com/en/news/meta-meta-stock-news-october-23-2026/"
  }
 ]
