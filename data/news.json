@@ -5,11 +5,23 @@
    "ALL"
   ],
   "effect": "watch",
-  "title": "The Fed announces its interest rate decision today",
-  "summary": "The Federal Reserve's policy committee meets on October 27 and 28. It shares its decision at 2:00 PM Eastern time today, with a press conference after. The result was not known when we wrote this.",
-  "why": "Interest rates are the price of borrowing money. When the Fed changes rates, or hints at what is next, prices of many stocks can move at once, especially fast growing companies.",
-  "source": "Federal Reserve",
-  "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+  "title": "The Fed keeps interest rates unchanged, with two votes for a hike",
+  "summary": "The Federal Reserve left its main interest rate in a range of 3.75% to 4% on October 28. Two members of the committee wanted to raise it by a quarter point. Reports say the Fed's chair also announced that it will hold fewer rate-setting meetings starting in 2027.",
+  "why": "Interest rates are the price of borrowing money. Rates staying put is calmer than a surprise, but two votes for a hike show some officials worry about prices rising too fast. Higher rates can weigh on fast growing companies, so stocks may stay jumpy.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
+ },
+ {
+  "date": "2026-10-28",
+  "tickers": [
+   "VRT"
+  ],
+  "effect": "good",
+  "title": "Vertiv sales jump 61% and the company raises its yearly forecast",
+  "summary": "Vertiv, which makes the power and cooling equipment that keeps data centers running, reported third quarter sales of $4.31 billion, up 61% from a year earlier. Its new orders more than doubled, and it raised its outlook for the full year. The stock closed up about 16% on the day.",
+  "why": "AI needs huge buildings full of computers, and those buildings need power and cooling. Vertiv sells those parts, so strong sales hint that AI building is still speeding up. Even so, the stock is still far below its 52 week high, and big one day jumps can fade.",
+  "source": "Vertiv (SEC filing)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067707/q32026exhibit991vrt10282026.htm"
  },
  {
   "date": "2026-10-22",

@@ -1,37 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Stocks are about to open after a strong Tuesday. The S&P 500 fund SPY ended at $769.66, up 0.6%, and the Nasdaq 100 fund QQQ ended at $721.25, up 1.3%. The big event today is the Federal Reserve's interest rate decision at 2:00 PM Eastern time, so the morning may be calm and the afternoon bumpy. Watch chip stocks, which jumped yesterday, to see if they hold their gains. This is for learning, not advice."
+  "title": "How the day ended",
+  "text": "Stocks finished higher. The S&P 500 fund SPY closed at $772.31, up 0.3%, and the Nasdaq 100 fund QQQ closed at $725.61, up 0.6%. The Fed kept interest rates unchanged, and the day's biggest single move on our list was Vertiv, up about 16%. Tomorrow, watch whether chip stocks keep their gains. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "The Fed decides today at 2:00 PM",
-  "text": "The Federal Reserve is the group that sets the main interest rate. Its meeting runs October 27 and 28, and it shares its decision today at 2:00 PM Eastern time. Interest rates are the price of borrowing money, so they touch almost every stock. Fast growing companies, like many AI names, often move the most when the news is a surprise. We do not know the decision yet."
+  "title": "The Fed holds rates steady",
+  "text": "The Federal Reserve left its main interest rate at 3.75% to 4%. Two members voted to raise it a quarter point, which shows some officials still worry about prices rising. Rates are the price of borrowing money, so they touch almost every stock. Stocks ended the day higher, so the news was not a shock."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks have a big lead",
-  "text": "AMD closed at $560.26 (up 5.5%), Broadcom at $342.33 (up 4.0%) and TSMC at $436.87 (up 2.9%). AMD sits at 79% of its 52 week range, which is the climb from its lowest to its highest price in the past year. Bigger jumps up can come with bigger drops down. AMD has a beta of 2.45, so it moves a lot more than the market. We could not confirm one single cause for the moves."
+  "title": "Vertiv leaps on strong sales",
+  "text": "Vertiv closed at $242.94, up 16.5%. The company said its sales grew 61% and raised its forecast for the year. It makes power and cooling equipment for data centers, so it is one of the 'picks and shovels' of AI. Even after the jump it sits 36% below its 52 week high of $379.94. The 52 week range is the climb from the lowest to the highest price in the past year."
  },
  {
   "kind": "alert",
-  "title": "Rocket Lab swings hard again",
-  "text": "Rocket Lab closed at $58.31, up 8.3%, but it is still 61% below its 52 week high of $151.00. Its beta is 2.61, the highest on our list, so it is like a roller coaster. Our simple risk score for it is 10 out of 10. A small company that is still growing can rise fast and fall fast."
+  "title": "AMD is up, but expensive",
+  "text": "AMD closed at $578.44, up 3.2%. Its P/E ratio is about 147, while Google's is about 17. P/E tells you how many dollars investors pay for each $1 the company earns in a year. A high number means people expect a lot of growth, and big hopes can lead to big drops. AMD also has a beta of 2.45, so it swings much more than the market."
  },
  {
   "kind": "alert",
-  "title": "Meta still far from its high",
-  "text": "Meta closed at $620.19, down 1.6%. It is about 20% below its 52 week high of $779.82. Reports say it fell about 7% on October 22 after its results, as investors weighed how much it plans to spend on AI. Analysts' average price target is $834, which is 35% above today's price, but targets are only guesses and often change."
+  "title": "Health stocks lead the sectors",
+  "text": "Among Nasdaq sectors, Healthcare did best today, up 2.1%, and Utilities did worst, down 1.0%. A sector is a group of companies in the same kind of business. Our health picks, Eli Lilly and Intuitive Surgical, moved less than the sector average. Eli Lilly closed at $1,288.78, up 0.5%, and Intuitive Surgical closed at $444.18, down 0.4%."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 26: What is an expense ratio?",
-  "text": "An expense ratio is the yearly fee a fund charges, shown as a percent of your money. If a fund charges 0.10% and you hold $1,000, you pay about $1 a year. It comes out of the fund automatically, so you never get a bill. Funds like SPY, QQQ and SCHD usually charge low fees, while some funds charge much more. Small fees add up over many years, because that money can no longer grow for you. When you compare two similar funds, the fee is one easy thing to check."
+  "title": "Lesson 27: What is revenue?",
+  "text": "Revenue is all the money a company brings in from selling things, before it pays any bills. Profit is what is left after paying for workers, parts, and taxes. Imagine a lemonade stand that sells $100 of lemonade but spends $70 on lemons, cups, and sugar. Revenue is $100, and profit is $30. Investors watch revenue growth because a company that sells more each year may keep growing. When Vertiv says its sales rose 61%, that is revenue growth. But growing sales do not always mean growing profit, so it helps to check both."
  },
  {
   "kind": "coverage",
   "title": "What this board covers",
-  "text": "Prices, 52 week ranges, betas and P/E ratios come from FMP. Analyst price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE only. Risk scores and the 3, 12 and 36 month scenarios are our own simple estimates, not predictions. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no target data on the free plan. Prices are from the last close, October 27."
+  "text": "Prices, 52 week ranges, betas and P/E ratios come from FMP. Analyst price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE only. Risk scores and the 3, 12 and 36 month scenarios are our own simple estimates, not predictions. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no target data on the free plan. Prices are from the last close, October 28."
  }
 ]
