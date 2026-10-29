@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Yesterday's close: the S&P 500 fund SPY ended at $772.31 and the Nasdaq 100 fund QQQ at $725.61. Two big tech companies, Alphabet and Microsoft, reported results after the market closed. Microsoft's stock rose in after hours trading, so watch whether Microsoft and the AI group follow through at the open. Early moves can reverse by the afternoon. This is for learning, not advice."
+  "title": "What happened at the close",
+  "text": "Today the S&P 500 fund SPY ended at $769.49, down 0.37%. The Nasdaq 100 fund QQQ fell 1.41% to $715.41. The big story was Alphabet, which dropped 12.6% to $283.82 after its report. Amazon fell 4.2% before its own report came out after the close, and Eli Lilly jumped 6.6%. Tomorrow, watch how Amazon trades after its results and whether the AI group steadies. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Microsoft's cloud grows faster",
-  "text": "Microsoft said its cloud business Azure grew 48% from a year ago, faster than the 42% of the last quarter. Total sales were about $92.3 billion, up 19%. The stock closed at $531.01 on Wednesday, before the news, and reports say it rose about 4% after the close. Azure is the 'rented computers' business that companies use to build AI."
+  "title": "Alphabet's big one day drop",
+  "text": "Alphabet fell 12.6% to $283.82 after its third quarter report. Reports say profit per share was $2.12, well below the $3.02 analysts expected. Its spending on AI equipment was bigger than the cash its business brought in. Its cloud business grew very fast, but search growth was slower than hoped. The stock is now 31% below its 52 week high of $408.61."
  },
  {
   "kind": "alert",
-  "title": "Alphabet reports big sales growth",
-  "text": "Alphabet, the parent of Google, said its sales grew 25% to about $127.6 billion. Its stock closed at $324.89, up 1.3%, before the report came out. Alphabet is 20% below its 52 week high of $408.61. The 52 week range is the lowest and highest price in the past year, so it shows how far a stock has pulled back."
+  "title": "Amazon: faster cloud, nervous investors",
+  "text": "Amazon closed at $243.79, down 4.2%, as worries about AI spending grew. After the close, Amazon reported that its cloud business, AWS, grew 39%, its fastest pace in nearly five years. Profit per share of $1.89 came in a bit under what analysts expected. Reports disagree on how far the stock moved after hours, so check the open before drawing conclusions."
  },
  {
   "kind": "alert",
-  "title": "Vertiv's jump: will it last?",
-  "text": "Vertiv closed at $242.94 on Wednesday, up 16.5%, after it raised its forecast. It makes power and cooling gear for data centers. A jump that big often calms down in the days after, and the stock is still 36% below its 52 week high. Its beta of 2.05 means it moves about twice as much as the market."
+  "title": "Eli Lilly rises on a raised forecast",
+  "text": "Eli Lilly gained 6.6% to $1,373 after it beat expectations and raised its sales forecast for the year. Sales rose 39% to $24.4 billion, led by its diabetes and weight loss medicines. Lilly's beta is 0.45, so it usually moves less than the market, which makes a 6.6% jump unusual."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 28: What is guidance?",
-  "text": "Guidance is a company's own forecast of its sales or profit for the next few months. Think of a student who says, 'I expect to get a B on the next test.' If the student gets an A, people are happy. If it is a C, people are let down. Investors pay close attention to guidance because stocks are about the future. Microsoft's forecast this week said it expects its sales to grow 18% to 19% next quarter. A company can have a great past quarter and still see its stock fall if its guidance sounds weak. Remember that a forecast is a guess, not a promise."
+  "title": "Lesson 29: What is capex?",
+  "text": "Capex is short for capital expenditure. It is the money a company spends on big things it will use for years, like buildings, machines and computer chips. Think of a pizza shop that buys a new oven. The oven costs a lot today, but it can make pizzas for years. Right now, giant tech companies are spending tens of billions of dollars on data centers for AI. That can help them grow later, but it also leaves less cash in the bank today. This week, Alphabet's capex was bigger than the cash its business brought in, and investors did not like that. When you read about a company, check both how much it spends and what it earns from that spending."
  },
  {
   "kind": "coverage",
   "title": "What this board covers",
-  "text": "Prices, 52 week ranges, betas and P/E ratios come from FMP. Analyst price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE only. Risk scores and the 3, 12 and 36 month scenarios are our own simple estimates, not predictions. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no target data on the free plan. Prices are from the last close, October 28. The P/E and debt numbers were not refreshed this morning."
+  "text": "Prices, 52 week ranges, betas, P/E ratios and net profit margins come from FMP. Analyst price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE only. Risk scores and the 3, 12 and 36 month scenarios are our own simple estimates, not predictions. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no target data on the free plan. Prices are from today's close, October 29. News details come from search summaries of the original reports, and some company sites could not be opened for checking."
  }
 ]

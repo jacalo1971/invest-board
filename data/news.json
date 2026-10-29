@@ -1,27 +1,39 @@
 [
  {
-  "date": "2026-10-28",
-  "tickers": [
-   "MSFT"
-  ],
-  "effect": "good",
-  "title": "Microsoft's cloud business speeds up to 48% growth",
-  "summary": "Microsoft said total sales were about $92.3 billion, up 19%, and that its Azure cloud service grew 48%. That beat the company's own forecast and the 42% growth of the last quarter. Reports say the stock rose about 4% in after hours trading.",
-  "why": "Azure rents out computer power over the internet, and AI needs a lot of it. Faster growth suggests companies are still spending on AI. Still, after hours moves can fade by the next day.",
-  "source": "SiliconANGLE",
-  "url": "https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/"
- },
- {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "tickers": [
    "GOOGL"
   ],
+  "effect": "bad",
+  "title": "Alphabet stock has its biggest one day drop after earnings",
+  "summary": "Alphabet shares fell about 12.6% on Thursday after its third quarter report. Reports say profit per share came in at $2.12, below the $3.02 analysts expected, while spending on AI equipment was larger than the cash the business produced. Its cloud unit grew very fast.",
+  "why": "When a company spends more than it earns in cash, investors worry about how long that can last. Even a great cloud business did not calm that worry, and a big drop like this shows how much a stock can move on one report.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html"
+ },
+ {
+  "date": "2026-10-29",
+  "tickers": [
+   "AMZN"
+  ],
+  "effect": "watch",
+  "title": "Amazon's cloud speeds up to 39% growth, but spending worries linger",
+  "summary": "Amazon reported after the close that its AWS cloud unit grew 39% from a year ago, its fastest pace in nearly five years. Profit per share of $1.89 was a little under what analysts expected. Reports disagree on how far the stock fell in after hours trading.",
+  "why": "AWS rents out computer power, which AI needs a lot of, so faster growth is a good sign. But Amazon is also spending huge sums on new data centers, and investors are watching whether that spending pays off.",
+  "source": "Quartz",
+  "url": "https://qz.com/amazon-aws-cloud-growth-fastest-earnings-102926"
+ },
+ {
+  "date": "2026-10-29",
+  "tickers": [
+   "LLY"
+  ],
   "effect": "good",
-  "title": "Alphabet's sales climb 25% to about $127.6 billion",
-  "summary": "Alphabet, the company behind Google and YouTube, said its third quarter sales rose 25% from a year earlier. Profit per share was $2.12. The report came out after the market closed on Wednesday.",
-  "why": "Sales growth of 25% is fast for such a giant company. Whether the stock rises will depend on how the report compares with what investors expected, and on how much Alphabet plans to spend on AI.",
-  "source": "Alphabet (SEC filing)",
-  "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm"
+  "title": "Eli Lilly raises its yearly sales forecast after a strong quarter",
+  "summary": "Eli Lilly said third quarter sales rose 39% to $24.4 billion, led by its diabetes and weight loss medicines Mounjaro and Zepbound. It raised its full year sales forecast to $91 billion to $92 billion. The stock rose about 6.6% on Thursday.",
+  "why": "A company raising its own forecast tells investors it expects to keep selling more. Still, Lilly said it sold more units at lower prices, so it is worth watching whether price cuts slow future profit.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html"
  },
  {
   "date": "2026-10-28",
@@ -29,22 +41,10 @@
    "ALL"
   ],
   "effect": "watch",
-  "title": "The Fed keeps interest rates unchanged, with two votes for a hike",
-  "summary": "The Federal Reserve left its main interest rate in a range of 3.75% to 4% on October 28. Two members of the committee wanted to raise it by a quarter point. Reports say the Fed's chair also announced that it will hold fewer rate-setting meetings starting in 2027.",
-  "why": "Interest rates are the price of borrowing money. Rates staying put is calmer than a surprise, but two votes for a hike show some officials worry about prices rising too fast. Higher rates can weigh on fast growing companies, so stocks may stay jumpy.",
+  "title": "The Fed keeps interest rates unchanged in a split vote",
+  "summary": "The Federal Reserve left its main rate at 3.75% to 4% on Wednesday. Two officials voted to raise it by a quarter point, and reports say markets now see a good chance of a hike in December. The 10 year Treasury yield was reported near 5%.",
+  "why": "Higher interest rates make borrowing cost more and can make safer investments like bonds look more attractive compared with stocks. That is why rate news can move the whole market, especially fast growing tech companies.",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html"
- },
- {
-  "date": "2026-10-28",
-  "tickers": [
-   "VRT"
-  ],
-  "effect": "good",
-  "title": "Vertiv sales jump 61% and the company raises its yearly forecast",
-  "summary": "Vertiv, which makes the power and cooling equipment that keeps data centers running, reported third quarter sales of $4.31 billion, up 61% from a year earlier. Its new orders more than doubled, and it raised its outlook for the full year. The stock closed up about 16% on the day.",
-  "why": "AI needs huge buildings full of computers, and those buildings need power and cooling. Vertiv sells those parts, so strong sales hint that AI building is still speeding up. Even so, the stock is still far below its 52 week high, and big one day jumps can fade.",
-  "source": "Vertiv (SEC filing)",
-  "url": "https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067707/q32026exhibit991vrt10282026.htm"
+  "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
  }
 ]
