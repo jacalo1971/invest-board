@@ -1329,19 +1329,19 @@
   "date": "2026-10-28",
   "symbol": "SPY",
   "price": 772.31,
-  "risk_score": 2.2
+  "risk_score": -1
  },
  {
   "date": "2026-10-28",
   "symbol": "QQQ",
   "price": 725.61,
-  "risk_score": 2.9
+  "risk_score": -1
  },
  {
   "date": "2026-10-28",
   "symbol": "SCHD",
   "price": 35.09,
-  "risk_score": 1.7
+  "risk_score": -1
  },
  {
   "date": "2026-10-28",
