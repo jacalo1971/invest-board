@@ -1,37 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Markets open soon on Friday. The prices on this board are still Thursday's close: the S&P 500 fund SPY at $769.36 and the Nasdaq 100 fund QQQ at $715.34. Watch two things at the open. First, Amazon, which reported after the close and has not traded on the news yet. Second, whether Alphabet steadies after its 12.6% fall to $283.82. This is for learning, not advice."
+  "title": "What happened at the close",
+  "text": "Friday was a rough day for tech. The Nasdaq 100 fund QQQ fell 3.5% to $690.49, and the S&P 500 fund SPY fell 1.8% to $755.77. Chip makers fell hardest: AMD dropped 10.9% to $504.80 and Broadcom fell 5.5%. Eli Lilly went the other way and rose 3.2% to $1,417.54 after its report. A day like this shows why holding many kinds of companies matters. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Amazon reports a record profit margin",
-  "text": "After the close on Thursday, Amazon said its sales were $201.9 billion and its operating profit was $28.1 billion, about 13.9% of sales, its best share ever. AWS, its cloud business, grew 39%, the fastest in nearly five years. The stock closed at $243.79, down 4.2%, before the report, so the first trades on Friday will show how investors feel."
+  "title": "AMD falls almost 11%",
+  "text": "AMD closed at $504.80, down 10.9% in one day and 23% below its 52 week high of $658.52. Its price is about 128 times its yearly profit, which is very high, so the stock can swing a lot when mood changes. Our risk score for AMD is 7.5 out of 10, which is High."
  },
  {
   "kind": "alert",
-  "title": "Alphabet sits near its 52 week low",
-  "text": "Alphabet closed at $283.82 after a 12.6% drop. That is 30.5% below its 52 week high of $408.61 and only 4.8% above its low of $270.70. Analysts still average a target of $406.41, but a target is only an opinion, and it can change fast after a big move."
+  "title": "Chip stocks fall together",
+  "text": "Broadcom fell 5.5%, TSMC fell 5.9%, Vertiv fell 5.5% and NVIDIA fell 4.2%. When companies depend on the same big idea, here AI spending, they often move as a group. That is the difference between the AI giants (a smaller drop of 1% to 1.6%) and the companies that supply them."
  },
  {
   "kind": "alert",
-  "title": "Eli Lilly is close to its yearly high",
-  "text": "Eli Lilly jumped 6.6% on Thursday to $1,373, just 2.5% under its 52 week high of $1,408.38. Its beta is only 0.45, which means it usually moves less than the market, so a jump this big is unusual. Big jumps can reverse, so watch whether the price holds."
- },
- {
-  "kind": "alert",
-  "title": "The 10 year Treasury yield is at a one year high",
-  "text": "The average 10 year Treasury yield in September was 4.99%, up from 4.06% a year earlier. Higher yields make safe bonds more attractive, which can pull money away from stocks, especially fast growing tech companies. AI giants fell 3.8% on average Thursday, while the AI chip and equipment group fell 1.1%."
+  "title": "Lilly bucks the trend",
+  "text": "Eli Lilly rose 3.2% to $1,417.54, close to its 52 week high of $1,449.68, after reporting third quarter sales that beat what experts expected. It was the only stock on our board with a big gain, a good example of how different industries can behave differently."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 30: What is a market index?",
-  "text": "A market index is a list of companies used as a scoreboard for the market. The S&P 500 follows 500 large US companies. The Nasdaq 100 follows 100 big companies listed on the Nasdaq, many of them tech. Think of it like a class average: it tells you how the group is doing, not how any one student did. Funds like SPY and QQQ copy these lists, so buying one fund gives you a small piece of every company inside. When you hear that the market fell 1%, people usually mean an index like the S&P 500 fell 1%. Some stocks in the index may still have gone up that day, like Eli Lilly on Thursday."
+  "title": "Lesson 31: What is a market correction?",
+  "text": "A correction is when a stock or an index falls at least 10% from its recent high. It is a normal part of investing and happens often, usually every year or two. A drop of 20% or more is called a bear market. The Nasdaq is now about 7.8% below its October high, so it is close to correction territory. Corrections can feel scary, but they are also the price investors pay for growth over many years. A long time horizon, a mix of different investments, and not selling in a panic are the usual tools people use to stay calm."
  },
  {
   "kind": "coverage",
-  "title": "What this board covers",
-  "text": "Prices, 52 week ranges, betas, P/E ratios and net profit margins come from FMP. Analyst price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE only. Risk scores and the 3, 12 and 36 month scenarios are our own simple estimates, not predictions. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no target data on the free plan. Prices are from Thursday's close, October 29, because this update runs before the open. Some company and government sites could not be opened for checking, so news details come from search summaries of the original reports."
+  "title": "Data coverage",
+  "text": "Prices and ranges come from FMP for all 17 names. Analyst price targets and company numbers are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. The 10 year Treasury data is a monthly average from Alpha Vantage, last updated for September."
  }
 ]

@@ -148,5 +148,10 @@
   "date": "2026-10-30",
   "title": "Lesson 30: What is a market index?",
   "text": "A market index is a list of companies used as a scoreboard for the market. The S&P 500 follows 500 large US companies. The Nasdaq 100 follows 100 big companies listed on the Nasdaq, many of them tech. Think of it like a class average: it tells you how the group is doing, not how any one student did. Funds like SPY and QQQ copy these lists, so buying one fund gives you a small piece of every company inside. When you hear that the market fell 1%, people usually mean an index like the S&P 500 fell 1%. Some stocks in the index may still have gone up that day, like Eli Lilly on Thursday."
+ },
+ {
+  "date": "2026-10-30",
+  "title": "Lesson 31: What is a market correction?",
+  "text": "A correction is when a stock or an index falls at least 10% from its recent high. It is a normal part of investing and happens often, usually every year or two. A drop of 20% or more is called a bear market. The Nasdaq is now about 7.8% below its October high, so it is close to correction territory. Corrections can feel scary, but they are also the price investors pay for growth over many years. A long time horizon, a mix of different investments, and not selling in a panic are the usual tools people use to stay calm."
  }
 ]
