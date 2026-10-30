@@ -914,5 +914,29 @@
   "why": "Higher interest rates make borrowing cost more and can make safer investments like bonds look more attractive compared with stocks. That is why rate news can move the whole market, especially fast growing tech companies.",
   "source": "CNBC",
   "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+ },
+ {
+  "date": "2026-10-29",
+  "tickers": [
+   "AMZN"
+  ],
+  "effect": "good",
+  "title": "Amazon posts its best ever operating profit margin",
+  "summary": "Amazon said its third quarter sales reached $201.9 billion and operating profit was $28.1 billion, about 13.9% of sales. The cloud unit AWS made $46.0 billion in sales. For the next quarter the company expects sales of $240 billion to $247 billion.",
+  "why": "Operating margin is how many cents of profit a company keeps from each dollar of sales. A higher margin means the business is getting better at turning sales into profit. Still, the stock fell before the report, which shows investors also worry about how much Amazon spends on AI.",
+  "source": "Amazon (SEC filing and press release)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872426000038/amzn-20260930xex991.htm"
+ },
+ {
+  "date": "2026-10-21",
+  "tickers": [
+   "META"
+  ],
+  "effect": "watch",
+  "title": "Meta narrows its AI spending plan but cash turns negative",
+  "summary": "Meta said it expects to spend between $135 billion and $145 billion this year on equipment like data centers. In the third quarter it spent about $34.9 billion, which was more than the cash its business produced. It also set aside a large one time charge for legal cases.",
+  "why": "Spending more than you earn in cash is fine for a while if it builds something that pays off later, but it is a risk if it does not. This is the same question investors are asking about Alphabet and Amazon, so Meta is a good example to follow.",
+  "source": "Let's Data Science, citing Meta's report",
+  "url": "https://letsdatascience.com/news/meta-narrows-2026-capital-spending-range-to-135-billion-145-46f12e07"
  }
 ]

@@ -194,5 +194,12 @@
   "session": "evening",
   "label": "Oct 29, 2026 (after the close)",
   "updated_at": "2026-10-29T21:14:29Z"
+ },
+ {
+  "id": "2026-10-30-morning",
+  "date": "2026-10-30",
+  "session": "morning",
+  "label": "Oct 30, 2026 (before the open)",
+  "updated_at": "2026-10-30T12:01:05Z"
  }
 ]

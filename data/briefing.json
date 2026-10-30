@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What happened at the close",
-  "text": "Today the S&P 500 fund SPY ended at $769.49, down 0.37%. The Nasdaq 100 fund QQQ fell 1.41% to $715.41. The big story was Alphabet, which dropped 12.6% to $283.82 after its report. Amazon fell 4.2% before its own report came out after the close, and Eli Lilly jumped 6.6%. Tomorrow, watch how Amazon trades after its results and whether the AI group steadies. This is for learning, not advice."
+  "title": "What to watch at the open",
+  "text": "Markets open soon on Friday. The prices on this board are still Thursday's close: the S&P 500 fund SPY at $769.36 and the Nasdaq 100 fund QQQ at $715.34. Watch two things at the open. First, Amazon, which reported after the close and has not traded on the news yet. Second, whether Alphabet steadies after its 12.6% fall to $283.82. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Alphabet's big one day drop",
-  "text": "Alphabet fell 12.6% to $283.82 after its third quarter report. Reports say profit per share was $2.12, well below the $3.02 analysts expected. Its spending on AI equipment was bigger than the cash its business brought in. Its cloud business grew very fast, but search growth was slower than hoped. The stock is now 31% below its 52 week high of $408.61."
+  "title": "Amazon reports a record profit margin",
+  "text": "After the close on Thursday, Amazon said its sales were $201.9 billion and its operating profit was $28.1 billion, about 13.9% of sales, its best share ever. AWS, its cloud business, grew 39%, the fastest in nearly five years. The stock closed at $243.79, down 4.2%, before the report, so the first trades on Friday will show how investors feel."
  },
  {
   "kind": "alert",
-  "title": "Amazon: faster cloud, nervous investors",
-  "text": "Amazon closed at $243.79, down 4.2%, as worries about AI spending grew. After the close, Amazon reported that its cloud business, AWS, grew 39%, its fastest pace in nearly five years. Profit per share of $1.89 came in a bit under what analysts expected. Reports disagree on how far the stock moved after hours, so check the open before drawing conclusions."
+  "title": "Alphabet sits near its 52 week low",
+  "text": "Alphabet closed at $283.82 after a 12.6% drop. That is 30.5% below its 52 week high of $408.61 and only 4.8% above its low of $270.70. Analysts still average a target of $406.41, but a target is only an opinion, and it can change fast after a big move."
  },
  {
   "kind": "alert",
-  "title": "Eli Lilly rises on a raised forecast",
-  "text": "Eli Lilly gained 6.6% to $1,373 after it beat expectations and raised its sales forecast for the year. Sales rose 39% to $24.4 billion, led by its diabetes and weight loss medicines. Lilly's beta is 0.45, so it usually moves less than the market, which makes a 6.6% jump unusual."
+  "title": "Eli Lilly is close to its yearly high",
+  "text": "Eli Lilly jumped 6.6% on Thursday to $1,373, just 2.5% under its 52 week high of $1,408.38. Its beta is only 0.45, which means it usually moves less than the market, so a jump this big is unusual. Big jumps can reverse, so watch whether the price holds."
+ },
+ {
+  "kind": "alert",
+  "title": "The 10 year Treasury yield is at a one year high",
+  "text": "The average 10 year Treasury yield in September was 4.99%, up from 4.06% a year earlier. Higher yields make safe bonds more attractive, which can pull money away from stocks, especially fast growing tech companies. AI giants fell 3.8% on average Thursday, while the AI chip and equipment group fell 1.1%."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 29: What is capex?",
-  "text": "Capex is short for capital expenditure. It is the money a company spends on big things it will use for years, like buildings, machines and computer chips. Think of a pizza shop that buys a new oven. The oven costs a lot today, but it can make pizzas for years. Right now, giant tech companies are spending tens of billions of dollars on data centers for AI. That can help them grow later, but it also leaves less cash in the bank today. This week, Alphabet's capex was bigger than the cash its business brought in, and investors did not like that. When you read about a company, check both how much it spends and what it earns from that spending."
+  "title": "Lesson 30: What is a market index?",
+  "text": "A market index is a list of companies used as a scoreboard for the market. The S&P 500 follows 500 large US companies. The Nasdaq 100 follows 100 big companies listed on the Nasdaq, many of them tech. Think of it like a class average: it tells you how the group is doing, not how any one student did. Funds like SPY and QQQ copy these lists, so buying one fund gives you a small piece of every company inside. When you hear that the market fell 1%, people usually mean an index like the S&P 500 fell 1%. Some stocks in the index may still have gone up that day, like Eli Lilly on Thursday."
  },
  {
   "kind": "coverage",
   "title": "What this board covers",
-  "text": "Prices, 52 week ranges, betas, P/E ratios and net profit margins come from FMP. Analyst price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE only. Risk scores and the 3, 12 and 36 month scenarios are our own simple estimates, not predictions. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no target data on the free plan. Prices are from today's close, October 29. News details come from search summaries of the original reports, and some company sites could not be opened for checking."
+  "text": "Prices, 52 week ranges, betas, P/E ratios and net profit margins come from FMP. Analyst price targets are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE only. Risk scores and the 3, 12 and 36 month scenarios are our own simple estimates, not predictions. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no target data on the free plan. Prices are from Thursday's close, October 29, because this update runs before the open. Some company and government sites could not be opened for checking, so news details come from search summaries of the original reports."
  }
 ]

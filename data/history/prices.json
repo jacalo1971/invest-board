@@ -1430,20 +1430,20 @@
  {
   "date": "2026-10-29",
   "symbol": "SPY",
-  "price": 769.49,
-  "risk_score": -1
+  "price": 769.36,
+  "risk_score": 2.2
  },
  {
   "date": "2026-10-29",
   "symbol": "QQQ",
-  "price": 715.41,
-  "risk_score": -1
+  "price": 715.34,
+  "risk_score": 2.9
  },
  {
   "date": "2026-10-29",
   "symbol": "SCHD",
   "price": 35.61,
-  "risk_score": -1
+  "risk_score": 1.7
  },
  {
   "date": "2026-10-29",
@@ -1461,7 +1461,7 @@
   "date": "2026-10-29",
   "symbol": "TSM",
   "price": 431.81,
-  "risk_score": 4.6
+  "risk_score": 5.2
  },
  {
   "date": "2026-10-29",
