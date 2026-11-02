@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What happened at the close",
-  "text": "Friday was a rough day for tech. The Nasdaq 100 fund QQQ fell 3.5% to $690.49, and the S&P 500 fund SPY fell 1.8% to $755.77. Chip makers fell hardest: AMD dropped 10.9% to $504.80 and Broadcom fell 5.5%. Eli Lilly went the other way and rose 3.2% to $1,417.54 after its report. A day like this shows why holding many kinds of companies matters. This is for learning, not advice."
+  "title": "What to watch at the open",
+  "text": "Markets are closed on weekends, so these prices are still Friday's close. That day was rough: the Nasdaq 100 fund QQQ fell 3.5% to $690.49 and the S&P 500 fund SPY fell 1.8% to $755.72. When trading opens today, watch whether tech keeps sliding or steadies. A calm open does not mean the worry is gone, and a big drop does not mean a crash. Prices move on mood as well as facts. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "AMD falls almost 11%",
-  "text": "AMD closed at $504.80, down 10.9% in one day and 23% below its 52 week high of $658.52. Its price is about 128 times its yearly profit, which is very high, so the stock can swing a lot when mood changes. Our risk score for AMD is 7.5 out of 10, which is High."
+  "title": "Chip makers took the biggest hit",
+  "text": "AMD fell 10.9% to $504.80, TSMC fell 5.9%, Broadcom fell 5.5% and Vertiv fell 5.5%. These companies sell parts and equipment for AI, so they often move together. The AI giants (Alphabet, Amazon, Microsoft, Meta) fell a smaller 1.4% to 1.6%."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks fall together",
-  "text": "Broadcom fell 5.5%, TSMC fell 5.9%, Vertiv fell 5.5% and NVIDIA fell 4.2%. When companies depend on the same big idea, here AI spending, they often move as a group. That is the difference between the AI giants (a smaller drop of 1% to 1.6%) and the companies that supply them."
+  "title": "Fed meeting ahead in December",
+  "text": "The Fed kept interest rates unchanged on October 28, but two members voted to raise them. When rates may go up, investors often pay less for fast-growing tech companies, because money in safe places pays more. The next Fed meeting is in December."
  },
  {
   "kind": "alert",
-  "title": "Lilly bucks the trend",
-  "text": "Eli Lilly rose 3.2% to $1,417.54, close to its 52 week high of $1,449.68, after reporting third quarter sales that beat what experts expected. It was the only stock on our board with a big gain, a good example of how different industries can behave differently."
+  "title": "Lilly rose while tech fell",
+  "text": "Eli Lilly gained 3.2% to $1,417.54, close to its 52 week high of $1,449.68, after raising its yearly sales forecast. Health care and tech often move differently, which is one reason people mix industries."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 31: What is a market correction?",
-  "text": "A correction is when a stock or an index falls at least 10% from its recent high. It is a normal part of investing and happens often, usually every year or two. A drop of 20% or more is called a bear market. The Nasdaq is now about 7.8% below its October high, so it is close to correction territory. Corrections can feel scary, but they are also the price investors pay for growth over many years. A long time horizon, a mix of different investments, and not selling in a panic are the usual tools people use to stay calm."
+  "title": "Lesson 32: What is the 10 year Treasury yield?",
+  "text": "When the US government borrows money, it sells bonds called Treasuries. The 10 year Treasury yield is the yearly interest the government pays on a bond that lasts 10 years. People watch it because it works like a base price for money. When the yield goes up, safe bonds look more attractive, and investors may pay less for stocks, especially fast-growing tech companies whose profits come far in the future. On our board, the monthly average yield rose from about 4.3% in April to 4.99% in September. A rising yield does not mean stocks must fall, but it is one reason prices can swing."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices and ranges come from FMP for all 17 names. Analyst price targets and company numbers are available for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. The 10 year Treasury data is a monthly average from Alpha Vantage, last updated for September."
+  "text": "Prices and ranges come from FMP for all 17 names. Analyst price targets are refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; company numbers like P/E carry over from the last update. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. The 10 year Treasury data is a monthly average from Alpha Vantage, still showing September as the latest month."
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "sector": "Consumer Cyclical",
-  "change_pct": 1.73
+  "change_pct": 1.74
  },
  {
   "sector": "Energy",
@@ -20,11 +20,11 @@
   "change_pct": -0.18
  },
  {
-  "sector": "Healthcare",
-  "change_pct": -0.32
+  "sector": "Consumer Defensive",
+  "change_pct": -0.33
  },
  {
-  "sector": "Consumer Defensive",
+  "sector": "Healthcare",
   "change_pct": -0.33
  },
  {
@@ -37,7 +37,7 @@
  },
  {
   "sector": "Industrials",
-  "change_pct": -1.51
+  "change_pct": -1.5
  },
  {
   "sector": "Real Estate",

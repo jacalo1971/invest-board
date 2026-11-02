@@ -1532,7 +1532,7 @@
  {
   "date": "2026-10-30",
   "symbol": "SPY",
-  "price": 755.77,
+  "price": 755.72,
   "risk_score": -1
  },
  {
@@ -1563,7 +1563,7 @@
   "date": "2026-10-30",
   "symbol": "TSM",
   "price": 406.13,
-  "risk_score": 4.7
+  "risk_score": 4.8
  },
  {
   "date": "2026-10-30",
@@ -1623,7 +1623,7 @@
   "date": "2026-10-30",
   "symbol": "LLY",
   "price": 1417.54,
-  "risk_score": 3.2
+  "risk_score": 3.1
  },
  {
   "date": "2026-10-30",
