@@ -978,5 +978,41 @@
   "why": "Companies that sell chips and equipment for AI do well when everyone is spending and are hit hard when people worry that spending will slow. Bigger companies with many products usually move less.",
   "source": "Investing.com",
   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675"
+ },
+ {
+  "date": "2026-11-02",
+  "tickers": [
+   "AMD"
+  ],
+  "effect": "watch",
+  "title": "AMD sets its third quarter report for Tuesday after the close",
+  "summary": "AMD said it will release fiscal third quarter results on Tuesday, November 3, after the market closes, with a call at 5 p.m. Eastern. Last quarter the company told investors to expect about $13 billion in sales for this period, plus or minus $300 million.",
+  "why": "Earnings reports are when a company shows its real results. If the numbers beat what people hoped for, the stock can jump; if they fall short, it can drop, even when the business is growing. That is why prices often swing around these dates.",
+  "source": "AMD Investor Relations",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results"
+ },
+ {
+  "date": "2026-11-02",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "The Fed's next meeting is December 8 and 9",
+  "summary": "The Federal Reserve's official calendar shows its next policy meeting on December 8 and 9, with a decision at 2 p.m. Eastern on the second day and a news conference after. Minutes from that meeting are due December 30.",
+  "why": "The Fed sets a key interest rate that affects loans, savings and how much investors will pay for stocks. Rate hopes and worries move the market in the weeks before each meeting, so it helps to know the date.",
+  "source": "Federal Reserve Board",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+ },
+ {
+  "date": "2026-08-10",
+  "tickers": [
+   "RKLB"
+  ],
+  "effect": "watch",
+  "title": "Rocket Lab's last report set a sales goal for this quarter",
+  "summary": "In its August report, Rocket Lab said quarterly sales hit a record $234 million, up 62% from a year earlier. It guided to $250 million to $265 million in sales for the third quarter, with an adjusted loss still expected. The company has not been confirmed to report on a specific November date in our sources.",
+  "why": "A company's own forecast is a yardstick. When the next report arrives, investors compare real results with that range. A fast growing company that still loses money can swing a lot, which fits Rocket Lab's high risk score.",
+  "source": "Rocket Lab SEC filing (8-K)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001819994/000181999426000061/rklb-08102026ex991.htm"
  }
 ]

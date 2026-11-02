@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Markets are closed on weekends, so these prices are still Friday's close. That day was rough: the Nasdaq 100 fund QQQ fell 3.5% to $690.49 and the S&P 500 fund SPY fell 1.8% to $755.72. When trading opens today, watch whether tech keeps sliding or steadies. A calm open does not mean the worry is gone, and a big drop does not mean a crash. Prices move on mood as well as facts. This is for learning, not advice."
+  "title": "What the close tells us",
+  "text": "Tech had a rough Monday. The Nasdaq 100 fund QQQ fell 1.4% to $681.09 and the S&P 500 fund SPY fell 0.5% to $752.15. Inside the Nasdaq, tech companies fell about 3.5% on average, while makers of everyday products rose about 2.4%. Tomorrow, watch AMD, which reports its results after the market closes. A calm reaction does not mean the worry is gone, and a big drop does not mean a crash. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Chip makers took the biggest hit",
-  "text": "AMD fell 10.9% to $504.80, TSMC fell 5.9%, Broadcom fell 5.5% and Vertiv fell 5.5%. These companies sell parts and equipment for AI, so they often move together. The AI giants (Alphabet, Amazon, Microsoft, Meta) fell a smaller 1.4% to 1.6%."
+  "title": "AMD leads the chip drop",
+  "text": "AMD fell 7.5% to $466.84, the biggest drop on our list. Vertiv fell 3.5% to $224.39 and Rocket Lab fell 4.9% to $52.07. Microsoft fell 2.8% to $507.12. These companies are tied to AI and fast growth, so they tend to swing together."
  },
  {
   "kind": "alert",
-  "title": "Fed meeting ahead in December",
-  "text": "The Fed kept interest rates unchanged on October 28, but two members voted to raise them. When rates may go up, investors often pay less for fast-growing tech companies, because money in safe places pays more. The next Fed meeting is in December."
+  "title": "AMD reports results tomorrow",
+  "text": "AMD will share its third quarter results on Tuesday after the market closes. Analysts expect about $13.1 billion in sales. When a company reports, the price can jump or drop based on how the numbers compare with what people hoped for, not only on the numbers themselves."
  },
  {
   "kind": "alert",
-  "title": "Lilly rose while tech fell",
-  "text": "Eli Lilly gained 3.2% to $1,417.54, close to its 52 week high of $1,449.68, after raising its yearly sales forecast. Health care and tech often move differently, which is one reason people mix industries."
+  "title": "GE and Amazon rise on a down day",
+  "text": "GE Aerospace rose 4.6% to $315.81 and Amazon rose 2.2% to $245.63, while Lockheed Martin edged up 1.0% to $643.22. Our data does not say why they rose. It shows that on the same day, different industries can move in opposite directions."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 32: What is the 10 year Treasury yield?",
-  "text": "When the US government borrows money, it sells bonds called Treasuries. The 10 year Treasury yield is the yearly interest the government pays on a bond that lasts 10 years. People watch it because it works like a base price for money. When the yield goes up, safe bonds look more attractive, and investors may pay less for stocks, especially fast-growing tech companies whose profits come far in the future. On our board, the monthly average yield rose from about 4.3% in April to 4.99% in September. A rising yield does not mean stocks must fall, but it is one reason prices can swing."
+  "title": "Lesson 33: What is concentration risk?",
+  "text": "Concentration risk means having too much of your money tied to one company, one industry or one idea. If that one thing has a bad day, your whole pile feels it. Today is a good example. Chip makers like AMD, Vertiv and TSMC often move together, so owning only chip stocks can feel like owning one big bet. Spreading money across different kinds of companies, such as health care, defense or broad index funds, can soften a rough day in one area. It does not remove risk, and it does not guarantee gains. It just helps one surprise matter less."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices and ranges come from FMP for all 17 names. Analyst price targets are refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; company numbers like P/E carry over from the last update. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. The 10 year Treasury data is a monthly average from Alpha Vantage, still showing September as the latest month."
+  "text": "Prices and ranges come from FMP for all 17 names. Analyst price targets, P/E and debt numbers were refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells carry over or stay empty. The 10 year Treasury chart is a monthly average from Alpha Vantage and has no October point yet."
  }
 ]
