@@ -12,14 +12,31 @@
   "url": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results"
  },
  {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
+  "tickers": [
+   "MSFT",
+   "META",
+   "NVDA",
+   "AMZN",
+   "VRT",
+   "RKLB"
+  ],
+  "effect": "good",
+  "title": "Tech and AI related stocks bounced back on Tuesday",
+  "summary": "After a rough Monday, several big technology and AI related companies climbed. Vertiv, Rocket Lab, Microsoft, Meta, Nvidia and Amazon all gained between about 2% and 5%. Across Nasdaq companies, tech rose about 0.9% and industrial firms rose about 1.6%.",
+  "why": "Stocks that rise and fall together are tied to the same story, here the excitement around AI. A rebound after a drop is normal, but it does not mean the worry is over. It is a reminder that prices of fast growing companies swing a lot.",
+  "source": "Financial Modeling Prep sector performance and quotes",
+  "url": "https://site.financialmodelingprep.com/developer/docs"
+ },
+ {
+  "date": "2026-11-03",
   "tickers": [
    "ALL"
   ],
-  "effect": "good",
-  "title": "The 10 year Treasury yield eased to 4.91%",
-  "summary": "Treasury data show the 10 year yield closed Monday at 4.91%, down from 5.05% on October 28. The yield is the interest rate the government pays to borrow money for ten years.",
-  "why": "This rate is like a price tag on money. When it falls, safer investments pay a bit less, so investors may feel more comfortable owning stocks, especially fast growing ones. When it rises, the opposite can happen.",
+  "effect": "watch",
+  "title": "The 10 year Treasury yield rose to 4.95%",
+  "summary": "The interest rate on 10 year U.S. government bonds ticked up from 4.91% on Monday to 4.95% on Tuesday. It remains lower than the 5.05% seen on October 28.",
+  "why": "The 10 year yield is like the price of borrowing money for a long time. When it goes up, new bonds pay more, so stocks have to look more attractive to compete. Fast growing companies are often the most sensitive to this.",
   "source": "U.S. Treasury daily yield curve rates",
   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
  },
@@ -30,25 +47,9 @@
   ],
   "effect": "watch",
   "title": "The Treasury announces how much it plans to borrow on Wednesday",
-  "summary": "The U.S. Treasury is scheduled to announce its quarterly refunding plan on Wednesday, November 4. This tells the market how much government debt it plans to sell in the coming months.",
-  "why": "When the government sells more bonds, it can push interest rates up, because buyers want to be paid for taking on more supply. Rates matter to every stock, so people watch this announcement closely.",
+  "summary": "The U.S. Treasury said it will give its quarterly update on Wednesday, November 4. It tells investors how much money the government plans to borrow through bonds in the coming months.",
+  "why": "If the government borrows more, there are more bonds for investors to buy, and that can push bond interest rates up. Higher rates can affect how investors value stocks, so people watch this announcement closely.",
   "source": "U.S. Department of the Treasury",
   "url": "https://home.treasury.gov/news/press-releases/sb0590"
- },
- {
-  "date": "2026-11-02",
-  "tickers": [
-   "AMD",
-   "VRT",
-   "RKLB",
-   "MSFT",
-   "NVDA"
-  ],
-  "effect": "bad",
-  "title": "Tech was the weakest part of the Nasdaq on Monday",
-  "summary": "Sector data for the Nasdaq show technology companies fell about 3.5% on average on Monday, while consumer defensive companies, which sell everyday products, rose about 2.4%. On our list AMD fell 7.5% and Microsoft fell 2.8%.",
-  "why": "Stocks in the same industry often move together, so a bad day for one can pull others down. That is why spreading money across different kinds of businesses can make a rough day feel smaller.",
-  "source": "Financial Modeling Prep sector performance",
-  "url": "https://site.financialmodelingprep.com/developer/docs"
  }
 ]

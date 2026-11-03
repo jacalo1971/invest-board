@@ -1066,5 +1066,34 @@
   "why": "Stocks in the same industry often move together, so a bad day for one can pull others down. That is why spreading money across different kinds of businesses can make a rough day feel smaller.",
   "source": "Financial Modeling Prep sector performance",
   "url": "https://site.financialmodelingprep.com/developer/docs"
+ },
+ {
+  "date": "2026-11-03",
+  "tickers": [
+   "MSFT",
+   "META",
+   "NVDA",
+   "AMZN",
+   "VRT",
+   "RKLB"
+  ],
+  "effect": "good",
+  "title": "Tech and AI related stocks bounced back on Tuesday",
+  "summary": "After a rough Monday, several big technology and AI related companies climbed. Vertiv, Rocket Lab, Microsoft, Meta, Nvidia and Amazon all gained between about 2% and 5%. Across Nasdaq companies, tech rose about 0.9% and industrial firms rose about 1.6%.",
+  "why": "Stocks that rise and fall together are tied to the same story, here the excitement around AI. A rebound after a drop is normal, but it does not mean the worry is over. It is a reminder that prices of fast growing companies swing a lot.",
+  "source": "Financial Modeling Prep sector performance and quotes",
+  "url": "https://site.financialmodelingprep.com/developer/docs"
+ },
+ {
+  "date": "2026-11-03",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "The 10 year Treasury yield rose to 4.95%",
+  "summary": "The interest rate on 10 year U.S. government bonds ticked up from 4.91% on Monday to 4.95% on Tuesday. It remains lower than the 5.05% seen on October 28.",
+  "why": "The 10 year yield is like the price of borrowing money for a long time. When it goes up, new bonds pay more, so stocks have to look more attractive to compete. Fast growing companies are often the most sensitive to this.",
+  "source": "U.S. Treasury daily yield curve rates",
+  "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
  }
 ]

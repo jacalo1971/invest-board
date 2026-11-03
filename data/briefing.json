@@ -1,37 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Monday was rough for tech. The Nasdaq 100 fund QQQ fell 1.4% to $681.09 and the S&P 500 fund SPY fell 0.5% to $752.10. Tech companies on the Nasdaq dropped about 3.5% on average, while makers of everyday products rose about 2.4%. At the open, watch whether the chip stocks keep falling or settle down, and remember AMD reports its results after the market closes today. One quiet morning does not mean the worry is gone. This is for learning, not advice."
+  "title": "What to watch tomorrow morning",
+  "text": "Tech bounced back on Tuesday. The Nasdaq 100 fund QQQ rose 0.6% to $685.28 and the S&P 500 fund SPY rose 0.3% to $754.42. Among Nasdaq companies, industrial and real estate firms did best, and tech rose about 0.9%. Tomorrow morning, watch how AMD trades after its results, because chip stocks often move together. Also watch the Treasury's borrowing announcement on Wednesday. One good day does not erase Monday's drop. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "Tech had a big down day",
-  "text": "AMD fell 7.5% to $466.84, Vertiv fell 3.6% to $224.24, Rocket Lab fell 4.9% to $52.07 and Microsoft fell 2.8% to $507.12. These companies are tied to AI and fast growth, so they often move together, up or down."
+  "title": "Big tech and chip stocks rebounded",
+  "text": "Vertiv rose 5.2% to $235.99, Rocket Lab rose 4.5% to $54.43, Microsoft rose 2.7% to $520.99, Meta rose 2.4% to $621.03, Nvidia rose 2.3% to $206.69 and Amazon rose 2.1% to $250.69. These are the same kinds of companies that fell on Monday. Prices that swing both ways like this are what we call volatile."
  },
  {
   "kind": "alert",
-  "title": "AMD reports after the close today",
-  "text": "AMD said it will share its third quarter results today, Tuesday, after the market closes. The company told investors to expect about $13 billion in sales, and analysts expect a similar number. The price can jump or drop based on how the results compare with what people hoped for, so the move can happen tomorrow morning."
+  "title": "AMD closed higher before its report",
+  "text": "AMD rose 3.7% to $483.90 before the market closed. The company said it would share its third quarter results after the close, and it had told investors to expect about $13 billion in sales. The price can jump or drop tomorrow based on how the real numbers compare with what people hoped for. We did not have the results yet when this was written."
  },
  {
   "kind": "alert",
-  "title": "Long term interest rates eased a little",
-  "text": "The 10 year Treasury yield, the interest the government pays to borrow for ten years, was 4.91% on Monday. That is down from 5.05% on October 28. The monthly average for October was 5.13%, the highest in our 12 month chart. Higher rates make safer investments more attractive, which can weigh on growth stocks."
+  "title": "The 10 year Treasury yield edged up",
+  "text": "The 10 year Treasury yield, the interest the government pays to borrow for ten years, was 4.95% on Tuesday, up from 4.91% on Monday. It is still below the 5.05% it hit on October 28. When this rate is high, safer investments pay more, and growth stocks can feel the pressure."
  },
  {
   "kind": "alert",
-  "title": "GE and Amazon rose on a down day",
-  "text": "GE Aerospace rose 4.6% to $315.78 and Amazon rose 2.2% to $245.63, while Lockheed Martin edged up 1.0% to $643.15. Our data does not say why. It shows that on the same day, different industries can move in opposite directions."
+  "title": "Steady names lagged the rally",
+  "text": "The dividend fund SCHD fell 1.0% to $35.54 and Lockheed Martin fell 0.6% to $639.19, while fast growing companies rose. Calmer companies often move less on big up days, and they also tend to fall less on down days."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 34: Market orders and limit orders",
-  "text": "When you buy a stock, you choose how to place the order. A market order says, buy now at whatever price is available. It is fast, but the price can be a little different from the one you saw, especially in the first minutes after the market opens when prices jump around. A limit order says, buy only at this price or better. You set the price, but the order may never happen if the stock does not reach it. Neither one is better for everyone. Many people who are learning like limit orders because they teach patience and show exactly what you agreed to pay. This is education, not advice."
+  "title": "Lesson 35: What is after-hours trading?",
+  "text": "The regular stock market opens at 9:30 in the morning and closes at 4:00 in the afternoon, New York time. But some trading also happens before the open and after the close. That is called extended hours or after-hours trading. Companies often share their results right after the close, so prices can move fast in the evening. There are fewer buyers and sellers then, so prices can jump around more and be harder to get at a fair price. That is why many learners wait for the next regular open before reacting to news. This is education, not advice."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices and ranges come from FMP for all 17 names, as of Monday's close. Analyst price targets were refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. P/E and debt numbers carry over from the last update. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. The 10 year Treasury chart is a monthly average from Alpha Vantage; the daily yield comes from FMP's Treasury rates."
+  "text": "Prices and ranges come from FMP for all 17 names, as of Tuesday's close. Analyst price targets, P/E and debt numbers were refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META and GE; Lockheed Martin has a target and a P/E from FMP. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. The 10 year Treasury chart is a monthly average from Alpha Vantage; the daily yield comes from FMP's Treasury rates. News links point to the sources."
  }
 ]

@@ -168,5 +168,10 @@
   "date": "2026-11-03",
   "title": "Lesson 34: Market orders and limit orders",
   "text": "When you buy a stock, you choose how to place the order. A market order says, buy now at whatever price is available. It is fast, but the price can be a little different from the one you saw, especially in the first minutes after the market opens when prices jump around. A limit order says, buy only at this price or better. You set the price, but the order may never happen if the stock does not reach it. Neither one is better for everyone. Many people who are learning like limit orders because they teach patience and show exactly what you agreed to pay. This is education, not advice."
+ },
+ {
+  "date": "2026-11-03",
+  "title": "Lesson 35: What is after-hours trading?",
+  "text": "The regular stock market opens at 9:30 in the morning and closes at 4:00 in the afternoon, New York time. But some trading also happens before the open and after the close. That is called extended hours or after-hours trading. Companies often share their results right after the close, so prices can move fast in the evening. There are fewer buyers and sellers then, so prices can jump around more and be harder to get at a fair price. That is why many learners wait for the next regular open before reacting to news. This is education, not advice."
  }
 ]
