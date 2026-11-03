@@ -163,5 +163,10 @@
   "date": "2026-11-02",
   "title": "Lesson 33: What is concentration risk?",
   "text": "Concentration risk means having too much of your money tied to one company, one industry or one idea. If that one thing has a bad day, your whole pile feels it. Today is a good example. Chip makers like AMD, Vertiv and TSMC often move together, so owning only chip stocks can feel like owning one big bet. Spreading money across different kinds of companies, such as health care, defense or broad index funds, can soften a rough day in one area. It does not remove risk, and it does not guarantee gains. It just helps one surprise matter less."
+ },
+ {
+  "date": "2026-11-03",
+  "title": "Lesson 34: Market orders and limit orders",
+  "text": "When you buy a stock, you choose how to place the order. A market order says, buy now at whatever price is available. It is fast, but the price can be a little different from the one you saw, especially in the first minutes after the market opens when prices jump around. A limit order says, buy only at this price or better. You set the price, but the order may never happen if the stock does not reach it. Neither one is better for everyone. Many people who are learning like limit orders because they teach patience and show exactly what you agreed to pay. This is education, not advice."
  }
 ]

@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What the close tells us",
-  "text": "Tech had a rough Monday. The Nasdaq 100 fund QQQ fell 1.4% to $681.09 and the S&P 500 fund SPY fell 0.5% to $752.15. Inside the Nasdaq, tech companies fell about 3.5% on average, while makers of everyday products rose about 2.4%. Tomorrow, watch AMD, which reports its results after the market closes. A calm reaction does not mean the worry is gone, and a big drop does not mean a crash. This is for learning, not advice."
+  "title": "What to watch at the open",
+  "text": "Monday was rough for tech. The Nasdaq 100 fund QQQ fell 1.4% to $681.09 and the S&P 500 fund SPY fell 0.5% to $752.10. Tech companies on the Nasdaq dropped about 3.5% on average, while makers of everyday products rose about 2.4%. At the open, watch whether the chip stocks keep falling or settle down, and remember AMD reports its results after the market closes today. One quiet morning does not mean the worry is gone. This is for learning, not advice."
  },
  {
   "kind": "alert",
-  "title": "AMD leads the chip drop",
-  "text": "AMD fell 7.5% to $466.84, the biggest drop on our list. Vertiv fell 3.5% to $224.39 and Rocket Lab fell 4.9% to $52.07. Microsoft fell 2.8% to $507.12. These companies are tied to AI and fast growth, so they tend to swing together."
+  "title": "Tech had a big down day",
+  "text": "AMD fell 7.5% to $466.84, Vertiv fell 3.6% to $224.24, Rocket Lab fell 4.9% to $52.07 and Microsoft fell 2.8% to $507.12. These companies are tied to AI and fast growth, so they often move together, up or down."
  },
  {
   "kind": "alert",
-  "title": "AMD reports results tomorrow",
-  "text": "AMD will share its third quarter results on Tuesday after the market closes. Analysts expect about $13.1 billion in sales. When a company reports, the price can jump or drop based on how the numbers compare with what people hoped for, not only on the numbers themselves."
+  "title": "AMD reports after the close today",
+  "text": "AMD said it will share its third quarter results today, Tuesday, after the market closes. The company told investors to expect about $13 billion in sales, and analysts expect a similar number. The price can jump or drop based on how the results compare with what people hoped for, so the move can happen tomorrow morning."
  },
  {
   "kind": "alert",
-  "title": "GE and Amazon rise on a down day",
-  "text": "GE Aerospace rose 4.6% to $315.81 and Amazon rose 2.2% to $245.63, while Lockheed Martin edged up 1.0% to $643.22. Our data does not say why they rose. It shows that on the same day, different industries can move in opposite directions."
+  "title": "Long term interest rates eased a little",
+  "text": "The 10 year Treasury yield, the interest the government pays to borrow for ten years, was 4.91% on Monday. That is down from 5.05% on October 28. The monthly average for October was 5.13%, the highest in our 12 month chart. Higher rates make safer investments more attractive, which can weigh on growth stocks."
+ },
+ {
+  "kind": "alert",
+  "title": "GE and Amazon rose on a down day",
+  "text": "GE Aerospace rose 4.6% to $315.78 and Amazon rose 2.2% to $245.63, while Lockheed Martin edged up 1.0% to $643.15. Our data does not say why. It shows that on the same day, different industries can move in opposite directions."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 33: What is concentration risk?",
-  "text": "Concentration risk means having too much of your money tied to one company, one industry or one idea. If that one thing has a bad day, your whole pile feels it. Today is a good example. Chip makers like AMD, Vertiv and TSMC often move together, so owning only chip stocks can feel like owning one big bet. Spreading money across different kinds of companies, such as health care, defense or broad index funds, can soften a rough day in one area. It does not remove risk, and it does not guarantee gains. It just helps one surprise matter less."
+  "title": "Lesson 34: Market orders and limit orders",
+  "text": "When you buy a stock, you choose how to place the order. A market order says, buy now at whatever price is available. It is fast, but the price can be a little different from the one you saw, especially in the first minutes after the market opens when prices jump around. A limit order says, buy only at this price or better. You set the price, but the order may never happen if the stock does not reach it. Neither one is better for everyone. Many people who are learning like limit orders because they teach patience and show exactly what you agreed to pay. This is education, not advice."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices and ranges come from FMP for all 17 names. Analyst price targets, P/E and debt numbers were refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells carry over or stay empty. The 10 year Treasury chart is a monthly average from Alpha Vantage and has no October point yet."
+  "text": "Prices and ranges come from FMP for all 17 names, as of Monday's close. Analyst price targets were refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, GE and LMT. P/E and debt numbers carry over from the last update. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. The 10 year Treasury chart is a monthly average from Alpha Vantage; the daily yield comes from FMP's Treasury rates."
  }
 ]
