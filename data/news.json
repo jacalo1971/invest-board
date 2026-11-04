@@ -4,29 +4,24 @@
   "tickers": [
    "AMD"
   ],
-  "effect": "watch",
-  "title": "AMD shares its third quarter results today after the close",
-  "summary": "AMD said it would report third quarter results on Tuesday, November 3, after the market closes, with a call at 5 p.m. Eastern. In its last report the company said it expected about $13 billion in sales this quarter, give or take $300 million.",
-  "why": "A company's own forecast is a yardstick. When the real numbers come out, investors compare them with that range and with what they hoped for. A stock can fall even on good results if people hoped for more, so a big move in either direction is possible.",
-  "source": "AMD Investor Relations",
-  "url": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results"
+  "effect": "good",
+  "title": "AMD reports third quarter sales above its guide",
+  "summary": "AMD shared third quarter results after the market closed on Tuesday. A summary of its company filing says sales were $13.4 billion, higher than the roughly $13 billion it had forecast in August. Its profit per share, adjusted for one time items, was $2.09.",
+  "why": "Companies give forecasts called guidance. Beating your own forecast is a good sign, but the stock price depends on whether investors hoped for even more, so the move at the open can go either way. The full report was not opened, so check the company page for details.",
+  "source": "SEC filing (Form 8-K) summary",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
  },
  {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "tickers": [
-   "MSFT",
-   "META",
-   "NVDA",
-   "AMZN",
-   "VRT",
-   "RKLB"
+   "ALL"
   ],
-  "effect": "good",
-  "title": "Tech and AI related stocks bounced back on Tuesday",
-  "summary": "After a rough Monday, several big technology and AI related companies climbed. Vertiv, Rocket Lab, Microsoft, Meta, Nvidia and Amazon all gained between about 2% and 5%. Across Nasdaq companies, tech rose about 0.9% and industrial firms rose about 1.6%.",
-  "why": "Stocks that rise and fall together are tied to the same story, here the excitement around AI. A rebound after a drop is normal, but it does not mean the worry is over. It is a reminder that prices of fast growing companies swing a lot.",
-  "source": "Financial Modeling Prep sector performance and quotes",
-  "url": "https://site.financialmodelingprep.com/developer/docs"
+  "effect": "watch",
+  "title": "The Treasury announces how much it plans to borrow on Wednesday",
+  "summary": "The U.S. Treasury scheduled its quarterly borrowing announcement for Wednesday. It tells the market how many bonds the government plans to sell in the coming months.",
+  "why": "When the government sells more bonds, it may have to pay higher interest to attract buyers. Higher interest on safe bonds can make stocks look less attractive, especially fast growing ones.",
+  "source": "U.S. Treasury",
+  "url": "https://home.treasury.gov/news/press-releases/sb0590"
  },
  {
   "date": "2026-11-03",
@@ -39,17 +34,5 @@
   "why": "The 10 year yield is like the price of borrowing money for a long time. When it goes up, new bonds pay more, so stocks have to look more attractive to compete. Fast growing companies are often the most sensitive to this.",
   "source": "U.S. Treasury daily yield curve rates",
   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
- },
- {
-  "date": "2026-11-04",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "The Treasury announces how much it plans to borrow on Wednesday",
-  "summary": "The U.S. Treasury said it will give its quarterly update on Wednesday, November 4. It tells investors how much money the government plans to borrow through bonds in the coming months.",
-  "why": "If the government borrows more, there are more bonds for investors to buy, and that can push bond interest rates up. Higher rates can affect how investors value stocks, so people watch this announcement closely.",
-  "source": "U.S. Department of the Treasury",
-  "url": "https://home.treasury.gov/news/press-releases/sb0590"
  }
 ]

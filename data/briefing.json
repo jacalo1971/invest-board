@@ -1,37 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch tomorrow morning",
-  "text": "Tech bounced back on Tuesday. The Nasdaq 100 fund QQQ rose 0.6% to $685.28 and the S&P 500 fund SPY rose 0.3% to $754.42. Among Nasdaq companies, industrial and real estate firms did best, and tech rose about 0.9%. Tomorrow morning, watch how AMD trades after its results, because chip stocks often move together. Also watch the Treasury's borrowing announcement on Wednesday. One good day does not erase Monday's drop. This is for learning, not advice."
+  "title": "What to watch at the open",
+  "text": "Stocks rose on Tuesday. The Nasdaq 100 fund QQQ gained 0.6% to $685.28 and the S&P 500 fund SPY gained 0.3% to $754.35. After the close, AMD shared its third quarter results. A search of the company filing summary says sales were $13.4 billion, above the $13 billion the company had guided. This morning, watch how AMD and other chip stocks trade in the first minutes, because one company's report can move its whole industry. A big first move is not always the final move, so patience is a skill."
  },
  {
   "kind": "alert",
-  "title": "Big tech and chip stocks rebounded",
-  "text": "Vertiv rose 5.2% to $235.99, Rocket Lab rose 4.5% to $54.43, Microsoft rose 2.7% to $520.99, Meta rose 2.4% to $621.03, Nvidia rose 2.3% to $206.69 and Amazon rose 2.1% to $250.69. These are the same kinds of companies that fell on Monday. Prices that swing both ways like this are what we call volatile."
+  "title": "AMD reported sales above its own guide",
+  "text": "AMD closed at $483.90 on Tuesday, up 3.7%, before its report. Guidance means the company's own forecast. The company had forecast about $13 billion in sales for the quarter, and a filing summary reports $13.4 billion. We could not open the full report, so details such as next quarter's outlook are not confirmed here. Stocks can still fall on good news if people hoped for even more."
  },
  {
   "kind": "alert",
-  "title": "AMD closed higher before its report",
-  "text": "AMD rose 3.7% to $483.90 before the market closed. The company said it would share its third quarter results after the close, and it had told investors to expect about $13 billion in sales. The price can jump or drop tomorrow based on how the real numbers compare with what people hoped for. We did not have the results yet when this was written."
+  "title": "Industrial companies led the Nasdaq sectors",
+  "text": "Among Nasdaq companies, industrials rose about 1.7%, real estate 1.5%, utilities 1.2% and technology 0.8%. Basic materials fell 1.5% and consumer defensive firms (stores that sell everyday goods) fell 1.2%. A sector is a group of companies in the same kind of business. Seeing which groups lead helps you understand the market's mood."
  },
  {
   "kind": "alert",
-  "title": "The 10 year Treasury yield edged up",
-  "text": "The 10 year Treasury yield, the interest the government pays to borrow for ten years, was 4.95% on Tuesday, up from 4.91% on Monday. It is still below the 5.05% it hit on October 28. When this rate is high, safer investments pay more, and growth stocks can feel the pressure."
+  "title": "Bond yields stay high as the Treasury plans its borrowing",
+  "text": "The 10 year Treasury yield, the interest the government pays to borrow for ten years, averaged 5.13% in October, the highest of the last 12 months. The Treasury is also set to say today how much it plans to borrow. When safe bonds pay more, growth stocks can feel pressure because investors have a tempting alternative."
  },
  {
   "kind": "alert",
-  "title": "Steady names lagged the rally",
-  "text": "The dividend fund SCHD fell 1.0% to $35.54 and Lockheed Martin fell 0.6% to $639.19, while fast growing companies rose. Calmer companies often move less on big up days, and they also tend to fall less on down days."
+  "title": "Calmer funds lagged the rebound",
+  "text": "The dividend fund SCHD fell 1.0% to $35.55 and Lockheed Martin fell 0.6% to $639.00 while fast growing companies like Vertiv (up 5.2%) and Rocket Lab (up 4.5%) jumped. Steadier names tend to move less on big days in both directions."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 35: What is after-hours trading?",
-  "text": "The regular stock market opens at 9:30 in the morning and closes at 4:00 in the afternoon, New York time. But some trading also happens before the open and after the close. That is called extended hours or after-hours trading. Companies often share their results right after the close, so prices can move fast in the evening. There are fewer buyers and sellers then, so prices can jump around more and be harder to get at a fair price. That is why many learners wait for the next regular open before reacting to news. This is education, not advice."
+  "title": "Lesson 36: What is trading volume?",
+  "text": "Volume is the number of shares that change hands in a day. Think of a school cafeteria: a busy lunch line means many people are buying, and an empty one means few. On Tuesday about 90 million NVIDIA shares traded, while the usual day is closer to 120 million. High volume on a big price move suggests many people agree with the move. A big move on very low volume can be less reliable, because only a few trades pushed the price. Volume is a clue, not a promise. This is education, not advice."
  },
  {
   "kind": "coverage",
   "title": "Data coverage",
-  "text": "Prices and ranges come from FMP for all 17 names, as of Tuesday's close. Analyst price targets, P/E and debt numbers were refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META and GE; Lockheed Martin has a target and a P/E from FMP. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. The 10 year Treasury chart is a monthly average from Alpha Vantage; the daily yield comes from FMP's Treasury rates. News links point to the sources."
+  "text": "Prices and ranges come from FMP for all 17 names, as of Tuesday's close. Analyst price targets, P/E and debt numbers were refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META and GE, and Lockheed Martin has a target. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. AMD's report numbers come from a search summary of the company filing, not the full document."
  }
 ]

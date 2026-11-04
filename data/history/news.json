@@ -1095,5 +1095,17 @@
   "why": "The 10 year yield is like the price of borrowing money for a long time. When it goes up, new bonds pay more, so stocks have to look more attractive to compete. Fast growing companies are often the most sensitive to this.",
   "source": "U.S. Treasury daily yield curve rates",
   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202611"
+ },
+ {
+  "date": "2026-11-03",
+  "tickers": [
+   "AMD"
+  ],
+  "effect": "good",
+  "title": "AMD reports third quarter sales above its guide",
+  "summary": "AMD shared third quarter results after the market closed on Tuesday. A summary of its company filing says sales were $13.4 billion, higher than the roughly $13 billion it had forecast in August. Its profit per share, adjusted for one time items, was $2.09.",
+  "why": "Companies give forecasts called guidance. Beating your own forecast is a good sign, but the stock price depends on whether investors hoped for even more, so the move at the open can go either way. The full report was not opened, so check the company page for details.",
+  "source": "SEC filing (Form 8-K) summary",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
  }
 ]
