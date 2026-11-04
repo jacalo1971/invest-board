@@ -1,37 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Stocks rose on Tuesday. The Nasdaq 100 fund QQQ gained 0.6% to $685.28 and the S&P 500 fund SPY gained 0.3% to $754.35. After the close, AMD shared its third quarter results. A search of the company filing summary says sales were $13.4 billion, above the $13 billion the company had guided. This morning, watch how AMD and other chip stocks trade in the first minutes, because one company's report can move its whole industry. A big first move is not always the final move, so patience is a skill."
+  "title": "How the day ended",
+  "text": "Stocks rose on Wednesday. The S&P 500 fund SPY gained 1.7% to $766.81 and the Nasdaq 100 fund QQQ gained 1.0% to $691.95. Big AI companies did well: Microsoft rose 6.7%, Amazon 6.1% and Alphabet 3.2%. Companies that supply the AI boom had a harder day: Vertiv fell 12.9%, NVIDIA 3.2% and TSMC 2.4%. Tomorrow, watch whether the big companies keep their gains. One strong day does not make a trend."
  },
  {
   "kind": "alert",
-  "title": "AMD reported sales above its own guide",
-  "text": "AMD closed at $483.90 on Tuesday, up 3.7%, before its report. Guidance means the company's own forecast. The company had forecast about $13 billion in sales for the quarter, and a filing summary reports $13.4 billion. We could not open the full report, so details such as next quarter's outlook are not confirmed here. Stocks can still fall on good news if people hoped for even more."
+  "title": "Big AI companies rose, chip and equipment makers fell",
+  "text": "Microsoft closed at $555.80, just under its 52 week high of $559.15. Amazon gained 6.1% and Alphabet 3.2%. In the other group, NVIDIA lost 3.2%, TSMC 2.4% and Broadcom 2.0%. We could not confirm one reason for these moves, so we only report the numbers. Comparing these two groups helps you see that companies tied to the same trend do not always move together."
  },
  {
   "kind": "alert",
-  "title": "Industrial companies led the Nasdaq sectors",
-  "text": "Among Nasdaq companies, industrials rose about 1.7%, real estate 1.5%, utilities 1.2% and technology 0.8%. Basic materials fell 1.5% and consumer defensive firms (stores that sell everyday goods) fell 1.2%. A sector is a group of companies in the same kind of business. Seeing which groups lead helps you understand the market's mood."
+  "title": "Vertiv dropped almost 13% in one day",
+  "text": "Vertiv, which makes power and cooling equipment for data centers, closed at $205.58, down 12.9%. On October 28 the company reported sales up 61% and raised its yearly outlook, according to its filing summary, so today's drop is a good example of a stock falling after good news. We could not confirm the cause of today's move. A drop this big is a reminder of how risky single stocks can be."
  },
  {
   "kind": "alert",
-  "title": "Bond yields stay high as the Treasury plans its borrowing",
-  "text": "The 10 year Treasury yield, the interest the government pays to borrow for ten years, averaged 5.13% in October, the highest of the last 12 months. The Treasury is also set to say today how much it plans to borrow. When safe bonds pay more, growth stocks can feel pressure because investors have a tempting alternative."
+  "title": "Lockheed Martin fell 7%",
+  "text": "Lockheed Martin, a defense company, closed at $594.57, down 7.0%. It is usually a calmer stock, with a beta of only 0.1. Beta measures how much a stock tends to swing compared with the whole market. We could not confirm why it fell today, so no cause is given here. Even steady companies can have sharp days."
  },
  {
   "kind": "alert",
-  "title": "Calmer funds lagged the rebound",
-  "text": "The dividend fund SCHD fell 1.0% to $35.55 and Lockheed Martin fell 0.6% to $639.00 while fast growing companies like Vertiv (up 5.2%) and Rocket Lab (up 4.5%) jumped. Steadier names tend to move less on big days in both directions."
+  "title": "Government bond rates are at a 12 month high",
+  "text": "The 10 year Treasury yield is the interest rate the U.S. government pays to borrow for ten years. Its monthly average rose to 5.13% in October, up from 4.06% a year earlier. When safe bonds pay more, some investors may prefer them over stocks, so this number is worth watching."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 36: What is trading volume?",
-  "text": "Volume is the number of shares that change hands in a day. Think of a school cafeteria: a busy lunch line means many people are buying, and an empty one means few. On Tuesday about 90 million NVIDIA shares traded, while the usual day is closer to 120 million. High volume on a big price move suggests many people agree with the move. A big move on very low volume can be less reliable, because only a few trades pushed the price. Volume is a clue, not a promise. This is education, not advice."
+  "title": "Lesson 37: Why can a stock fall on good news?",
+  "text": "A stock price is not only about how a company did. It is also about what people expected. Imagine you hoped for an A on a test and got a B plus. The grade is good, but you feel let down. Investors feel the same way. If a company reports strong results but investors hoped for even more, the price can drop. The reverse can happen too: a company with weak results can rise if people feared something worse. This is why smart investors ask two questions: how did the company do, and how did that compare with what everyone expected?"
  },
  {
   "kind": "coverage",
-  "title": "Data coverage",
-  "text": "Prices and ranges come from FMP for all 17 names, as of Tuesday's close. Analyst price targets, P/E and debt numbers were refreshed for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META and GE, and Lockheed Martin has a target. AVGO, VRT, RKLB, LLY and ISRG have no free analyst data, so those cells stay empty. AMD's report numbers come from a search summary of the company filing, not the full document."
+  "title": "What this update covers",
+  "text": "Prices come from the market close on November 4. Analyst targets and ratios are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE only. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have price data but no analyst targets or ratios. Reasons for several price moves could not be verified. This is information to learn from, not advice to buy or sell."
  }
 ]

@@ -178,5 +178,10 @@
   "date": "2026-11-04",
   "title": "Lesson 36: What is trading volume?",
   "text": "Volume is the number of shares that change hands in a day. Think of a school cafeteria: a busy lunch line means many people are buying, and an empty one means few. On Tuesday about 90 million NVIDIA shares traded, while the usual day is closer to 120 million. High volume on a big price move suggests many people agree with the move. A big move on very low volume can be less reliable, because only a few trades pushed the price. Volume is a clue, not a promise. This is education, not advice."
+ },
+ {
+  "date": "2026-11-04",
+  "title": "Lesson 37: Why can a stock fall on good news?",
+  "text": "A stock price is not only about how a company did. It is also about what people expected. Imagine you hoped for an A on a test and got a B plus. The grade is good, but you feel let down. Investors feel the same way. If a company reports strong results but investors hoped for even more, the price can drop. The reverse can happen too: a company with weak results can rise if people feared something worse. This is why smart investors ask two questions: how did the company do, and how did that compare with what everyone expected?"
  }
 ]

@@ -1107,5 +1107,29 @@
   "why": "Companies give forecasts called guidance. Beating your own forecast is a good sign, but the stock price depends on whether investors hoped for even more, so the move at the open can go either way. The full report was not opened, so check the company page for details.",
   "source": "SEC filing (Form 8-K) summary",
   "url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm"
+ },
+ {
+  "date": "2026-10-28",
+  "tickers": [
+   "VRT"
+  ],
+  "effect": "watch",
+  "title": "Vertiv reports big sales growth, then falls sharply a week later",
+  "summary": "A summary of Vertiv's company filing says third quarter sales were $4.3 billion, up 61% from a year earlier, and that the company raised its outlook for the full year. On November 4 the stock closed down 12.9%. We could not confirm what caused today's drop.",
+  "why": "A company can do very well and its stock can still fall if investors hoped for more or worry about the future. This is why the price reaction matters as much as the report itself.",
+  "source": "SEC filing (Form 8-K) summary",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067707/q32026exhibit991vrt10282026.htm"
+ },
+ {
+  "date": "2026-10-31",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "The 10 year Treasury yield averaged 5.13% in October",
+  "summary": "Monthly data shows the average yield on 10 year U.S. government bonds rose to 5.13% in October. A year earlier it was 4.06%, and the 12 month low was 4.09% in November 2025.",
+  "why": "A bond yield is the interest you earn for lending money to the government. When it rises, safe bonds look better and stocks, especially expensive ones, can lose some appeal.",
+  "source": "Alpha Vantage (Treasury yield data)",
+  "url": "https://www.alphavantage.co/documentation/#treasury-yield"
  }
 ]
