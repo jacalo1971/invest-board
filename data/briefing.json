@@ -1,37 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Yesterday was a big day. The S&P 500 fund SPY rose 1.7% to $766.81 and the Nasdaq 100 fund QQQ rose 1.0%. Microsoft jumped 6.7%, Amazon 6.1% and Intuitive Surgical 9.4%. But Vertiv fell 12.9% and Lockheed Martin fell 6.9%. Today, watch whether the big gainers hold their gains or give some back, and how AMD opens after its quarterly report on Tuesday evening. After a big jump, prices often calm down or swing the other way, so a quiet day would be normal too."
+  "title": "What the day looked like at the close",
+  "text": "Today was a very rough day. The S&P 500 fund SPY fell 4.4% to $733.11, and the Nasdaq 100 fund QQQ fell 6.5%. All 17 names on the list went down. The steadiest were the dividend fund SCHD (down 2.2%), Alphabet (down 2.2%) and Amazon (down 2.2%). The hardest hit were AMD (down 17.3%), Vertiv (down 14.1%) and Rocket Lab (down 12.2%). Big one day drops like this are rare, but they do happen. Tomorrow, watch whether prices keep falling, steady out, or bounce. Nobody can know which one in advance."
  },
  {
   "kind": "alert",
-  "title": "Big AI companies up, chip and equipment makers down",
-  "text": "Microsoft closed at $555.80, just under its 52 week high of $559.15. Amazon gained 6.1% and Alphabet 3.2%. In the other group, NVIDIA fell 3.2%, TSMC 2.2% and Broadcom 2.0%. Think of it like a school team: the players who use the tools did well, while the companies that sell the tools had a harder day. Reports linked the rally to relief after the US midterm elections, but we could not confirm one single reason, so we only report the numbers."
+  "title": "Chip and equipment makers fell much more than the big AI companies",
+  "text": "The four big AI companies (Alphabet, Amazon, Microsoft, Meta) fell about 3% on average today. The five companies that sell parts and equipment for AI (NVIDIA, Broadcom, TSMC, Vertiv, AMD) fell about 12% on average. Broadcom now sits just 0.5% above its 52 week low. The 52 week range is the lowest and highest price in the past year. News reports say worries about AI spending drove the sell-off, but the exact reasons are still being sorted out."
  },
  {
   "kind": "alert",
-  "title": "Vertiv fell almost 13% in one day",
-  "text": "Vertiv makes power and cooling equipment for data centers. It closed at $205.55, down 12.9%, on a day when volume was more than double its usual. On October 28 it reported sales up 61%, so this is another example of a stock falling after good news. We could not confirm the reason for the drop. Its price is now only 39% of the way up its 52 week range."
+  "title": "Analyst targets are far above today's prices",
+  "text": "A price target is where an analyst guesses a stock could be in about a year. The average target for NVIDIA is $339.17, but it closed at $181.60. For AMD it is $645.82 against $404.40. Be careful: targets are updated slowly, so many were set before today's drop. A big gap can mean a bargain, or it can mean the targets are out of date. It is a clue, never a promise."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin dropped almost 7%",
-  "text": "Lockheed Martin is a defense company that usually moves slowly (its beta is only 0.1, which means it rarely follows the market). It closed at $595.04, down 6.9%, with trading volume more than double normal. We could not find a verified reason, so none is given here. Even calm companies can have rough days."
- },
- {
-  "kind": "alert",
-  "title": "The 10 year Treasury yield is still high",
-  "text": "The 10 year Treasury yield is the interest rate the US government pays to borrow money for ten years. Its monthly average was 5.13% in October, up from 4.06% a year earlier. When safe bonds pay more, some investors may choose them over stocks, so this number is worth watching."
+  "title": "Interest rates are still the highest in a year",
+  "text": "The average 10 year Treasury yield was 5.13% in October. A year earlier it was about 4.06%. The 10 year Treasury yield is what the US government pays to borrow money for 10 years. When it is high, safe bonds look more attractive, and fast growing tech stocks can look less attractive. Watch whether it keeps climbing."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 38: What is dividend yield?",
-  "text": "Dividend yield tells you how much a company pays in dividends each year compared with its stock price. If a stock costs $100 and pays $2 a year, the yield is 2%. Today TSMC's yield is about 1.1%, Microsoft's is about 0.65%, and NVIDIA's is about 0.26%, so they pay little. SCHD, the fund built from steady dividend payers, holds companies that pay more. Here is the catch: the yield changes when the price changes. If a stock falls and the dividend stays the same, the yield goes up, but that is not a gift, because you just lost value in the price. A high yield can also be a warning sign that people doubt the company can keep paying. Yield is one clue, never the whole story."
+  "title": "Lesson 39: What is panic selling?",
+  "text": "Panic selling is when people rush to sell because prices are falling and they are scared, not because they have a plan. Here is the problem. If you sell after a big drop, you turn a temporary paper loss into a real one. Also, nobody can predict the exact bottom. Look at history: stocks have fallen sharply many times, like in April 2025, and then later recovered, though that is never guaranteed. Before investing, ask yourself two things. How long can I leave this money alone? How would I feel if it fell 20% in a week? If the honest answer is 'I would hate it', that is useful to know, and a mix of steadier investments might fit better. Planning for bad days in advance is much easier than deciding during one."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices come from the market close on November 4. Analyst targets and ratios are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE only. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have price data but no analyst targets or ratios. Reasons for several price moves could not be verified. This is information to learn from, not advice to buy or sell."
+  "text": "Prices come from the market close on November 5. Analyst targets and ratios are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE only. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have price data but no analyst targets or ratios. The reasons for today's moves come from news reports and could not all be checked. This is information to learn from, not advice to buy or sell."
  }
 ]
