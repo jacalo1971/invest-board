@@ -9,15 +9,15 @@
  },
  {
   "sector": "Consumer Cyclical",
-  "change_pct": 1.13
+  "change_pct": 1.12
  },
  {
   "sector": "Healthcare",
-  "change_pct": 0.7
+  "change_pct": 0.71
  },
  {
   "sector": "Industrials",
-  "change_pct": 0.63
+  "change_pct": 0.62
  },
  {
   "sector": "Basic Materials",
@@ -29,7 +29,7 @@
  },
  {
   "sector": "Communication Services",
-  "change_pct": 0.28
+  "change_pct": 0.3
  },
  {
   "sector": "Technology",
@@ -37,10 +37,10 @@
  },
  {
   "sector": "Utilities",
-  "change_pct": -0.56
+  "change_pct": -0.42
  },
  {
   "sector": "Energy",
-  "change_pct": -3.96
+  "change_pct": -3.97
  }
 ]

@@ -1850,7 +1850,7 @@
  {
   "date": "2026-11-04",
   "symbol": "SCHD",
-  "price": 36.2,
+  "price": 36.21,
   "risk_score": -1
  },
  {
@@ -1868,13 +1868,13 @@
  {
   "date": "2026-11-04",
   "symbol": "TSM",
-  "price": 395.2,
+  "price": 395.75,
   "risk_score": 4.8
  },
  {
   "date": "2026-11-04",
   "symbol": "VRT",
-  "price": 205.58,
+  "price": 205.55,
   "risk_score": 8.0
  },
  {
@@ -1916,13 +1916,13 @@
  {
   "date": "2026-11-04",
   "symbol": "LMT",
-  "price": 594.57,
+  "price": 595.04,
   "risk_score": 2.9
  },
  {
   "date": "2026-11-04",
   "symbol": "GE",
-  "price": 329.57,
+  "price": 329.45,
   "risk_score": 4.9
  },
  {

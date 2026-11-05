@@ -1,33 +1,33 @@
 [
  {
   "kind": "takeaway",
-  "title": "How the day ended",
-  "text": "Stocks rose on Wednesday. The S&P 500 fund SPY gained 1.7% to $766.81 and the Nasdaq 100 fund QQQ gained 1.0% to $691.95. Big AI companies did well: Microsoft rose 6.7%, Amazon 6.1% and Alphabet 3.2%. Companies that supply the AI boom had a harder day: Vertiv fell 12.9%, NVIDIA 3.2% and TSMC 2.4%. Tomorrow, watch whether the big companies keep their gains. One strong day does not make a trend."
+  "title": "What to watch at the open",
+  "text": "Yesterday was a big day. The S&P 500 fund SPY rose 1.7% to $766.81 and the Nasdaq 100 fund QQQ rose 1.0%. Microsoft jumped 6.7%, Amazon 6.1% and Intuitive Surgical 9.4%. But Vertiv fell 12.9% and Lockheed Martin fell 6.9%. Today, watch whether the big gainers hold their gains or give some back, and how AMD opens after its quarterly report on Tuesday evening. After a big jump, prices often calm down or swing the other way, so a quiet day would be normal too."
  },
  {
   "kind": "alert",
-  "title": "Big AI companies rose, chip and equipment makers fell",
-  "text": "Microsoft closed at $555.80, just under its 52 week high of $559.15. Amazon gained 6.1% and Alphabet 3.2%. In the other group, NVIDIA lost 3.2%, TSMC 2.4% and Broadcom 2.0%. We could not confirm one reason for these moves, so we only report the numbers. Comparing these two groups helps you see that companies tied to the same trend do not always move together."
+  "title": "Big AI companies up, chip and equipment makers down",
+  "text": "Microsoft closed at $555.80, just under its 52 week high of $559.15. Amazon gained 6.1% and Alphabet 3.2%. In the other group, NVIDIA fell 3.2%, TSMC 2.2% and Broadcom 2.0%. Think of it like a school team: the players who use the tools did well, while the companies that sell the tools had a harder day. Reports linked the rally to relief after the US midterm elections, but we could not confirm one single reason, so we only report the numbers."
  },
  {
   "kind": "alert",
-  "title": "Vertiv dropped almost 13% in one day",
-  "text": "Vertiv, which makes power and cooling equipment for data centers, closed at $205.58, down 12.9%. On October 28 the company reported sales up 61% and raised its yearly outlook, according to its filing summary, so today's drop is a good example of a stock falling after good news. We could not confirm the cause of today's move. A drop this big is a reminder of how risky single stocks can be."
+  "title": "Vertiv fell almost 13% in one day",
+  "text": "Vertiv makes power and cooling equipment for data centers. It closed at $205.55, down 12.9%, on a day when volume was more than double its usual. On October 28 it reported sales up 61%, so this is another example of a stock falling after good news. We could not confirm the reason for the drop. Its price is now only 39% of the way up its 52 week range."
  },
  {
   "kind": "alert",
-  "title": "Lockheed Martin fell 7%",
-  "text": "Lockheed Martin, a defense company, closed at $594.57, down 7.0%. It is usually a calmer stock, with a beta of only 0.1. Beta measures how much a stock tends to swing compared with the whole market. We could not confirm why it fell today, so no cause is given here. Even steady companies can have sharp days."
+  "title": "Lockheed Martin dropped almost 7%",
+  "text": "Lockheed Martin is a defense company that usually moves slowly (its beta is only 0.1, which means it rarely follows the market). It closed at $595.04, down 6.9%, with trading volume more than double normal. We could not find a verified reason, so none is given here. Even calm companies can have rough days."
  },
  {
   "kind": "alert",
-  "title": "Government bond rates are at a 12 month high",
-  "text": "The 10 year Treasury yield is the interest rate the U.S. government pays to borrow for ten years. Its monthly average rose to 5.13% in October, up from 4.06% a year earlier. When safe bonds pay more, some investors may prefer them over stocks, so this number is worth watching."
+  "title": "The 10 year Treasury yield is still high",
+  "text": "The 10 year Treasury yield is the interest rate the US government pays to borrow money for ten years. Its monthly average was 5.13% in October, up from 4.06% a year earlier. When safe bonds pay more, some investors may choose them over stocks, so this number is worth watching."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 37: Why can a stock fall on good news?",
-  "text": "A stock price is not only about how a company did. It is also about what people expected. Imagine you hoped for an A on a test and got a B plus. The grade is good, but you feel let down. Investors feel the same way. If a company reports strong results but investors hoped for even more, the price can drop. The reverse can happen too: a company with weak results can rise if people feared something worse. This is why smart investors ask two questions: how did the company do, and how did that compare with what everyone expected?"
+  "title": "Lesson 38: What is dividend yield?",
+  "text": "Dividend yield tells you how much a company pays in dividends each year compared with its stock price. If a stock costs $100 and pays $2 a year, the yield is 2%. Today TSMC's yield is about 1.1%, Microsoft's is about 0.65%, and NVIDIA's is about 0.26%, so they pay little. SCHD, the fund built from steady dividend payers, holds companies that pay more. Here is the catch: the yield changes when the price changes. If a stock falls and the dividend stays the same, the yield goes up, but that is not a gift, because you just lost value in the price. A high yield can also be a warning sign that people doubt the company can keep paying. Yield is one clue, never the whole story."
  },
  {
   "kind": "coverage",

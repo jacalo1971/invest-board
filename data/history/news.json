@@ -1131,5 +1131,29 @@
   "why": "A bond yield is the interest you earn for lending money to the government. When it rises, safe bonds look better and stocks, especially expensive ones, can lose some appeal.",
   "source": "Alpha Vantage (Treasury yield data)",
   "url": "https://www.alphavantage.co/documentation/#treasury-yield"
+ },
+ {
+  "date": "2026-11-04",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Stocks rally broadly after the US midterm elections",
+  "summary": "US stocks rose sharply on Wednesday, with Microsoft and Amazon each up about 6% and the Nasdaq leading. Several market reports tie the move to relief now that the election result is known, though sources disagree on the exact index numbers.",
+  "why": "Markets do not like surprises. When a big unknown gets settled, investors often buy. But rallies fueled by relief can fade fast, so one good day does not tell you what comes next.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html"
+ },
+ {
+  "date": "2026-11-04",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "The Treasury announces how much it plans to borrow",
+  "summary": "The US Treasury published its borrowing plan on Wednesday. The amount of government borrowing can affect how much interest the government has to offer on its bonds.",
+  "why": "If the government sells more bonds, it may have to pay higher interest to attract buyers. Higher bond rates can make stocks look less attractive by comparison.",
+  "source": "US Treasury",
+  "url": "https://home.treasury.gov/news/press-releases/sb0590"
  }
 ]
