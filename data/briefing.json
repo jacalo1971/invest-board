@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Yesterday was one of the worst days in over a year. The S&P 500 fund SPY fell 4.4% to $733.00, and the Nasdaq 100 fund QQQ fell 6.5%. All 17 names on the list closed lower. The big event today is the October jobs report at 8:30 a.m. New York time, which shows how many people were hired last month. Watch whether prices keep falling, steady out, or bounce when trading opens at 9:30. Nobody can know which one in advance."
+  "title": "What happened by the close",
+  "text": "After yesterday's big drop, stocks bounced today. The S&P 500 fund SPY rose 0.3% to $735.35, and the Nasdaq 100 fund QQQ rose 1.4% to $656.10. 11 of the 17 names on the list closed higher and 6 closed lower. A bounce after a sharp fall is common, but it does not tell us what happens next. Next week, watch whether prices hold these gains or give them back."
  },
  {
   "kind": "alert",
-  "title": "AI chip and equipment makers fell the most",
-  "text": "The four big AI companies (Alphabet, Amazon, Microsoft, Meta) fell about 3% on average. The five companies that sell parts and equipment for AI (NVIDIA, Broadcom, TSMC, Vertiv, AMD) fell about 12% on average. AMD dropped 17.3% and Vertiv 14.0%. Companies that sell the parts tend to swing more than the companies that use them."
+  "title": "AI parts makers bounced the most",
+  "text": "The five companies that sell parts and equipment for AI (NVIDIA, Broadcom, TSMC, Vertiv, AMD) rose about 4.9% on average. AMD jumped 11.0% and TSMC 6.3%. The four big AI companies (Alphabet, Amazon, Microsoft, Meta) were almost flat, up 0.1% on average. Even after the jump, AMD is still about 32% below its 52 week high, so one good day does not erase a big drop."
  },
  {
   "kind": "alert",
-  "title": "Rates may stay high",
-  "text": "The Fed held rates steady on October 28, but two members voted to raise them. The 10 year Treasury yield averaged 5.13% in October, up from about 4.06% a year earlier. The 10 year Treasury yield is what the government pays to borrow for 10 years. When it is high, safe bonds look better and fast growing tech stocks can look less attractive."
+  "title": "Jobs report beat expectations",
+  "text": "The government said employers added 165,000 jobs in October, and the unemployment rate was 4.1%. Analysts had expected fewer new jobs. A strong job market is good news for workers, but it can also make the Fed less willing to lower interest rates. That is why stocks can react in surprising ways to a strong report."
  },
  {
   "kind": "alert",
-  "title": "Analyst targets sit far above prices",
-  "text": "A price target is where an analyst guesses a stock could trade in about a year. The average target for NVIDIA is $339.17 against a $181.60 close, and for AMD it is $645.82 against $404.40. Careful: targets update slowly, so many were set before the drop. A big gap is a clue to study, never a promise."
+  "title": "Rates are still the big worry",
+  "text": "The 10 year Treasury yield averaged 5.13% in October, up from about 4.06% a year earlier. This yield is what the government pays to borrow money for 10 years. When it is high, safe bonds look more attractive, and fast growing tech stocks can look less attractive."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 40: What is the jobs report?",
-  "text": "Once a month, the US government counts how many people got new jobs. That count is the jobs report. It also shows the unemployment rate, which is the share of people who want a job but do not have one. Why does a stock market care? A strong report means the economy is running hot, which can push the Fed to keep interest rates high. A weak report can worry people about companies earning less. Sometimes good news for workers makes stocks fall, because investors fear higher rates. The takeaway: the market often reacts to what the report means for interest rates, not only to the number itself."
+  "title": "Lesson 41: What is a relief rally?",
+  "text": "A relief rally is a quick jump in prices after a big fall, when people feel a little less scared. Today is a good example. After a very rough day yesterday, many stocks bounced, and the Nasdaq 100 fund QQQ rose 1.4%. Here is the catch. A bounce is not the same as a recovery. A stock that falls 20% needs to rise 25% just to get back to where it started. Sometimes prices keep falling after a bounce, and sometimes they keep rising. Nobody knows in advance. That is why many investors stick to a plan made on calm days instead of reacting to each big up or down day."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices come from the November 5 market close. Analyst targets and ratios are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE only. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have price data but no targets or ratios. News reasons come from reports we could not all verify. This is information to learn from, not advice to buy or sell."
+  "text": "Prices are from today's close, November 6, 2026. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News is from public sources and is for learning only. This is not financial advice."
  }
 ]

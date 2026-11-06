@@ -5,11 +5,11 @@
    "ALL"
   ],
   "effect": "watch",
-  "title": "October jobs report lands this morning",
-  "summary": "The government releases its monthly jobs report at 8:30 a.m. New York time today. Economists surveyed by CNBC expected only about 59,000 new jobs, a small number. Traders are also watching to see how the numbers shape the Fed's next move.",
-  "why": "The jobs report shows how many people got hired last month. The Fed uses it to decide whether to raise, hold or lower interest rates. Rates matter because they change how much big, fast growing companies are worth to investors, so a surprise in either direction can move the whole market.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+  "title": "US employers added 165,000 jobs in October; unemployment at 4.1%",
+  "summary": "The government's monthly jobs count came in stronger than many analysts expected. Unemployment stayed low at 4.1%. The report was the big event for markets on Friday.",
+  "why": "When more people have jobs, the economy looks healthy, which is good. But it can also mean the Fed keeps interest rates high for longer, and high rates tend to weigh on growth stocks. That is why a strong report can make the market nervous.",
+  "source": "U.S. Bureau of Labor Statistics",
+  "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
  },
  {
   "date": "2026-10-28",
