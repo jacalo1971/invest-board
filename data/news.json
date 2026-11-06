@@ -1,43 +1,42 @@
 [
  {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "tickers": [
    "ALL"
   ],
-  "effect": "bad",
-  "title": "S&P 500 drops 4.4% in its worst day since April 2025",
-  "summary": "A sharp sell-off in AI stocks pulled the whole US market down on Thursday. The S&P 500 fell 4.4%, its biggest one day drop since the tariff shock of April 2025, just a day after Wednesday's rally.",
-  "why": "The S&P 500 is a list of 500 big US companies, so when it falls this much, almost every stock and most index funds fall too. Big drops like this feel scary, but they happen from time to time, and what matters is your time horizon.",
-  "source": "AP (via Local 10)",
-  "url": "https://www.local10.com/news/2026/11/05/a-sell-off-for-ai-stocks-sends-the-sp-500-down-more-than-4-to-its-worst-day-since-trumps-tariff-announcements-in-2025/"
+  "effect": "watch",
+  "title": "October jobs report lands this morning",
+  "summary": "The government releases its monthly jobs report at 8:30 a.m. New York time today. Economists surveyed by CNBC expected only about 59,000 new jobs, a small number. Traders are also watching to see how the numbers shape the Fed's next move.",
+  "why": "The jobs report shows how many people got hired last month. The Fed uses it to decide whether to raise, hold or lower interest rates. Rates matter because they change how much big, fast growing companies are worth to investors, so a surprise in either direction can move the whole market.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+ },
+ {
+  "date": "2026-10-28",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Fed keeps rates steady, but two officials wanted a hike",
+  "summary": "The Federal Reserve left its main interest rate at 3.75% to 4% on October 28. The vote was 10 to 2. Two members would have raised it by a quarter of a point, and the Fed said inflation is still elevated.",
+  "why": "The Fed is the group that sets the cost of borrowing money in the US. When some members want higher rates, it hints that rates could go up instead of down. Higher rates make safe bonds more attractive and can make stocks, especially expensive tech stocks, look less appealing.",
+  "source": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
  },
  {
   "date": "2026-11-05",
   "tickers": [
    "NVDA",
+   "AMD",
    "AVGO",
    "TSM",
-   "AMD",
-   "VRT",
-   "QQQ"
+   "VRT"
   ],
   "effect": "bad",
-  "title": "Dow plunges about 1,800 points as Nasdaq enters a correction",
-  "summary": "Yahoo Finance's live market coverage describes an AI trade meltdown on Thursday. The Dow lost roughly 1,800 points and the tech heavy Nasdaq fell into what traders call a correction.",
-  "why": "A correction means a market index has dropped at least 10% from its recent high. It is a normal, if uncomfortable, part of investing, and the stocks that rose the most before often fall the most.",
-  "source": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
- },
- {
-  "date": "2026-11-05",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "CNN ties the AI sell-off to the US midterm election results",
-  "summary": "CNN reports that the midterm election results sent the AI trade into a tailspin, even though stocks had rallied the day before. Other outlets also point to worries about how much companies are spending on AI.",
-  "why": "News can move prices in surprising ways, and the first explanation is not always the whole story. Reporters and analysts often disagree, so treat any single reason with care.",
-  "source": "CNN",
-  "url": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges"
+  "title": "Nasdaq falls 5.5% as AI chip stocks lead the drop",
+  "summary": "The Nasdaq, an index full of tech companies, dropped 5.5% on Thursday and moved into what traders call correction territory. Chip makers were hit hardest. Market writers linked the fall to worries about AI rules and spending after the midterm elections.",
+  "why": "A correction means prices have fallen about 10% or more from a recent high. Chip companies sell the parts that power AI, so when investors worry about AI, these stocks often move more than the rest of the market. It is also why owning many different kinds of companies can soften the bumps.",
+  "source": "Chartmill",
+  "url": "https://www.chartmill.com/news/COP/Chartmill-58193-stock-market-today-nasdaq-crash-ai-chip-selloff-midterms-amd-micron-airbnb-2026-11-05"
  }
 ]

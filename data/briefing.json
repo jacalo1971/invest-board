@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What the day looked like at the close",
-  "text": "Today was a very rough day. The S&P 500 fund SPY fell 4.4% to $733.11, and the Nasdaq 100 fund QQQ fell 6.5%. All 17 names on the list went down. The steadiest were the dividend fund SCHD (down 2.2%), Alphabet (down 2.2%) and Amazon (down 2.2%). The hardest hit were AMD (down 17.3%), Vertiv (down 14.1%) and Rocket Lab (down 12.2%). Big one day drops like this are rare, but they do happen. Tomorrow, watch whether prices keep falling, steady out, or bounce. Nobody can know which one in advance."
+  "title": "What to watch at the open",
+  "text": "Yesterday was one of the worst days in over a year. The S&P 500 fund SPY fell 4.4% to $733.00, and the Nasdaq 100 fund QQQ fell 6.5%. All 17 names on the list closed lower. The big event today is the October jobs report at 8:30 a.m. New York time, which shows how many people were hired last month. Watch whether prices keep falling, steady out, or bounce when trading opens at 9:30. Nobody can know which one in advance."
  },
  {
   "kind": "alert",
-  "title": "Chip and equipment makers fell much more than the big AI companies",
-  "text": "The four big AI companies (Alphabet, Amazon, Microsoft, Meta) fell about 3% on average today. The five companies that sell parts and equipment for AI (NVIDIA, Broadcom, TSMC, Vertiv, AMD) fell about 12% on average. Broadcom now sits just 0.5% above its 52 week low. The 52 week range is the lowest and highest price in the past year. News reports say worries about AI spending drove the sell-off, but the exact reasons are still being sorted out."
+  "title": "AI chip and equipment makers fell the most",
+  "text": "The four big AI companies (Alphabet, Amazon, Microsoft, Meta) fell about 3% on average. The five companies that sell parts and equipment for AI (NVIDIA, Broadcom, TSMC, Vertiv, AMD) fell about 12% on average. AMD dropped 17.3% and Vertiv 14.0%. Companies that sell the parts tend to swing more than the companies that use them."
  },
  {
   "kind": "alert",
-  "title": "Analyst targets are far above today's prices",
-  "text": "A price target is where an analyst guesses a stock could be in about a year. The average target for NVIDIA is $339.17, but it closed at $181.60. For AMD it is $645.82 against $404.40. Be careful: targets are updated slowly, so many were set before today's drop. A big gap can mean a bargain, or it can mean the targets are out of date. It is a clue, never a promise."
+  "title": "Rates may stay high",
+  "text": "The Fed held rates steady on October 28, but two members voted to raise them. The 10 year Treasury yield averaged 5.13% in October, up from about 4.06% a year earlier. The 10 year Treasury yield is what the government pays to borrow for 10 years. When it is high, safe bonds look better and fast growing tech stocks can look less attractive."
  },
  {
   "kind": "alert",
-  "title": "Interest rates are still the highest in a year",
-  "text": "The average 10 year Treasury yield was 5.13% in October. A year earlier it was about 4.06%. The 10 year Treasury yield is what the US government pays to borrow money for 10 years. When it is high, safe bonds look more attractive, and fast growing tech stocks can look less attractive. Watch whether it keeps climbing."
+  "title": "Analyst targets sit far above prices",
+  "text": "A price target is where an analyst guesses a stock could trade in about a year. The average target for NVIDIA is $339.17 against a $181.60 close, and for AMD it is $645.82 against $404.40. Careful: targets update slowly, so many were set before the drop. A big gap is a clue to study, never a promise."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 39: What is panic selling?",
-  "text": "Panic selling is when people rush to sell because prices are falling and they are scared, not because they have a plan. Here is the problem. If you sell after a big drop, you turn a temporary paper loss into a real one. Also, nobody can predict the exact bottom. Look at history: stocks have fallen sharply many times, like in April 2025, and then later recovered, though that is never guaranteed. Before investing, ask yourself two things. How long can I leave this money alone? How would I feel if it fell 20% in a week? If the honest answer is 'I would hate it', that is useful to know, and a mix of steadier investments might fit better. Planning for bad days in advance is much easier than deciding during one."
+  "title": "Lesson 40: What is the jobs report?",
+  "text": "Once a month, the US government counts how many people got new jobs. That count is the jobs report. It also shows the unemployment rate, which is the share of people who want a job but do not have one. Why does a stock market care? A strong report means the economy is running hot, which can push the Fed to keep interest rates high. A weak report can worry people about companies earning less. Sometimes good news for workers makes stocks fall, because investors fear higher rates. The takeaway: the market often reacts to what the report means for interest rates, not only to the number itself."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices come from the market close on November 5. Analyst targets and ratios are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE only. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have price data but no analyst targets or ratios. The reasons for today's moves come from news reports and could not all be checked. This is information to learn from, not advice to buy or sell."
+  "text": "Prices come from the November 5 market close. Analyst targets and ratios are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE only. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have price data but no targets or ratios. News reasons come from reports we could not all verify. This is information to learn from, not advice to buy or sell."
  }
 ]
