@@ -1288,5 +1288,55 @@
   "why": "When the government pays more interest on its bonds, stocks have to look better to compete. Fast growing tech companies are hit the most, because their profits are expected far in the future and high rates make future money worth less today.",
   "source": "TheStreet",
   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
+ },
+ {
+  "date": "2026-11-09",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Wall Street rebounds from last week's slump",
+  "summary": "Stocks rose sharply on Monday, with the Dow up roughly 1,100 points and the Nasdaq up about 3%. The rally followed a hard drop after the midterm elections. Tech shares led the rebound.",
+  "why": "After a big fall, stocks often bounce as investors calm down. A bounce is not proof that the worst is over, so beginners should look at the bigger trend, not one day.",
+  "source": "Reuters",
+  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
+ },
+ {
+  "date": "2026-11-09",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Oil prices slide, easing inflation worries",
+  "summary": "Oil fell after the U.S. president said on Sunday that fresh attacks on Iran were highly unlikely. Cheaper oil can mean lower costs for companies and families.",
+  "why": "When oil gets cheaper, prices for many things can rise more slowly. That makes it easier for interest rates to stay lower, which is good news for stocks.",
+  "source": "Reuters",
+  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
+ },
+ {
+  "date": "2026-11-09",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA falls while other chip makers jump",
+  "summary": "NVIDIA shares dropped on reports about its chief executive, while rivals like AMD and Broadcom rose more than 7%. NVIDIA was the only one of the big seven tech companies to lose ground.",
+  "why": "News about one company can push its stock down even on a day when the whole market rises. This is why owning many different companies is safer than betting on one.",
+  "source": "Reuters",
+  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
+ },
+ {
+  "date": "2026-11-09",
+  "tickers": [
+   "AMD",
+   "AVGO",
+   "VRT"
+  ],
+  "effect": "watch",
+  "title": "AI chip suppliers bounce hard",
+  "summary": "AMD, Broadcom and Vertiv posted some of the biggest gains on our list. They had fallen sharply in recent days, so part of the move may be investors buying back in.",
+  "why": "Stocks that rise 10% in a day can fall 10% just as fast. A big jump is exciting, but it also shows how risky these companies can be.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
  }
 ]

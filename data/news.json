@@ -1,42 +1,52 @@
 [
  {
-  "date": "2026-11-06",
+  "date": "2026-11-09",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Wall Street rebounds from last week's slump",
+  "summary": "Stocks rose sharply on Monday, with the Dow up roughly 1,100 points and the Nasdaq up about 3%. The rally followed a hard drop after the midterm elections. Tech shares led the rebound.",
+  "why": "After a big fall, stocks often bounce as investors calm down. A bounce is not proof that the worst is over, so beginners should look at the bigger trend, not one day.",
+  "source": "Reuters",
+  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
+ },
+ {
+  "date": "2026-11-09",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Oil prices slide, easing inflation worries",
+  "summary": "Oil fell after the U.S. president said on Sunday that fresh attacks on Iran were highly unlikely. Cheaper oil can mean lower costs for companies and families.",
+  "why": "When oil gets cheaper, prices for many things can rise more slowly. That makes it easier for interest rates to stay lower, which is good news for stocks.",
+  "source": "Reuters",
+  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
+ },
+ {
+  "date": "2026-11-09",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA falls while other chip makers jump",
+  "summary": "NVIDIA shares dropped on reports about its chief executive, while rivals like AMD and Broadcom rose more than 7%. NVIDIA was the only one of the big seven tech companies to lose ground.",
+  "why": "News about one company can push its stock down even on a day when the whole market rises. This is why owning many different companies is safer than betting on one.",
+  "source": "Reuters",
+  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
+ },
+ {
+  "date": "2026-11-09",
   "tickers": [
    "AMD",
-   "NVDA",
-   "TSM",
    "AVGO",
    "VRT"
   ],
   "effect": "watch",
-  "title": "Chip stocks bounce back after a hard fall",
-  "summary": "Shares of chip companies rose on Friday after a sharp drop the day before. AMD gained about 11%. Reports said the bounce won back part of the earlier losses, but analysts warned that prices could keep swinging.",
-  "why": "When a group of stocks falls fast and then jumps, it is often investors catching their breath, not a sign of what comes next. For a beginner, the lesson is that big one day moves in both directions are normal for chip stocks, so check how far a stock still is from its high before getting excited.",
+  "title": "AI chip suppliers bounce hard",
+  "summary": "AMD, Broadcom and Vertiv posted some of the biggest gains on our list. They had fallen sharply in recent days, so part of the move may be investors buying back in.",
+  "why": "Stocks that rise 10% in a day can fall 10% just as fast. A big jump is exciting, but it also shows how risky these companies can be.",
   "source": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html"
- },
- {
-  "date": "2026-11-06",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "US stocks rise on Friday but the week still ends lower",
-  "summary": "The S&P 500 gained about 0.3% and the Nasdaq about 1.1% on Friday, a partial recovery from the day before. The Dow slipped slightly. Reports said worries about tighter rules for the AI industry had hit stocks earlier in the week.",
-  "why": "The S&P 500 is a basket of 500 big US companies, so it shows the mood of the whole market. A small gain after a big drop means the market is still nervous. It helps to look at a whole week, not just one day.",
-  "source": "TheStreet",
-  "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
- },
- {
-  "date": "2026-11-06",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "bad",
-  "title": "Strong jobs report pushes Treasury yields higher",
-  "summary": "Reports said October's job gains were stronger than expected, and that this lifted Treasury yields and the odds that interest rates stay high or rise. Higher yields give investors a safe alternative to stocks.",
-  "why": "When the government pays more interest on its bonds, stocks have to look better to compete. Fast growing tech companies are hit the most, because their profits are expected far in the future and high rates make future money worth less today.",
-  "source": "TheStreet",
-  "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
  }
 ]

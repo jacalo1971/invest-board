@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Stocks ended Friday with a partial bounce. The S&P 500 fund SPY rose 0.3% to $735.29, and the Nasdaq 100 fund QQQ rose 1.4% to $656.10. This morning, watch whether the chip makers keep their gains or give some back. A big bounce after a sharp fall does not mean the fall is over. Also watch the 10 year Treasury yield, because high rates have been the main worry for tech stocks."
+  "title": "How the day ended",
+  "text": "Stocks jumped today. The S&P 500 fund SPY rose 2.4% to $752.64, and the Nasdaq 100 fund QQQ rose 3.5% to $679.35. Almost every company on our list went up. The big exception was NVIDIA, which fell 4.3%. Reports said lower oil prices helped the mood. Tomorrow, watch whether the chip makers keep their gains. One strong day after a hard drop does not tell us what comes next."
  },
  {
   "kind": "alert",
-  "title": "Chip stocks bounced, but they are still far from their highs",
-  "text": "The five companies that sell parts and equipment for AI (NVIDIA, Broadcom, TSMC, Vertiv, AMD) rose about 4.9% on average on Friday. AMD jumped 11.0% and TSMC 6.3%. The four big AI companies (Alphabet, Amazon, Microsoft, Meta) were almost flat, up 0.1% on average. Even after the jump, AMD is still about 32% below its 52 week high, and Broadcom is about 41% below its high, close to its 52 week low. One good day does not erase a big drop."
+  "title": "Nearly everything rose, but NVIDIA fell",
+  "text": "NVIDIA dropped 4.3% to $178.67 while the other four AI supplier companies rose. AMD gained 13.3%, Vertiv 10.8%, Broadcom 8.8% and TSMC 3.5%. On average the five AI suppliers rose 6.4%. The four big AI companies (Alphabet, Amazon, Microsoft, Meta) rose 3.0% on average, and Meta led them with 5.1%. News reports linked NVIDIA's drop to stories about its CEO. NVIDIA is still about 27% below its 52 week high."
  },
  {
   "kind": "alert",
-  "title": "Small, risky companies swing the most",
-  "text": "Rocket Lab jumped 15.4% on Friday, the biggest move on our list, while Intuitive Surgical fell 3.4%. Rocket Lab has a beta of 2.6, which means it tends to move about two and a half times as much as the market. That is why its risk score is the highest on the list (10 out of 10). Big swings can feel exciting when prices go up, but they work the same way on the way down."
+  "title": "The wildest movers of the day",
+  "text": "Rocket Lab rose 10.9% and Vertiv rose 10.8%. AMD's 13.3% jump was the biggest on the list. These companies have high betas (2.1 to 2.6), so they move much more than the market, up or down. Their risk scores are 7.8 to 10 out of 10. AMD also has a P/E of about 109, which means investors pay $109 for each $1 of yearly profit. That price already expects a lot of growth."
  },
  {
   "kind": "alert",
-  "title": "Rates are still the big worry",
-  "text": "The 10 year Treasury yield averaged 5.13% in October, up from about 4.06% a year earlier. This yield is what the government pays to borrow money for 10 years. When it is high, safe bonds look more attractive, and fast growing tech stocks can look less attractive. News reports said Friday's strong jobs report pushed yields higher."
+  "title": "Rates are still the quiet worry",
+  "text": "Today felt calm, but the 10 year Treasury yield averaged 5.13% in October, the highest in the last 12 months. High rates make safe bonds more attractive and can pull money away from stocks, especially fast growing tech. Utilities (up 3.6%) and industrial companies (up 3.2%) led the sectors today, while financial companies were flat."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 42: Growth stocks and value stocks",
-  "text": "People often sort stocks into two groups. A growth stock is a company expected to grow fast, so investors pay a high price for it today. They hope the business keeps getting bigger. A value stock looks cheap compared with what the company earns, and it often pays a dividend. Look at our list. AMD has a P/E of about 96, which means investors pay $96 for each $1 of yearly profit. That is a bet on fast growth. Alphabet has a P/E of about 15, which looks more like a value price. Growth stocks can rise a lot, but they usually swing more and can fall harder when interest rates are high. Neither type is better. Many investors own a mix."
+  "title": "Lesson 43: What is correlation?",
+  "text": "Correlation means how much two things move together. Today is a good example. Almost every stock on our list went up at the same time, because the whole market felt better. When stocks move together, we say they are highly correlated. This matters for safety. If you own five stocks that all rise and fall together, you are not really spread out. Owning different kinds of things, like a dividend fund, a health company and a tech company, can help because they do not always move the same way. Notice that NVIDIA fell today while its rivals rose. Stocks can also go their own way when there is news about one company."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices are from Friday's close, November 6, 2026, because the market has not opened yet today. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News is from public sources and is for learning only. This is not financial advice."
+  "text": "Prices are from today's close, November 9, 2026. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News is from public sources and is for learning only. This is not financial advice."
  }
 ]

@@ -208,5 +208,10 @@
   "date": "2026-11-09",
   "title": "Lesson 42: Growth stocks and value stocks",
   "text": "People often sort stocks into two groups. A growth stock is a company expected to grow fast, so investors pay a high price for it today. They hope the business keeps getting bigger. A value stock looks cheap compared with what the company earns, and it often pays a dividend. Look at our list. AMD has a P/E of about 96, which means investors pay $96 for each $1 of yearly profit. That is a bet on fast growth. Alphabet has a P/E of about 15, which looks more like a value price. Growth stocks can rise a lot, but they usually swing more and can fall harder when interest rates are high. Neither type is better. Many investors own a mix."
+ },
+ {
+  "date": "2026-11-09",
+  "title": "Lesson 43: What is correlation?",
+  "text": "Correlation means how much two things move together. Today is a good example. Almost every stock on our list went up at the same time, because the whole market felt better. When stocks move together, we say they are highly correlated. This matters for safety. If you own five stocks that all rise and fall together, you are not really spread out. Owning different kinds of things, like a dividend fund, a health company and a tech company, can help because they do not always move the same way. Notice that NVIDIA fell today while its rivals rose. Stocks can also go their own way when there is news about one company."
  }
 ]
