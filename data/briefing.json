@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What happened by the close",
-  "text": "After yesterday's big drop, stocks bounced today. The S&P 500 fund SPY rose 0.3% to $735.35, and the Nasdaq 100 fund QQQ rose 1.4% to $656.10. 11 of the 17 names on the list closed higher and 6 closed lower. A bounce after a sharp fall is common, but it does not tell us what happens next. Next week, watch whether prices hold these gains or give them back."
+  "title": "What to watch at the open",
+  "text": "Stocks ended Friday with a partial bounce. The S&P 500 fund SPY rose 0.3% to $735.29, and the Nasdaq 100 fund QQQ rose 1.4% to $656.10. This morning, watch whether the chip makers keep their gains or give some back. A big bounce after a sharp fall does not mean the fall is over. Also watch the 10 year Treasury yield, because high rates have been the main worry for tech stocks."
  },
  {
   "kind": "alert",
-  "title": "AI parts makers bounced the most",
-  "text": "The five companies that sell parts and equipment for AI (NVIDIA, Broadcom, TSMC, Vertiv, AMD) rose about 4.9% on average. AMD jumped 11.0% and TSMC 6.3%. The four big AI companies (Alphabet, Amazon, Microsoft, Meta) were almost flat, up 0.1% on average. Even after the jump, AMD is still about 32% below its 52 week high, so one good day does not erase a big drop."
+  "title": "Chip stocks bounced, but they are still far from their highs",
+  "text": "The five companies that sell parts and equipment for AI (NVIDIA, Broadcom, TSMC, Vertiv, AMD) rose about 4.9% on average on Friday. AMD jumped 11.0% and TSMC 6.3%. The four big AI companies (Alphabet, Amazon, Microsoft, Meta) were almost flat, up 0.1% on average. Even after the jump, AMD is still about 32% below its 52 week high, and Broadcom is about 41% below its high, close to its 52 week low. One good day does not erase a big drop."
  },
  {
   "kind": "alert",
-  "title": "Jobs report beat expectations",
-  "text": "The government said employers added 165,000 jobs in October, and the unemployment rate was 4.1%. Analysts had expected fewer new jobs. A strong job market is good news for workers, but it can also make the Fed less willing to lower interest rates. That is why stocks can react in surprising ways to a strong report."
+  "title": "Small, risky companies swing the most",
+  "text": "Rocket Lab jumped 15.4% on Friday, the biggest move on our list, while Intuitive Surgical fell 3.4%. Rocket Lab has a beta of 2.6, which means it tends to move about two and a half times as much as the market. That is why its risk score is the highest on the list (10 out of 10). Big swings can feel exciting when prices go up, but they work the same way on the way down."
  },
  {
   "kind": "alert",
   "title": "Rates are still the big worry",
-  "text": "The 10 year Treasury yield averaged 5.13% in October, up from about 4.06% a year earlier. This yield is what the government pays to borrow money for 10 years. When it is high, safe bonds look more attractive, and fast growing tech stocks can look less attractive."
+  "text": "The 10 year Treasury yield averaged 5.13% in October, up from about 4.06% a year earlier. This yield is what the government pays to borrow money for 10 years. When it is high, safe bonds look more attractive, and fast growing tech stocks can look less attractive. News reports said Friday's strong jobs report pushed yields higher."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 41: What is a relief rally?",
-  "text": "A relief rally is a quick jump in prices after a big fall, when people feel a little less scared. Today is a good example. After a very rough day yesterday, many stocks bounced, and the Nasdaq 100 fund QQQ rose 1.4%. Here is the catch. A bounce is not the same as a recovery. A stock that falls 20% needs to rise 25% just to get back to where it started. Sometimes prices keep falling after a bounce, and sometimes they keep rising. Nobody knows in advance. That is why many investors stick to a plan made on calm days instead of reacting to each big up or down day."
+  "title": "Lesson 42: Growth stocks and value stocks",
+  "text": "People often sort stocks into two groups. A growth stock is a company expected to grow fast, so investors pay a high price for it today. They hope the business keeps getting bigger. A value stock looks cheap compared with what the company earns, and it often pays a dividend. Look at our list. AMD has a P/E of about 96, which means investors pay $96 for each $1 of yearly profit. That is a bet on fast growth. Alphabet has a P/E of about 15, which looks more like a value price. Growth stocks can rise a lot, but they usually swing more and can fall harder when interest rates are high. Neither type is better. Many investors own a mix."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices are from today's close, November 6, 2026. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News is from public sources and is for learning only. This is not financial advice."
+  "text": "Prices are from Friday's close, November 6, 2026, because the market has not opened yet today. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News is from public sources and is for learning only. This is not financial advice."
  }
 ]
