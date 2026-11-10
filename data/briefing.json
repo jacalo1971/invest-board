@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "The market is closed right now, so prices below are still from Monday's close. Stocks jumped on Monday: SPY rose 2.4% and QQQ rose 3.5%. Today, watch two things. First, a government inflation report on consumer prices comes out at 8:30 a.m. Eastern, before the market opens. Second, see whether the chip makers that bounced hard on Monday can hold their gains. One big up day does not tell us what comes next."
+  "title": "How the day closed",
+  "text": "Stocks slipped on Tuesday. SPY fell 0.4% and QQQ fell 0.7%. The big story was an inflation report that came in hotter than expected, plus a second rough day for NVIDIA. Not everything went down, though. Industrial companies had the best day of any sector, and Broadcom, TSMC, Lockheed Martin and Rocket Lab all closed higher. A mixed day like this is a good reminder that one headline rarely moves every stock the same way."
  },
  {
   "kind": "alert",
-  "title": "Inflation report lands before the open",
-  "text": "Inflation means prices for everyday things are rising. The government releases a report on it today at 8:30 a.m. Eastern. If prices rose more than people expected, interest rates may stay high, and that can hurt fast growing tech companies. If prices rose less than expected, stocks may like it. The 10 year Treasury yield averaged 5.13% in October, the highest in the last 12 months, so this report matters."
+  "title": "Prices rose faster than expected in October",
+  "text": "The government said consumer prices rose 0.4% in October, a bit more than the 0.3% that experts had guessed. News reports say this makes it more likely that the Federal Reserve raises interest rates in December. Higher rates make borrowing cost more, and that can weigh on fast growing tech stocks. The 10 year Treasury yield averaged 5.13% in October, the highest level in the last 12 months."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA reports its results on November 17",
-  "text": "NVIDIA fell 4.3% on Monday to $178.67 while the other four AI supplier companies rose. It is still about 27% below its 52 week high of $243.37. The company says it will share its quarterly results on November 17 after the market closes. Earnings days can move a stock a lot in either direction, so it is a date worth marking."
+  "title": "NVIDIA falls for a second day",
+  "text": "NVIDIA dropped 5.5% to about $168.80. It is now 31% below its 52 week high and only about 3% above its 52 week low of $164.27. The drop came after news reports raised questions about the CEO, and the company's board started its own review. NVIDIA still reports its quarterly results on November 17, so more big moves are possible."
  },
  {
   "kind": "alert",
-  "title": "Big bounces can reverse fast",
-  "text": "AMD rose 13.3%, Vertiv rose 9.6% and Broadcom rose 8.8% on Monday, and Rocket Lab rose 10.9%. These companies have high betas (1.5 to 2.6), which means they swing much more than the market. Their risk scores run from 5.8 to 10 out of 10. After a jump like this, a pullback is just as possible as more gains."
+  "title": "Rocket Lab climbs after record sales",
+  "text": "Rocket Lab rose 6.5% to $62.71 after it reported record quarterly sales of $268 million, up 73% from a year ago. Remember that Rocket Lab has the highest risk score on our list, 10 out of 10. It is still about 58% below its 52 week high, which shows how far and how fast this kind of stock can swing."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 44: What is an earnings report?",
-  "text": "Four times a year, public companies share a report card called an earnings report. It tells us how much they sold, how much profit they made, and what they expect next. Investors do not only look at whether the numbers were good. They compare them to what experts guessed beforehand. A company can make record profits and still see its stock drop if people hoped for even more. That is why prices can jump or fall fast on earnings day. NVIDIA's report on November 17 is a good example to follow along with."
+  "title": "Lesson 45: What is key person risk?",
+  "text": "Some companies depend a lot on one leader, often the founder or CEO. Key person risk is the chance that something happening to that one person hurts the whole company. It could be health, a scandal, or the person leaving. When investors worry about a leader, the stock can fall even if the company's products and sales have not changed at all. That is what we saw with NVIDIA this week. Good companies try to lower this risk by building a strong team and a clear plan for who would take over. It is one more reason why owning many companies, not just one, can help."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices are from the last close, Monday, November 9, 2026. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News is from public sources and is for learning only. This is not financial advice."
+  "text": "Prices are from the close on Tuesday, November 10, 2026. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News comes from public sources and is for learning only. This is not financial advice."
  }
 ]
