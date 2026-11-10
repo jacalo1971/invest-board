@@ -213,5 +213,10 @@
   "date": "2026-11-09",
   "title": "Lesson 43: What is correlation?",
   "text": "Correlation means how much two things move together. Today is a good example. Almost every stock on our list went up at the same time, because the whole market felt better. When stocks move together, we say they are highly correlated. This matters for safety. If you own five stocks that all rise and fall together, you are not really spread out. Owning different kinds of things, like a dividend fund, a health company and a tech company, can help because they do not always move the same way. Notice that NVIDIA fell today while its rivals rose. Stocks can also go their own way when there is news about one company."
+ },
+ {
+  "date": "2026-11-10",
+  "title": "Lesson 44: What is an earnings report?",
+  "text": "Four times a year, public companies share a report card called an earnings report. It tells us how much they sold, how much profit they made, and what they expect next. Investors do not only look at whether the numbers were good. They compare them to what experts guessed beforehand. A company can make record profits and still see its stock drop if people hoped for even more. That is why prices can jump or fall fast on earnings day. NVIDIA's report on November 17 is a good example to follow along with."
  }
 ]

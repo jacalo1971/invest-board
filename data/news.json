@@ -1,15 +1,27 @@
 [
  {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "tickers": [
    "ALL"
   ],
-  "effect": "good",
-  "title": "Wall Street rebounds from last week's slump",
-  "summary": "Stocks rose sharply on Monday, with the Dow up roughly 1,100 points and the Nasdaq up about 3%. The rally followed a hard drop after the midterm elections. Tech shares led the rebound.",
-  "why": "After a big fall, stocks often bounce as investors calm down. A bounce is not proof that the worst is over, so beginners should look at the bigger trend, not one day.",
-  "source": "Reuters",
-  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
+  "effect": "watch",
+  "title": "Inflation report due before the market opens",
+  "summary": "The government is scheduled to publish its October consumer price report at 8:30 a.m. Eastern today. It shows how fast everyday prices are rising.",
+  "why": "Prices rising fast can push interest rates higher, and higher rates often hurt growth stocks. A calmer number can help stocks. Nobody knows the result until it comes out.",
+  "source": "Finance Calendar",
+  "url": "https://www.financecalendar.com/event/us-cpi-report-november-2026/"
+ },
+ {
+  "date": "2026-11-10",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "NVIDIA sets its earnings call for November 17",
+  "summary": "NVIDIA announced it will report results for the quarter that ended October 25 on Tuesday, November 17. The conference call starts at 5 p.m. Eastern.",
+  "why": "Earnings reports are when a company shows its real sales and profit. Stocks often move a lot that day, so it is a good date to watch if you want to learn how earnings work.",
+  "source": "NVIDIA",
+  "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
  },
  {
   "date": "2026-11-09",
@@ -17,9 +29,9 @@
    "ALL"
   ],
   "effect": "good",
-  "title": "Oil prices slide, easing inflation worries",
-  "summary": "Oil fell after the U.S. president said on Sunday that fresh attacks on Iran were highly unlikely. Cheaper oil can mean lower costs for companies and families.",
-  "why": "When oil gets cheaper, prices for many things can rise more slowly. That makes it easier for interest rates to stay lower, which is good news for stocks.",
+  "title": "Wall Street rebounds from last week's slump",
+  "summary": "US stocks climbed on Monday after a rough stretch the week before. Lower oil prices helped the mood.",
+  "why": "When oil gets cheaper, it can ease worries about inflation. One good day is nice, but it does not prove the slump is over.",
   "source": "Reuters",
   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
  },
@@ -30,23 +42,9 @@
   ],
   "effect": "bad",
   "title": "NVIDIA falls while other chip makers jump",
-  "summary": "NVIDIA shares dropped on reports about its chief executive, while rivals like AMD and Broadcom rose more than 7%. NVIDIA was the only one of the big seven tech companies to lose ground.",
-  "why": "News about one company can push its stock down even on a day when the whole market rises. This is why owning many different companies is safer than betting on one.",
+  "summary": "NVIDIA slid on Monday even as most chip companies rose sharply.",
+  "why": "A company can go its own way when there is news about just that company. It is a reminder that owning one stock is riskier than owning many.",
   "source": "Reuters",
   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46Q0X2:0-stocks-rally-even-as-nvidia-falls-oil-drops/"
- },
- {
-  "date": "2026-11-09",
-  "tickers": [
-   "AMD",
-   "AVGO",
-   "VRT"
-  ],
-  "effect": "watch",
-  "title": "AI chip suppliers bounce hard",
-  "summary": "AMD, Broadcom and Vertiv posted some of the biggest gains on our list. They had fallen sharply in recent days, so part of the move may be investors buying back in.",
-  "why": "Stocks that rise 10% in a day can fall 10% just as fast. A big jump is exciting, but it also shows how risky these companies can be.",
-  "source": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
  }
 ]
