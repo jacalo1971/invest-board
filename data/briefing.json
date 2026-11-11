@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "How the day closed",
-  "text": "Stocks slipped on Tuesday. SPY fell 0.4% and QQQ fell 0.7%. The big story was an inflation report that came in hotter than expected, plus a second rough day for NVIDIA. Not everything went down, though. Industrial companies had the best day of any sector, and Broadcom, TSMC, Lockheed Martin and Rocket Lab all closed higher. A mixed day like this is a good reminder that one headline rarely moves every stock the same way."
+  "title": "What to watch at the open",
+  "text": "Today is Veterans Day. The stock market is open at the normal time, but the bond market is closed, so trading may be a bit quieter than usual. Yesterday SPY fell 0.4% and QQQ fell 0.7% after a hot inflation report. At the open, watch NVIDIA, which is sitting just above its lowest price of the past year, and watch whether yesterday's winners, like Broadcom, Rocket Lab and Lockheed Martin, keep going or give some of it back."
  },
  {
   "kind": "alert",
-  "title": "Prices rose faster than expected in October",
-  "text": "The government said consumer prices rose 0.4% in October, a bit more than the 0.3% that experts had guessed. News reports say this makes it more likely that the Federal Reserve raises interest rates in December. Higher rates make borrowing cost more, and that can weigh on fast growing tech stocks. The 10 year Treasury yield averaged 5.13% in October, the highest level in the last 12 months."
+  "title": "NVIDIA sits near its 52 week low",
+  "text": "NVIDIA closed near $168.90, down 5.5% on Tuesday. That is only about 3% above its 52 week low of $164.27 and about 31% below its high. Questions about the CEO are still in the news, and the company reports its quarterly results on November 17. Its risk score is 5.7 out of 10, which is medium."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA falls for a second day",
-  "text": "NVIDIA dropped 5.5% to about $168.80. It is now 31% below its 52 week high and only about 3% above its 52 week low of $164.27. The drop came after news reports raised questions about the CEO, and the company's board started its own review. NVIDIA still reports its quarterly results on November 17, so more big moves are possible."
+  "title": "Broadcom has its best two days in a while",
+  "text": "Broadcom jumped about 8.8% on Monday and another 3.9% on Tuesday, to about $332. Reports say it set December 9 as the date for its next results. Even after this jump, it is still about 33% below its 52 week high. Big moves up can reverse just as fast, so this is one to watch, not to chase."
  },
  {
   "kind": "alert",
-  "title": "Rocket Lab climbs after record sales",
-  "text": "Rocket Lab rose 6.5% to $62.71 after it reported record quarterly sales of $268 million, up 73% from a year ago. Remember that Rocket Lab has the highest risk score on our list, 10 out of 10. It is still about 58% below its 52 week high, which shows how far and how fast this kind of stock can swing."
+  "title": "Eli Lilly is close to its high",
+  "text": "Eli Lilly rose 1.4% to about $1,432. That puts it about 1% below its 52 week high of $1,453. Its risk score is 3.1 out of 10, one of the lowest on our list. When a stock sits near its high, it shows investors feel good about it, but it also means a lot of good news may already be in the price."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 45: What is key person risk?",
-  "text": "Some companies depend a lot on one leader, often the founder or CEO. Key person risk is the chance that something happening to that one person hurts the whole company. It could be health, a scandal, or the person leaving. When investors worry about a leader, the stock can fall even if the company's products and sales have not changed at all. That is what we saw with NVIDIA this week. Good companies try to lower this risk by building a strong team and a clear plan for who would take over. It is one more reason why owning many companies, not just one, can help."
+  "title": "Lesson 46: What is a rate hike?",
+  "text": "The Federal Reserve sets a key interest rate. That rate affects how much it costs to borrow money for things like houses, cars and business loans. A rate hike means the Fed raises that rate. The Fed usually does this to slow down rising prices, called inflation. When borrowing costs more, people and companies tend to spend less, and prices cool off. Stocks often fall when a hike looks more likely, because companies may earn less and safe savings accounts and bonds start to pay more. That is why yesterday's hot inflation report pushed stocks down."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices are from the close on Tuesday, November 10, 2026. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News comes from public sources and is for learning only. This is not financial advice."
+  "text": "Prices are from the close on Tuesday, November 10, 2026, before today's open. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical have no targets or company numbers here. News comes from public sources and is for learning only. This is not financial advice."
  }
 ]

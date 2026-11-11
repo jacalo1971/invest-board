@@ -1410,5 +1410,41 @@
   "why": "A growing backlog is like a long list of future paychecks, so it can make investors more confident. But Rocket Lab still swings a lot, so one strong report does not remove the risk.",
   "source": "Rocket Lab (SEC filing)",
   "url": "https://www.sec.gov/Archives/edgar/data/0001819994/000181999426000073/rklb-11092026ex991.htm"
+ },
+ {
+  "date": "2026-11-11",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Stocks trade today, but the bond market takes a holiday",
+  "summary": "Wall Street's stock exchanges are open for regular hours on Veterans Day. The bond market is closed, following the guidance of the bond industry group SIFMA, and most banks are closed too.",
+  "why": "When part of the market is closed, fewer people are trading. That can make prices move in odd ways, so one quiet day is not a strong signal about where stocks are headed.",
+  "source": "QuantVPS",
+  "url": "https://www.quantvps.com/market-hours/veterans-day"
+ },
+ {
+  "date": "2026-11-10",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Nasdaq ends lower as inflation worries return",
+  "summary": "Tech heavy stocks fell on Tuesday after a report showed prices rising faster than expected. Investors worried that the Federal Reserve could raise interest rates, and chip stocks like NVIDIA led the drop.",
+  "why": "Interest rates act like gravity for stock prices. When people expect higher rates, they often pay less for fast growing companies, which is why QQQ fell more than SPY.",
+  "source": "Reuters (via Devdiscourse)",
+  "url": "https://www.devdiscourse.com/article/international/3992569-us-stocks-nasdaq-ends-sharply-lower-as-hot-inflation-data-stirs-rate-hike-worries"
+ },
+ {
+  "date": "2026-11-10",
+  "tickers": [
+   "AVGO"
+  ],
+  "effect": "good",
+  "title": "Broadcom keeps climbing after a big Monday",
+  "summary": "Broadcom rose about 3.9% on Tuesday, after jumping close to 9% on Monday. The company has set December 9 as the date it will share its next quarterly results.",
+  "why": "A results date gives investors a day to circle on the calendar. Stocks can rise before results when people expect good news, but they can also fall fast if the results disappoint.",
+  "source": "TradingKey",
+  "url": "https://www.tradingkey.com/news/market-movers/262298993-market-movers-avgo-20261110"
  }
 ]
