@@ -1572,5 +1572,54 @@
   "why": "Prices businesses pay often get passed on to shoppers later. If this report is hot, the Fed may be more likely to raise interest rates in December, which can weigh on stocks.",
   "source": "StockTitan",
   "url": "https://www.stocktitan.net/articles/october-2026-ppi-preview-yearly-rate"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "Jensen Huang steps down as NVIDIA's CEO",
+  "summary": "NVIDIA announced that Jensen Huang resigned as chief executive and also left the board. Colette Kress, the company's chief financial officer, will serve as interim CEO while the board searches inside and outside the company for a permanent leader. The board also named Harvey C. Jones as its first chair.",
+  "why": "A CEO is the top boss who makes the biggest decisions. Huang helped start NVIDIA in 1993, so many investors connected him with its success. A leadership change brings uncertainty, even if the business is still strong.",
+  "source": "NVIDIA",
+  "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Wall Street dips slightly as NVIDIA swings",
+  "summary": "NVIDIA dropped sharply early on Thursday after the news, then won back part of the loss and closed down about 4%. The broad market only slipped a little, as gains in some other tech names helped offset NVIDIA's fall.",
+  "why": "NVIDIA is one of the largest companies in the stock market, so its moves can pull the big indexes up or down. When the market barely moves while one giant falls, it means many other stocks went up.",
+  "source": "The Detroit News (Reuters)",
+  "url": "https://www.detroitnews.com/story/business/2026/11/12/global-ai-stocks-sink-as-nvidia-ceos-exit-deepens-sector-concerns/92740773007/"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "good",
+  "title": "AMD and Broadcom rally on NVIDIA's bad day",
+  "summary": "Shares of AMD and Broadcom each rose more than 5% on Thursday. Both sell chips used in AI data centers, the same market NVIDIA leads. Some investors are betting that NVIDIA's troubles could send more business their way.",
+  "why": "Companies that compete with each other can move in opposite directions. Bad news for one company can look like an opportunity for its rivals, at least in the short term.",
+  "source": "Benzinga",
+  "url": "https://www.benzinga.com/markets/equities/26/11/63210863/stock-market-today-nvidia-huang-exit-amd-broadcom-rally"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "The 10 year bond yield climbs back near 5%",
+  "summary": "The bond market reopened Thursday after the Veterans Day holiday, and the 10 year Treasury yield moved back around 5%. A recent inflation report came in hotter than expected, and traders now expect the Federal Reserve to raise interest rates at its December 9 meeting.",
+  "why": "The 10 year yield is like the interest rate on a very safe loan to the US government. When it goes up, saving money in bonds pays more, so stocks have to work harder to look attractive.",
+  "source": "TipRanks",
+  "url": "https://tipranks.com/news/the-yield-on-the-10-year-treasury-bond-is-back-above-5-what-it-means-for-the-market"
  }
 ]

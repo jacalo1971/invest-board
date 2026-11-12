@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Today's big story is NVIDIA. Reports say its board met late Wednesday to talk about whether CEO Jensen Huang should keep his job, and no decision had been announced this morning. NVIDIA closed Wednesday at $173.73, but it fell roughly 7% to 9% in trading outside normal hours. That would put it below its lowest price of the past year ($164.27). Nasdaq futures, which are bets on where the index will open, pointed lower. Watch whether the drop spreads to other AI names, or whether money moves from NVIDIA into rivals like AMD and Broadcom, which rose after hours."
+  "title": "How the day closed",
+  "text": "The big story today was NVIDIA. The company said Jensen Huang resigned as CEO and left its board of directors. Its chief financial officer, Colette Kress, is now interim CEO while the board looks for a permanent leader. NVIDIA fell more than 13% early in the day, touching $148.80, a new one year low. It then recovered part of the drop and closed at $166.19, down 4.3%. Rivals AMD (up 5.9%) and Broadcom (up 5.5%) rose. The whole market barely moved: the S&P 500 fund SPY and the Nasdaq 100 fund QQQ each slipped about 0.3%. One company's bad day does not always mean a bad day for everyone."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA could open near a one year low",
-  "text": "NVIDIA is the biggest company on our list. Early trading suggests it could open around $158 to $162, under its 52 week low of $164.27. Analysts also cut their average price target from $340 to about $329 in a day. Big moves before the open can shrink or grow once the full market starts trading at 9:30 a.m."
+  "title": "NVIDIA bounced off a new one year low",
+  "text": "NVIDIA closed about 12% above its low of the day. That kind of swing in a single day shows how nervous investors are. Our risk score for NVIDIA rose from 5.7 to 6.0, still in the medium zone. The average analyst price target is still about $328, but targets can change quickly after big news like this."
  },
  {
   "kind": "alert",
-  "title": "AMD is up 7% and near the top of its range",
-  "text": "AMD jumped 7.3% on Wednesday to $552.90. It now sits at about 78% of its one year range, while NVIDIA sits at about 12%. Two chip companies that make similar products can move in opposite directions when news is about one company and not the whole industry."
+  "title": "AMD and Broadcom climbed while NVIDIA fell",
+  "text": "AMD closed at $585.30 and is now near the top of its one year range, about 11% below its high. Broadcom closed at $364.36. Both make chips that compete with NVIDIA's. Some investors seem to think customers could shift some orders to them. That is a guess about the future, not a fact yet."
  },
  {
   "kind": "alert",
-  "title": "Inflation data is still in the background",
-  "text": "Tuesday's inflation report came in hotter than expected, and one Federal Reserve official said he leans toward raising interest rates in December. Another report on prices that businesses pay, called the producer price index, is due Friday. Higher rates can weigh on fast growing tech stocks."
+  "title": "Bond yields are back near 5%",
+  "text": "The 10 year Treasury yield, the interest rate the US government pays to borrow for 10 years, moved back near 5% after a hot inflation report. Traders are betting the Federal Reserve will raise interest rates at its December 9 meeting. Another price report, the producer price index, comes out Friday. When safe bonds pay more, some investors need a stronger reason to own riskier stocks."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 48: What is a board of directors?",
-  "text": "Every public company has a board of directors. It is a small group of people elected by the shareholders, the people who own the stock. The board does not run the company day to day. That is the CEO's job. Instead, the board watches over the CEO, sets the CEO's pay, and can hire or fire the CEO. Think of a school: the principal runs the school every day, but the school board can replace the principal. When a board starts talking about removing a famous CEO, investors get nervous because they do not know who will lead next or what will change."
+  "title": "Lesson 49: What is succession planning?",
+  "text": "Succession planning means deciding ahead of time who could take over if a company's leader leaves. Leaders can leave for many reasons: they retire, get sick, or step down after a problem. If a company has a clear plan, the change is calmer. If it does not, investors worry about who will make the big decisions. When NVIDIA's CEO resigned, the board named its chief financial officer, the person in charge of the money, as interim CEO. Interim means temporary: she leads while the board searches for a permanent CEO. Think of a sports team whose coach leaves in the middle of the season. An assistant coach steps in so the team keeps playing. When you study a company, it is fair to ask: does it depend too much on one person?"
  },
  {
   "kind": "coverage",
-  "title": "What this covers",
-  "text": "Prices are from Wednesday's close, November 11. Price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical show price and risk data only. After hours moves are from news reports and are not part of the closing prices. This is for learning, not advice to buy or sell."
+  "title": "Where today's numbers come from",
+  "text": "Prices, beta, 52 week ranges and sector moves come from Financial Modeling Prep after Thursday's close. Analyst targets and ratios are shown for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE. The 10 year yield history comes from Alpha Vantage. News comes from company announcements and news outlets listed below. Risk scores and scenarios are simple math, not predictions. Nothing here is financial advice."
  }
 ]
