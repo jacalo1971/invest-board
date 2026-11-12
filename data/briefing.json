@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "How the day closed",
-  "text": "It was a split day. Chip and AI equipment stocks bounced back hard after a cloud company called CoreWeave posted strong results. AMD rose 7.3%, Vertiv 6.3% and TSMC 4.2%. QQQ gained 2.3% and SPY gained 1.3%. But three of the biggest tech companies went the other way: Microsoft fell 2.3%, Meta 2.0% and Amazon 1.7%. So on our list, the companies that sell AI parts averaged about +5%, while the big companies that buy those parts averaged about -1%."
+  "title": "What to watch at the open",
+  "text": "Today's big story is NVIDIA. Reports say its board met late Wednesday to talk about whether CEO Jensen Huang should keep his job, and no decision had been announced this morning. NVIDIA closed Wednesday at $173.73, but it fell roughly 7% to 9% in trading outside normal hours. That would put it below its lowest price of the past year ($164.27). Nasdaq futures, which are bets on where the index will open, pointed lower. Watch whether the drop spreads to other AI names, or whether money moves from NVIDIA into rivals like AMD and Broadcom, which rose after hours."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA bounces, but an analyst turned cautious",
-  "text": "NVIDIA rose 2.9% to about $173.70. It is still only about 6% above its lowest price of the past year. An analyst firm called Baird lowered its view on the stock to Neutral and cut its price target to $200. That is a reminder that one good day does not mean the worry is gone. NVIDIA reports results on November 17, which could move it a lot either way."
+  "title": "NVIDIA could open near a one year low",
+  "text": "NVIDIA is the biggest company on our list. Early trading suggests it could open around $158 to $162, under its 52 week low of $164.27. Analysts also cut their average price target from $340 to about $329 in a day. Big moves before the open can shrink or grow once the full market starts trading at 9:30 a.m."
  },
  {
   "kind": "alert",
-  "title": "Microsoft slips on new competition",
-  "text": "Microsoft fell 2.3% to about $521. News reports linked the drop to new workplace tools from the AI company Anthropic that could compete with Microsoft Office. Microsoft is still only about 7% below its high, and its risk score is 3.8 out of 10, which is low on our list. A move like this shows that even a giant can be hit when a new rival shows up."
+  "title": "AMD is up 7% and near the top of its range",
+  "text": "AMD jumped 7.3% on Wednesday to $552.90. It now sits at about 78% of its one year range, while NVIDIA sits at about 12%. Two chip companies that make similar products can move in opposite directions when news is about one company and not the whole industry."
  },
  {
   "kind": "alert",
-  "title": "Rocket Lab and Vertiv swing the most",
-  "text": "Rocket Lab rose 5.5% and Vertiv rose 6.3%. They have the two highest risk scores on our list, 9.9 and 8.0 out of 10. Both are still far below their highs: Rocket Lab is about 56% down from its top and Vertiv about 46% down. Big jumps and big drops tend to come together. That is what a high risk score means."
+  "title": "Inflation data is still in the background",
+  "text": "Tuesday's inflation report came in hotter than expected, and one Federal Reserve official said he leans toward raising interest rates in December. Another report on prices that businesses pay, called the producer price index, is due Friday. Higher rates can weigh on fast growing tech stocks."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 47: What is an analyst downgrade?",
-  "text": "Analysts are people at banks and research firms who study companies all day. They give each stock a rating, like Buy, Neutral or Sell, and a price target, which is their guess of where the price could be in about a year. A downgrade means an analyst lowers that rating, for example from Buy to Neutral. Today Baird did this with NVIDIA. A downgrade can push a price down for a day, but it is one opinion, not a fact. Different analysts often disagree, and they can be wrong. It is smarter to look at many opinions and at the company's real results than to react to one headline."
+  "title": "Lesson 48: What is a board of directors?",
+  "text": "Every public company has a board of directors. It is a small group of people elected by the shareholders, the people who own the stock. The board does not run the company day to day. That is the CEO's job. Instead, the board watches over the CEO, sets the CEO's pay, and can hire or fire the CEO. Think of a school: the principal runs the school every day, but the school board can replace the principal. When a board starts talking about removing a famous CEO, investors get nervous because they do not know who will lead next or what will change."
  },
  {
   "kind": "coverage",
-  "title": "What this update covers",
-  "text": "Prices are from the close on Wednesday, November 11, 2026. Analyst price targets and company numbers come from free data sources and may be missing or a little old for some companies, like Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical. The bond market was closed today for Veterans Day, so the 10 year Treasury data did not change. Risk scores and price scenarios are simple math, not predictions. This is for learning only and is not financial advice."
+  "title": "What this covers",
+  "text": "Prices are from Wednesday's close, November 11. Price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace. Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical show price and risk data only. After hours moves are from news reports and are not part of the closing prices. This is for learning, not advice to buy or sell."
  }
 ]

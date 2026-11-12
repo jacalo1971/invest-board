@@ -1510,5 +1510,67 @@
   "why": "When only one group of stocks drives the market, the gains rest on fewer shoulders. That is why owning a mix of different kinds of companies, called diversification, matters.",
   "source": "AP",
   "url": "https://www.wjtv.com/news/business/ap-asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA's board meets on the CEO's future",
+  "summary": "NVIDIA's board of directors met late Wednesday to discuss whether Jensen Huang should stay on as CEO, according to reports citing people familiar with the talks. This follows his admission to staff over the weekend about his personal life and an outside investigation led by a law firm. No decision had been announced by Thursday morning.",
+  "why": "Jensen Huang has led NVIDIA since he helped start it in 1993, and many investors see him as central to its success. Not knowing who will lead a company makes investors nervous, even when the business itself is doing well.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/12/nvidia-boards-crisis-meeting.html"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "NVDA",
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA slides before the open and pulls futures lower",
+  "summary": "NVIDIA shares fell more than 8% in after hours trading on Wednesday and were still down about 6% to 7% early Thursday. Futures for the Nasdaq and the S&P 500 pointed lower. NVIDIA is one of the largest companies in both indexes.",
+  "why": "When one giant company falls, index funds like SPY and QQQ feel it too, because they hold a lot of that stock. This is why owning one company carries more risk than owning many.",
+  "source": "Benzinga",
+  "url": "https://www.benzinga.com/markets/equities/26/11/63174263/stock-market-today-nvda-rout-drags-nasdaq-sp-500-futures-lower-as-nvidia-board-weighs-jensen-huangs-future-crwv-ttek-fnv-in-focus"
+ },
+ {
+  "date": "2026-11-11",
+  "tickers": [
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "good",
+  "title": "AMD and Broadcom rise as NVIDIA stumbles",
+  "summary": "After the NVIDIA reports came out, shares of AMD and Broadcom each rose more than 3% in after hours trading. Both make chips that compete with NVIDIA's in AI data centers. Some investors appear to be moving money toward these rivals.",
+  "why": "When one company has trouble, its competitors can benefit, because customers and investors may look elsewhere. Moves outside regular hours can change a lot once the full market opens.",
+  "source": "Benzinga",
+  "url": "https://www.benzinga.com/markets/tech/26/11/63171278/nvidia-stock-sinks-jensen-huang-ouster-report-amd-broadcom"
+ },
+ {
+  "date": "2026-11-11",
+  "tickers": [
+   "AMD"
+  ],
+  "effect": "good",
+  "title": "AMD jumps after an upbeat analyst note",
+  "summary": "AMD closed up 7.3% at $552.90 on Wednesday. Strong results from CoreWeave, a big buyer of AI chips, helped, and a UBS analyst note said AMD is holding its share of the computer processor market while Intel's share slipped.",
+  "why": "Market share means how much of all sales in an industry go to one company. Gaining or keeping share against a rival is a sign a company's products are competitive.",
+  "source": "The Motley Fool",
+  "url": "https://www.fool.com/investing/2026/11/11/why-advanced-micro-devices-stock-popped-today/"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Another price report is due Friday",
+  "summary": "After a hotter than expected consumer inflation report on Tuesday, the next big data point is the producer price index on Friday. It tracks the prices businesses pay for goods and services. Economists expect it to show prices still rising faster than the Federal Reserve wants.",
+  "why": "Prices businesses pay often get passed on to shoppers later. If this report is hot, the Fed may be more likely to raise interest rates in December, which can weigh on stocks.",
+  "source": "StockTitan",
+  "url": "https://www.stocktitan.net/articles/october-2026-ppi-preview-yearly-rate"
  }
 ]
