@@ -1621,5 +1621,55 @@
   "why": "The 10 year yield is like the interest rate on a very safe loan to the US government. When it goes up, saving money in bonds pays more, so stocks have to work harder to look attractive.",
   "source": "TipRanks",
   "url": "https://tipranks.com/news/the-yield-on-the-10-year-treasury-bond-is-back-above-5-what-it-means-for-the-market"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "Why NVIDIA's CEO stepped down",
+  "summary": "NVIDIA's board said Jensen Huang resigned as CEO right away, before an outside review of his conduct was finished. News reports tied the exit to his personal relationships, and members of Congress want him to answer questions. US officials have not confirmed some of the most serious claims.",
+  "why": "When a famous leader leaves suddenly, investors worry about who will set the company's direction. That uncertainty can make a stock swing a lot, even if the business itself has not changed yet.",
+  "source": "NBC News",
+  "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "TSM",
+   "NVDA",
+   "AMD"
+  ],
+  "effect": "good",
+  "title": "Applied Materials sales beat forecasts on AI demand",
+  "summary": "Applied Materials, which makes the machines used to build computer chips, reported quarterly sales of about $10.4 billion. That was a little above what experts expected. The company pointed to strong demand linked to AI.",
+  "why": "Chip factories like TSMC buy these machines before they can make more chips. Strong orders suggest the AI chip boom is still growing, which matters for the chip companies on our list.",
+  "source": "SEC filing (Applied Materials)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026056699/exhibit991q32026earningsre.htm"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "A key price report lands before the open",
+  "summary": "The producer price index for October comes out Friday morning. Economists expect prices to rise 0.4%, slower than the 1.3% jump in September. Stock futures were mixed while traders waited.",
+  "why": "This report shows whether businesses are paying more. Higher costs often get passed on to shoppers later, so a hot number can push interest rates and bond yields up.",
+  "source": "TipRanks",
+  "url": "https://www.tipranks.com/news/stock-market-today-nov-13-u-s-stocks-wobble-ahead-of-ppi-data"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Traders bet the Fed will raise rates in December",
+  "summary": "After hot inflation news this week, traders now expect the Federal Reserve to raise interest rates at its December 8 and 9 meeting. Some are even betting on a bigger than usual hike. Stock futures slipped on those worries along with the NVIDIA news.",
+  "why": "The Federal Reserve sets the basic cost of borrowing in the US. When rates go up, loans get more expensive and safe savings pay more, which can make stocks less attractive.",
+  "source": "FXStreet",
+  "url": "https://fxstreet.com/news/dow-jones-futures-fall-amid-fed-rate-hike-fears-nvidia-leadership-shakeup-ppi-data-eyed-202611130719"
  }
 ]
