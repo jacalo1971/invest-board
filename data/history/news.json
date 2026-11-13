@@ -1671,5 +1671,55 @@
   "why": "The Federal Reserve sets the basic cost of borrowing in the US. When rates go up, loans get more expensive and safe savings pay more, which can make stocks less attractive.",
   "source": "FXStreet",
   "url": "https://fxstreet.com/news/dow-jones-futures-fall-amid-fed-rate-hike-fears-nvidia-leadership-shakeup-ppi-data-eyed-202611130719"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Wholesale prices are up 6.5% from a year ago",
+  "summary": "The government's producer price index rose 0.3% in October, slightly below the 0.4% experts expected. Compared with October last year, prices businesses pay were up 6.5%, the highest yearly rate since November 2022. A version that leaves out food and energy was up 5%.",
+  "why": "Prices that businesses pay often get passed on to shoppers later. When prices rise fast, the Federal Reserve may raise interest rates, and higher rates can make stocks less attractive.",
+  "source": "Reuters",
+  "url": "https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Traders now expect a Fed rate hike in December",
+  "summary": "After the price report and tough comments from some Fed officials, traders added to bets that the Federal Reserve will raise its key interest rate at its December meeting. The 10 year Treasury yield traded around 5.1% on Friday.",
+  "why": "The Fed's interest rate affects how much it costs to borrow money for homes, cars and businesses. Higher rates can slow the economy and often weigh on fast growing stocks.",
+  "source": "Reuters",
+  "url": "https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "AMD",
+   "AVGO",
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "Chip stocks that jumped this week gave back gains",
+  "summary": "AMD and Broadcom had climbed after NVIDIA's CEO resigned, as traders guessed they could win business from NVIDIA. On Friday that bet reversed, with AMD falling close to 9% and Broadcom about 5%. Reports point to profit-taking after a big run.",
+  "why": "When many people buy a stock for the same short term reason, the price can fall just as fast when they change their minds. That swing is a big part of what makes a stock risky.",
+  "source": "Invezz",
+  "url": "https://invezz.com/news/2026/11/13/amd-falls-9-intel-drops-6-as-chip-stocks-slide-on-friday/"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Stocks slip Friday but the week still looks good",
+  "summary": "Stocks fell in shaky trading on Friday, pulled down mainly by chip companies. Even so, the market stayed on track to finish the week higher after several bumpy days.",
+  "why": "One bad day does not erase a good week. Looking at weeks or months, not just single days, helps you avoid reacting to every small move.",
+  "source": "AP",
+  "url": "https://www.ottumwacourier.com/news/business/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days/article_36e62b15-8f31-5af0-bf82-df2080ae2858.html"
  }
 ]

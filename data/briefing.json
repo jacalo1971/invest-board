@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Friday starts with two big questions. First, NVIDIA: after its CEO resigned on Thursday, will buyers keep coming back, or will selling return? Early trading before the bell was mixed and close to flat. Second, at 8:30 am New York time the government publishes the producer price index, a report on what businesses pay for goods and services. If it comes in hot, bond yields could climb again and growth stocks could feel it. Remember: the first minutes after the open are often the most jumpy of the whole day."
+  "title": "How Friday closed",
+  "text": "Friday ended in the red for most of our list. The S&P 500 fund SPY slipped 0.4% and the Nasdaq 100 fund QQQ fell 1.2%, led by chip stocks. Two things weighed on the market: a hot report on wholesale prices, and traders selling chip stocks that had jumped earlier in the week. Even so, news reports say the Nasdaq still had its best week since August. A few steady names went up: Eli Lilly, Meta, Microsoft and the dividend fund SCHD."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA could post a sixth losing week in a row",
-  "text": "NVIDIA closed Thursday at $166.19. It is down about 11% this week, and news reports say a sixth weekly drop in a row would be its longest losing streak since 2012. It sits only 18% of the way up its one year range, very close to its low. Our risk score is 6.0, at the top of the medium zone. Analysts' average price target is about $328, almost double today's price, but targets were set before the CEO news and may come down."
+  "title": "AMD had the biggest drop on our list",
+  "text": "AMD fell 8.8% to $534.06. Earlier this week many traders bought AMD and Broadcom, guessing they would win business if NVIDIA struggled after its CEO left. On Friday a lot of them sold to lock in gains, and Broadcom fell 4.8% too. AMD is still 73% of the way up its one year range, so it has not lost most of its recent climb. Our risk score for AMD went up a little, from 7.3 to 7.5, which is in the high zone."
  },
  {
   "kind": "alert",
-  "title": "A chip machine maker beat expectations",
-  "text": "Applied Materials builds the machines that factories like TSMC use to make chips. On Thursday after the close it reported sales of about $10.4 billion for the quarter, a bit more than experts expected, and said demand from AI is strong. That is a hint that chip factories keep spending. TSMC closed at $405.49, down 1.9% on Thursday, with a risk score of 4.8."
+  "title": "Wholesale prices are rising fast",
+  "text": "The producer price index, which tracks prices businesses pay each other, rose 0.3% in October. That was a bit less than experts expected for the month. But compared with a year ago, prices were up 6.5%, the fastest pace since November 2022. Fast rising prices can push the Federal Reserve to raise interest rates. Traders are now betting on a rate hike in December, and the 10 year Treasury yield is sitting above 5%."
  },
  {
   "kind": "alert",
-  "title": "AMD is near the top of its range while NVIDIA is near the bottom",
-  "text": "Two chip companies, two very different pictures. AMD closed at $585.30, about 84% of the way up its one year range. NVIDIA is about 18% of the way up. Being near a high or a low does not tell you where a stock goes next. It tells you how investors have felt about it over the past year. AMD's risk score is 7.3 (high) and NVIDIA's is 6.0 (medium)."
+  "title": "NVIDIA is close to its one year low",
+  "text": "NVIDIA fell 2.0% to $162.85. It is now only 15% of the way up its one year range. Its lowest price of the past year was $148.80, so it is about 9% above that level. Analysts' average target is $321, almost double today's price, but targets are guesses and can be cut. NVIDIA's risk score stays at 6.0, in the medium zone."
+ },
+ {
+  "kind": "alert",
+  "title": "Steady names held up",
+  "text": "Not everything went down. Eli Lilly rose 1.4% to $1,445.40, very close to its one year high of $1,460. The dividend fund SCHD rose 0.5% and is also near its high. Meta rose 2.9%. On a day when fast growing chip stocks fall, companies with steadier sales sometimes hold up better. That is one reason people spread money across different kinds of companies."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 50: What is the producer price index (PPI)?",
-  "text": "The producer price index, or PPI, measures how much prices change for things businesses buy and sell, like steel, fuel, trucking or wholesale food. You may already know the consumer price index, which tracks prices shoppers pay at the store. The PPI looks one step earlier in the chain. If a bakery pays more for flour today, it may charge more for bread later. That is why investors watch the PPI: it can be an early warning that inflation is heading up or down. Economists expect a 0.4% rise for October, smaller than September's 1.3% jump. If prices rise faster than expected, the Federal Reserve is more likely to raise interest rates. Higher rates make borrowing cost more and can weigh on stock prices."
+  "title": "Lesson 51: What is profit-taking?",
+  "text": "Profit-taking means selling a stock after its price went up, to lock in the gain. Imagine you buy a trading card for $10, and a week later everyone wants it and it is worth $15. If you sell it, you take your $5 profit. When a stock jumps fast, like AMD did earlier this week, many people take profits at the same time. All that selling can push the price down, even if nothing bad happened at the company. So a drop after a big jump does not always mean the company is in trouble. It can just mean people are cashing in."
  },
  {
   "kind": "coverage",
   "title": "Where today's numbers come from",
-  "text": "Prices, beta, 52 week ranges and sector moves come from Financial Modeling Prep and reflect Thursday's close. Analyst targets are shown for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; other ratios carry over from the last update. The 10 year yield history comes from Alpha Vantage. News comes from the outlets listed below. Risk scores and scenarios are simple math, not predictions. Nothing here is financial advice."
+  "text": "Prices, daily changes, beta, 52 week ranges and sector moves come from Financial Modeling Prep and reflect Friday's close. Analyst targets are shown for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; other ratios carry over from the last update. The 10 year yield history comes from Alpha Vantage. News comes from Reuters, AP and other outlets linked in the news section. This is for learning, not advice to buy or sell anything."
  }
 ]

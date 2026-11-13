@@ -1,29 +1,41 @@
 [
  {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Wholesale prices are up 6.5% from a year ago",
+  "summary": "The government's producer price index rose 0.3% in October, slightly below the 0.4% experts expected. Compared with October last year, prices businesses pay were up 6.5%, the highest yearly rate since November 2022. A version that leaves out food and energy was up 5%.",
+  "why": "Prices that businesses pay often get passed on to shoppers later. When prices rise fast, the Federal Reserve may raise interest rates, and higher rates can make stocks less attractive.",
+  "source": "Reuters",
+  "url": "https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Traders now expect a Fed rate hike in December",
+  "summary": "After the price report and tough comments from some Fed officials, traders added to bets that the Federal Reserve will raise its key interest rate at its December meeting. The 10 year Treasury yield traded around 5.1% on Friday.",
+  "why": "The Fed's interest rate affects how much it costs to borrow money for homes, cars and businesses. Higher rates can slow the economy and often weigh on fast growing stocks.",
+  "source": "Reuters",
+  "url": "https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "AMD",
+   "AVGO",
    "NVDA"
   ],
   "effect": "bad",
-  "title": "Why NVIDIA's CEO stepped down",
-  "summary": "NVIDIA's board said Jensen Huang resigned as CEO right away, before an outside review of his conduct was finished. News reports tied the exit to his personal relationships, and members of Congress want him to answer questions. US officials have not confirmed some of the most serious claims.",
-  "why": "When a famous leader leaves suddenly, investors worry about who will set the company's direction. That uncertainty can make a stock swing a lot, even if the business itself has not changed yet.",
-  "source": "NBC News",
-  "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402"
- },
- {
-  "date": "2026-11-12",
-  "tickers": [
-   "TSM",
-   "NVDA",
-   "AMD"
-  ],
-  "effect": "good",
-  "title": "Applied Materials sales beat forecasts on AI demand",
-  "summary": "Applied Materials, which makes the machines used to build computer chips, reported quarterly sales of about $10.4 billion. That was a little above what experts expected. The company pointed to strong demand linked to AI.",
-  "why": "Chip factories like TSMC buy these machines before they can make more chips. Strong orders suggest the AI chip boom is still growing, which matters for the chip companies on our list.",
-  "source": "SEC filing (Applied Materials)",
-  "url": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026056699/exhibit991q32026earningsre.htm"
+  "title": "Chip stocks that jumped this week gave back gains",
+  "summary": "AMD and Broadcom had climbed after NVIDIA's CEO resigned, as traders guessed they could win business from NVIDIA. On Friday that bet reversed, with AMD falling close to 9% and Broadcom about 5%. Reports point to profit-taking after a big run.",
+  "why": "When many people buy a stock for the same short term reason, the price can fall just as fast when they change their minds. That swing is a big part of what makes a stock risky.",
+  "source": "Invezz",
+  "url": "https://invezz.com/news/2026/11/13/amd-falls-9-intel-drops-6-as-chip-stocks-slide-on-friday/"
  },
  {
   "date": "2026-11-13",
@@ -31,22 +43,10 @@
    "ALL"
   ],
   "effect": "watch",
-  "title": "A key price report lands before the open",
-  "summary": "The producer price index for October comes out Friday morning. Economists expect prices to rise 0.4%, slower than the 1.3% jump in September. Stock futures were mixed while traders waited.",
-  "why": "This report shows whether businesses are paying more. Higher costs often get passed on to shoppers later, so a hot number can push interest rates and bond yields up.",
-  "source": "TipRanks",
-  "url": "https://www.tipranks.com/news/stock-market-today-nov-13-u-s-stocks-wobble-ahead-of-ppi-data"
- },
- {
-  "date": "2026-11-13",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Traders bet the Fed will raise rates in December",
-  "summary": "After hot inflation news this week, traders now expect the Federal Reserve to raise interest rates at its December 8 and 9 meeting. Some are even betting on a bigger than usual hike. Stock futures slipped on those worries along with the NVIDIA news.",
-  "why": "The Federal Reserve sets the basic cost of borrowing in the US. When rates go up, loans get more expensive and safe savings pay more, which can make stocks less attractive.",
-  "source": "FXStreet",
-  "url": "https://fxstreet.com/news/dow-jones-futures-fall-amid-fed-rate-hike-fears-nvidia-leadership-shakeup-ppi-data-eyed-202611130719"
+  "title": "Stocks slip Friday but the week still looks good",
+  "summary": "Stocks fell in shaky trading on Friday, pulled down mainly by chip companies. Even so, the market stayed on track to finish the week higher after several bumpy days.",
+  "why": "One bad day does not erase a good week. Looking at weeks or months, not just single days, helps you avoid reacting to every small move.",
+  "source": "AP",
+  "url": "https://www.ottumwacourier.com/news/business/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days/article_36e62b15-8f31-5af0-bf82-df2080ae2858.html"
  }
 ]
