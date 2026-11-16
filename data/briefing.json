@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "A big week starts today, and stock futures were pointing lower this morning, led by AI stocks. Futures are bets on where prices will open. The main event is NVIDIA's earnings report on Tuesday after the market closes. On Wednesday the Federal Reserve shares notes from its last meeting, and later this week Anthropic, an AI company, plans to start selling shares to the public. Our prices below are from Friday's close, so expect them to move once trading begins at 9:30 am New York time."
+  "title": "How the day closed",
+  "text": "It was a rough Monday for tech. The Nasdaq 100 fund QQQ fell 2.7% and the S&P 500 fund SPY fell 1.9%. Chip stocks fell the most: on our list, the five AI supplier stocks dropped about 5.3% on average, while the four big AI platform companies dropped about 2.7%. Many traders sold before NVIDIA's results on Tuesday after the close. Safer, slower movers held up better: the dividend fund SCHD slipped only 0.7% and Eli Lilly 0.6%."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA reports on Tuesday",
-  "text": "NVIDIA will share its results for the three months that ended October 25 on Tuesday, right after the market closes. It is the first report since its leadership change. NVIDIA closed Friday at $162.85, only 15% of the way up its one year range and about 9% above its one year low of $148.80. Analysts' average target is $317.87, but targets are guesses and can change after a report. Many chip stocks on our list, like AMD, Broadcom, TSMC and Vertiv, often move when NVIDIA reports."
+  "title": "NVIDIA is near its one year low before its report",
+  "text": "NVIDIA fell 4.1% to $156.14. That is only about 5% above its lowest price of the past year ($148.80) and 7.8% of the way up its one year range. It reports results on Tuesday, November 17, after the market closes. The average analyst target is $311.16, but a target is only a guess. After a report, a stock can jump or drop a lot in one day, in either direction."
  },
  {
   "kind": "alert",
-  "title": "Fed meeting notes come out Wednesday",
-  "text": "The Federal Reserve will publish the minutes, which are the written notes, from its October meeting on Wednesday at 2 pm New York time. Last week a report showed wholesale prices up 6.5% from a year ago, and traders started to expect a rate hike in December. The notes may show how worried Fed leaders are about prices. Higher rates can make fast growing stocks less attractive. The 10 year Treasury yield averaged 5.13% in October, its highest monthly level in our chart."
+  "title": "Chip suppliers fell harder than the big platforms",
+  "text": "Vertiv fell 6.6%, TSMC 6.3%, AMD 5.6% and Broadcom 3.9%. Microsoft fell only 1.1%. Companies that sell parts for AI, like chips and cooling gear, tend to swing more than the giant companies that buy them. Rocket Lab, which is not an AI stock, also fell 6.8%, showing that nervous days hit jumpy stocks hardest."
  },
  {
   "kind": "alert",
-  "title": "A giant AI company may go public this week",
-  "text": "Anthropic has set a price range of $70 to $78 per share for its first public sale of stock, with a planned listing on the Nasdaq under the ticker ANT. If it sells at those prices, it would be one of the biggest stock debuts ever. Amazon and Alphabet own stakes in Anthropic, so the price it gets could affect how investors view those two companies too. A big new stock can also pull money away from other AI stocks for a few days."
+  "title": "Alphabet slips close to its one year low",
+  "text": "Alphabet fell 4.1% to $283.72, about 4% above its one year low of $272.11. It is one of the cheapest big AI names on our list by price to earnings, at about 14.5. Alphabet and Amazon own pieces of Anthropic, an AI company planning to sell stock to the public this week, so news about that sale may move them."
+ },
+ {
+  "kind": "alert",
+  "title": "Fed notes on Wednesday",
+  "text": "On Wednesday at 2 pm New York time, the Federal Reserve releases the notes from its October meeting. Traders think the Fed may raise rates in December. The 10 year Treasury yield averaged 5.13% in October, the highest month on our chart. Higher rates can make fast growing stocks less attractive."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 52: What is an IPO?",
-  "text": "IPO stands for initial public offering. It is the first time a private company sells its shares to the public on a stock exchange. Before an IPO, only founders, workers and a few big investors can own the company. Think of a lemonade stand that has grown big: to raise money for more stands, the owners let anyone buy a small piece of the business. The company and its bankers pick a price range first, then set a final price the night before trading starts. On the first day the price can jump or drop a lot, because nobody knows yet what the market thinks it is worth. That is why many careful investors wait a while before buying a new stock."
+  "title": "Lesson 53: What is index weighting?",
+  "text": "An index like the S&P 500 or the Nasdaq 100 is a list of companies whose prices are blended into one number. But not every company counts the same. Most big indexes give more weight to bigger companies, measured by market value (share price times number of shares). Think of a class average where the tallest kids count three times: if they have a bad day, the whole average drops. That is why a fall in a few giants like NVIDIA, Microsoft and Alphabet can pull a whole fund like QQQ down, even if many smaller companies in it did fine. When you own an index fund, check which companies make up the biggest slices."
  },
  {
   "kind": "coverage",
   "title": "Where today's numbers come from",
-  "text": "Prices, daily changes, beta, 52 week ranges and sector moves come from Financial Modeling Prep and reflect Friday's close on November 13. Analyst targets are shown for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; ratios for other names carry over from earlier updates. The 10 year yield history comes from Alpha Vantage. News comes from company releases, the Federal Reserve calendar and news reports. This is information for learning, not advice to buy or sell anything."
+  "text": "Prices, daily changes, beta, 52 week ranges and sector moves come from Financial Modeling Prep and reflect Monday's close on November 16. Analyst targets are shown for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; ratios for other names carry over from earlier updates. The 10 year yield history comes from Alpha Vantage. News comes from company releases, the Federal Reserve calendar and news reports. This is information for learning, not advice to buy or sell anything."
  }
 ]

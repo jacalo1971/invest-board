@@ -258,5 +258,10 @@
   "date": "2026-11-16",
   "title": "Lesson 52: What is an IPO?",
   "text": "IPO stands for initial public offering. It is the first time a private company sells its shares to the public on a stock exchange. Before an IPO, only founders, workers and a few big investors can own the company. Think of a lemonade stand that has grown big: to raise money for more stands, the owners let anyone buy a small piece of the business. The company and its bankers pick a price range first, then set a final price the night before trading starts. On the first day the price can jump or drop a lot, because nobody knows yet what the market thinks it is worth. That is why many careful investors wait a while before buying a new stock."
+ },
+ {
+  "date": "2026-11-16",
+  "title": "Lesson 53: What is index weighting?",
+  "text": "An index like the S&P 500 or the Nasdaq 100 is a list of companies whose prices are blended into one number. But not every company counts the same. Most big indexes give more weight to bigger companies, measured by market value (share price times number of shares). Think of a class average where the tallest kids count three times: if they have a bad day, the whole average drops. That is why a fall in a few giants like NVIDIA, Microsoft and Alphabet can pull a whole fund like QQQ down, even if many smaller companies in it did fine. When you own an index fund, check which companies make up the biggest slices."
  }
 ]

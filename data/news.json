@@ -2,14 +2,33 @@
  {
   "date": "2026-11-16",
   "tickers": [
-   "ALL"
+   "ALL",
+   "QQQ",
+   "NVDA",
+   "AMD",
+   "TSM"
   ],
   "effect": "bad",
-  "title": "Stock futures dip as a big week for AI stocks begins",
-  "summary": "Futures for the S&P 500 and the Nasdaq 100 were lower early Monday. AI related stocks were under pressure as investors waited for NVIDIA's results and Anthropic's stock market debut later in the week.",
-  "why": "Futures are bets on where prices will open, so they give an early hint about the day. A weak start does not decide how the day ends, but it shows investors feel nervous before big news.",
-  "source": "MarketScreener (Dow Jones)",
-  "url": "https://www.marketscreener.com/news/stock-futures-lower-to-kick-off-pivotal-week-for-ai-trade-nvidia-anthropic-eyed-ce785eded08df620"
+  "title": "Nasdaq falls for a third straight day as chip stocks slide",
+  "summary": "Tech stocks led the market lower on Monday. The Nasdaq dropped more than 2% and the S&P 500 lost close to 2%, with chip makers among the biggest losers. NVIDIA weighed on the AI group a day before its results.",
+  "why": "When the biggest companies fall together, index funds that hold them fall too. Three down days in a row shows investors are nervous about AI stocks right before a major report.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+ },
+ {
+  "date": "2026-11-16",
+  "tickers": [
+   "AMD",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "bad",
+  "title": "Traders pull back from chip stocks before NVIDIA reports",
+  "summary": "Shares of several chip makers fell sharply as traders cut bets on companies that compete with or supply the AI boom. Worries about possible tighter rules on chip sales abroad added to the pressure.",
+  "why": "Before a big report, some investors sell to avoid a surprise. That can push prices down even when nothing has changed inside the company. Suppliers often move together with NVIDIA.",
+  "source": "Investing.com",
+  "url": "https://uk.investing.com/news/stock-market-news/us-chip-stocks-slide-as-traders-unwind-nvidia-rival-bets-before-earnings-4985539"
  },
  {
   "date": "2026-11-16",

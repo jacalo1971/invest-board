@@ -1774,5 +1774,36 @@
   "why": "Amazon and Alphabet are both investors in Anthropic. The price the market puts on Anthropic can change how people value those stakes, and a huge new stock can pull money from other AI shares for a while.",
   "source": "Decrypt",
   "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion"
+ },
+ {
+  "date": "2026-11-16",
+  "tickers": [
+   "ALL",
+   "QQQ",
+   "NVDA",
+   "AMD",
+   "TSM"
+  ],
+  "effect": "bad",
+  "title": "Nasdaq falls for a third straight day as chip stocks slide",
+  "summary": "Tech stocks led the market lower on Monday. The Nasdaq dropped more than 2% and the S&P 500 lost close to 2%, with chip makers among the biggest losers. NVIDIA weighed on the AI group a day before its results.",
+  "why": "When the biggest companies fall together, index funds that hold them fall too. Three down days in a row shows investors are nervous about AI stocks right before a major report.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+ },
+ {
+  "date": "2026-11-16",
+  "tickers": [
+   "AMD",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "bad",
+  "title": "Traders pull back from chip stocks before NVIDIA reports",
+  "summary": "Shares of several chip makers fell sharply as traders cut bets on companies that compete with or supply the AI boom. Worries about possible tighter rules on chip sales abroad added to the pressure.",
+  "why": "Before a big report, some investors sell to avoid a surprise. That can push prices down even when nothing has changed inside the company. Suppliers often move together with NVIDIA.",
+  "source": "Investing.com",
+  "url": "https://uk.investing.com/news/stock-market-news/us-chip-stocks-slide-as-traders-unwind-nvidia-rival-bets-before-earnings-4985539"
  }
 ]
