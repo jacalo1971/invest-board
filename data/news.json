@@ -1,52 +1,55 @@
 [
  {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "tickers": [
    "ALL"
   ],
   "effect": "bad",
-  "title": "Wholesale prices are up 6.5% from a year ago",
-  "summary": "The government's producer price index rose 0.3% in October, slightly below the 0.4% experts expected. Compared with October last year, prices businesses pay were up 6.5%, the highest yearly rate since November 2022. A version that leaves out food and energy was up 5%.",
-  "why": "Prices that businesses pay often get passed on to shoppers later. When prices rise fast, the Federal Reserve may raise interest rates, and higher rates can make stocks less attractive.",
-  "source": "Reuters",
-  "url": "https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/"
+  "title": "Stock futures dip as a big week for AI stocks begins",
+  "summary": "Futures for the S&P 500 and the Nasdaq 100 were lower early Monday. AI related stocks were under pressure as investors waited for NVIDIA's results and Anthropic's stock market debut later in the week.",
+  "why": "Futures are bets on where prices will open, so they give an early hint about the day. A weak start does not decide how the day ends, but it shows investors feel nervous before big news.",
+  "source": "MarketScreener (Dow Jones)",
+  "url": "https://www.marketscreener.com/news/stock-futures-lower-to-kick-off-pivotal-week-for-ai-trade-nvidia-anthropic-eyed-ce785eded08df620"
  },
  {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Traders now expect a Fed rate hike in December",
-  "summary": "After the price report and tough comments from some Fed officials, traders added to bets that the Federal Reserve will raise its key interest rate at its December meeting. The 10 year Treasury yield traded around 5.1% on Friday.",
-  "why": "The Fed's interest rate affects how much it costs to borrow money for homes, cars and businesses. Higher rates can slow the economy and often weigh on fast growing stocks.",
-  "source": "Reuters",
-  "url": "https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/"
- },
- {
-  "date": "2026-11-13",
-  "tickers": [
+   "NVDA",
    "AMD",
    "AVGO",
-   "NVDA"
+   "TSM",
+   "VRT"
   ],
-  "effect": "bad",
-  "title": "Chip stocks that jumped this week gave back gains",
-  "summary": "AMD and Broadcom had climbed after NVIDIA's CEO resigned, as traders guessed they could win business from NVIDIA. On Friday that bet reversed, with AMD falling close to 9% and Broadcom about 5%. Reports point to profit-taking after a big run.",
-  "why": "When many people buy a stock for the same short term reason, the price can fall just as fast when they change their minds. That swing is a big part of what makes a stock risky.",
-  "source": "Invezz",
-  "url": "https://invezz.com/news/2026/11/13/amd-falls-9-intel-drops-6-as-chip-stocks-slide-on-friday/"
+  "effect": "watch",
+  "title": "NVIDIA shares its quarterly results on Tuesday",
+  "summary": "NVIDIA will report results for the quarter that ended October 25 on Tuesday, November 17, after the market closes. The company will also hold a call with analysts at 5 pm New York time.",
+  "why": "NVIDIA sells the chips that power a lot of AI. Its sales tell investors how much companies are spending on AI, so its report can move many chip stocks on our list, not just NVIDIA.",
+  "source": "NVIDIA",
+  "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
  },
  {
-  "date": "2026-11-13",
+  "date": "2026-11-16",
   "tickers": [
    "ALL"
   ],
   "effect": "watch",
-  "title": "Stocks slip Friday but the week still looks good",
-  "summary": "Stocks fell in shaky trading on Friday, pulled down mainly by chip companies. Even so, the market stayed on track to finish the week higher after several bumpy days.",
-  "why": "One bad day does not erase a good week. Looking at weeks or months, not just single days, helps you avoid reacting to every small move.",
-  "source": "AP",
-  "url": "https://www.ottumwacourier.com/news/business/stocks-sway-as-wall-street-heads-for-a-winning-week-after-several-turbulent-days/article_36e62b15-8f31-5af0-bf82-df2080ae2858.html"
+  "title": "Fed notes from its October meeting come out Wednesday",
+  "summary": "The Federal Reserve's calendar shows the minutes of its October 27 and 28 meeting will be released on Wednesday, November 18, at 2 pm New York time. Minutes are the written record of what Fed leaders discussed.",
+  "why": "The Fed sets the interest rate that affects loans across the country. If the notes show leaders want higher rates to fight rising prices, stocks can fall because borrowing gets more expensive.",
+  "source": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+ },
+ {
+  "date": "2026-11-10",
+  "tickers": [
+   "GOOGL",
+   "AMZN"
+  ],
+  "effect": "watch",
+  "title": "Anthropic sets a price range for its stock debut",
+  "summary": "AI company Anthropic set a range of $70 to $78 per share for its initial public offering and plans to list on the Nasdaq under the ticker ANT. Reports said the offering could raise about $64 billion, which would make it one of the largest ever.",
+  "why": "Amazon and Alphabet are both investors in Anthropic. The price the market puts on Anthropic can change how people value those stakes, and a huge new stock can pull money from other AI shares for a while.",
+  "source": "Decrypt",
+  "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion"
  }
 ]

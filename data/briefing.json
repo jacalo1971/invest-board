@@ -1,37 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "How Friday closed",
-  "text": "Friday ended in the red for most of our list. The S&P 500 fund SPY slipped 0.4% and the Nasdaq 100 fund QQQ fell 1.2%, led by chip stocks. Two things weighed on the market: a hot report on wholesale prices, and traders selling chip stocks that had jumped earlier in the week. Even so, news reports say the Nasdaq still had its best week since August. A few steady names went up: Eli Lilly, Meta, Microsoft and the dividend fund SCHD."
+  "title": "What to watch at the open",
+  "text": "A big week starts today, and stock futures were pointing lower this morning, led by AI stocks. Futures are bets on where prices will open. The main event is NVIDIA's earnings report on Tuesday after the market closes. On Wednesday the Federal Reserve shares notes from its last meeting, and later this week Anthropic, an AI company, plans to start selling shares to the public. Our prices below are from Friday's close, so expect them to move once trading begins at 9:30 am New York time."
  },
  {
   "kind": "alert",
-  "title": "AMD had the biggest drop on our list",
-  "text": "AMD fell 8.8% to $534.06. Earlier this week many traders bought AMD and Broadcom, guessing they would win business if NVIDIA struggled after its CEO left. On Friday a lot of them sold to lock in gains, and Broadcom fell 4.8% too. AMD is still 73% of the way up its one year range, so it has not lost most of its recent climb. Our risk score for AMD went up a little, from 7.3 to 7.5, which is in the high zone."
+  "title": "NVIDIA reports on Tuesday",
+  "text": "NVIDIA will share its results for the three months that ended October 25 on Tuesday, right after the market closes. It is the first report since its leadership change. NVIDIA closed Friday at $162.85, only 15% of the way up its one year range and about 9% above its one year low of $148.80. Analysts' average target is $317.87, but targets are guesses and can change after a report. Many chip stocks on our list, like AMD, Broadcom, TSMC and Vertiv, often move when NVIDIA reports."
  },
  {
   "kind": "alert",
-  "title": "Wholesale prices are rising fast",
-  "text": "The producer price index, which tracks prices businesses pay each other, rose 0.3% in October. That was a bit less than experts expected for the month. But compared with a year ago, prices were up 6.5%, the fastest pace since November 2022. Fast rising prices can push the Federal Reserve to raise interest rates. Traders are now betting on a rate hike in December, and the 10 year Treasury yield is sitting above 5%."
+  "title": "Fed meeting notes come out Wednesday",
+  "text": "The Federal Reserve will publish the minutes, which are the written notes, from its October meeting on Wednesday at 2 pm New York time. Last week a report showed wholesale prices up 6.5% from a year ago, and traders started to expect a rate hike in December. The notes may show how worried Fed leaders are about prices. Higher rates can make fast growing stocks less attractive. The 10 year Treasury yield averaged 5.13% in October, its highest monthly level in our chart."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA is close to its one year low",
-  "text": "NVIDIA fell 2.0% to $162.85. It is now only 15% of the way up its one year range. Its lowest price of the past year was $148.80, so it is about 9% above that level. Analysts' average target is $321, almost double today's price, but targets are guesses and can be cut. NVIDIA's risk score stays at 6.0, in the medium zone."
- },
- {
-  "kind": "alert",
-  "title": "Steady names held up",
-  "text": "Not everything went down. Eli Lilly rose 1.4% to $1,445.40, very close to its one year high of $1,460. The dividend fund SCHD rose 0.5% and is also near its high. Meta rose 2.9%. On a day when fast growing chip stocks fall, companies with steadier sales sometimes hold up better. That is one reason people spread money across different kinds of companies."
+  "title": "A giant AI company may go public this week",
+  "text": "Anthropic has set a price range of $70 to $78 per share for its first public sale of stock, with a planned listing on the Nasdaq under the ticker ANT. If it sells at those prices, it would be one of the biggest stock debuts ever. Amazon and Alphabet own stakes in Anthropic, so the price it gets could affect how investors view those two companies too. A big new stock can also pull money away from other AI stocks for a few days."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 51: What is profit-taking?",
-  "text": "Profit-taking means selling a stock after its price went up, to lock in the gain. Imagine you buy a trading card for $10, and a week later everyone wants it and it is worth $15. If you sell it, you take your $5 profit. When a stock jumps fast, like AMD did earlier this week, many people take profits at the same time. All that selling can push the price down, even if nothing bad happened at the company. So a drop after a big jump does not always mean the company is in trouble. It can just mean people are cashing in."
+  "title": "Lesson 52: What is an IPO?",
+  "text": "IPO stands for initial public offering. It is the first time a private company sells its shares to the public on a stock exchange. Before an IPO, only founders, workers and a few big investors can own the company. Think of a lemonade stand that has grown big: to raise money for more stands, the owners let anyone buy a small piece of the business. The company and its bankers pick a price range first, then set a final price the night before trading starts. On the first day the price can jump or drop a lot, because nobody knows yet what the market thinks it is worth. That is why many careful investors wait a while before buying a new stock."
  },
  {
   "kind": "coverage",
   "title": "Where today's numbers come from",
-  "text": "Prices, daily changes, beta, 52 week ranges and sector moves come from Financial Modeling Prep and reflect Friday's close. Analyst targets are shown for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; other ratios carry over from the last update. The 10 year yield history comes from Alpha Vantage. News comes from Reuters, AP and other outlets linked in the news section. This is for learning, not advice to buy or sell anything."
+  "text": "Prices, daily changes, beta, 52 week ranges and sector moves come from Financial Modeling Prep and reflect Friday's close on November 13. Analyst targets are shown for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; ratios for other names carry over from earlier updates. The 10 year yield history comes from Alpha Vantage. News comes from company releases, the Federal Reserve calendar and news reports. This is information for learning, not advice to buy or sell anything."
  }
 ]
