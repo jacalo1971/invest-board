@@ -2654,19 +2654,19 @@
  {
   "date": "2026-11-16",
   "symbol": "SPY",
-  "price": 739.96,
+  "price": 739.95,
   "risk_score": 2.3
  },
  {
   "date": "2026-11-16",
   "symbol": "QQQ",
-  "price": 661.82,
+  "price": 661.75,
   "risk_score": 3.2
  },
  {
   "date": "2026-11-16",
   "symbol": "SCHD",
-  "price": 35.865,
+  "price": 35.86,
   "risk_score": 1.8
  },
  {
@@ -2684,13 +2684,13 @@
  {
   "date": "2026-11-16",
   "symbol": "TSM",
-  "price": 373.43,
+  "price": 373.45,
   "risk_score": 4.9
  },
  {
   "date": "2026-11-16",
   "symbol": "VRT",
-  "price": 188.72,
+  "price": 188.67,
   "risk_score": 8.1
  },
  {
@@ -2727,18 +2727,18 @@
   "date": "2026-11-16",
   "symbol": "RKLB",
   "price": 57.37,
-  "risk_score": 10.0
+  "risk_score": 10
  },
  {
   "date": "2026-11-16",
   "symbol": "LMT",
-  "price": 585.415,
+  "price": 585.21,
   "risk_score": 3.0
  },
  {
   "date": "2026-11-16",
   "symbol": "GE",
-  "price": 325.29,
+  "price": 325.18,
   "risk_score": 4.9
  },
  {
@@ -2750,7 +2750,7 @@
  {
   "date": "2026-11-16",
   "symbol": "ISRG",
-  "price": 437.9,
+  "price": 437.75,
   "risk_score": 5.6
  }
 ]

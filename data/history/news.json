@@ -1805,5 +1805,48 @@
   "why": "Before a big report, some investors sell to avoid a surprise. That can push prices down even when nothing has changed inside the company. Suppliers often move together with NVIDIA.",
   "source": "Investing.com",
   "url": "https://uk.investing.com/news/stock-market-news/us-chip-stocks-slide-as-traders-unwind-nvidia-rival-bets-before-earnings-4985539"
+ },
+ {
+  "date": "2026-11-17",
+  "tickers": [
+   "ALL",
+   "QQQ",
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "Stock futures dip as traders wait for NVIDIA",
+  "summary": "Futures for the Dow, the S&P 500 and the Nasdaq 100 were slightly lower early Tuesday. Traders were cautious after Monday's tech selloff and ahead of NVIDIA's results tonight. Some Fed officials are also scheduled to speak.",
+  "why": "Futures give a hint of how the market may open. When everyone is waiting for one big event, prices often drift until the news is out.",
+  "source": "Reuters via Investing.com",
+  "url": "https://investing.com/news/stock-market-news/us-stock-futures-slip-ahead-of-nvidia-results-fed-speakers-in-focus-5032236"
+ },
+ {
+  "date": "2026-11-17",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "watch",
+  "title": "NVIDIA's first report since its CEO left",
+  "summary": "NVIDIA shares its quarterly results after the market closes on Tuesday. It is the first report since Jensen Huang stepped down as CEO last week. The stock has dropped a lot this month going into the report.",
+  "why": "Investors will look at sales and at what the new leaders say about the future. NVIDIA is the biggest AI chip seller, so its news can move many other chip stocks too.",
+  "source": "Invezz",
+  "url": "https://invezz.com/news/2026/11/17/us-stock-futures-fall-ahead-of-nvidia-earnings-5-things-to-know-before-market-opens/"
+ },
+ {
+  "date": "2026-11-12",
+  "tickers": [
+   "GOOGL",
+   "AMZN"
+  ],
+  "effect": "watch",
+  "title": "Strong demand reported for Anthropic's stock sale",
+  "summary": "Reports say investors asked for about six times more Anthropic shares than the company plans to sell. The price range is $70 to $78 a share. Anthropic is expected to set the final price on Wednesday and start trading on the Nasdaq on Thursday under the ticker ANT.",
+  "why": "Alphabet and Amazon own pieces of Anthropic, so a strong debut could raise the value of their stakes. A big, popular IPO also shows how excited investors still are about AI.",
+  "source": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed"
  }
 ]

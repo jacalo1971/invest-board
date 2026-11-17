@@ -1,37 +1,20 @@
 [
  {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "tickers": [
    "ALL",
    "QQQ",
-   "NVDA",
-   "AMD",
-   "TSM"
+   "NVDA"
   ],
-  "effect": "bad",
-  "title": "Nasdaq falls for a third straight day as chip stocks slide",
-  "summary": "Tech stocks led the market lower on Monday. The Nasdaq dropped more than 2% and the S&P 500 lost close to 2%, with chip makers among the biggest losers. NVIDIA weighed on the AI group a day before its results.",
-  "why": "When the biggest companies fall together, index funds that hold them fall too. Three down days in a row shows investors are nervous about AI stocks right before a major report.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+  "effect": "watch",
+  "title": "Stock futures dip as traders wait for NVIDIA",
+  "summary": "Futures for the Dow, the S&P 500 and the Nasdaq 100 were slightly lower early Tuesday. Traders were cautious after Monday's tech selloff and ahead of NVIDIA's results tonight. Some Fed officials are also scheduled to speak.",
+  "why": "Futures give a hint of how the market may open. When everyone is waiting for one big event, prices often drift until the news is out.",
+  "source": "Reuters via Investing.com",
+  "url": "https://investing.com/news/stock-market-news/us-stock-futures-slip-ahead-of-nvidia-results-fed-speakers-in-focus-5032236"
  },
  {
-  "date": "2026-11-16",
-  "tickers": [
-   "AMD",
-   "AVGO",
-   "TSM",
-   "VRT"
-  ],
-  "effect": "bad",
-  "title": "Traders pull back from chip stocks before NVIDIA reports",
-  "summary": "Shares of several chip makers fell sharply as traders cut bets on companies that compete with or supply the AI boom. Worries about possible tighter rules on chip sales abroad added to the pressure.",
-  "why": "Before a big report, some investors sell to avoid a surprise. That can push prices down even when nothing has changed inside the company. Suppliers often move together with NVIDIA.",
-  "source": "Investing.com",
-  "url": "https://uk.investing.com/news/stock-market-news/us-chip-stocks-slide-as-traders-unwind-nvidia-rival-bets-before-earnings-4985539"
- },
- {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "tickers": [
    "NVDA",
    "AMD",
@@ -40,35 +23,23 @@
    "VRT"
   ],
   "effect": "watch",
-  "title": "NVIDIA shares its quarterly results on Tuesday",
-  "summary": "NVIDIA will report results for the quarter that ended October 25 on Tuesday, November 17, after the market closes. The company will also hold a call with analysts at 5 pm New York time.",
-  "why": "NVIDIA sells the chips that power a lot of AI. Its sales tell investors how much companies are spending on AI, so its report can move many chip stocks on our list, not just NVIDIA.",
-  "source": "NVIDIA",
-  "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+  "title": "NVIDIA's first report since its CEO left",
+  "summary": "NVIDIA shares its quarterly results after the market closes on Tuesday. It is the first report since Jensen Huang stepped down as CEO last week. The stock has dropped a lot this month going into the report.",
+  "why": "Investors will look at sales and at what the new leaders say about the future. NVIDIA is the biggest AI chip seller, so its news can move many other chip stocks too.",
+  "source": "Invezz",
+  "url": "https://invezz.com/news/2026/11/17/us-stock-futures-fall-ahead-of-nvidia-earnings-5-things-to-know-before-market-opens/"
  },
  {
-  "date": "2026-11-16",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Fed notes from its October meeting come out Wednesday",
-  "summary": "The Federal Reserve's calendar shows the minutes of its October 27 and 28 meeting will be released on Wednesday, November 18, at 2 pm New York time. Minutes are the written record of what Fed leaders discussed.",
-  "why": "The Fed sets the interest rate that affects loans across the country. If the notes show leaders want higher rates to fight rising prices, stocks can fall because borrowing gets more expensive.",
-  "source": "Federal Reserve",
-  "url": "https://www.federalreserve.gov/newsevents/2026-november.htm"
- },
- {
-  "date": "2026-11-10",
+  "date": "2026-11-12",
   "tickers": [
    "GOOGL",
    "AMZN"
   ],
   "effect": "watch",
-  "title": "Anthropic sets a price range for its stock debut",
-  "summary": "AI company Anthropic set a range of $70 to $78 per share for its initial public offering and plans to list on the Nasdaq under the ticker ANT. Reports said the offering could raise about $64 billion, which would make it one of the largest ever.",
-  "why": "Amazon and Alphabet are both investors in Anthropic. The price the market puts on Anthropic can change how people value those stakes, and a huge new stock can pull money from other AI shares for a while.",
-  "source": "Decrypt",
-  "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion"
+  "title": "Strong demand reported for Anthropic's stock sale",
+  "summary": "Reports say investors asked for about six times more Anthropic shares than the company plans to sell. The price range is $70 to $78 a share. Anthropic is expected to set the final price on Wednesday and start trading on the Nasdaq on Thursday under the ticker ANT.",
+  "why": "Alphabet and Amazon own pieces of Anthropic, so a strong debut could raise the value of their stakes. A big, popular IPO also shows how excited investors still are about AI.",
+  "source": "Bloomberg",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed"
  }
 ]
