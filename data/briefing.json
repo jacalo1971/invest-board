@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Stock futures, which are bets on where prices will open, were a little lower early Tuesday after Monday's tech selloff. The big event is tonight: NVIDIA reports its results after the market closes. On Monday the five AI supplier stocks on our list fell about 5.3% on average, and the four big AI platform companies fell about 2.7%. Expect a nervous, choppy day until NVIDIA's numbers are out. Prices on this page are Monday's closing prices."
+  "title": "How the day closed",
+  "text": "Stocks fell for a second day in a row. The S&P 500 fund (SPY) lost about 1.1% and the Nasdaq 100 fund (QQQ) lost about 0.7%. Most big tech names slipped, while industrial and health companies held up better. Everyone is now waiting for NVIDIA's report, which comes out after the close tonight. Nothing on this page is advice; it is here to help us learn."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA reports tonight, its first report since the CEO change",
-  "text": "NVIDIA closed Monday at $156.14, only about 5% above its lowest price of the past year ($148.80). This is its first report since Jensen Huang stepped down as CEO last week, with Colette Kress leading for now. A report can push a stock up or down a lot in one day. Because NVIDIA is so big, its move can also pull chip suppliers like AMD, TSMC, Broadcom and Vertiv, and funds like QQQ, along with it."
+  "title": "NVIDIA reports tonight, near its lowest price of the year",
+  "text": "NVIDIA closed at $155.46, down 0.4%. That is only 7% of the way up from its lowest price of the past year, and 36% below its high. Its results come out after 4 pm New York time, so tomorrow's price can jump or drop a lot. Its suppliers and partners (AMD, Broadcom, TSMC, Vertiv) often move with it."
  },
  {
   "kind": "alert",
-  "title": "Alphabet waits near its one year low as Anthropic prices its stock",
-  "text": "Alphabet ended Monday at $283.72, about 4% above its one year low of $272.11. Anthropic, an AI company that Alphabet and Amazon own pieces of, is expected to set its final share price on Wednesday and start trading Thursday. Reports say buyers asked for about six times more shares than are for sale. How that debut goes may move Alphabet and Amazon."
+  "title": "TSMC and Microsoft led the drop on our list",
+  "text": "TSMC fell 3.7% and Microsoft fell 2.3%, two of the bigger drops on our list. Broadcom went the other way and rose 2.5%. When stocks in the same group move in different directions, it reminds us that each company has its own story."
  },
  {
   "kind": "alert",
-  "title": "Calm stocks are holding near their highs",
-  "text": "While chip stocks are far below their peaks (Vertiv is about 50% under its one year high), the dividend fund SCHD is only 1.4% below its high and Eli Lilly is 2.8% below. Slower, steadier companies often hold up better when fast growing stocks get hit. That is one reason people mix both kinds."
+  "title": "Alphabet sits close to its one year low",
+  "text": "Alphabet closed at $280.20, very close to its lowest price of the past year ($272.11). Anthropic, an AI company that Alphabet has invested in, plans to set its stock price this week. That event could change how investors feel about Alphabet."
+ },
+ {
+  "kind": "alert",
+  "title": "Rocket Lab keeps the top risk score",
+  "text": "Rocket Lab fell 4.0% and has a risk score of 10 out of 10. It is 63% below its high of the past year. A high score means the price swings a lot, so even a small amount of money in it can go up or down fast."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 54: What are stock futures?",
-  "text": "The stock market opens at 9:30 am New York time, but people want to trade on news that comes out overnight. Stock futures let them do that. A future is a deal to buy or sell an index, like the S&P 500, at a set price on a later date, and futures trade almost all day and night. So when the news says 'futures are down 0.5%', it means traders expect stocks to open a bit lower. It is a weather forecast, not a promise: the real market can turn around once it opens. Long term investors usually do not need to act on futures; they are just a clue about the mood of the morning."
+  "title": "Lesson 55: What is a defensive stock?",
+  "text": "A defensive stock belongs to a company that people keep paying even when times are hard, like medicine, electricity, food, or national defense. Because their sales do not drop much in a slow economy, these stocks often fall less when the market is scared. Today is a good example: most groups fell, but health and industrial companies held up better, and Lockheed Martin rose 0.9%. Defensive does not mean safe; these stocks can still fall. They just tend to move more calmly, which is why many investors keep some of them to balance riskier picks."
  },
  {
   "kind": "coverage",
   "title": "Where today's numbers come from",
-  "text": "Prices, daily changes, beta, 52 week ranges and sector moves come from FMP and show Monday's close. Analyst targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE. For TSMC we kept last reading's one year low ($266.82) because today's feed showed a much lower number that looks like a data error. The 10 year Treasury yield is a monthly average from Alpha Vantage. News comes from web searches of news sites. Nothing here is advice to buy or sell."
+  "text": "Prices are the close of Tuesday, November 17, 2026, from Financial Modeling Prep. Analyst price targets cover NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE. The 10 year Treasury rate is a monthly average from Alpha Vantage. NVIDIA's results are not included yet, because they come out after this update. News comes from web searches, and we only used facts we could check."
  }
 ]

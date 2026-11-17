@@ -3,15 +3,17 @@
   "date": "2026-11-17",
   "tickers": [
    "ALL",
+   "SPY",
    "QQQ",
-   "NVDA"
+   "MSFT",
+   "TSM"
   ],
-  "effect": "watch",
-  "title": "Stock futures dip as traders wait for NVIDIA",
-  "summary": "Futures for the Dow, the S&P 500 and the Nasdaq 100 were slightly lower early Tuesday. Traders were cautious after Monday's tech selloff and ahead of NVIDIA's results tonight. Some Fed officials are also scheduled to speak.",
-  "why": "Futures give a hint of how the market may open. When everyone is waiting for one big event, prices often drift until the news is out.",
-  "source": "Reuters via Investing.com",
-  "url": "https://investing.com/news/stock-market-news/us-stock-futures-slip-ahead-of-nvidia-results-fed-speakers-in-focus-5032236"
+  "effect": "bad",
+  "title": "Stocks fall for a second day as NVIDIA's report nears",
+  "summary": "Major US stock indexes ended lower again on Tuesday, one day after the S&P 500 had its lowest close since July. Tech and energy were among the weakest groups, while industrial and health companies did better.",
+  "why": "When the whole market falls, even good companies usually drop with it. Investors were nervous before a big earnings report, so many chose to sell first and wait.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
  },
  {
   "date": "2026-11-17",
@@ -23,23 +25,35 @@
    "VRT"
   ],
   "effect": "watch",
-  "title": "NVIDIA's first report since its CEO left",
-  "summary": "NVIDIA shares its quarterly results after the market closes on Tuesday. It is the first report since Jensen Huang stepped down as CEO last week. The stock has dropped a lot this month going into the report.",
-  "why": "Investors will look at sales and at what the new leaders say about the future. NVIDIA is the biggest AI chip seller, so its news can move many other chip stocks too.",
-  "source": "Invezz",
-  "url": "https://invezz.com/news/2026/11/17/us-stock-futures-fall-ahead-of-nvidia-earnings-5-things-to-know-before-market-opens/"
+  "title": "NVIDIA's results come out after today's close",
+  "summary": "NVIDIA said it would share results for the three months that ended October 25 and hold a call with investors at 5 pm New York time on November 17. Its stock closed slightly lower ahead of the news, near its lowest price of the past year.",
+  "why": "NVIDIA makes the chips that power most AI. Its report tells us whether companies are still spending big on AI, which affects many other stocks on our list.",
+  "source": "NVIDIA",
+  "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6ae2629e3d6332e4d401652e/"
  },
  {
-  "date": "2026-11-12",
+  "date": "2026-11-10",
   "tickers": [
    "GOOGL",
    "AMZN"
   ],
   "effect": "watch",
-  "title": "Strong demand reported for Anthropic's stock sale",
-  "summary": "Reports say investors asked for about six times more Anthropic shares than the company plans to sell. The price range is $70 to $78 a share. Anthropic is expected to set the final price on Wednesday and start trading on the Nasdaq on Thursday under the ticker ANT.",
-  "why": "Alphabet and Amazon own pieces of Anthropic, so a strong debut could raise the value of their stakes. A big, popular IPO also shows how excited investors still are about AI.",
-  "source": "Bloomberg",
-  "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed"
+  "title": "Anthropic sets a price range for its stock sale",
+  "summary": "AI company Anthropic set a range of $70 to $78 per share for its first public stock sale and plans to list on Nasdaq under the symbol ANT. Reports say the final price is expected on November 18 and trading on November 19.",
+  "why": "Alphabet and Amazon have both invested in Anthropic. How well the sale goes can change what investors think those stakes are worth.",
+  "source": "RTTNews",
+  "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx?type=bn"
+ },
+ {
+  "date": "2026-11-17",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Long term interest rates stay above 5%",
+  "summary": "Federal Reserve data show the 10 year Treasury rate averaged 5.13% in October. A year earlier it averaged about 4.09%, so borrowing money for a long time has become more expensive.",
+  "why": "When safe government bonds pay more, some investors move money out of stocks. Higher rates also make loans cost more for companies and families.",
+  "source": "Federal Reserve (H.15 data)",
+  "url": "https://www.federalreserve.gov/releases/h15/"
  }
 ]

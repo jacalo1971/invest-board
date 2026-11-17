@@ -1848,5 +1848,62 @@
   "why": "Alphabet and Amazon own pieces of Anthropic, so a strong debut could raise the value of their stakes. A big, popular IPO also shows how excited investors still are about AI.",
   "source": "Bloomberg",
   "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed"
+ },
+ {
+  "date": "2026-11-17",
+  "tickers": [
+   "ALL",
+   "SPY",
+   "QQQ",
+   "MSFT",
+   "TSM"
+  ],
+  "effect": "bad",
+  "title": "Stocks fall for a second day as NVIDIA's report nears",
+  "summary": "Major US stock indexes ended lower again on Tuesday, one day after the S&P 500 had its lowest close since July. Tech and energy were among the weakest groups, while industrial and health companies did better.",
+  "why": "When the whole market falls, even good companies usually drop with it. Investors were nervous before a big earnings report, so many chose to sell first and wait.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+ },
+ {
+  "date": "2026-11-17",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "watch",
+  "title": "NVIDIA's results come out after today's close",
+  "summary": "NVIDIA said it would share results for the three months that ended October 25 and hold a call with investors at 5 pm New York time on November 17. Its stock closed slightly lower ahead of the news, near its lowest price of the past year.",
+  "why": "NVIDIA makes the chips that power most AI. Its report tells us whether companies are still spending big on AI, which affects many other stocks on our list.",
+  "source": "NVIDIA",
+  "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6ae2629e3d6332e4d401652e/"
+ },
+ {
+  "date": "2026-11-10",
+  "tickers": [
+   "GOOGL",
+   "AMZN"
+  ],
+  "effect": "watch",
+  "title": "Anthropic sets a price range for its stock sale",
+  "summary": "AI company Anthropic set a range of $70 to $78 per share for its first public stock sale and plans to list on Nasdaq under the symbol ANT. Reports say the final price is expected on November 18 and trading on November 19.",
+  "why": "Alphabet and Amazon have both invested in Anthropic. How well the sale goes can change what investors think those stakes are worth.",
+  "source": "RTTNews",
+  "url": "https://www.rttnews.com/3712632/anthropic-sets-ipo-price-range-at-70-78-per-share-launches-roadshow.aspx?type=bn"
+ },
+ {
+  "date": "2026-11-17",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Long term interest rates stay above 5%",
+  "summary": "Federal Reserve data show the 10 year Treasury rate averaged 5.13% in October. A year earlier it averaged about 4.09%, so borrowing money for a long time has become more expensive.",
+  "why": "When safe government bonds pay more, some investors move money out of stocks. Higher rates also make loans cost more for companies and families.",
+  "source": "Federal Reserve (H.15 data)",
+  "url": "https://www.federalreserve.gov/releases/h15/"
  }
 ]
