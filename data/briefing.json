@@ -1,37 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "How the day closed",
-  "text": "Stocks fell for a second day in a row. The S&P 500 fund (SPY) lost about 1.1% and the Nasdaq 100 fund (QQQ) lost about 0.7%. Most big tech names slipped, while industrial and health companies held up better. Everyone is now waiting for NVIDIA's report, which comes out after the close tonight. Nothing on this page is advice; it is here to help us learn."
+  "title": "What to watch at the open",
+  "text": "Today is all about NVIDIA. Last night it reported sales of about $115.8 billion for the quarter, more than experts expected, and its forecast for next quarter was also higher than expected. The stock rose in after-hours trading, after closing at $155.46. Watch whether that gain holds when regular trading starts at 9:30 am New York time, and whether chip makers on our list move with it. Nothing on this page is advice; it is here to help us learn."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA reports tonight, near its lowest price of the year",
-  "text": "NVIDIA closed at $155.46, down 0.4%. That is only 7% of the way up from its lowest price of the past year, and 36% below its high. Its results come out after 4 pm New York time, so tomorrow's price can jump or drop a lot. Its suppliers and partners (AMD, Broadcom, TSMC, Vertiv) often move with it."
+  "title": "NVIDIA beat expectations, but some analysts cut targets",
+  "text": "NVIDIA's sales more than doubled compared with a year ago, and it expects about $130 billion next quarter. Even so, the average analyst price target in our data slipped from about $304 to about $287. Some experts worry about the change in leadership after the CEO stepped down. The stock still sits only 7% above its lowest price of the past year."
  },
  {
   "kind": "alert",
-  "title": "TSMC and Microsoft led the drop on our list",
-  "text": "TSMC fell 3.7% and Microsoft fell 2.3%, two of the bigger drops on our list. Broadcom went the other way and rose 2.5%. When stocks in the same group move in different directions, it reminds us that each company has its own story."
+  "title": "Anthropic may set its stock price tonight",
+  "text": "Anthropic, a big AI company, is expected to set the price of its new shares this evening and start trading on Nasdaq tomorrow under the ticker ANT. Several companies on our list, like Alphabet, Microsoft, NVIDIA, AMD, Broadcom and TSMC, agreed to buy shares too. How this goes could change how investors feel about AI stocks in general."
  },
  {
   "kind": "alert",
-  "title": "Alphabet sits close to its one year low",
-  "text": "Alphabet closed at $280.20, very close to its lowest price of the past year ($272.11). Anthropic, an AI company that Alphabet has invested in, plans to set its stock price this week. That event could change how investors feel about Alphabet."
- },
- {
-  "kind": "alert",
-  "title": "Rocket Lab keeps the top risk score",
-  "text": "Rocket Lab fell 4.0% and has a risk score of 10 out of 10. It is 63% below its high of the past year. A high score means the price swings a lot, so even a small amount of money in it can go up or down fast."
+  "title": "Rocket Lab and Vertiv are the riskiest on our list",
+  "text": "Rocket Lab has the highest risk score on our list (10 out of 10) and is 64% below its high of the past year. Vertiv scores 8.1 and is about 50% below its high. Big drops like these show how much these stocks can swing, in both directions."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 55: What is a defensive stock?",
-  "text": "A defensive stock belongs to a company that people keep paying even when times are hard, like medicine, electricity, food, or national defense. Because their sales do not drop much in a slow economy, these stocks often fall less when the market is scared. Today is a good example: most groups fell, but health and industrial companies held up better, and Lockheed Martin rose 0.9%. Defensive does not mean safe; these stocks can still fall. They just tend to move more calmly, which is why many investors keep some of them to balance riskier picks."
+  "title": "Lesson 56: What does \"beat estimates\" mean?",
+  "text": "Before a company reports, experts called analysts guess how much it will sell and earn. The average of those guesses is the \"estimate.\" If the real number is higher, the company \"beat estimates.\" If it is lower, it \"missed.\" NVIDIA beat this time: experts expected about $109 billion in sales and it reported about $115.8 billion. But a beat does not always make a stock go up. If investors hoped for an even bigger number, the price can still fall. The stock price reacts to the surprise, not just to the result."
  },
  {
   "kind": "coverage",
-  "title": "Where today's numbers come from",
-  "text": "Prices are the close of Tuesday, November 17, 2026, from Financial Modeling Prep. Analyst price targets cover NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE. The 10 year Treasury rate is a monthly average from Alpha Vantage. NVIDIA's results are not included yet, because they come out after this update. News comes from web searches, and we only used facts we could check."
+  "title": "What this update covers",
+  "text": "Prices are from Tuesday's close (November 17). Price targets and money numbers come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE; the other stocks show price, beta and 52 week range only. The 10 year Treasury rate is a monthly average from Alpha Vantage. News was checked in several reports. Risk scores and scenarios are simple math, not predictions."
  }
 ]
