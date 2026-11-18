@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Today is all about NVIDIA. Last night it reported sales of about $115.8 billion for the quarter, more than experts expected, and its forecast for next quarter was also higher than expected. The stock rose in after-hours trading, after closing at $155.46. Watch whether that gain holds when regular trading starts at 9:30 am New York time, and whether chip makers on our list move with it. Nothing on this page is advice; it is here to help us learn."
+  "title": "How the day closed",
+  "text": "A mixed day. The S&P 500 fund (SPY) slipped 0.3% and the Nasdaq 100 fund (QQQ) rose 0.4%. NVIDIA gave back its after-hours jump from last night and closed down 3.0% at $150.86, even though its results beat expectations. Other chip makers went the other way: AMD rose 5.3% and Broadcom 3.6%. Amazon gained 3.8%. Tomorrow, watch Anthropic's first day of trading. Nothing on this page is advice; it is here to help us learn."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA beat expectations, but some analysts cut targets",
-  "text": "NVIDIA's sales more than doubled compared with a year ago, and it expects about $130 billion next quarter. Even so, the average analyst price target in our data slipped from about $304 to about $287. Some experts worry about the change in leadership after the CEO stepped down. The stock still sits only 7% above its lowest price of the past year."
+  "title": "NVIDIA closed near its lowest price of the year",
+  "text": "NVIDIA is now only about 1.4% above its lowest price of the past 52 weeks ($148.80) and 38% below its high. Investors seem more worried about who will lead the company than about its sales, which were strong. At least one analyst moved the stock from Buy to Hold today. The average analyst price target in our data dipped again, to about $276."
  },
  {
   "kind": "alert",
-  "title": "Anthropic may set its stock price tonight",
-  "text": "Anthropic, a big AI company, is expected to set the price of its new shares this evening and start trading on Nasdaq tomorrow under the ticker ANT. Several companies on our list, like Alphabet, Microsoft, NVIDIA, AMD, Broadcom and TSMC, agreed to buy shares too. How this goes could change how investors feel about AI stocks in general."
+  "title": "Fed notes point to more rate hikes",
+  "text": "The Federal Reserve released notes from its October meeting. Almost all officials thought more interest rate increases would probably be needed to bring inflation back down to 2%. Many also said heavy spending on AI could push prices up. Higher rates can make borrowing more expensive and can weigh on stock prices, especially for fast-growing companies."
  },
  {
   "kind": "alert",
-  "title": "Rocket Lab and Vertiv are the riskiest on our list",
-  "text": "Rocket Lab has the highest risk score on our list (10 out of 10) and is 64% below its high of the past year. Vertiv scores 8.1 and is about 50% below its high. Big drops like these show how much these stocks can swing, in both directions."
+  "title": "Anthropic is expected to start trading tomorrow",
+  "text": "AI company Anthropic is expected to set its share price tonight and start trading on Nasdaq tomorrow under the ticker ANT. Reports say the price could land above the $70 to $78 range it first gave. Amazon, which owns part of Anthropic, rose 3.8% today. A strong or weak first day could change how people feel about AI stocks in general."
+ },
+ {
+  "kind": "alert",
+  "title": "Not all chip stocks move together",
+  "text": "On a day when NVIDIA fell 3%, AMD rose 5.3%, Broadcom 3.6% and Vertiv 2.1%. AMD had dropped more than 13% in the two days before, so part of today's gain was a bounce back. This is a good reminder that companies in the same industry can still move in different directions."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 56: What does \"beat estimates\" mean?",
-  "text": "Before a company reports, experts called analysts guess how much it will sell and earn. The average of those guesses is the \"estimate.\" If the real number is higher, the company \"beat estimates.\" If it is lower, it \"missed.\" NVIDIA beat this time: experts expected about $109 billion in sales and it reported about $115.8 billion. But a beat does not always make a stock go up. If investors hoped for an even bigger number, the price can still fall. The stock price reacts to the surprise, not just to the result."
+  "title": "Lesson 57: What are Fed meeting minutes?",
+  "text": "The Federal Reserve, or Fed, is the group that sets the main interest rate in the United States. About eight times a year its leaders meet to decide whether to raise, lower or hold that rate. Three weeks after each meeting, the Fed publishes the minutes: a written summary of what the leaders discussed and worried about. The decision itself is old news by then, but the minutes give clues about what the Fed might do next. That is why markets react to them. Today's minutes said almost all officials expect more rate increases. Think of it like reading the notes from a team meeting to guess the coach's next play."
  },
  {
   "kind": "coverage",
-  "title": "What this update covers",
-  "text": "Prices are from Tuesday's close (November 17). Price targets and money numbers come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE; the other stocks show price, beta and 52 week range only. The 10 year Treasury rate is a monthly average from Alpha Vantage. News was checked in several reports. Risk scores and scenarios are simple math, not predictions."
+  "title": "What this covers",
+  "text": "Prices, daily changes, beta and 52 week ranges for all 17 names come from the close on November 18, 2026. Analyst price targets and company ratios are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the other names show risk based on price moves only. For Alphabet we kept yesterday's 52 week low because today's data source showed a value that did not make sense. The 10 year Treasury chart shows monthly averages through October. News comes from the sources linked on each story."
  }
 ]

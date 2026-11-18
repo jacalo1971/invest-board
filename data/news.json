@@ -1,47 +1,54 @@
 [
  {
-  "date": "2026-11-17",
-  "tickers": [
-   "NVDA",
-   "AMD",
-   "AVGO",
-   "TSM",
-   "VRT"
-  ],
-  "effect": "good",
-  "title": "NVIDIA's sales and forecast top expectations",
-  "summary": "NVIDIA reported about $115.8 billion in sales for its latest quarter, roughly double a year earlier and above what analysts expected. It also told investors it expects about $130 billion next quarter, give or take 3%, which was higher than the average guess. The shares rose in after-hours trading.",
-  "why": "NVIDIA makes the chips that power most AI. When it sells more, it is a sign that companies are still spending big on AI, which can also help its suppliers and partners.",
-  "source": "Capital Brief",
-  "url": "https://www.capitalbrief.com/briefing/nvidia-shares-rebound-as-q3-earnings-beat-estimates-587f3c70-eac1-458a-8e30-f19c2b95f22a/"
- },
- {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "tickers": [
    "NVDA"
   ],
-  "effect": "watch",
-  "title": "NVIDIA's board says Jensen Huang will not return as CEO",
-  "summary": "This was NVIDIA's first earnings report since Jensen Huang stepped down as chief executive. Interim CEO Colette Kress said the board has decided not to bring him back. Some analysts lowered their price targets because of the leadership change, even though results were strong.",
-  "why": "Investors care about who runs a company, not just its numbers. Uncertainty about leaders can keep a stock price lower until the plan for the future is clear.",
-  "source": "NBC News",
-  "url": "https://www.nbcnews.com/business/business-news/live-blog/nvidia-stock-earnings-report-jensen-huang-rcna609804"
+  "effect": "bad",
+  "title": "NVIDIA gives back its post-earnings jump",
+  "summary": "NVIDIA shares rose early in the day after strong quarterly results, then turned lower and closed down about 3%. Investors focused on the board's decision not to bring back Jensen Huang as CEO. At least one analyst firm, Summit Insights, lowered its rating from Buy to Hold.",
+  "why": "A company can report great numbers and still see its stock fall. Investors also care about the people in charge and about what comes next, not only about last quarter.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
  },
  {
-  "date": "2026-11-16",
+  "date": "2026-11-18",
   "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Fed minutes show most officials expect more rate hikes",
+  "summary": "Notes from the Federal Reserve's October meeting show that almost all officials thought more interest rate increases would likely be needed to bring inflation down. Two officials wanted to raise rates right away in October. Many also said the AI building boom could add to inflation.",
+  "why": "When interest rates go up, borrowing costs more for people and companies. That can slow the economy and often makes stocks, especially fast-growing ones, less attractive.",
+  "source": "France 24 (AFP)",
+  "url": "https://www.france24.com/en/live-news/20261118-almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "AMZN",
    "GOOGL",
    "MSFT",
-   "NVDA",
-   "AMD",
-   "AVGO",
-   "TSM"
+   "NVDA"
   ],
   "effect": "watch",
-  "title": "Anthropic expected to price its IPO and start trading this week",
-  "summary": "AI company Anthropic set a price range of $70 to $78 per share for its first sale of stock to the public. Pricing is expected around November 18, with trading on Nasdaq under the ticker ANT expected to follow. Several big tech companies, including some on our list, agreed to buy shares in a separate private deal.",
-  "why": "An IPO is when a private company first sells shares to the public. A huge AI IPO is a test of how excited investors still are about AI, which can affect other AI stocks.",
+  "title": "Anthropic set to price its IPO tonight and trade Thursday",
+  "summary": "AI company Anthropic is expected to set the price of its shares on the evening of November 18 and start trading on Nasdaq on November 19 under the ticker ANT. Its official price range is $70 to $78 per share, and reports say the final price could come in higher. Strong interest is also expected from everyday investors.",
+  "why": "An IPO is the first time a company sells shares to the public. Several companies on our list own part of Anthropic or agreed to buy shares, so its debut could affect them and how people feel about AI stocks.",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/amp/2026/11/16/anthropic-ipo-date-price-range.html"
+  "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "good",
+  "title": "AMD bounces back after a two-day slide",
+  "summary": "AMD shares climbed after NVIDIA's strong results gave chip stocks a lift, ending the day up about 5%. The stock had fallen more than 13% over the two previous trading days. Broadcom also rose.",
+  "why": "When the biggest company in an industry reports strong demand, it can be a good sign for its rivals too. But stocks that fall fast can also bounce fast, so one day does not tell the whole story.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-stock-121232264.html"
  }
 ]

@@ -1950,5 +1950,57 @@
   "why": "An IPO is when a private company first sells shares to the public. A huge AI IPO is a test of how excited investors still are about AI, which can affect other AI stocks.",
   "source": "CNBC",
   "url": "https://www.cnbc.com/amp/2026/11/16/anthropic-ipo-date-price-range.html"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA gives back its post-earnings jump",
+  "summary": "NVIDIA shares rose early in the day after strong quarterly results, then turned lower and closed down about 3%. Investors focused on the board's decision not to bring back Jensen Huang as CEO. At least one analyst firm, Summit Insights, lowered its rating from Buy to Hold.",
+  "why": "A company can report great numbers and still see its stock fall. Investors also care about the people in charge and about what comes next, not only about last quarter.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Fed minutes show most officials expect more rate hikes",
+  "summary": "Notes from the Federal Reserve's October meeting show that almost all officials thought more interest rate increases would likely be needed to bring inflation down. Two officials wanted to raise rates right away in October. Many also said the AI building boom could add to inflation.",
+  "why": "When interest rates go up, borrowing costs more for people and companies. That can slow the economy and often makes stocks, especially fast-growing ones, less attractive.",
+  "source": "France 24 (AFP)",
+  "url": "https://www.france24.com/en/live-news/20261118-almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "AMZN",
+   "GOOGL",
+   "MSFT",
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "Anthropic set to price its IPO tonight and trade Thursday",
+  "summary": "AI company Anthropic is expected to set the price of its shares on the evening of November 18 and start trading on Nasdaq on November 19 under the ticker ANT. Its official price range is $70 to $78 per share, and reports say the final price could come in higher. Strong interest is also expected from everyday investors.",
+  "why": "An IPO is the first time a company sells shares to the public. Several companies on our list own part of Anthropic or agreed to buy shares, so its debut could affect them and how people feel about AI stocks.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "AMD",
+   "AVGO"
+  ],
+  "effect": "good",
+  "title": "AMD bounces back after a two-day slide",
+  "summary": "AMD shares climbed after NVIDIA's strong results gave chip stocks a lift, ending the day up about 5%. The stock had fallen more than 13% over the two previous trading days. Broadcom also rose.",
+  "why": "When the biggest company in an industry reports strong demand, it can be a good sign for its rivals too. But stocks that fall fast can also bounce fast, so one day does not tell the whole story.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-stock-121232264.html"
  }
 ]
