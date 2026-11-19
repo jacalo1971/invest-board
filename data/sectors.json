@@ -1,7 +1,7 @@
 [
  {
   "sector": "Consumer Cyclical",
-  "change_pct": 1.27
+  "change_pct": 1.3
  },
  {
   "sector": "Real Estate",
@@ -17,11 +17,11 @@
  },
  {
   "sector": "Technology",
-  "change_pct": -0.12
+  "change_pct": -0.13
  },
  {
   "sector": "Consumer Defensive",
-  "change_pct": -0.28
+  "change_pct": -0.27
  },
  {
   "sector": "Communication Services",

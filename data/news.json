@@ -2,53 +2,42 @@
  {
   "date": "2026-11-18",
   "tickers": [
-   "NVDA"
-  ],
-  "effect": "bad",
-  "title": "NVIDIA gives back its post-earnings jump",
-  "summary": "NVIDIA shares rose early in the day after strong quarterly results, then turned lower and closed down about 3%. Investors focused on the board's decision not to bring back Jensen Huang as CEO. At least one analyst firm, Summit Insights, lowered its rating from Buy to Hold.",
-  "why": "A company can report great numbers and still see its stock fall. Investors also care about the people in charge and about what comes next, not only about last quarter.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
- },
- {
-  "date": "2026-11-18",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "bad",
-  "title": "Fed minutes show most officials expect more rate hikes",
-  "summary": "Notes from the Federal Reserve's October meeting show that almost all officials thought more interest rate increases would likely be needed to bring inflation down. Two officials wanted to raise rates right away in October. Many also said the AI building boom could add to inflation.",
-  "why": "When interest rates go up, borrowing costs more for people and companies. That can slow the economy and often makes stocks, especially fast-growing ones, less attractive.",
-  "source": "France 24 (AFP)",
-  "url": "https://www.france24.com/en/live-news/20261118-almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely"
- },
- {
-  "date": "2026-11-18",
-  "tickers": [
    "AMZN",
    "GOOGL",
    "MSFT",
-   "NVDA"
+   "AMD"
   ],
   "effect": "watch",
-  "title": "Anthropic set to price its IPO tonight and trade Thursday",
-  "summary": "AI company Anthropic is expected to set the price of its shares on the evening of November 18 and start trading on Nasdaq on November 19 under the ticker ANT. Its official price range is $70 to $78 per share, and reports say the final price could come in higher. Strong interest is also expected from everyday investors.",
-  "why": "An IPO is the first time a company sells shares to the public. Several companies on our list own part of Anthropic or agreed to buy shares, so its debut could affect them and how people feel about AI stocks.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html"
+  "title": "Anthropic prices its IPO at $83 a share",
+  "summary": "Anthropic set the price of its first public shares at $83, higher than the $70 to $78 range it gave earlier. It sold more shares than first planned and raised about $81.3 billion, more than any listing before it. The stock is set to start trading on Nasdaq on Thursday under the ticker ANT.",
+  "why": "When a company prices its shares above the planned range, it usually means a lot of investors wanted in. How the stock does on its first days can affect other AI stocks, including companies that own part of Anthropic, like Amazon and Alphabet.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-prices-ipo-83-share-014000480.html"
  },
  {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "tickers": [
-   "AMD",
-   "AVGO"
+   "GOOGL",
+   "MSFT",
+   "AMD"
   ],
-  "effect": "good",
-  "title": "AMD bounces back after a two-day slide",
-  "summary": "AMD shares climbed after NVIDIA's strong results gave chip stocks a lift, ending the day up about 5%. The stock had fallen more than 13% over the two previous trading days. Broadcom also rose.",
-  "why": "When the biggest company in an industry reports strong demand, it can be a good sign for its rivals too. But stocks that fall fast can also bounce fast, so one day does not tell the whole story.",
-  "source": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-stock-121232264.html"
+  "effect": "watch",
+  "title": "Big tech names join Anthropic's private share sale",
+  "summary": "Besides the public offering, Anthropic is selling about $26 billion of stock in a private sale at the same $83 price. Alphabet's Google, Microsoft and AMD are among the buyers. Counting both parts, the total raised comes to about $107.3 billion.",
+  "why": "When big companies put money into a partner, their fortunes become more linked. If Anthropic does well, these investors could benefit; if it struggles, it could weigh on them a little too.",
+  "source": "The Japan Times (Bloomberg)",
+  "url": "https://www.japantimes.co.jp/business/2026/11/19/tech/anthropic-ipo-83-per-share/"
+ },
+ {
+  "date": "2026-11-19",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Walmart reports results before the market opens",
+  "summary": "Walmart, one of the largest retailers in the United States, shares its quarterly results this morning before trading starts. Its shares slipped a little in early trading ahead of the report. Investors will look closely at sales and at what the company expects for the holiday season.",
+  "why": "Walmart sells to millions of families, so its results act like a check-up on how much people are spending. That can move the whole market, not just Walmart.",
+  "source": "Benzinga",
+  "url": "https://www.benzinga.com/markets/equities/26/11/63419275/walmart-shares-slip-premarket-ahead-of-third-quarter-earnings"
  }
 ]
