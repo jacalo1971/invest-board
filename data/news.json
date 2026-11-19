@@ -1,32 +1,30 @@
 [
  {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "tickers": [
-   "AMZN",
-   "GOOGL",
-   "MSFT",
-   "AMD"
+   "ALL"
   ],
-  "effect": "watch",
-  "title": "Anthropic prices its IPO at $83 a share",
-  "summary": "Anthropic set the price of its first public shares at $83, higher than the $70 to $78 range it gave earlier. It sold more shares than first planned and raised about $81.3 billion, more than any listing before it. The stock is set to start trading on Nasdaq on Thursday under the ticker ANT.",
-  "why": "When a company prices its shares above the planned range, it usually means a lot of investors wanted in. How the stock does on its first days can affect other AI stocks, including companies that own part of Anthropic, like Amazon and Alphabet.",
-  "source": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-prices-ipo-83-share-014000480.html"
+  "effect": "bad",
+  "title": "Stocks slide again even after a big IPO",
+  "summary": "U.S. stocks gave up an early gain and closed sharply lower. AP reported that the S&P 500 was headed for its sixth loss in a row and that more than 90% of its stocks were down late in the day.",
+  "why": "When almost every stock falls together, the cause is usually a worry about the whole market, not one company. A long losing streak shows investors are still nervous about high prices for tech stocks.",
+  "source": "AP via BNN Bloomberg",
+  "url": "https://www.bnnbloomberg.ca/markets/2026/11/19/wall-street-looks-set-to-halt-its-losing-streak-after-anthropics-ipo-revives-ai-stocks/"
  },
  {
   "date": "2026-11-19",
   "tickers": [
    "GOOGL",
+   "AMZN",
    "MSFT",
    "AMD"
   ],
   "effect": "watch",
-  "title": "Big tech names join Anthropic's private share sale",
-  "summary": "Besides the public offering, Anthropic is selling about $26 billion of stock in a private sale at the same $83 price. Alphabet's Google, Microsoft and AMD are among the buyers. Counting both parts, the total raised comes to about $107.3 billion.",
-  "why": "When big companies put money into a partner, their fortunes become more linked. If Anthropic does well, these investors could benefit; if it struggles, it could weigh on them a little too.",
-  "source": "The Japan Times (Bloomberg)",
-  "url": "https://www.japantimes.co.jp/business/2026/11/19/tech/anthropic-ipo-83-per-share/"
+  "title": "Anthropic jumps in its first day of trading",
+  "summary": "Anthropic's stock, under the ticker ANT, opened at $111.50, about 34% above its $83 IPO price. The gain shrank later in the day, with shares trading near $95 in the afternoon.",
+  "why": "Alphabet and Amazon own parts of Anthropic, so its value can affect theirs. A strong debut also shows people still want to own AI companies, even while other AI stocks are falling.",
+  "source": "Fortune",
+  "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
  },
  {
   "date": "2026-11-19",
@@ -34,10 +32,10 @@
    "ALL"
   ],
   "effect": "watch",
-  "title": "Walmart reports results before the market opens",
-  "summary": "Walmart, one of the largest retailers in the United States, shares its quarterly results this morning before trading starts. Its shares slipped a little in early trading ahead of the report. Investors will look closely at sales and at what the company expects for the holiday season.",
-  "why": "Walmart sells to millions of families, so its results act like a check-up on how much people are spending. That can move the whole market, not just Walmart.",
-  "source": "Benzinga",
-  "url": "https://www.benzinga.com/markets/equities/26/11/63419275/walmart-shares-slip-premarket-ahead-of-third-quarter-earnings"
+  "title": "Walmart beats forecasts but its stock slips",
+  "summary": "Walmart reported profit and revenue that were a little better than analysts expected. Its stock still fell during the day as the whole market dropped.",
+  "why": "Walmart shows how much regular families are spending, which matters for the whole economy. It is also an example of a stock falling on good news when the overall mood is bad.",
+  "source": "AP via The Washington Times",
+  "url": "https://www.washingtontimes.com/news/2026/nov/19/early-rally-wall-street-evaporating-market-waits-anthropics-stock/"
  }
 ]

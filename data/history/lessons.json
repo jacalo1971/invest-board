@@ -288,5 +288,10 @@
   "date": "2026-11-19",
   "title": "Lesson 58: How supply and demand set stock prices",
   "text": "A stock price is set by people buying and selling. If more people want to buy a stock than want to sell it, buyers have to offer more money, and the price goes up. If more people want to sell, the price goes down. Anthropic is a clear example. It first said it would sell shares for $70 to $78 each. So many investors asked for shares that it raised the price to $83 and sold more shares than planned. Think of concert tickets: when a show sells out fast, ticket prices on resale sites jump. The same idea moves every stock, every day."
+ },
+ {
+  "date": "2026-11-19",
+  "title": "Lesson 59: What is market breadth?",
+  "text": "Market breadth tells us how many stocks are joining a move, not just how far an index moved. If the index falls but only a few big stocks are dropping, breadth is narrow. If almost everything falls, breadth is broad. Today was broad: AP reported that more than 90% of the stocks in the S&P 500 were down late in the day, and every name on our list fell. Broad selloffs usually come from big worries that touch the whole market, like interest rates or fear about AI spending, rather than news about one company."
  }
 ]

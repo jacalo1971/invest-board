@@ -1,37 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Today is a big day for AI stocks. Anthropic, the AI company, starts trading on Nasdaq for the first time after setting its price at $83 a share. Walmart also reports results before the market opens. Yesterday the S&P 500 fund (SPY) slipped 0.3% and the Nasdaq 100 fund (QQQ) rose 0.4%. NVIDIA closed at $150.96, just above its lowest price of the past year. Nothing on this page is advice; it is here to help us learn."
+  "title": "How the day closed",
+  "text": "It was a rough day. All 17 names on our list closed lower. The S&P 500 fund (SPY) fell 2.0% and the Nasdaq 100 fund (QQQ) fell 2.2%. Anthropic had a strong first day on the stock market, but that was not enough to lift everything else. AI chip stocks were hit hardest: our 'AI supplies' group fell about 4.2% on average, while the 'AI giants' group fell about 3.1%."
  },
  {
   "kind": "alert",
-  "title": "Anthropic's first day of trading",
-  "text": "Anthropic set its share price at $83, above the $70 to $78 range it first gave. Reports say it raised about $81.3 billion, the biggest stock listing on record. Amazon and Alphabet own parts of Anthropic, and Alphabet, Microsoft and AMD are also buying shares in a separate private sale. How the stock trades today could change how people feel about AI stocks in general. First days can swing a lot in both directions."
+  "title": "AMD had the biggest drop",
+  "text": "AMD fell 7.7% today, the largest drop on our list. Vertiv, which makes power and cooling gear for data centers, fell 4.8%. Both had risen a lot earlier this month, so they can also fall fast when investors get nervous. AMD's risk score is 7.6 out of 10 (High)."
  },
  {
   "kind": "alert",
-  "title": "Walmart reports before the bell",
-  "text": "Walmart is not on our list, but it is one of the biggest stores in the country. Its results tell us how much regular families are spending. Strong sales would be a good sign for the whole economy; weak sales could make investors more careful. The report comes out before the market opens today."
+  "title": "NVIDIA and Alphabet sit at their 52 week lows",
+  "text": "NVIDIA closed at $145.98, almost exactly its lowest price of the past year ($145.71). Alphabet closed at $272.66, right next to its low of $272.11. Both are about 33% to 40% below their highs. Being near a low does not mean a stock must bounce. It only tells us where the price sits compared with the past year."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA is still near its 52 week low",
-  "text": "NVIDIA closed only about 1.5% above its lowest price of the past 52 weeks ($148.80) and 38% below its high ($243.37). The average analyst price target in our data is $275.86, far above today's price. That gap shows how much people disagree right now about where the stock is headed."
+  "title": "Calm stocks fell less",
+  "text": "Lockheed Martin fell only 1.1% and the dividend fund SCHD fell 1.5%. These companies tend to move less than the market (Lockheed's beta is close to zero). On days like today, that is the point of owning some steadier names next to the exciting ones."
  },
  {
   "kind": "alert",
-  "title": "Steady names had a weak day too",
-  "text": "Some companies that usually move slowly fell yesterday. The dividend fund SCHD dropped 1.7%, Lockheed Martin 2.1%, Eli Lilly 2.3% and Intuitive Surgical 2.2%. Meanwhile AMD rose 5.3% and Amazon 3.8%. On some days money moves from calm stocks into exciting ones, and on other days it goes the other way."
+  "title": "Long term interest rates stay high",
+  "text": "The 10 year Treasury yield averaged 5.13% in October, up from 4.09% a year earlier. Higher rates make borrowing more expensive and make safe bonds more attractive compared with stocks. That pressure is part of the backdrop for this month's slide in fast growing tech stocks."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 58: How supply and demand set stock prices",
-  "text": "A stock price is set by people buying and selling. If more people want to buy a stock than want to sell it, buyers have to offer more money, and the price goes up. If more people want to sell, the price goes down. Anthropic is a clear example. It first said it would sell shares for $70 to $78 each. So many investors asked for shares that it raised the price to $83 and sold more shares than planned. Think of concert tickets: when a show sells out fast, ticket prices on resale sites jump. The same idea moves every stock, every day."
+  "title": "Lesson 59: What is market breadth?",
+  "text": "Market breadth tells us how many stocks are joining a move, not just how far an index moved. If the index falls but only a few big stocks are dropping, breadth is narrow. If almost everything falls, breadth is broad. Today was broad: AP reported that more than 90% of the stocks in the S&P 500 were down late in the day, and every name on our list fell. Broad selloffs usually come from big worries that touch the whole market, like interest rates or fear about AI spending, rather than news about one company."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "Prices, daily changes, beta and 52 week ranges for all 17 names come from the close on November 18, 2026. Analyst price targets are available for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; their company ratios were kept from yesterday's update. The other names show risk based on price moves only. The 10 year Treasury chart shows monthly averages through October. News comes from the sources linked on each story."
+  "text": "Prices, daily changes, beta and 52 week ranges for all 17 names come from the close on November 19, 2026. Analyst price targets and company ratios were updated today for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE Aerospace and Lockheed Martin. The other names have no targets on our free data plan. Treasury data runs through October 2026. This is information for learning, not advice to buy or sell."
  }
 ]
