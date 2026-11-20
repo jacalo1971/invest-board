@@ -1,5 +1,29 @@
 [
  {
+  "date": "2026-11-20",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Asian stocks fall after Wall Street's AI selloff",
+  "summary": "Stock markets in Japan, South Korea and Australia dropped on Friday, following the losses in the U.S. on Thursday. AI and chip related companies such as Advantest, SoftBank, Samsung Electronics and Tencent were among the decliners. AP noted the drop came even though Anthropic had a strong first day of trading.",
+  "why": "When markets overseas fall overnight, U.S. stocks often start the next day under pressure. It shows the worry about AI stock prices is global, not just American.",
+  "source": "AP via KSAT",
+  "url": "https://www.ksat.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+ },
+ {
+  "date": "2026-11-19",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA flips from a big gain to a loss",
+  "summary": "NVIDIA rose 4.7% early on Thursday but ended the day down 3.3%. AP said the recent exit of Jensen Huang as CEO added to the pressure on the stock. It closed just above its lowest price of the past year.",
+  "why": "A stock that rises early and then falls hard shows that sellers are still in control. Changes at the top of a company can make investors unsure about its future, even when its business is strong.",
+  "source": "AP via KSAT",
+  "url": "https://www.ksat.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+ },
+ {
   "date": "2026-11-19",
   "tickers": [
    "ALL"
@@ -27,15 +51,15 @@
   "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
  },
  {
-  "date": "2026-11-19",
+  "date": "2026-11-18",
   "tickers": [
    "ALL"
   ],
-  "effect": "watch",
-  "title": "Walmart beats forecasts but its stock slips",
-  "summary": "Walmart reported profit and revenue that were a little better than analysts expected. Its stock still fell during the day as the whole market dropped.",
-  "why": "Walmart shows how much regular families are spending, which matters for the whole economy. It is also an example of a stock falling on good news when the overall mood is bad.",
-  "source": "AP via The Washington Times",
-  "url": "https://www.washingtontimes.com/news/2026/nov/19/early-rally-wall-street-evaporating-market-waits-anthropics-stock/"
+  "effect": "bad",
+  "title": "Fed minutes show most officials expect more rate hikes",
+  "summary": "Notes from the Federal Reserve's October meeting show that almost all officials thought more interest rate increases would likely be needed to bring inflation down. Two officials wanted to raise rates right away in October. Many also said the AI building boom could add to inflation.",
+  "why": "When interest rates go up, borrowing costs more for people and companies. That can slow the economy and often makes stocks, especially fast-growing ones, less attractive.",
+  "source": "France 24 (AFP)",
+  "url": "https://www.france24.com/en/live-news/20261118-almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely"
  }
 ]

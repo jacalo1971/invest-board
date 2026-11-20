@@ -1,37 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "How the day closed",
-  "text": "It was a rough day. All 17 names on our list closed lower. The S&P 500 fund (SPY) fell 2.0% and the Nasdaq 100 fund (QQQ) fell 2.2%. Anthropic had a strong first day on the stock market, but that was not enough to lift everything else. AI chip stocks were hit hardest: our 'AI supplies' group fell about 4.2% on average, while the 'AI giants' group fell about 3.1%."
+  "title": "What to watch at the open",
+  "text": "Thursday was a rough day: all 17 names on our list closed lower. Overnight, stock markets in Asia fell too, led by AI and chip companies. Today, watch whether AI chip stocks like NVIDIA and AMD keep falling or start to steady. Also watch the dividend fund SCHD and Lockheed Martin, which fell the least on Thursday."
  },
  {
   "kind": "alert",
-  "title": "AMD had the biggest drop",
-  "text": "AMD fell 7.7% today, the largest drop on our list. Vertiv, which makes power and cooling gear for data centers, fell 4.8%. Both had risen a lot earlier this month, so they can also fall fast when investors get nervous. AMD's risk score is 7.6 out of 10 (High)."
+  "title": "NVIDIA starts the day at its 52 week low",
+  "text": "NVIDIA closed Thursday at $145.98, just above its lowest price of the past year ($145.71). AP reported it was up 4.7% early in the day before it flipped to a 3.3% loss. It is now 40% below its 52 week high. A price near the low tells us where it sits, not where it goes next."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA and Alphabet sit at their 52 week lows",
-  "text": "NVIDIA closed at $145.98, almost exactly its lowest price of the past year ($145.71). Alphabet closed at $272.66, right next to its low of $272.11. Both are about 33% to 40% below their highs. Being near a low does not mean a stock must bounce. It only tells us where the price sits compared with the past year."
+  "title": "AI supplies fell more than AI giants",
+  "text": "On Thursday our 'AI supplies' group (NVIDIA, Broadcom, TSMC, Vertiv, AMD) fell about 4.2% on average. The 'AI giants' group (Alphabet, Amazon, Microsoft, Meta) fell about 3.1%. Chip and equipment makers depend more directly on AI spending, so they tend to swing harder in both directions."
  },
  {
   "kind": "alert",
-  "title": "Calm stocks fell less",
-  "text": "Lockheed Martin fell only 1.1% and the dividend fund SCHD fell 1.5%. These companies tend to move less than the market (Lockheed's beta is close to zero). On days like today, that is the point of owning some steadier names next to the exciting ones."
- },
- {
-  "kind": "alert",
-  "title": "Long term interest rates stay high",
-  "text": "The 10 year Treasury yield averaged 5.13% in October, up from 4.09% a year earlier. Higher rates make borrowing more expensive and make safe bonds more attractive compared with stocks. That pressure is part of the backdrop for this month's slide in fast growing tech stocks."
+  "title": "Rocket Lab and Vertiv carry the highest risk scores",
+  "text": "Rocket Lab's risk score is 10 out of 10 and Vertiv's is 8.1. Both have high beta, which means they usually move much more than the overall market. Rocket Lab is 66% below its 52 week high and Vertiv is 51% below. Big swings like these can happen fast in either direction."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 59: What is market breadth?",
-  "text": "Market breadth tells us how many stocks are joining a move, not just how far an index moved. If the index falls but only a few big stocks are dropping, breadth is narrow. If almost everything falls, breadth is broad. Today was broad: AP reported that more than 90% of the stocks in the S&P 500 were down late in the day, and every name on our list fell. Broad selloffs usually come from big worries that touch the whole market, like interest rates or fear about AI spending, rather than news about one company."
+  "title": "Lesson 60: Why do markets around the world move together?",
+  "text": "Stock markets in different countries are linked. Big companies sell and buy all over the world, and many investors own stocks in several countries at once. So when a big worry hits one market, it often spreads. On Thursday, AI stocks fell in the U.S. By Friday morning, AI and chip stocks in Japan and South Korea were falling too. That is why owning stocks from many countries does not always protect you on a bad day. Spreading money across different kinds of assets, like stocks and bonds, can help more."
  },
  {
   "kind": "coverage",
   "title": "What this covers",
-  "text": "Prices, daily changes, beta and 52 week ranges for all 17 names come from the close on November 19, 2026. Analyst price targets and company ratios were updated today for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE Aerospace and Lockheed Martin. The other names have no targets on our free data plan. Treasury data runs through October 2026. This is information for learning, not advice to buy or sell."
+  "text": "Prices, daily changes, beta and 52 week ranges for all 17 names come from the close on November 19, 2026, before today's open. Analyst price targets were checked this morning for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE Aerospace and Lockheed Martin; company ratios carry over from yesterday's update. The other names have no targets on our free data plan. Treasury data runs through October 2026. This is information for learning, not advice to buy or sell."
  }
 ]

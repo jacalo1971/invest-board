@@ -2082,5 +2082,29 @@
   "why": "Walmart shows how much regular families are spending, which matters for the whole economy. It is also an example of a stock falling on good news when the overall mood is bad.",
   "source": "AP via The Washington Times",
   "url": "https://www.washingtontimes.com/news/2026/nov/19/early-rally-wall-street-evaporating-market-waits-anthropics-stock/"
+ },
+ {
+  "date": "2026-11-20",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Asian stocks fall after Wall Street's AI selloff",
+  "summary": "Stock markets in Japan, South Korea and Australia dropped on Friday, following the losses in the U.S. on Thursday. AI and chip related companies such as Advantest, SoftBank, Samsung Electronics and Tencent were among the decliners. AP noted the drop came even though Anthropic had a strong first day of trading.",
+  "why": "When markets overseas fall overnight, U.S. stocks often start the next day under pressure. It shows the worry about AI stock prices is global, not just American.",
+  "source": "AP via KSAT",
+  "url": "https://www.ksat.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+ },
+ {
+  "date": "2026-11-19",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA flips from a big gain to a loss",
+  "summary": "NVIDIA rose 4.7% early on Thursday but ended the day down 3.3%. AP said the recent exit of Jensen Huang as CEO added to the pressure on the stock. It closed just above its lowest price of the past year.",
+  "why": "A stock that rises early and then falls hard shows that sellers are still in control. Changes at the top of a company can make investors unsure about its future, even when its business is strong.",
+  "source": "AP via KSAT",
+  "url": "https://www.ksat.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
  }
 ]

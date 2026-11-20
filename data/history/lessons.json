@@ -293,5 +293,10 @@
   "date": "2026-11-19",
   "title": "Lesson 59: What is market breadth?",
   "text": "Market breadth tells us how many stocks are joining a move, not just how far an index moved. If the index falls but only a few big stocks are dropping, breadth is narrow. If almost everything falls, breadth is broad. Today was broad: AP reported that more than 90% of the stocks in the S&P 500 were down late in the day, and every name on our list fell. Broad selloffs usually come from big worries that touch the whole market, like interest rates or fear about AI spending, rather than news about one company."
+ },
+ {
+  "date": "2026-11-20",
+  "title": "Lesson 60: Why do markets around the world move together?",
+  "text": "Stock markets in different countries are linked. Big companies sell and buy all over the world, and many investors own stocks in several countries at once. So when a big worry hits one market, it often spreads. On Thursday, AI stocks fell in the U.S. By Friday morning, AI and chip stocks in Japan and South Korea were falling too. That is why owning stocks from many countries does not always protect you on a bad day. Spreading money across different kinds of assets, like stocks and bonds, can help more."
  }
 ]
