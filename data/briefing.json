@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "Thursday was a rough day: all 17 names on our list closed lower. Overnight, stock markets in Asia fell too, led by AI and chip companies. Today, watch whether AI chip stocks like NVIDIA and AMD keep falling or start to steady. Also watch the dividend fund SCHD and Lockheed Martin, which fell the least on Thursday."
+  "title": "How the day closed",
+  "text": "Friday was a very hard day for stocks. All 17 names on our list closed lower, and the S&P 500 fund SPY fell 3.6% while the tech heavy QQQ fell 5.5%. The biggest drops were in AI chip makers: NVIDIA fell 14%, AMD 13% and Broadcom 12%. The calmest names were Eli Lilly (down 0.2%), the dividend fund SCHD (down 0.7%) and Lockheed Martin (down 1.1%). Days like this show why spreading money across different kinds of companies matters."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA starts the day at its 52 week low",
-  "text": "NVIDIA closed Thursday at $145.98, just above its lowest price of the past year ($145.71). AP reported it was up 4.7% early in the day before it flipped to a 3.3% loss. It is now 40% below its 52 week high. A price near the low tells us where it sits, not where it goes next."
+  "title": "NVIDIA drops 14% and sits at its 52 week low",
+  "text": "NVIDIA closed at $125.53, right at the bottom of its range for the past year. A news report said the SEC, the government's market referee, is looking into its accounting. It was the stock's seventh losing day in a row. Our risk score for NVIDIA rose from 6.2 to 6.7, which moves it from Medium to High risk."
  },
  {
   "kind": "alert",
-  "title": "AI supplies fell more than AI giants",
-  "text": "On Thursday our 'AI supplies' group (NVIDIA, Broadcom, TSMC, Vertiv, AMD) fell about 4.2% on average. The 'AI giants' group (Alphabet, Amazon, Microsoft, Meta) fell about 3.1%. Chip and equipment makers depend more directly on AI spending, so they tend to swing harder in both directions."
+  "title": "AI chip makers fell much more than AI giants",
+  "text": "Companies that make the parts for AI (NVIDIA, AMD, Broadcom, TSMC and Vertiv) fell between 9% and 14%. The big AI users like Microsoft, Alphabet and Amazon fell only 3% to 4%. This shows that chip makers usually swing more than the large companies that buy their chips."
  },
  {
   "kind": "alert",
-  "title": "Rocket Lab and Vertiv carry the highest risk scores",
-  "text": "Rocket Lab's risk score is 10 out of 10 and Vertiv's is 8.1. Both have high beta, which means they usually move much more than the overall market. Rocket Lab is 66% below its 52 week high and Vertiv is 51% below. Big swings like these can happen fast in either direction."
+  "title": "Alphabet also touches its yearly low",
+  "text": "Alphabet (Google) fell 2.7% to $265.29, close to its lowest price of the past 52 weeks. Analysts' average price target is about $403, roughly 52% higher. A price target is only a guess, so it can be wrong, especially in a nervous market."
+ },
+ {
+  "kind": "alert",
+  "title": "Rocket Lab and Vertiv keep the highest risk scores",
+  "text": "Rocket Lab fell 10.9% and Vertiv fell 10.1%. Rocket Lab is now about 70% below its high of the year, and its risk score stays at the top of our scale, 10 out of 10. Big swings both ways are normal for these stocks."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 60: Why do markets around the world move together?",
-  "text": "Stock markets in different countries are linked. Big companies sell and buy all over the world, and many investors own stocks in several countries at once. So when a big worry hits one market, it often spreads. On Thursday, AI stocks fell in the U.S. By Friday morning, AI and chip stocks in Japan and South Korea were falling too. That is why owning stocks from many countries does not always protect you on a bad day. Spreading money across different kinds of assets, like stocks and bonds, can help more."
+  "title": "Lesson 61: What is the SEC?",
+  "text": "The SEC is the Securities and Exchange Commission. It is a U.S. government agency that acts like a referee for the stock market. Its job is to make sure companies tell investors the truth about their money, so people can make fair decisions. When the SEC has questions, it can open an investigation, which means it asks for documents and looks closely at the facts. An investigation is not a finding that someone did something wrong; many end with no penalty. Still, the news can make a stock fall, because investors dislike uncertainty. That is what happened to NVIDIA on Friday after a news report said the SEC is looking at its accounting."
  },
  {
   "kind": "coverage",
-  "title": "What this covers",
-  "text": "Prices, daily changes, beta and 52 week ranges for all 17 names come from the close on November 19, 2026, before today's open. Analyst price targets were checked this morning for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE Aerospace and Lockheed Martin; company ratios carry over from yesterday's update. The other names have no targets on our free data plan. Treasury data runs through October 2026. This is information for learning, not advice to buy or sell."
+  "title": "What this update covers",
+  "text": "Prices are from Friday's close (November 20, 2026) for all 17 names. Price targets and company numbers come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE and Lockheed Martin. The 10 year Treasury yield is the monthly average from Alpha Vantage, through October. This is information for learning, not advice to buy or sell."
  }
 ]

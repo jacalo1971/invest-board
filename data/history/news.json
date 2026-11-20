@@ -2106,5 +2106,57 @@
   "why": "A stock that rises early and then falls hard shows that sellers are still in control. Changes at the top of a company can make investors unsure about its future, even when its business is strong.",
   "source": "AP via KSAT",
   "url": "https://www.ksat.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+ },
+ {
+  "date": "2026-11-20",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "S&P 500 and Dow fall into a correction",
+  "summary": "Stocks dropped sharply on Friday as worries about AI companies spread across the market. The S&P 500 and the Dow ended the week in what experts call a correction, and the Nasdaq gave back all of its gains for 2026. On our list, SPY fell 3.6% and QQQ fell 5.5%.",
+  "why": "A correction means prices have fallen at least 10% from a recent high. It happens every few years and is a normal part of investing, but it is a sign that investors are nervous.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+ },
+ {
+  "date": "2026-11-20",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "Report says the SEC is looking into NVIDIA's accounting",
+  "summary": "A news report said the SEC, the U.S. agency that watches over the stock market, is investigating how NVIDIA does its accounting. The report relied on people familiar with the matter, and NVIDIA had not commented. NVIDIA's stock closed down 14% for the day.",
+  "why": "An investigation is not proof that a company did anything wrong. But investors dislike not knowing, so a stock can fall a lot until the facts are clear.",
+  "source": "Bloomberg (citing Reuters)",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says"
+ },
+ {
+  "date": "2026-11-20",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "bad",
+  "title": "Anthropic's new stock slips and fails to lift AI chip stocks",
+  "summary": "Many investors hoped Anthropic's big stock market debut would cheer up AI stocks. Instead, Anthropic's shares slid back close to their $83 starting price on Friday. AI chip makers kept falling with them.",
+  "why": "When a hot new stock fades quickly, it can be a sign that investors are less excited about a whole theme, here AI. Stocks tied to the same theme often move together.",
+  "source": "The Motley Fool",
+  "url": "https://www.fool.com/investing/2026/11/20/why-nvidia-stock-is-down-today/"
+ },
+ {
+  "date": "2026-11-20",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Investors move to bonds while the Fed talks tough on inflation",
+  "summary": "Treasury yields fell on Friday as investors sold stocks and bought government bonds, which are seen as safer. At the same time, Federal Reserve officials, including Governor Lisa Cook, warned that inflation has been too high for too long. Traders still expect the Fed to raise interest rates again next year.",
+  "why": "When stocks feel scary, many people buy bonds for safety. Higher interest rates can make borrowing more expensive and can weigh on stock prices, so Fed comments matter a lot.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
  }
 ]

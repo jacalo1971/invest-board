@@ -5,61 +5,50 @@
    "ALL"
   ],
   "effect": "bad",
-  "title": "Asian stocks fall after Wall Street's AI selloff",
-  "summary": "Stock markets in Japan, South Korea and Australia dropped on Friday, following the losses in the U.S. on Thursday. AI and chip related companies such as Advantest, SoftBank, Samsung Electronics and Tencent were among the decliners. AP noted the drop came even though Anthropic had a strong first day of trading.",
-  "why": "When markets overseas fall overnight, U.S. stocks often start the next day under pressure. It shows the worry about AI stock prices is global, not just American.",
-  "source": "AP via KSAT",
-  "url": "https://www.ksat.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+  "title": "S&P 500 and Dow fall into a correction",
+  "summary": "Stocks dropped sharply on Friday as worries about AI companies spread across the market. The S&P 500 and the Dow ended the week in what experts call a correction, and the Nasdaq gave back all of its gains for 2026. On our list, SPY fell 3.6% and QQQ fell 5.5%.",
+  "why": "A correction means prices have fallen at least 10% from a recent high. It happens every few years and is a normal part of investing, but it is a sign that investors are nervous.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
  },
  {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "tickers": [
    "NVDA"
   ],
   "effect": "bad",
-  "title": "NVIDIA flips from a big gain to a loss",
-  "summary": "NVIDIA rose 4.7% early on Thursday but ended the day down 3.3%. AP said the recent exit of Jensen Huang as CEO added to the pressure on the stock. It closed just above its lowest price of the past year.",
-  "why": "A stock that rises early and then falls hard shows that sellers are still in control. Changes at the top of a company can make investors unsure about its future, even when its business is strong.",
-  "source": "AP via KSAT",
-  "url": "https://www.ksat.com/business/2026/11/20/asia-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+  "title": "Report says the SEC is looking into NVIDIA's accounting",
+  "summary": "A news report said the SEC, the U.S. agency that watches over the stock market, is investigating how NVIDIA does its accounting. The report relied on people familiar with the matter, and NVIDIA had not commented. NVIDIA's stock closed down 14% for the day.",
+  "why": "An investigation is not proof that a company did anything wrong. But investors dislike not knowing, so a stock can fall a lot until the facts are clear.",
+  "source": "Bloomberg (citing Reuters)",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says"
  },
  {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "tickers": [
-   "ALL"
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "TSM",
+   "VRT"
   ],
   "effect": "bad",
-  "title": "Stocks slide again even after a big IPO",
-  "summary": "U.S. stocks gave up an early gain and closed sharply lower. AP reported that the S&P 500 was headed for its sixth loss in a row and that more than 90% of its stocks were down late in the day.",
-  "why": "When almost every stock falls together, the cause is usually a worry about the whole market, not one company. A long losing streak shows investors are still nervous about high prices for tech stocks.",
-  "source": "AP via BNN Bloomberg",
-  "url": "https://www.bnnbloomberg.ca/markets/2026/11/19/wall-street-looks-set-to-halt-its-losing-streak-after-anthropics-ipo-revives-ai-stocks/"
+  "title": "Anthropic's new stock slips and fails to lift AI chip stocks",
+  "summary": "Many investors hoped Anthropic's big stock market debut would cheer up AI stocks. Instead, Anthropic's shares slid back close to their $83 starting price on Friday. AI chip makers kept falling with them.",
+  "why": "When a hot new stock fades quickly, it can be a sign that investors are less excited about a whole theme, here AI. Stocks tied to the same theme often move together.",
+  "source": "The Motley Fool",
+  "url": "https://www.fool.com/investing/2026/11/20/why-nvidia-stock-is-down-today/"
  },
  {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "tickers": [
-   "GOOGL",
-   "AMZN",
-   "MSFT",
-   "AMD"
+   "ALL"
   ],
   "effect": "watch",
-  "title": "Anthropic jumps in its first day of trading",
-  "summary": "Anthropic's stock, under the ticker ANT, opened at $111.50, about 34% above its $83 IPO price. The gain shrank later in the day, with shares trading near $95 in the afternoon.",
-  "why": "Alphabet and Amazon own parts of Anthropic, so its value can affect theirs. A strong debut also shows people still want to own AI companies, even while other AI stocks are falling.",
-  "source": "Fortune",
-  "url": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
- },
- {
-  "date": "2026-11-18",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "bad",
-  "title": "Fed minutes show most officials expect more rate hikes",
-  "summary": "Notes from the Federal Reserve's October meeting show that almost all officials thought more interest rate increases would likely be needed to bring inflation down. Two officials wanted to raise rates right away in October. Many also said the AI building boom could add to inflation.",
-  "why": "When interest rates go up, borrowing costs more for people and companies. That can slow the economy and often makes stocks, especially fast-growing ones, less attractive.",
-  "source": "France 24 (AFP)",
-  "url": "https://www.france24.com/en/live-news/20261118-almost-all-fed-policymakers-saw-further-interest-rate-hikes-as-likely"
+  "title": "Investors move to bonds while the Fed talks tough on inflation",
+  "summary": "Treasury yields fell on Friday as investors sold stocks and bought government bonds, which are seen as safer. At the same time, Federal Reserve officials, including Governor Lisa Cook, warned that inflation has been too high for too long. Traders still expect the Fed to raise interest rates again next year.",
+  "why": "When stocks feel scary, many people buy bonds for safety. Higher interest rates can make borrowing more expensive and can weigh on stock prices, so Fed comments matter a lot.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
  }
 ]
