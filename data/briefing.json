@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "What to watch at the open",
-  "text": "After Friday's big drop, stock futures pointed higher overnight. Futures are early bets on where stocks will open. On Sunday evening, S&P 500 futures were up about 1.1% and Nasdaq 100 futures about 1.9%, so the tech heavy names that fell most on Friday could bounce first. A bounce after a hard week is common, but it does not mean the worry is over. This is also a short week: markets are closed Thursday for Thanksgiving and close early, at 1 pm, on Friday."
+  "title": "Monday's close: a huge bounce",
+  "text": "Stocks had one of their best days in years. The S&P 500 fund SPY rose 4.7% and the Nasdaq 100 fund QQQ rose 7.0%, after Friday's big drop. NVIDIA led the way, up 31% in one day, after its board brought back Jensen Huang as CEO. A big bounce feels great, but it does not mean the bumpy ride is over. Wednesday has a normal session, markets are closed Thursday for Thanksgiving, and Friday closes early at 1 pm."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA starts the week at its 52 week low",
-  "text": "NVIDIA closed Friday at $125.53, less than 1% above its lowest price of the past year. A Reuters report says the SEC, the market's government referee, is studying how the company reports its money. The company is also still looking for a permanent CEO. Analysts' average price target slipped from about $276 to $269. Its risk score stays at 6.7, which is High."
+  "title": "NVIDIA jumps 31% as its CEO returns",
+  "text": "NVIDIA closed at $165.05, up from $125.53. The board voted to reinstate Jensen Huang, who left on November 12. The company's own review of what happened is still going on, so more news could come. The stock is still about 32% below its high of the past year. Its risk score dipped from 6.7 to 6.4, which moves it from High to Medium."
  },
  {
   "kind": "alert",
-  "title": "A rate hike is expected in December",
-  "text": "The Federal Reserve meets on December 8 and 9. Traders now see roughly a 95% chance it raises its key interest rate by a quarter of a percent, to a range of 4.00% to 4.25%. Higher rates make borrowing cost more, and that usually weighs on fast growing tech stocks. The 10 year Treasury yield averaged 5.13% in October, its highest level of the past year."
+  "title": "Chip makers bounced too",
+  "text": "Other companies that build parts for AI rose with NVIDIA. TSMC, which makes chips for NVIDIA and others, gained 13.9%. Vertiv, which cools and powers data centers, gained 12.1%. AMD rose 6.9% and Broadcom 3.0%. The big AI users moved less: Alphabet and Meta rose about 6.5%, Amazon 3.5% and Microsoft 1.6%. That shows the suppliers usually swing harder in both directions."
  },
  {
   "kind": "alert",
-  "title": "Eli Lilly keeps holding up",
-  "text": "Eli Lilly fell only 0.3% on Friday and sits about 9% below its high of the year, while chip stocks fell 10% to 14%. Lilly also agreed to buy a small company working on a treatment for Huntington's disease, for up to $725 million. Health care companies often move differently from tech, which is one reason to own more than one kind of business."
+  "title": "A December rate hike still looks likely",
+  "text": "The Federal Reserve decides on interest rates on December 9. Traders still see a better than 90% chance of a quarter point hike. The 2 year Treasury yield, which follows Fed expectations closely, rose on Monday. Higher rates make borrowing more expensive, which can slow down fast growing companies."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 62: What is an acquisition?",
-  "text": "An acquisition is when one company buys another company. The buyer gets the other company's products, ideas, workers and customers. Big companies do this to grow faster than they could by building everything themselves. For example, a drug company can buy a small lab that is working on a promising medicine. The words \"up to\" in a deal mean part of the money is only paid later if certain goals are reached, like a medicine passing its tests. Acquisitions can help a company, but they can also fail if the buyer pays too much or the new product does not work out."
+  "title": "Lesson 63: Why the best days often follow the worst days",
+  "text": "Friday was one of the worst days of the year. Monday was one of the best. That happens a lot: the biggest up days often come right after the biggest down days, while people are still scared. If you sell in a panic, you can miss the bounce. Studies of the S&P 500 show that missing just a handful of the best days over many years can cut your total return a lot. That is why many long term investors say time in the market beats timing the market. Staying invested is hard when it feels scary, so having a plan before the storm helps."
  },
  {
   "kind": "coverage",
-  "title": "Where today's numbers come from",
-  "text": "Prices, beta, 52 week ranges and analyst targets come from Financial Modeling Prep and are Friday's closing values. Analyst targets cover only NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE. The 10 year Treasury yield is a monthly average from Alpha Vantage. Futures and news come from news reports. Nothing here is advice to buy or sell; it is information for learning."
+  "title": "What this update covers",
+  "text": "Prices, 52 week ranges and beta for all 17 names come from FMP at Monday's close. Analyst price targets and company numbers like P/E are for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE. The 10 year Treasury yield is a monthly average from Alpha Vantage, through October. News comes from company filings and news reports. This is for learning, not advice to buy or sell."
  }
 ]

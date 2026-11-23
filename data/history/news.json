@@ -2206,5 +2206,56 @@
   "why": "Buying small companies is one way a big drug maker fills its pipeline, the list of future medicines. Early stage research is risky, so many of these bets never become products.",
   "source": "Fierce Biotech",
   "url": "https://fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target"
+ },
+ {
+  "date": "2026-11-23",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "good",
+  "title": "NVIDIA brings back Jensen Huang as CEO",
+  "summary": "NVIDIA's board voted unanimously to put Jensen Huang back in charge as president and CEO, and back on the board. He had stepped down on November 12. The board says its internal review will keep going until it is finished.",
+  "why": "Investors often worry when a company loses its founder or leader. Getting him back removed a big worry, and the stock jumped about 31% in one day.",
+  "source": "NVIDIA press release filed with the SEC",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+ },
+ {
+  "date": "2026-11-23",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Stocks have their best day since April 2025",
+  "summary": "The Dow, the S&P 500 and the Nasdaq all jumped on Monday, led by NVIDIA and other AI stocks. The rally came right after a painful Friday sell off. Tech heavy stocks gained the most.",
+  "why": "Big down days are often followed by big up days. Investors who sold in a panic on Friday missed Monday's bounce.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+ },
+ {
+  "date": "2026-11-23",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Traders still expect a Fed rate hike in December",
+  "summary": "Short term Treasury yields rose on Monday as stocks bounced. Futures markets still price a very high chance that the Federal Reserve raises its key rate by a quarter point at its December meeting.",
+  "why": "When the Fed raises rates, borrowing costs more for people and companies. That can slow the economy and often weighs on fast growing stocks.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
+ },
+ {
+  "date": "2026-11-23",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "TSM"
+  ],
+  "effect": "good",
+  "title": "Analyst upgrades NVIDIA as chip stocks rebound",
+  "summary": "The research firm Bernstein upgraded NVIDIA to Outperform, which means it expects the stock to do better than the market, and kept its $200 price target. Other chip stocks such as AMD and Broadcom also rose as buyers came back after last week's slide.",
+  "why": "An upgrade is an analyst's opinion, not a promise. It can move a stock for a day, but the company's real results matter more over time.",
+  "source": "Business Today",
+  "url": "https://www.businesstoday.in/markets/stocks/story/nvidia-shares-surge-30-but-bernstein-sees-more-upside-why-the-brokerage-maintains-200-target-569193-2026-11-23"
  }
 ]
