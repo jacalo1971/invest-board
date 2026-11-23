@@ -1,15 +1,15 @@
 [
  {
-  "date": "2026-11-20",
+  "date": "2026-11-23",
   "tickers": [
    "ALL"
   ],
-  "effect": "bad",
-  "title": "S&P 500 and Dow fall into a correction",
-  "summary": "Stocks dropped sharply on Friday as worries about AI companies spread across the market. The S&P 500 and the Dow ended the week in what experts call a correction, and the Nasdaq gave back all of its gains for 2026. On our list, SPY fell 3.6% and QQQ fell 5.5%.",
-  "why": "A correction means prices have fallen at least 10% from a recent high. It happens every few years and is a normal part of investing, but it is a sign that investors are nervous.",
+  "effect": "watch",
+  "title": "Stock futures bounce after Friday's sell-off",
+  "summary": "Futures tied to the big U.S. stock indexes rose on Sunday evening and Monday morning, after a rough Friday pushed the S&P 500 into a correction. Tech led the move, with Nasdaq 100 futures up about 1.9% in an early snapshot. This is a short trading week because of Thanksgiving.",
+  "why": "Futures show what traders expect before the market opens. A bounce can feel good, but one green morning does not tell us the drop is over.",
   "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+  "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
  },
  {
   "date": "2026-11-20",
@@ -17,38 +17,34 @@
    "NVDA"
   ],
   "effect": "bad",
-  "title": "Report says the SEC is looking into NVIDIA's accounting",
-  "summary": "A news report said the SEC, the U.S. agency that watches over the stock market, is investigating how NVIDIA does its accounting. The report relied on people familiar with the matter, and NVIDIA had not commented. NVIDIA's stock closed down 14% for the day.",
-  "why": "An investigation is not proof that a company did anything wrong. But investors dislike not knowing, so a stock can fall a lot until the facts are clear.",
-  "source": "Bloomberg (citing Reuters)",
-  "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says"
+  "title": "Reuters: SEC probe of NVIDIA is focused on its accounting",
+  "summary": "People familiar with the matter told Reuters that SEC enforcement staff are looking at NVIDIA's accounting. It is not clear which practices are being studied; one question is a 2025 change in how the company splits its sales by country. The SEC and NVIDIA did not comment.",
+  "why": "Investors trust a company's numbers to judge what it is worth. Questions about those numbers can scare buyers, even though an investigation is not proof that anyone did something wrong.",
+  "source": "Reuters (via Investing.com)",
+  "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
  },
  {
-  "date": "2026-11-20",
-  "tickers": [
-   "NVDA",
-   "AMD",
-   "AVGO",
-   "TSM",
-   "VRT"
-  ],
-  "effect": "bad",
-  "title": "Anthropic's new stock slips and fails to lift AI chip stocks",
-  "summary": "Many investors hoped Anthropic's big stock market debut would cheer up AI stocks. Instead, Anthropic's shares slid back close to their $83 starting price on Friday. AI chip makers kept falling with them.",
-  "why": "When a hot new stock fades quickly, it can be a sign that investors are less excited about a whole theme, here AI. Stocks tied to the same theme often move together.",
-  "source": "The Motley Fool",
-  "url": "https://www.fool.com/investing/2026/11/20/why-nvidia-stock-is-down-today/"
- },
- {
-  "date": "2026-11-20",
+  "date": "2026-11-18",
   "tickers": [
    "ALL"
   ],
-  "effect": "watch",
-  "title": "Investors move to bonds while the Fed talks tough on inflation",
-  "summary": "Treasury yields fell on Friday as investors sold stocks and bought government bonds, which are seen as safer. At the same time, Federal Reserve officials, including Governor Lisa Cook, warned that inflation has been too high for too long. Traders still expect the Fed to raise interest rates again next year.",
-  "why": "When stocks feel scary, many people buy bonds for safety. Higher interest rates can make borrowing more expensive and can weigh on stock prices, so Fed comments matter a lot.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+  "effect": "bad",
+  "title": "Traders see a Fed rate hike in December as very likely",
+  "summary": "Pricing in the futures market points to about a 95% chance that the Federal Reserve raises its key rate by a quarter point at its December 8 and 9 meeting. That would lift the range to 4.00% to 4.25%. Some Fed officials have even talked about a bigger move if inflation stays high.",
+  "why": "When the Fed raises rates, loans get more expensive for people and companies. That can slow the economy and often pushes stock prices down, especially for growth companies.",
+  "source": "24/7 Wall St.",
+  "url": "https://247wallst.com/investing/2026/11/18/traders-now-see-a-95-chance-the-fed-hikes-rates-in-december/"
+ },
+ {
+  "date": "2026-11-23",
+  "tickers": [
+   "LLY"
+  ],
+  "effect": "good",
+  "title": "Eli Lilly agrees to buy a Huntington's disease startup",
+  "summary": "Eli Lilly agreed to buy LoQus23 Therapeutics, a young company working on a possible Huntington's disease treatment, in a deal worth up to $725 million. It is Lilly's second purchase this month, after a $1.5 billion deal for Calytrix Bio about a week earlier.",
+  "why": "Buying small companies is one way a big drug maker fills its pipeline, the list of future medicines. Early stage research is risky, so many of these bets never become products.",
+  "source": "Fierce Biotech",
+  "url": "https://fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target"
  }
 ]

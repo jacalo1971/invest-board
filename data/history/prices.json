@@ -3062,19 +3062,19 @@
  {
   "date": "2026-11-20",
   "symbol": "SPY",
-  "price": 690.43,
+  "price": 689.81,
   "risk_score": 2.5
  },
  {
   "date": "2026-11-20",
   "symbol": "QQQ",
-  "price": 609.81,
+  "price": 608.45,
   "risk_score": 3.4
  },
  {
   "date": "2026-11-20",
   "symbol": "SCHD",
-  "price": 33.95,
+  "price": 33.94,
   "risk_score": 1.9
  },
  {
@@ -3086,26 +3086,26 @@
  {
   "date": "2026-11-20",
   "symbol": "AVGO",
-  "price": 304.15,
+  "price": 304.41,
   "risk_score": 5.9
  },
  {
   "date": "2026-11-20",
   "symbol": "TSM",
-  "price": 319.12,
-  "risk_score": 5.2
+  "price": 318.71,
+  "risk_score": 5.1
  },
  {
   "date": "2026-11-20",
   "symbol": "VRT",
-  "price": 166.25,
+  "price": 166.24,
   "risk_score": 8.3
  },
  {
   "date": "2026-11-20",
   "symbol": "AMD",
   "price": 424.39,
-  "risk_score": 7.8
+  "risk_score": 8.0
  },
  {
   "date": "2026-11-20",
@@ -3135,12 +3135,12 @@
   "date": "2026-11-20",
   "symbol": "RKLB",
   "price": 45.42,
-  "risk_score": 10
+  "risk_score": 9.9
  },
  {
   "date": "2026-11-20",
   "symbol": "LMT",
-  "price": 565.42,
+  "price": 565.5,
   "risk_score": 3.0
  },
  {
@@ -3152,7 +3152,7 @@
  {
   "date": "2026-11-20",
   "symbol": "LLY",
-  "price": 1348.31,
+  "price": 1347.11,
   "risk_score": 3.4
  },
  {

@@ -2158,5 +2158,53 @@
   "why": "When stocks feel scary, many people buy bonds for safety. Higher interest rates can make borrowing more expensive and can weigh on stock prices, so Fed comments matter a lot.",
   "source": "CNBC",
   "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+ },
+ {
+  "date": "2026-11-23",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Stock futures bounce after Friday's sell-off",
+  "summary": "Futures tied to the big U.S. stock indexes rose on Sunday evening and Monday morning, after a rough Friday pushed the S&P 500 into a correction. Tech led the move, with Nasdaq 100 futures up about 1.9% in an early snapshot. This is a short trading week because of Thanksgiving.",
+  "why": "Futures show what traders expect before the market opens. A bounce can feel good, but one green morning does not tell us the drop is over.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+ },
+ {
+  "date": "2026-11-20",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "bad",
+  "title": "Reuters: SEC probe of NVIDIA is focused on its accounting",
+  "summary": "People familiar with the matter told Reuters that SEC enforcement staff are looking at NVIDIA's accounting. It is not clear which practices are being studied; one question is a 2025 change in how the company splits its sales by country. The SEC and NVIDIA did not comment.",
+  "why": "Investors trust a company's numbers to judge what it is worth. Questions about those numbers can scare buyers, even though an investigation is not proof that anyone did something wrong.",
+  "source": "Reuters (via Investing.com)",
+  "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Traders see a Fed rate hike in December as very likely",
+  "summary": "Pricing in the futures market points to about a 95% chance that the Federal Reserve raises its key rate by a quarter point at its December 8 and 9 meeting. That would lift the range to 4.00% to 4.25%. Some Fed officials have even talked about a bigger move if inflation stays high.",
+  "why": "When the Fed raises rates, loans get more expensive for people and companies. That can slow the economy and often pushes stock prices down, especially for growth companies.",
+  "source": "24/7 Wall St.",
+  "url": "https://247wallst.com/investing/2026/11/18/traders-now-see-a-95-chance-the-fed-hikes-rates-in-december/"
+ },
+ {
+  "date": "2026-11-23",
+  "tickers": [
+   "LLY"
+  ],
+  "effect": "good",
+  "title": "Eli Lilly agrees to buy a Huntington's disease startup",
+  "summary": "Eli Lilly agreed to buy LoQus23 Therapeutics, a young company working on a possible Huntington's disease treatment, in a deal worth up to $725 million. It is Lilly's second purchase this month, after a $1.5 billion deal for Calytrix Bio about a week earlier.",
+  "why": "Buying small companies is one way a big drug maker fills its pipeline, the list of future medicines. Early stage research is risky, so many of these bets never become products.",
+  "source": "Fierce Biotech",
+  "url": "https://fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target"
  }
 ]

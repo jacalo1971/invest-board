@@ -1,37 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "How the day closed",
-  "text": "Friday was a very hard day for stocks. All 17 names on our list closed lower, and the S&P 500 fund SPY fell 3.6% while the tech heavy QQQ fell 5.5%. The biggest drops were in AI chip makers: NVIDIA fell 14%, AMD 13% and Broadcom 12%. The calmest names were Eli Lilly (down 0.2%), the dividend fund SCHD (down 0.7%) and Lockheed Martin (down 1.1%). Days like this show why spreading money across different kinds of companies matters."
+  "title": "What to watch at the open",
+  "text": "After Friday's big drop, stock futures pointed higher overnight. Futures are early bets on where stocks will open. On Sunday evening, S&P 500 futures were up about 1.1% and Nasdaq 100 futures about 1.9%, so the tech heavy names that fell most on Friday could bounce first. A bounce after a hard week is common, but it does not mean the worry is over. This is also a short week: markets are closed Thursday for Thanksgiving and close early, at 1 pm, on Friday."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA drops 14% and sits at its 52 week low",
-  "text": "NVIDIA closed at $125.53, right at the bottom of its range for the past year. A news report said the SEC, the government's market referee, is looking into its accounting. It was the stock's seventh losing day in a row. Our risk score for NVIDIA rose from 6.2 to 6.7, which moves it from Medium to High risk."
+  "title": "NVIDIA starts the week at its 52 week low",
+  "text": "NVIDIA closed Friday at $125.53, less than 1% above its lowest price of the past year. A Reuters report says the SEC, the market's government referee, is studying how the company reports its money. The company is also still looking for a permanent CEO. Analysts' average price target slipped from about $276 to $269. Its risk score stays at 6.7, which is High."
  },
  {
   "kind": "alert",
-  "title": "AI chip makers fell much more than AI giants",
-  "text": "Companies that make the parts for AI (NVIDIA, AMD, Broadcom, TSMC and Vertiv) fell between 9% and 14%. The big AI users like Microsoft, Alphabet and Amazon fell only 3% to 4%. This shows that chip makers usually swing more than the large companies that buy their chips."
+  "title": "A rate hike is expected in December",
+  "text": "The Federal Reserve meets on December 8 and 9. Traders now see roughly a 95% chance it raises its key interest rate by a quarter of a percent, to a range of 4.00% to 4.25%. Higher rates make borrowing cost more, and that usually weighs on fast growing tech stocks. The 10 year Treasury yield averaged 5.13% in October, its highest level of the past year."
  },
  {
   "kind": "alert",
-  "title": "Alphabet also touches its yearly low",
-  "text": "Alphabet (Google) fell 2.7% to $265.29, close to its lowest price of the past 52 weeks. Analysts' average price target is about $403, roughly 52% higher. A price target is only a guess, so it can be wrong, especially in a nervous market."
- },
- {
-  "kind": "alert",
-  "title": "Rocket Lab and Vertiv keep the highest risk scores",
-  "text": "Rocket Lab fell 10.9% and Vertiv fell 10.1%. Rocket Lab is now about 70% below its high of the year, and its risk score stays at the top of our scale, 10 out of 10. Big swings both ways are normal for these stocks."
+  "title": "Eli Lilly keeps holding up",
+  "text": "Eli Lilly fell only 0.3% on Friday and sits about 9% below its high of the year, while chip stocks fell 10% to 14%. Lilly also agreed to buy a small company working on a treatment for Huntington's disease, for up to $725 million. Health care companies often move differently from tech, which is one reason to own more than one kind of business."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 61: What is the SEC?",
-  "text": "The SEC is the Securities and Exchange Commission. It is a U.S. government agency that acts like a referee for the stock market. Its job is to make sure companies tell investors the truth about their money, so people can make fair decisions. When the SEC has questions, it can open an investigation, which means it asks for documents and looks closely at the facts. An investigation is not a finding that someone did something wrong; many end with no penalty. Still, the news can make a stock fall, because investors dislike uncertainty. That is what happened to NVIDIA on Friday after a news report said the SEC is looking at its accounting."
+  "title": "Lesson 62: What is an acquisition?",
+  "text": "An acquisition is when one company buys another company. The buyer gets the other company's products, ideas, workers and customers. Big companies do this to grow faster than they could by building everything themselves. For example, a drug company can buy a small lab that is working on a promising medicine. The words \"up to\" in a deal mean part of the money is only paid later if certain goals are reached, like a medicine passing its tests. Acquisitions can help a company, but they can also fail if the buyer pays too much or the new product does not work out."
  },
  {
   "kind": "coverage",
-  "title": "What this update covers",
-  "text": "Prices are from Friday's close (November 20, 2026) for all 17 names. Price targets and company numbers come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, GE and Lockheed Martin. The 10 year Treasury yield is the monthly average from Alpha Vantage, through October. This is information for learning, not advice to buy or sell."
+  "title": "Where today's numbers come from",
+  "text": "Prices, beta, 52 week ranges and analyst targets come from Financial Modeling Prep and are Friday's closing values. Analyst targets cover only NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE. The 10 year Treasury yield is a monthly average from Alpha Vantage. Futures and news come from news reports. Nothing here is advice to buy or sell; it is information for learning."
  }
 ]
