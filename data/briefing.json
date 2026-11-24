@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "Before Tuesday's open: will the bounce hold?",
-  "text": "Monday was one of the best days in years. SPY rose 4.7% and QQQ rose 7.0%, led by a 31% jump in NVIDIA after its CEO came back. Early Tuesday, stock futures pointed lower. Futures are bets on where prices will open, so this hints that some people are taking profits. At the open, watch whether NVIDIA keeps most of its gain. A small step back after a giant day is normal. A big drop would show that investors are still nervous."
+  "title": "After Tuesday's close: chips stepped back, health care stepped up",
+  "text": "Monday's giant rally faded for chip stocks. NVIDIA fell 5.9% to $155.38 after its 31% jump, and AMD fell 8.9%. SPY slipped 0.5% and QQQ fell 2.0%, because QQQ holds more tech companies. At the same time, health care stocks rose: Eli Lilly gained 3.3% and Intuitive Surgical 4.4%. So the market did not fall apart. Money moved from one group of stocks to another. The market is closed Thursday for Thanksgiving, so there are only two short trading days left this week."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA: back at the top, but questions remain",
-  "text": "NVIDIA closed Monday at $165.05. It is still about 32% below its high of the past year ($243.37). Jensen Huang is CEO again, but the board's review is not finished. He has also agreed to answer questions from three House committees on December 1. New facts from either one could move the stock. Its risk score is 6.4 out of 10, which is Medium, close to High."
+  "title": "NVIDIA's risk score moved into High",
+  "text": "NVIDIA closed at $155.38. That is about 36% below its high of the past year ($243.37). Its risk score went from 6.4 to 6.5 out of 10, which is just over the line into High. Huge moves in both directions, like +31% then -6%, are what a high score warns about. Jensen Huang is scheduled to answer questions from three House committees on December 1, which could bring new headlines."
  },
  {
   "kind": "alert",
-  "title": "Chip makers moved more than the big AI users",
-  "text": "The companies that build parts for AI jumped the most on Monday. TSMC rose 13.9%, Vertiv 12.1% and AMD 6.9%. The big companies that buy those parts moved less: Microsoft rose 1.6% and Amazon 3.5%. Stocks that go up fastest on good days usually fall fastest on bad days. That is why Vertiv (8.1) and AMD (7.7) have high risk scores, while Microsoft is at 3.9."
+  "title": "Chip makers fell more than the big AI users",
+  "text": "The companies that build parts for AI dropped the most today. AMD fell 8.9%, Vertiv 6.7%, Broadcom 4.0% and TSMC 3.8%. The big companies that use AI moved much less: Alphabet fell 1.1%, Amazon 1.2%, and Microsoft actually rose 0.7%. Broadcom is now only about 4% above its lowest price of the past year ($289.77)."
  },
  {
   "kind": "alert",
-  "title": "A December rate hike is still expected",
-  "text": "The Federal Reserve meets on December 9. Traders still expect it to raise interest rates by a quarter of a percent. The 10 year Treasury yield averaged 5.13% in October, the highest in this chart. Higher rates make borrowing cost more, and that can weigh on fast growing companies."
+  "title": "Health care had its best day in a while",
+  "text": "Health care stocks on the Nasdaq rose about 4.1% on average, the best sector today. Sanofi, a big French drug company, agreed to buy Insmed for $175 per share in cash, about $41 billion. Eli Lilly closed at $1,410.12, only about 4% below its high of the past year. Lilly's risk score is 3.2, which is Low."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 64: What is a gap at the open?",
-  "text": "The stock market is closed overnight, but news keeps happening. So a stock can open at a very different price from where it closed. If it opens higher, that is a gap up. If it opens lower, that is a gap down. On Monday, NVIDIA opened far above Friday's close because the news about its CEO came out while the market was closed. Gaps remind us that you cannot always sell at the price you see on the screen the night before. That is one reason to keep any single stock a small part of what you own."
+  "title": "Lesson 65: What is sector rotation?",
+  "text": "A sector is a group of companies that do similar work, like chips or health care. Sector rotation is when investors sell one group and buy another. Today is a good example: chip stocks fell while health care stocks rose. The total market only dipped a little, because the money did not leave, it moved. This is one reason to own different kinds of companies. When one group has a bad day, another group may have a good one, and that smooths out the ride."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices, 52 week ranges and beta for all 17 names come from FMP at Monday's close (November 23). Analyst price targets are for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; company numbers like P/E are carried from the last update. The 10 year Treasury yield is a monthly average from Alpha Vantage, through October. Sector moves are averages of all NASDAQ listed stocks, so they can differ from the big index funds. News comes from company releases and news outlets, linked on each story. This is for learning, not advice to buy or sell."
+  "text": "Prices, 52 week ranges, beta and company size come from Financial Modeling Prep (FMP) after Tuesday's close. Analyst price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the free plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury yield comes from Alpha Vantage. News comes from the Associated Press, SEC filings and the NYSE. Risk scores and scenarios are simple math, not predictions. Nothing here is advice to buy or sell."
  }
 ]

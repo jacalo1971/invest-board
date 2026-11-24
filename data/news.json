@@ -2,14 +2,42 @@
  {
   "date": "2026-11-24",
   "tickers": [
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "AI chip stocks pull the market back down",
+  "summary": "A day after a huge rally, chip stocks fell. NVIDIA dropped about 6%, AMD almost 9% and Broadcom about 4%. The S&P 500 slipped 0.5% and the Nasdaq fell 1.5%, while the Dow rose about 0.9% thanks to stocks like Amgen and Nike.",
+  "why": "When a stock jumps a lot in one day, some investors sell to lock in their gains. That is called profit-taking. It shows why one great day does not mean the worries are gone.",
+  "source": "Associated Press",
+  "url": "https://www.huffpost.com/entry/ap-financial-markets-nvidia-stock-market_n_6b05f9c8e4b03d22835f5187"
+ },
+ {
+  "date": "2026-11-24",
+  "tickers": [
+   "LLY",
+   "ISRG"
+  ],
+  "effect": "good",
+  "title": "Sanofi agrees to buy Insmed for about $41 billion",
+  "summary": "French drug maker Sanofi agreed to buy Insmed for $175 per share in cash. That is about 46% more than Insmed's price before news of talks came out. The deal is expected to close in the first half of 2027 if regulators and shareholders approve it.",
+  "why": "Big deals like this show that large drug companies are willing to pay a lot for new medicines. That helped lift many health care stocks today, including Eli Lilly and Intuitive Surgical.",
+  "source": "Insmed filing with the SEC",
+  "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm"
+ },
+ {
+  "date": "2026-11-24",
+  "tickers": [
    "ALL"
   ],
   "effect": "watch",
-  "title": "Stock futures slip after Monday's huge bounce",
-  "summary": "Early on Tuesday, futures for the Dow, the S&P 500 and the Nasdaq were lower. Investors were checking whether Monday's big NVIDIA-led rally could last. Some people who made quick gains were selling to lock them in.",
-  "why": "After a very big up day, it is common for prices to step back a little. Watching the next few days tells us more than one single day does.",
-  "source": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+  "title": "Short trading week for Thanksgiving",
+  "summary": "U.S. stock markets are closed on Thursday, November 26, for Thanksgiving. On Friday, November 27, they close early at 1 p.m. Eastern time.",
+  "why": "Fewer people trade around holidays. With fewer buyers and sellers, prices can sometimes jump more than usual on small news.",
+  "source": "New York Stock Exchange",
+  "url": "https://www.nyse.com/markets/hours-calendars"
  },
  {
   "date": "2026-11-23",
@@ -19,32 +47,8 @@
   "effect": "good",
   "title": "NVIDIA brings back Jensen Huang as CEO",
   "summary": "NVIDIA's board voted unanimously to put Jensen Huang back in charge as president and CEO, and back on the board. He had stepped down on November 12. The board says its internal review will keep going until it is finished.",
-  "why": "Investors often worry when a company loses its founder or leader. Getting him back removed a big worry, and the stock jumped about 31% in one day.",
+  "why": "Investors often worry when a company loses its founder or leader. Getting him back removed a big worry, and the stock jumped about 31% in one day before falling about 6% on Tuesday.",
   "source": "NVIDIA press release filed with the SEC",
   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
- },
- {
-  "date": "2026-11-17",
-  "tickers": [
-   "NVDA"
-  ],
-  "effect": "watch",
-  "title": "Huang will answer questions from Congress on December 1",
-  "summary": "Jensen Huang agreed to sit for interviews with three House committees on December 1, including the committee on China. NVIDIA's top lawyer is set to follow on December 2. Lawmakers want to know about possible national security risks tied to his exit.",
-  "why": "What he says, and what lawmakers say afterward, could bring new surprises. Surprises, good or bad, can make a stock jump or drop quickly.",
-  "source": "Axios",
-  "url": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates"
- },
- {
-  "date": "2026-11-23",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Traders still expect a Fed rate hike in December",
-  "summary": "Short term Treasury yields rose on Monday as stocks bounced. Futures markets still price a very high chance that the Federal Reserve raises its key rate by a quarter point at its December meeting.",
-  "why": "When the Fed raises rates, borrowing costs more for people and companies. That can slow the economy and often weighs on fast growing stocks.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
  }
 ]
