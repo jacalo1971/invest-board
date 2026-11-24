@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-24",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Stock futures slip after Monday's huge bounce",
+  "summary": "Early on Tuesday, futures for the Dow, the S&P 500 and the Nasdaq were lower. Investors were checking whether Monday's big NVIDIA-led rally could last. Some people who made quick gains were selling to lock them in.",
+  "why": "After a very big up day, it is common for prices to step back a little. Watching the next few days tells us more than one single day does.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+ },
+ {
   "date": "2026-11-23",
   "tickers": [
    "NVDA"
@@ -12,16 +24,16 @@
   "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
  },
  {
-  "date": "2026-11-23",
+  "date": "2026-11-17",
   "tickers": [
-   "ALL"
+   "NVDA"
   ],
-  "effect": "good",
-  "title": "Stocks have their best day since April 2025",
-  "summary": "The Dow, the S&P 500 and the Nasdaq all jumped on Monday, led by NVIDIA and other AI stocks. The rally came right after a painful Friday sell off. Tech heavy stocks gained the most.",
-  "why": "Big down days are often followed by big up days. Investors who sold in a panic on Friday missed Monday's bounce.",
-  "source": "Yahoo Finance",
-  "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"
+  "effect": "watch",
+  "title": "Huang will answer questions from Congress on December 1",
+  "summary": "Jensen Huang agreed to sit for interviews with three House committees on December 1, including the committee on China. NVIDIA's top lawyer is set to follow on December 2. Lawmakers want to know about possible national security risks tied to his exit.",
+  "why": "What he says, and what lawmakers say afterward, could bring new surprises. Surprises, good or bad, can make a stock jump or drop quickly.",
+  "source": "Axios",
+  "url": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates"
  },
  {
   "date": "2026-11-23",
@@ -34,20 +46,5 @@
   "why": "When the Fed raises rates, borrowing costs more for people and companies. That can slow the economy and often weighs on fast growing stocks.",
   "source": "CNBC",
   "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
- },
- {
-  "date": "2026-11-23",
-  "tickers": [
-   "NVDA",
-   "AMD",
-   "AVGO",
-   "TSM"
-  ],
-  "effect": "good",
-  "title": "Analyst upgrades NVIDIA as chip stocks rebound",
-  "summary": "The research firm Bernstein upgraded NVIDIA to Outperform, which means it expects the stock to do better than the market, and kept its $200 price target. Other chip stocks such as AMD and Broadcom also rose as buyers came back after last week's slide.",
-  "why": "An upgrade is an analyst's opinion, not a promise. It can move a stock for a day, but the company's real results matter more over time.",
-  "source": "Business Today",
-  "url": "https://www.businesstoday.in/markets/stocks/story/nvidia-shares-surge-30-but-bernstein-sees-more-upside-why-the-brokerage-maintains-200-target-569193-2026-11-23"
  }
 ]

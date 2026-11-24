@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "Monday's close: a huge bounce",
-  "text": "Stocks had one of their best days in years. The S&P 500 fund SPY rose 4.7% and the Nasdaq 100 fund QQQ rose 7.0%, after Friday's big drop. NVIDIA led the way, up 31% in one day, after its board brought back Jensen Huang as CEO. A big bounce feels great, but it does not mean the bumpy ride is over. Wednesday has a normal session, markets are closed Thursday for Thanksgiving, and Friday closes early at 1 pm."
+  "title": "Before Tuesday's open: will the bounce hold?",
+  "text": "Monday was one of the best days in years. SPY rose 4.7% and QQQ rose 7.0%, led by a 31% jump in NVIDIA after its CEO came back. Early Tuesday, stock futures pointed lower. Futures are bets on where prices will open, so this hints that some people are taking profits. At the open, watch whether NVIDIA keeps most of its gain. A small step back after a giant day is normal. A big drop would show that investors are still nervous."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA jumps 31% as its CEO returns",
-  "text": "NVIDIA closed at $165.05, up from $125.53. The board voted to reinstate Jensen Huang, who left on November 12. The company's own review of what happened is still going on, so more news could come. The stock is still about 32% below its high of the past year. Its risk score dipped from 6.7 to 6.4, which moves it from High to Medium."
+  "title": "NVIDIA: back at the top, but questions remain",
+  "text": "NVIDIA closed Monday at $165.05. It is still about 32% below its high of the past year ($243.37). Jensen Huang is CEO again, but the board's review is not finished. He has also agreed to answer questions from three House committees on December 1. New facts from either one could move the stock. Its risk score is 6.4 out of 10, which is Medium, close to High."
  },
  {
   "kind": "alert",
-  "title": "Chip makers bounced too",
-  "text": "Other companies that build parts for AI rose with NVIDIA. TSMC, which makes chips for NVIDIA and others, gained 13.9%. Vertiv, which cools and powers data centers, gained 12.1%. AMD rose 6.9% and Broadcom 3.0%. The big AI users moved less: Alphabet and Meta rose about 6.5%, Amazon 3.5% and Microsoft 1.6%. That shows the suppliers usually swing harder in both directions."
+  "title": "Chip makers moved more than the big AI users",
+  "text": "The companies that build parts for AI jumped the most on Monday. TSMC rose 13.9%, Vertiv 12.1% and AMD 6.9%. The big companies that buy those parts moved less: Microsoft rose 1.6% and Amazon 3.5%. Stocks that go up fastest on good days usually fall fastest on bad days. That is why Vertiv (8.1) and AMD (7.7) have high risk scores, while Microsoft is at 3.9."
  },
  {
   "kind": "alert",
-  "title": "A December rate hike still looks likely",
-  "text": "The Federal Reserve decides on interest rates on December 9. Traders still see a better than 90% chance of a quarter point hike. The 2 year Treasury yield, which follows Fed expectations closely, rose on Monday. Higher rates make borrowing more expensive, which can slow down fast growing companies."
+  "title": "A December rate hike is still expected",
+  "text": "The Federal Reserve meets on December 9. Traders still expect it to raise interest rates by a quarter of a percent. The 10 year Treasury yield averaged 5.13% in October, the highest in this chart. Higher rates make borrowing cost more, and that can weigh on fast growing companies."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 63: Why the best days often follow the worst days",
-  "text": "Friday was one of the worst days of the year. Monday was one of the best. That happens a lot: the biggest up days often come right after the biggest down days, while people are still scared. If you sell in a panic, you can miss the bounce. Studies of the S&P 500 show that missing just a handful of the best days over many years can cut your total return a lot. That is why many long term investors say time in the market beats timing the market. Staying invested is hard when it feels scary, so having a plan before the storm helps."
+  "title": "Lesson 64: What is a gap at the open?",
+  "text": "The stock market is closed overnight, but news keeps happening. So a stock can open at a very different price from where it closed. If it opens higher, that is a gap up. If it opens lower, that is a gap down. On Monday, NVIDIA opened far above Friday's close because the news about its CEO came out while the market was closed. Gaps remind us that you cannot always sell at the price you see on the screen the night before. That is one reason to keep any single stock a small part of what you own."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices, 52 week ranges and beta for all 17 names come from FMP at Monday's close. Analyst price targets and company numbers like P/E are for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE. The 10 year Treasury yield is a monthly average from Alpha Vantage, through October. News comes from company filings and news reports. This is for learning, not advice to buy or sell."
+  "text": "Prices, 52 week ranges and beta for all 17 names come from FMP at Monday's close (November 23). Analyst price targets are for NVDA, TSM, AMD, GOOGL, AMZN, MSFT, META, LMT and GE; company numbers like P/E are carried from the last update. The 10 year Treasury yield is a monthly average from Alpha Vantage, through October. Sector moves are averages of all NASDAQ listed stocks, so they can differ from the big index funds. News comes from company releases and news outlets, linked on each story. This is for learning, not advice to buy or sell."
  }
 ]

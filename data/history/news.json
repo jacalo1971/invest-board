@@ -2257,5 +2257,29 @@
   "why": "An upgrade is an analyst's opinion, not a promise. It can move a stock for a day, but the company's real results matter more over time.",
   "source": "Business Today",
   "url": "https://www.businesstoday.in/markets/stocks/story/nvidia-shares-surge-30-but-bernstein-sees-more-upside-why-the-brokerage-maintains-200-target-569193-2026-11-23"
+ },
+ {
+  "date": "2026-11-24",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Stock futures slip after Monday's huge bounce",
+  "summary": "Early on Tuesday, futures for the Dow, the S&P 500 and the Nasdaq were lower. Investors were checking whether Monday's big NVIDIA-led rally could last. Some people who made quick gains were selling to lock them in.",
+  "why": "After a very big up day, it is common for prices to step back a little. Watching the next few days tells us more than one single day does.",
+  "source": "Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+ },
+ {
+  "date": "2026-11-17",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "Huang will answer questions from Congress on December 1",
+  "summary": "Jensen Huang agreed to sit for interviews with three House committees on December 1, including the committee on China. NVIDIA's top lawyer is set to follow on December 2. Lawmakers want to know about possible national security risks tied to his exit.",
+  "why": "What he says, and what lawmakers say afterward, could bring new surprises. Surprises, good or bad, can make a stock jump or drop quickly.",
+  "source": "Axios",
+  "url": "https://axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates"
  }
 ]
