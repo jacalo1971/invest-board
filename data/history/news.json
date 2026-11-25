@@ -2321,5 +2321,31 @@
   "why": "Fewer people trade around holidays. With fewer buyers and sellers, prices can sometimes jump more than usual on small news.",
   "source": "New York Stock Exchange",
   "url": "https://www.nyse.com/markets/hours-calendars"
+ },
+ {
+  "date": "2026-11-24",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "VRT"
+  ],
+  "effect": "good",
+  "title": "Dell reports a record quarter powered by AI servers",
+  "summary": "After the market closed on Tuesday, Dell said its quarterly revenue was a record $54.9 billion, roughly double a year earlier. It booked $60.2 billion of new AI orders and now has $132.3 billion of AI orders waiting to be filled. Dell also raised its full year forecast and approved up to $25 billion to buy back its own shares.",
+  "why": "Dell buys chips and cooling gear to build AI servers, so its orders are a clue about demand for companies like NVIDIA, AMD and Vertiv. Strong orders suggest customers are still spending heavily on AI, even after a rough week for chip stocks.",
+  "source": "Dell Technologies",
+  "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Inflation report and other data come out before the open",
+  "summary": "Because of Thanksgiving, several reports are bunched into Wednesday morning at 8:30 a.m. Eastern time. They include the PCE inflation report, durable goods orders and weekly jobless claims.",
+  "why": "PCE is the inflation number the Federal Reserve watches most. If prices are rising faster than expected, the Fed may keep interest rates high, and that can weigh on stocks, especially fast growing tech companies.",
+  "source": "Kiplinger",
+  "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
  }
 ]

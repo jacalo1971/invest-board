@@ -4,6 +4,32 @@
   "tickers": [
    "NVDA",
    "AMD",
+   "VRT"
+  ],
+  "effect": "good",
+  "title": "Dell reports a record quarter powered by AI servers",
+  "summary": "After the market closed on Tuesday, Dell said its quarterly revenue was a record $54.9 billion, roughly double a year earlier. It booked $60.2 billion of new AI orders and now has $132.3 billion of AI orders waiting to be filled. Dell also raised its full year forecast and approved up to $25 billion to buy back its own shares.",
+  "why": "Dell buys chips and cooling gear to build AI servers, so its orders are a clue about demand for companies like NVIDIA, AMD and Vertiv. Strong orders suggest customers are still spending heavily on AI, even after a rough week for chip stocks.",
+  "source": "Dell Technologies",
+  "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Inflation report and other data come out before the open",
+  "summary": "Because of Thanksgiving, several reports are bunched into Wednesday morning at 8:30 a.m. Eastern time. They include the PCE inflation report, durable goods orders and weekly jobless claims.",
+  "why": "PCE is the inflation number the Federal Reserve watches most. If prices are rising faster than expected, the Fed may keep interest rates high, and that can weigh on stocks, especially fast growing tech companies.",
+  "source": "Kiplinger",
+  "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+ },
+ {
+  "date": "2026-11-24",
+  "tickers": [
+   "NVDA",
+   "AMD",
    "AVGO",
    "ALL"
   ],
@@ -23,7 +49,7 @@
   "effect": "good",
   "title": "Sanofi agrees to buy Insmed for about $41 billion",
   "summary": "French drug maker Sanofi agreed to buy Insmed for $175 per share in cash. That is about 46% more than Insmed's price before news of talks came out. The deal is expected to close in the first half of 2027 if regulators and shareholders approve it.",
-  "why": "Big deals like this show that large drug companies are willing to pay a lot for new medicines. That helped lift many health care stocks today, including Eli Lilly and Intuitive Surgical.",
+  "why": "Big deals like this show that large drug companies are willing to pay a lot for new medicines. That helped lift many health care stocks on Tuesday, including Eli Lilly and Intuitive Surgical.",
   "source": "Insmed filing with the SEC",
   "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm"
  },
@@ -38,17 +64,5 @@
   "why": "Fewer people trade around holidays. With fewer buyers and sellers, prices can sometimes jump more than usual on small news.",
   "source": "New York Stock Exchange",
   "url": "https://www.nyse.com/markets/hours-calendars"
- },
- {
-  "date": "2026-11-23",
-  "tickers": [
-   "NVDA"
-  ],
-  "effect": "good",
-  "title": "NVIDIA brings back Jensen Huang as CEO",
-  "summary": "NVIDIA's board voted unanimously to put Jensen Huang back in charge as president and CEO, and back on the board. He had stepped down on November 12. The board says its internal review will keep going until it is finished.",
-  "why": "Investors often worry when a company loses its founder or leader. Getting him back removed a big worry, and the stock jumped about 31% in one day before falling about 6% on Tuesday.",
-  "source": "NVIDIA press release filed with the SEC",
-  "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
  }
 ]

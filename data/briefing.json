@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "After Tuesday's close: chips stepped back, health care stepped up",
-  "text": "Monday's giant rally faded for chip stocks. NVIDIA fell 5.9% to $155.38 after its 31% jump, and AMD fell 8.9%. SPY slipped 0.5% and QQQ fell 2.0%, because QQQ holds more tech companies. At the same time, health care stocks rose: Eli Lilly gained 3.3% and Intuitive Surgical 4.4%. So the market did not fall apart. Money moved from one group of stocks to another. The market is closed Thursday for Thanksgiving, so there are only two short trading days left this week."
+  "title": "Before Wednesday's open: inflation data and Dell's big AI quarter",
+  "text": "Today is the last full trading day of the week. The market is closed Thursday for Thanksgiving and closes early on Friday. Two things to watch at the open. First, at 8:30 a.m. Eastern time the government releases the PCE inflation report, the Fed's favorite way to measure rising prices, plus other data. Second, Dell reported a record quarter after Tuesday's close, with strong demand for AI servers. That could matter for chip makers like NVIDIA and AMD, which fell 5.9% and 8.9% on Tuesday. Prices in this update are from Tuesday's close."
  },
  {
   "kind": "alert",
-  "title": "NVIDIA's risk score moved into High",
-  "text": "NVIDIA closed at $155.38. That is about 36% below its high of the past year ($243.37). Its risk score went from 6.4 to 6.5 out of 10, which is just over the line into High. Huge moves in both directions, like +31% then -6%, are what a high score warns about. Jensen Huang is scheduled to answer questions from three House committees on December 1, which could bring new headlines."
+  "title": "Dell's results put AI hardware back in focus",
+  "text": "Dell builds the big computers (servers) that run AI, and many of them use chips from companies on our list. Dell said its quarterly revenue was a record $54.9 billion, about double a year ago. It also said customers have $132.3 billion of AI orders waiting to be filled. This is a sign that spending on AI is still strong. The chip makers on our list fell much more than the big AI users on Tuesday, so watch whether this news helps them today."
  },
  {
   "kind": "alert",
-  "title": "Chip makers fell more than the big AI users",
-  "text": "The companies that build parts for AI dropped the most today. AMD fell 8.9%, Vertiv 6.7%, Broadcom 4.0% and TSMC 3.8%. The big companies that use AI moved much less: Alphabet fell 1.1%, Amazon 1.2%, and Microsoft actually rose 0.7%. Broadcom is now only about 4% above its lowest price of the past year ($289.77)."
+  "title": "Inflation report lands before the opening bell",
+  "text": "The PCE report shows how fast prices are rising. If inflation comes in hotter than expected, the Fed may keep interest rates high or raise them, and that can push stock prices down. The 10 year Treasury yield averaged 5.13% in October, the highest of the past 12 months. Higher interest rates tend to hit fast growing tech stocks the hardest, because their biggest profits are expected far in the future."
  },
  {
   "kind": "alert",
-  "title": "Health care had its best day in a while",
-  "text": "Health care stocks on the Nasdaq rose about 4.1% on average, the best sector today. Sanofi, a big French drug company, agreed to buy Insmed for $175 per share in cash, about $41 billion. Eli Lilly closed at $1,410.12, only about 4% below its high of the past year. Lilly's risk score is 3.2, which is Low."
+  "title": "Broadcom and Rocket Lab are close to their lows of the year",
+  "text": "Broadcom closed at $301.08, only about 4% above its lowest price of the past year ($289.77). Rocket Lab closed at $45.98, about 15% above its low ($39.98) and about 70% below its high. Rocket Lab's risk score is 9.9 out of 10, the highest on our list. A stock near its low is not automatically cheap. It can keep falling, so the 52 week range is a clue, not an answer."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 65: What is sector rotation?",
-  "text": "A sector is a group of companies that do similar work, like chips or health care. Sector rotation is when investors sell one group and buy another. Today is a good example: chip stocks fell while health care stocks rose. The total market only dipped a little, because the money did not leave, it moved. This is one reason to own different kinds of companies. When one group has a bad day, another group may have a good one, and that smooths out the ride."
+  "title": "Lesson 66: What is a stock buyback?",
+  "text": "A buyback is when a company uses its own cash to buy back its own shares from the market. After that, there are fewer shares, so each share owns a slightly bigger slice of the company and its profits. Dell just approved up to $25 billion for buybacks. A buyback can be a sign that a company has extra cash and thinks its stock is worth owning. But it is not a promise that the price will go up. That money could also have been used to grow the business or to pay a dividend, so it is worth asking which choice helps owners more."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices, 52 week ranges, beta and company size come from Financial Modeling Prep (FMP) after Tuesday's close. Analyst price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the free plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury yield comes from Alpha Vantage. News comes from the Associated Press, SEC filings and the NYSE. Risk scores and scenarios are simple math, not predictions. Nothing here is advice to buy or sell."
+  "text": "Prices, 52 week ranges, beta and company size come from Financial Modeling Prep (FMP) as of Tuesday's close. Analyst price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the free plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury yield comes from Alpha Vantage. News comes from Dell, Kiplinger, the Associated Press, SEC filings and the NYSE. Risk scores and scenarios are simple math, not predictions. Nothing here is advice to buy or sell."
  }
 ]
