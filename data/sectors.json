@@ -1,46 +1,46 @@
 [
  {
-  "sector": "Healthcare",
-  "change_pct": 4.08
- },
- {
-  "sector": "Consumer Defensive",
-  "change_pct": 1.83
- },
- {
-  "sector": "Financial Services",
-  "change_pct": 0.79
- },
- {
-  "sector": "Energy",
-  "change_pct": 0.71
- },
- {
-  "sector": "Basic Materials",
-  "change_pct": 0.35
- },
- {
-  "sector": "Consumer Cyclical",
-  "change_pct": 0.33
- },
- {
-  "sector": "Real Estate",
-  "change_pct": -0.25
+  "sector": "Industrials",
+  "change_pct": 5.51
  },
  {
   "sector": "Communication Services",
-  "change_pct": -0.36
+  "change_pct": 4.44
+ },
+ {
+  "sector": "Energy",
+  "change_pct": 3.08
  },
  {
   "sector": "Technology",
-  "change_pct": -0.51
+  "change_pct": 2.53
+ },
+ {
+  "sector": "Basic Materials",
+  "change_pct": 2.1
+ },
+ {
+  "sector": "Financial Services",
+  "change_pct": 1.76
+ },
+ {
+  "sector": "Consumer Cyclical",
+  "change_pct": 1.53
+ },
+ {
+  "sector": "Real Estate",
+  "change_pct": 1.45
  },
  {
   "sector": "Utilities",
-  "change_pct": -0.64
+  "change_pct": 0.25
  },
  {
-  "sector": "Industrials",
-  "change_pct": -2.4
+  "sector": "Healthcare",
+  "change_pct": 0.04
+ },
+ {
+  "sector": "Consumer Defensive",
+  "change_pct": -0.45
  }
 ]

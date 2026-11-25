@@ -1,17 +1,15 @@
 [
  {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "tickers": [
-   "NVDA",
-   "AMD",
-   "VRT"
+   "ALL"
   ],
-  "effect": "good",
-  "title": "Dell reports a record quarter powered by AI servers",
-  "summary": "After the market closed on Tuesday, Dell said its quarterly revenue was a record $54.9 billion, roughly double a year earlier. It booked $60.2 billion of new AI orders and now has $132.3 billion of AI orders waiting to be filled. Dell also raised its full year forecast and approved up to $25 billion to buy back its own shares.",
-  "why": "Dell buys chips and cooling gear to build AI servers, so its orders are a clue about demand for companies like NVIDIA, AMD and Vertiv. Strong orders suggest customers are still spending heavily on AI, even after a rough week for chip stocks.",
-  "source": "Dell Technologies",
-  "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+  "effect": "bad",
+  "title": "Inflation rose to 3.8% in October",
+  "summary": "The government's PCE report showed prices were 3.8% higher in October than a year earlier, faster than September's 3.6%. Core prices, which skip food and energy, rose 3.3%. Personal income grew, but spending after inflation slipped a little.",
+  "why": "This is the inflation measure the Federal Reserve cares about most. Rising inflation makes it more likely the Fed raises interest rates, and higher rates usually put pressure on stock prices.",
+  "source": "U.S. Bureau of Economic Analysis",
+  "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
  },
  {
   "date": "2026-11-25",
@@ -19,50 +17,48 @@
    "ALL"
   ],
   "effect": "watch",
-  "title": "Inflation report and other data come out before the open",
-  "summary": "Because of Thanksgiving, several reports are bunched into Wednesday morning at 8:30 a.m. Eastern time. They include the PCE inflation report, durable goods orders and weekly jobless claims.",
-  "why": "PCE is the inflation number the Federal Reserve watches most. If prices are rising faster than expected, the Fed may keep interest rates high, and that can weigh on stocks, especially fast growing tech companies.",
-  "source": "Kiplinger",
-  "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+  "title": "U.S. proposes new tariffs on 14 trading partners",
+  "summary": "The U.S. trade office proposed tariffs of up to 20% on China, the European Union and 12 other economies after a study of factories making more than the world needs. The plan still needs public comments and hearings, so it could not start before January. Certain computer chips and medicines would be left out.",
+  "why": "Tariffs are taxes on imported goods. They can raise costs for companies and shoppers, so investors react to the news early, even before anything changes.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
  },
  {
-  "date": "2026-11-24",
-  "tickers": [
-   "NVDA",
-   "AMD",
-   "AVGO",
-   "ALL"
-  ],
-  "effect": "bad",
-  "title": "AI chip stocks pull the market back down",
-  "summary": "A day after a huge rally, chip stocks fell. NVIDIA dropped about 6%, AMD almost 9% and Broadcom about 4%. The S&P 500 slipped 0.5% and the Nasdaq fell 1.5%, while the Dow rose about 0.9% thanks to stocks like Amgen and Nike.",
-  "why": "When a stock jumps a lot in one day, some investors sell to lock in their gains. That is called profit-taking. It shows why one great day does not mean the worries are gone.",
-  "source": "Associated Press",
-  "url": "https://www.huffpost.com/entry/ap-financial-markets-nvidia-stock-market_n_6b05f9c8e4b03d22835f5187"
- },
- {
-  "date": "2026-11-24",
-  "tickers": [
-   "LLY",
-   "ISRG"
-  ],
-  "effect": "good",
-  "title": "Sanofi agrees to buy Insmed for about $41 billion",
-  "summary": "French drug maker Sanofi agreed to buy Insmed for $175 per share in cash. That is about 46% more than Insmed's price before news of talks came out. The deal is expected to close in the first half of 2027 if regulators and shareholders approve it.",
-  "why": "Big deals like this show that large drug companies are willing to pay a lot for new medicines. That helped lift many health care stocks on Tuesday, including Eli Lilly and Intuitive Surgical.",
-  "source": "Insmed filing with the SEC",
-  "url": "https://www.sec.gov/Archives/edgar/data/0001104506/000114036126045364/ef20086426_ex99-1.htm"
- },
- {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "tickers": [
    "ALL"
   ],
   "effect": "watch",
-  "title": "Short trading week for Thanksgiving",
-  "summary": "U.S. stock markets are closed on Thursday, November 26, for Thanksgiving. On Friday, November 27, they close early at 1 p.m. Eastern time.",
-  "why": "Fewer people trade around holidays. With fewer buyers and sellers, prices can sometimes jump more than usual on small news.",
-  "source": "New York Stock Exchange",
-  "url": "https://www.nyse.com/markets/hours-calendars"
+  "title": "Dow climbs back from a 1,100 point drop",
+  "summary": "Stocks fell hard in the morning after the inflation and tariff news. By the end of the day the Dow had recovered its whole loss and finished slightly higher. The S&P 500 and the Nasdaq still closed a little lower.",
+  "why": "Big swings inside one day show how fast investor mood can change. It is a reminder that reacting to the first scary headline can be a mistake.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "TSM"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA slides again as AI stocks stay under pressure",
+  "summary": "NVIDIA fell for a second day as worries about inflation and borrowing in the AI industry weighed on chip stocks. Questions about its leadership and its board after the CEO's return also stayed in the news. It closed down 3.9% on Wednesday.",
+  "why": "NVIDIA is one of the biggest companies in the market, so its moves affect index funds like SPY and QQQ too. When one stock is a big part of a fund, its ups and downs spread to the whole fund.",
+  "source": "The Motley Fool",
+  "url": "https://www.fool.com/investing/2026/11/25/why-nvidia-stock-is-falling-again/"
+ },
+ {
+  "date": "2026-11-24",
+  "tickers": [
+   "LMT"
+  ],
+  "effect": "good",
+  "title": "Lockheed Martin gets a vote of confidence from an analyst",
+  "summary": "Lockheed Martin rose on Tuesday after a Mizuho analyst began covering defense companies and named it one of the favored picks. The stock kept rising on Wednesday, up 2.2%.",
+  "why": "Analysts study companies and share opinions with investors. A positive new opinion can bring in buyers, but analysts can be wrong, so it is just one clue.",
+  "source": "The Motley Fool",
+  "url": "https://www.fool.com/investing/2026/11/24/here-s-why-lockheed-martin-stock-popped-higher-hint-an-analyst-upgrade-helped/"
  }
 ]

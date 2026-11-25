@@ -2347,5 +2347,67 @@
   "why": "PCE is the inflation number the Federal Reserve watches most. If prices are rising faster than expected, the Fed may keep interest rates high, and that can weigh on stocks, especially fast growing tech companies.",
   "source": "Kiplinger",
   "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Inflation rose to 3.8% in October",
+  "summary": "The government's PCE report showed prices were 3.8% higher in October than a year earlier, faster than September's 3.6%. Core prices, which skip food and energy, rose 3.3%. Personal income grew, but spending after inflation slipped a little.",
+  "why": "This is the inflation measure the Federal Reserve cares about most. Rising inflation makes it more likely the Fed raises interest rates, and higher rates usually put pressure on stock prices.",
+  "source": "U.S. Bureau of Economic Analysis",
+  "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "U.S. proposes new tariffs on 14 trading partners",
+  "summary": "The U.S. trade office proposed tariffs of up to 20% on China, the European Union and 12 other economies after a study of factories making more than the world needs. The plan still needs public comments and hearings, so it could not start before January. Certain computer chips and medicines would be left out.",
+  "why": "Tariffs are taxes on imported goods. They can raise costs for companies and shoppers, so investors react to the news early, even before anything changes.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Dow climbs back from a 1,100 point drop",
+  "summary": "Stocks fell hard in the morning after the inflation and tariff news. By the end of the day the Dow had recovered its whole loss and finished slightly higher. The S&P 500 and the Nasdaq still closed a little lower.",
+  "why": "Big swings inside one day show how fast investor mood can change. It is a reminder that reacting to the first scary headline can be a mistake.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "TSM"
+  ],
+  "effect": "bad",
+  "title": "NVIDIA slides again as AI stocks stay under pressure",
+  "summary": "NVIDIA fell for a second day as worries about inflation and borrowing in the AI industry weighed on chip stocks. Questions about its leadership and its board after the CEO's return also stayed in the news. It closed down 3.9% on Wednesday.",
+  "why": "NVIDIA is one of the biggest companies in the market, so its moves affect index funds like SPY and QQQ too. When one stock is a big part of a fund, its ups and downs spread to the whole fund.",
+  "source": "The Motley Fool",
+  "url": "https://www.fool.com/investing/2026/11/25/why-nvidia-stock-is-falling-again/"
+ },
+ {
+  "date": "2026-11-24",
+  "tickers": [
+   "LMT"
+  ],
+  "effect": "good",
+  "title": "Lockheed Martin gets a vote of confidence from an analyst",
+  "summary": "Lockheed Martin rose on Tuesday after a Mizuho analyst began covering defense companies and named it one of the favored picks. The stock kept rising on Wednesday, up 2.2%.",
+  "why": "Analysts study companies and share opinions with investors. A positive new opinion can bring in buyers, but analysts can be wrong, so it is just one clue.",
+  "source": "The Motley Fool",
+  "url": "https://www.fool.com/investing/2026/11/24/here-s-why-lockheed-martin-stock-popped-higher-hint-an-analyst-upgrade-helped/"
  }
 ]

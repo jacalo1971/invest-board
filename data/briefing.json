@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "Before Wednesday's open: inflation data and Dell's big AI quarter",
-  "text": "Today is the last full trading day of the week. The market is closed Thursday for Thanksgiving and closes early on Friday. Two things to watch at the open. First, at 8:30 a.m. Eastern time the government releases the PCE inflation report, the Fed's favorite way to measure rising prices, plus other data. Second, Dell reported a record quarter after Tuesday's close, with strong demand for AI servers. That could matter for chip makers like NVIDIA and AMD, which fell 5.9% and 8.9% on Tuesday. Prices in this update are from Tuesday's close."
+  "title": "After Wednesday's close: a scary morning, a calmer finish",
+  "text": "Wednesday started badly. An inflation report came in hot, the U.S. proposed new tariffs, and AI chip stocks kept falling. At its worst, the Dow was down about 1,100 points. By the close it had climbed back to a small gain. The S&P 500 fund SPY ended down only 0.27% and the Nasdaq 100 fund QQQ down 0.69%. Chip makers still had a rough day: NVIDIA fell 3.9%. The market is closed Thursday for Thanksgiving and closes early, at 1 p.m. Eastern time, on Friday."
  },
  {
   "kind": "alert",
-  "title": "Dell's results put AI hardware back in focus",
-  "text": "Dell builds the big computers (servers) that run AI, and many of them use chips from companies on our list. Dell said its quarterly revenue was a record $54.9 billion, about double a year ago. It also said customers have $132.3 billion of AI orders waiting to be filled. This is a sign that spending on AI is still strong. The chip makers on our list fell much more than the big AI users on Tuesday, so watch whether this news helps them today."
+  "title": "Inflation is speeding up again",
+  "text": "The PCE report is the inflation number the Federal Reserve watches most. It showed prices were 3.8% higher in October than a year before, up from 3.6% in September. Core prices, which leave out food and energy because they jump around a lot, rose 3.3%. When inflation rises, the Fed may raise interest rates to cool things down. Higher rates can make stocks less attractive, especially fast growing tech companies."
  },
  {
   "kind": "alert",
-  "title": "Inflation report lands before the opening bell",
-  "text": "The PCE report shows how fast prices are rising. If inflation comes in hotter than expected, the Fed may keep interest rates high or raise them, and that can push stock prices down. The 10 year Treasury yield averaged 5.13% in October, the highest of the past 12 months. Higher interest rates tend to hit fast growing tech stocks the hardest, because their biggest profits are expected far in the future."
+  "title": "New tariffs are proposed, not final",
+  "text": "A tariff is a tax on goods that come from another country. The U.S. trade office proposed new tariffs of up to 20% on China, the European Union and 12 other economies. They are not in place yet. The earliest they could start is January, after public comments and hearings. Some items, like certain computer chips and medicines, would be left out. Markets often react to news like this before anything actually changes."
  },
  {
   "kind": "alert",
-  "title": "Broadcom and Rocket Lab are close to their lows of the year",
-  "text": "Broadcom closed at $301.08, only about 4% above its lowest price of the past year ($289.77). Rocket Lab closed at $45.98, about 15% above its low ($39.98) and about 70% below its high. Rocket Lab's risk score is 9.9 out of 10, the highest on our list. A stock near its low is not automatically cheap. It can keep falling, so the 52 week range is a clue, not an answer."
+  "title": "AI chip makers fell while some big AI users rose",
+  "text": "NVIDIA dropped 3.9%, TSMC 2.0% and AMD 1.8%. On the other side, Meta rose 3.4%. Amazon fell 3.1% and Alphabet 2.1%, so the big AI users did not all move together. NVIDIA is now about 39% below its high of the past year. Its risk score is 6.5 out of 10. Lockheed Martin rose 2.2% and has the lowest risk score among single stocks on our list, at 2.9."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 66: What is a stock buyback?",
-  "text": "A buyback is when a company uses its own cash to buy back its own shares from the market. After that, there are fewer shares, so each share owns a slightly bigger slice of the company and its profits. Dell just approved up to $25 billion for buybacks. A buyback can be a sign that a company has extra cash and thinks its stock is worth owning. But it is not a promise that the price will go up. That money could also have been used to grow the business or to pay a dividend, so it is worth asking which choice helps owners more."
+  "title": "Lesson 67: What is a tariff?",
+  "text": "A tariff is a tax a country charges on things brought in from other countries. Say a toy made overseas costs $10, and there is a 20% tariff. The company bringing it in pays $2 extra to the government. Often some of that cost gets passed on to shoppers through higher prices. Tariffs can help some local companies, because their foreign rivals become more expensive. But they can hurt companies that buy parts from abroad or sell a lot overseas. That is why stock prices can move just on the news that a tariff might be coming."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices, 52 week ranges, beta and company size come from Financial Modeling Prep (FMP) as of Tuesday's close. Analyst price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the free plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury yield comes from Alpha Vantage. News comes from Dell, Kiplinger, the Associated Press, SEC filings and the NYSE. Risk scores and scenarios are simple math, not predictions. Nothing here is advice to buy or sell."
+  "text": "Prices, 52 week ranges, beta and company size come from Financial Modeling Prep (FMP) as of Wednesday's close. Analyst price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the free plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury yield comes from Alpha Vantage. News comes from the sources listed with each story. Risk scores and scenarios are simple math, not predictions. Nothing here is advice to buy or sell."
  }
 ]
