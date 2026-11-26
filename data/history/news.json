@@ -2447,5 +2447,30 @@
   "why": "Unemployment claims show how many people are losing jobs. The number is still low, which means most people are keeping their jobs, but a slow rise is worth watching.",
   "source": "investingLive",
   "url": "https://investinglive.com/news/us-initial-jobless-claims-203k-vs-197k-estimate/"
+ },
+ {
+  "date": "2026-11-19",
+  "tickers": [
+   "AMZN",
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Retail group expects slightly fewer Thanksgiving weekend shoppers",
+  "summary": "The National Retail Federation surveyed almost 8,000 adults about their holiday plans. It expects about 182.7 million people to shop from Thanksgiving through Cyber Monday, around 2% fewer than its forecast a year ago. Black Friday is still the top day, with about 126 million planned shoppers.",
+  "why": "Spending by regular people is the biggest part of the U.S. economy. Holiday shopping can show whether families feel confident or worried, which affects stores and online sellers like Amazon. Keep in mind this is a survey of plans, not actual sales.",
+  "source": "National Retail Federation",
+  "url": "https://nrf.com/media-center/press-releases/183-million-consumers-expected-to-shop-during-thanksgiving-weekend"
+ },
+ {
+  "date": "2026-11-13",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "Senate committee calls former NVIDIA CEO to testify",
+  "summary": "The Senate Banking Committee asked Jensen Huang, NVIDIA's founder and former CEO, and Commerce Secretary Howard Lutnick to testify about AI chip sales to China. Huang later agreed to appear. A hearing date had not been confirmed in the latest reports.",
+  "why": "A public hearing can bring new rules or new headlines about where NVIDIA is allowed to sell its chips. Uncertainty like this can make a stock swing more than usual, even before anything changes.",
+  "source": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate"
  }
 ]

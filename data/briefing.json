@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "Thanksgiving: no trading today, a short day Friday",
-  "text": "U.S. stock markets are closed today for Thanksgiving, so there is no opening bell to watch. Trading comes back Friday morning, but stocks close early at 1 p.m. Eastern time. Short days often have fewer buyers and sellers, so prices can jump around more than usual. The prices on this page are from Wednesday's close. That day SPY, the S&P 500 fund, ended down 0.29% and QQQ, the Nasdaq 100 fund, ended down 0.65%. Both were much lower earlier in the day before they climbed back. Things to watch Friday: whether AI chip stocks keep falling, and what the coming Fed decision in December could mean for interest rates."
+  "title": "Thanksgiving: no closing bell today",
+  "text": "U.S. stock markets stayed closed all day for Thanksgiving, so there was no close to report. The prices on this page are still from Wednesday. That day SPY, the S&P 500 fund, ended down 0.29% and QQQ, the Nasdaq 100 fund, ended down 0.65%. Trading comes back Friday, but stocks close early at 1 p.m. Eastern time. Fewer people trade on short days, so prices can move more than usual. Next week brings new data on jobs and the run up to the Fed's December meeting."
  },
  {
   "kind": "alert",
-  "title": "A wild ride on Wednesday",
-  "text": "At its lowest point on Wednesday, the Nasdaq Composite was down about 4.6%. By the end of the day it was down only 0.62%. The S&P 500 finished down 0.25% and the Dow finished up 0.33%. A big drop that mostly disappears by the close tells us investors are nervous but still willing to buy when prices fall. It does not tell us which way prices go next."
+  "title": "AI chip makers are still far from their highs",
+  "text": "The five AI supplier companies on our list are, on average, about 40% below their highest price of the past year. The four AI giants (Alphabet, Amazon, Microsoft and Meta) are about 21% below on average. The suppliers also have higher risk scores: about 6.7 out of 10 on average, versus about 4.4 for the giants. Suppliers sell the chips and gear, so their sales can rise and fall faster when the giants change their spending plans."
  },
  {
   "kind": "alert",
-  "title": "AI chip makers are still the weak spot",
-  "text": "NVIDIA fell 3.9% on Wednesday and is now about 39% below its high of the past year. Vertiv, which makes power and cooling gear for data centers, is about 54% below its high. AMD is about 38% below and Broadcom about 39% below. These are the group with the highest risk scores on our list, between 6.0 and 8.2 out of 10. A falling price can mean a bargain, or it can mean the business outlook got worse. Only time and new reports will tell which one it is."
+  "title": "Fewer Thanksgiving weekend shoppers expected",
+  "text": "A survey by the National Retail Federation, a group for store owners, expects about 183 million people to shop over Thanksgiving weekend. That is about 2% fewer than it expected last year. Black Friday is still the most popular day. Shopping matters to stocks because people buying things is the biggest part of the U.S. economy. It can affect companies like Amazon."
  },
  {
   "kind": "alert",
   "title": "Interest rates are still the big story",
-  "text": "The 10 year Treasury yield averaged 5.13% in October, up from 4.09% a year earlier. That is the interest rate the U.S. government pays to borrow for 10 years. Inflation rose to 3.8% in October, and minutes from the Fed's last meeting showed most officials expect more rate hikes. Higher rates make safe bonds more attractive, which can pull money away from stocks, especially fast growing tech stocks."
+  "text": "The 10 year Treasury yield averaged 5.13% in October, up from 4.09% a year earlier. That is the interest rate the U.S. government pays to borrow for 10 years. Inflation was 3.8% in October, and minutes from the Fed's last meeting showed most officials expect more rate hikes. When safe bonds pay more, some investors move money out of stocks, especially fast growing tech stocks."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 68: What is an intraday swing?",
-  "text": "Intraday means during one trading day. An intraday swing is how far a price moves between its low and its high on that same day. On Wednesday, the Nasdaq was down about 4.6% at one point but ended down only 0.62%. If you only looked at the close, you would think it was a calm day. It was not. Big swings like this usually happen when people are worried and react fast to news. For long term investors, the lesson is simple: one scary hour is not a reason to panic. Decide your plan before the market opens, not in the middle of a drop."
+  "title": "Lesson 69: What is consumer spending?",
+  "text": "Consumer spending is all the money regular people spend on things like food, clothes, phones, trips and haircuts. In the U.S. it is the biggest part of the whole economy, about two thirds of it. That is why investors watch Black Friday and holiday shopping so closely. When people spend more, stores and the companies that supply them usually sell more and earn more. When people get worried and spend less, those companies can earn less. Careful, though: if prices are rising, people can spend more dollars and still buy fewer things. So a bigger spending number is not always good news."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices, 52 week ranges, beta and company size come from Financial Modeling Prep (FMP) as of Wednesday's close, the last trading day before Thanksgiving. Analyst price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the free plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. Sector moves are for Nasdaq listed companies. The 10 year Treasury yield comes from Alpha Vantage as a monthly average. News comes from public sources listed with each story. Risk scores and price scenarios are simple math, not predictions. This page is for learning, not financial advice."
+  "text": "Markets were closed today, so prices, 52 week ranges, beta and company size are from Wednesday's close, from Financial Modeling Prep (FMP). Analyst price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; our free plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury yield comes from Alpha Vantage. News comes from the sources linked on each story. Risk scores and the 3 month, 1 year and 3 year scenarios are simple math on these numbers, not predictions. Nothing here is financial advice."
  }
 ]
