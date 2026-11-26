@@ -1,39 +1,29 @@
 [
  {
-  "date": "2026-11-25",
-  "tickers": [
-   "ALL"
-  ],
-  "effect": "bad",
-  "title": "Inflation rose to 3.8% in October",
-  "summary": "The government's PCE report showed prices were 3.8% higher in October than a year earlier, faster than September's 3.6%. Core prices, which skip food and energy, rose 3.3%. Personal income grew, but spending after inflation slipped a little.",
-  "why": "This is the inflation measure the Federal Reserve cares about most. Rising inflation makes it more likely the Fed raises interest rates, and higher rates usually put pressure on stock prices.",
-  "source": "U.S. Bureau of Economic Analysis",
-  "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
- },
- {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "tickers": [
    "ALL"
   ],
   "effect": "watch",
-  "title": "U.S. proposes new tariffs on 14 trading partners",
-  "summary": "The U.S. trade office proposed tariffs of up to 20% on China, the European Union and 12 other economies after a study of factories making more than the world needs. The plan still needs public comments and hearings, so it could not start before January. Certain computer chips and medicines would be left out.",
-  "why": "Tariffs are taxes on imported goods. They can raise costs for companies and shoppers, so investors react to the news early, even before anything changes.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+  "title": "Markets closed for Thanksgiving, early close Friday",
+  "summary": "U.S. stock exchanges are closed on Thursday, November 26, for Thanksgiving. They reopen Friday and close early, at 1 p.m. Eastern time. The bond market is also set to close early on Friday.",
+  "why": "Fewer people trade on short holiday days. With fewer buyers and sellers, prices can move more than usual, even without big news.",
+  "source": "NYSE",
+  "url": "https://www.nyse.com/markets/hours-calendars"
  },
  {
   "date": "2026-11-25",
   "tickers": [
-   "ALL"
+   "ALL",
+   "QQQ",
+   "SPY"
   ],
   "effect": "watch",
-  "title": "Dow climbs back from a 1,100 point drop",
-  "summary": "Stocks fell hard in the morning after the inflation and tariff news. By the end of the day the Dow had recovered its whole loss and finished slightly higher. The S&P 500 and the Nasdaq still closed a little lower.",
-  "why": "Big swings inside one day show how fast investor mood can change. It is a reminder that reacting to the first scary headline can be a mistake.",
-  "source": "CNBC",
-  "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+  "title": "Nasdaq erases most of a 4.6% drop",
+  "summary": "The Nasdaq Composite fell as much as 4.6% during Wednesday's session but closed down just 0.62%. The S&P 500 ended at 7,182.78, down 0.25%, and the Dow rose 0.33% to 50,182.95. Worries about AI stock prices and inflation drove the early selling.",
+  "why": "A big drop that mostly goes away shows investors are nervous but still buying on dips. It is a good reminder that the closing number does not tell the whole story of a day.",
+  "source": "BNN Bloomberg",
+  "url": "https://bnnbloomberg.ca/markets/2026/11/25/ai-rout-continues-as-market-exuberance-fades-over-improbable-return-of-nvidias-huang"
  },
  {
   "date": "2026-11-25",
@@ -44,21 +34,45 @@
   ],
   "effect": "bad",
   "title": "NVIDIA slides again as AI stocks stay under pressure",
-  "summary": "NVIDIA fell for a second day as worries about inflation and borrowing in the AI industry weighed on chip stocks. Questions about its leadership and its board after the CEO's return also stayed in the news. It closed down 3.9% on Wednesday.",
-  "why": "NVIDIA is one of the biggest companies in the market, so its moves affect index funds like SPY and QQQ too. When one stock is a big part of a fund, its ups and downs spread to the whole fund.",
+  "summary": "NVIDIA kept falling on Wednesday as investors stayed worried about how much companies are spending on AI. Other chip makers like AMD and TSMC also lost ground.",
+  "why": "These companies sell the chips that power AI. If investors think AI spending might slow down, they often sell these stocks first.",
   "source": "The Motley Fool",
   "url": "https://www.fool.com/investing/2026/11/25/why-nvidia-stock-is-falling-again/"
  },
  {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "tickers": [
-   "LMT"
+   "ALL"
   ],
-  "effect": "good",
-  "title": "Lockheed Martin gets a vote of confidence from an analyst",
-  "summary": "Lockheed Martin rose on Tuesday after a Mizuho analyst began covering defense companies and named it one of the favored picks. The stock kept rising on Wednesday, up 2.2%.",
-  "why": "Analysts study companies and share opinions with investors. A positive new opinion can bring in buyers, but analysts can be wrong, so it is just one clue.",
-  "source": "The Motley Fool",
-  "url": "https://www.fool.com/investing/2026/11/24/here-s-why-lockheed-martin-stock-popped-higher-hint-an-analyst-upgrade-helped/"
+  "effect": "bad",
+  "title": "Inflation rose to 3.8% in October",
+  "summary": "The government's PCE report showed prices were 3.8% higher in October than a year earlier, up from 3.6% in September. Core prices, which leave out food and energy, rose 3.3%.",
+  "why": "PCE is the inflation number the Federal Reserve watches most. Rising inflation makes it more likely the Fed raises interest rates, which can weigh on stocks.",
+  "source": "U.S. Bureau of Economic Analysis",
+  "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+ },
+ {
+  "date": "2026-11-19",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Jobless claims rise slightly to 203,000",
+  "summary": "The number of people filing for unemployment benefits for the first time rose by 1,000 to 203,000 in the week ended November 14. Economists had expected about 197,000. People still getting benefits rose to about 1.76 million.",
+  "why": "Unemployment claims show how many people are losing jobs. The number is still low, which means most people are keeping their jobs, but a slow rise is worth watching.",
+  "source": "investingLive",
+  "url": "https://investinglive.com/news/us-initial-jobless-claims-203k-vs-197k-estimate/"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "bad",
+  "title": "Fed minutes show most officials expect more rate hikes",
+  "summary": "Notes from the Fed's October meeting showed nearly all officials expect to raise interest rates again. Two officials voted to raise rates at that meeting instead of waiting. Inflation and heavy AI spending were named as risks.",
+  "why": "When the Fed raises rates, borrowing costs more for people and companies. That can slow the economy and make stocks less attractive than safer savings.",
+  "source": "Federal Reserve",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm"
  }
 ]

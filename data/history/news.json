@@ -2409,5 +2409,43 @@
   "why": "Analysts study companies and share opinions with investors. A positive new opinion can bring in buyers, but analysts can be wrong, so it is just one clue.",
   "source": "The Motley Fool",
   "url": "https://www.fool.com/investing/2026/11/24/here-s-why-lockheed-martin-stock-popped-higher-hint-an-analyst-upgrade-helped/"
+ },
+ {
+  "date": "2026-11-26",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Markets closed for Thanksgiving, early close Friday",
+  "summary": "U.S. stock exchanges are closed on Thursday, November 26, for Thanksgiving. They reopen Friday and close early, at 1 p.m. Eastern time. The bond market is also set to close early on Friday.",
+  "why": "Fewer people trade on short holiday days. With fewer buyers and sellers, prices can move more than usual, even without big news.",
+  "source": "NYSE",
+  "url": "https://www.nyse.com/markets/hours-calendars"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "ALL",
+   "QQQ",
+   "SPY"
+  ],
+  "effect": "watch",
+  "title": "Nasdaq erases most of a 4.6% drop",
+  "summary": "The Nasdaq Composite fell as much as 4.6% during Wednesday's session but closed down just 0.62%. The S&P 500 ended at 7,182.78, down 0.25%, and the Dow rose 0.33% to 50,182.95. Worries about AI stock prices and inflation drove the early selling.",
+  "why": "A big drop that mostly goes away shows investors are nervous but still buying on dips. It is a good reminder that the closing number does not tell the whole story of a day.",
+  "source": "BNN Bloomberg",
+  "url": "https://bnnbloomberg.ca/markets/2026/11/25/ai-rout-continues-as-market-exuberance-fades-over-improbable-return-of-nvidias-huang"
+ },
+ {
+  "date": "2026-11-19",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Jobless claims rise slightly to 203,000",
+  "summary": "The number of people filing for unemployment benefits for the first time rose by 1,000 to 203,000 in the week ended November 14. Economists had expected about 197,000. People still getting benefits rose to about 1.76 million.",
+  "why": "Unemployment claims show how many people are losing jobs. The number is still low, which means most people are keeping their jobs, but a slow rise is worth watching.",
+  "source": "investingLive",
+  "url": "https://investinglive.com/news/us-initial-jobless-claims-203k-vs-197k-estimate/"
  }
 ]
