@@ -1,32 +1,32 @@
 [
  {
   "kind": "takeaway",
-  "title": "Thanksgiving: no closing bell today",
-  "text": "U.S. stock markets stayed closed all day for Thanksgiving, so there was no close to report. The prices on this page are still from Wednesday. That day SPY, the S&P 500 fund, ended down 0.29% and QQQ, the Nasdaq 100 fund, ended down 0.65%. Trading comes back Friday, but stocks close early at 1 p.m. Eastern time. Fewer people trade on short days, so prices can move more than usual. Next week brings new data on jobs and the run up to the Fed's December meeting."
+  "title": "Short day today: stocks close at 1 p.m.",
+  "text": "Wall Street reopens this morning after Thanksgiving, but only for a half day. Stocks stop trading at 1 p.m. Eastern time. The prices on this page are still from Wednesday's close, because the market was shut on Thursday. Overnight, most stock markets in Asia went up, led by tech and AI companies. That can give U.S. tech stocks a lift at the open, but nothing is promised. Today is also Black Friday, so stores and online sellers like Amazon may get extra attention."
  },
  {
   "kind": "alert",
-  "title": "AI chip makers are still far from their highs",
-  "text": "The five AI supplier companies on our list are, on average, about 40% below their highest price of the past year. The four AI giants (Alphabet, Amazon, Microsoft and Meta) are about 21% below on average. The suppliers also have higher risk scores: about 6.7 out of 10 on average, versus about 4.4 for the giants. Suppliers sell the chips and gear, so their sales can rise and fall faster when the giants change their spending plans."
+  "title": "AI suppliers are still much further from their highs",
+  "text": "The five AI supplier companies on our list (NVIDIA, Broadcom, TSMC, Vertiv and AMD) are, on average, about 40% below their highest price of the past year. The four AI giants (Alphabet, Amazon, Microsoft and Meta) are about 21% below on average. The suppliers also carry higher risk scores: about 6.7 out of 10, versus about 4.4 for the giants. Suppliers sell chips and equipment, so their sales can jump or drop quickly when the giants change their spending plans."
  },
  {
   "kind": "alert",
-  "title": "Fewer Thanksgiving weekend shoppers expected",
-  "text": "A survey by the National Retail Federation, a group for store owners, expects about 183 million people to shop over Thanksgiving weekend. That is about 2% fewer than it expected last year. Black Friday is still the most popular day. Shopping matters to stocks because people buying things is the biggest part of the U.S. economy. It can affect companies like Amazon."
+  "title": "Online holiday shopping is off to a strong start",
+  "text": "Adobe, which tracks online sales, says Americans spent $82.5 billion online from November 1 to 22. That is 9.1% more than the same days last year. Adobe expects about $12.9 billion of online spending on Black Friday alone. These are online sales only, and the Black Friday number is a forecast, not a final count. Strong shopping is usually a good sign for the economy and for Amazon."
  },
  {
   "kind": "alert",
-  "title": "Interest rates are still the big story",
-  "text": "The 10 year Treasury yield averaged 5.13% in October, up from 4.09% a year earlier. That is the interest rate the U.S. government pays to borrow for 10 years. Inflation was 3.8% in October, and minutes from the Fed's last meeting showed most officials expect more rate hikes. When safe bonds pay more, some investors move money out of stocks, especially fast growing tech stocks."
+  "title": "A busy week for NVIDIA is coming",
+  "text": "NVIDIA's CEO, Jensen Huang, is set to answer questions from lawmakers next week, in a private meeting with House committees on December 1 and a public Senate hearing on December 3. The Senate hearing is about rules that limit selling advanced chips to other countries. Big news from Washington can move NVIDIA, and other chip stocks often move with it."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 69: What is consumer spending?",
-  "text": "Consumer spending is all the money regular people spend on things like food, clothes, phones, trips and haircuts. In the U.S. it is the biggest part of the whole economy, about two thirds of it. That is why investors watch Black Friday and holiday shopping so closely. When people spend more, stores and the companies that supply them usually sell more and earn more. When people get worried and spend less, those companies can earn less. Careful, though: if prices are rising, people can spend more dollars and still buy fewer things. So a bigger spending number is not always good news."
+  "title": "Lesson 70: What is liquidity?",
+  "text": "Liquidity means how easy it is to buy or sell something quickly without changing its price much. A popular stock like Microsoft is very liquid: millions of shares trade every day, so there is almost always someone ready to buy or sell. A rare baseball card is not very liquid: you may wait weeks for a buyer, or have to drop your price. Liquidity can change. On short holiday days like today, many traders take the day off. With fewer buyers and sellers, a few big orders can push prices more than usual. That is why one quiet day's move should not be read as a big signal. For long-term investors, liquidity mostly matters when you need your money fast."
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Markets were closed today, so prices, 52 week ranges, beta and company size are from Wednesday's close, from Financial Modeling Prep (FMP). Analyst price targets and company ratios come from FMP for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; our free plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury yield comes from Alpha Vantage. News comes from the sources linked on each story. Risk scores and the 3 month, 1 year and 3 year scenarios are simple math on these numbers, not predictions. Nothing here is financial advice."
+  "text": "Prices are from Wednesday, November 25, the last full trading day, because U.S. markets were closed Thursday for Thanksgiving. Risk scores and price scenarios use those prices. Analyst price targets are shown for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the free data plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury chart shows monthly averages through October. This is information for learning, not advice to buy or sell anything."
  }
 ]

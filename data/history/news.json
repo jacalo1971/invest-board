@@ -2472,5 +2472,57 @@
   "why": "A public hearing can bring new rules or new headlines about where NVIDIA is allowed to sell its chips. Uncertainty like this can make a stock swing more than usual, even before anything changes.",
   "source": "Al Jazeera",
   "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate"
+ },
+ {
+  "date": "2026-11-27",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Asian stocks mostly rise before Wall Street reopens",
+  "summary": "Most stock markets in Asia moved higher on Friday while U.S. markets were still on their Thanksgiving break. Shares tied to artificial intelligence and computer chips led the gains. Investors are also keeping an eye on planned U.S. tariff increases on imports from several trading partners.",
+  "why": "Markets around the world often move together. A good night in Asia can set a hopeful mood for the U.S. open, but U.S. traders still make up their own minds once trading starts.",
+  "source": "Associated Press",
+  "url": "https://www.news4jax.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/"
+ },
+ {
+  "date": "2026-11-27",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "watch",
+  "title": "Half day for U.S. stocks on Black Friday",
+  "summary": "U.S. stock exchanges reopen Friday after being closed for Thanksgiving. Trading ends early, at 1 p.m. Eastern time. Many traders take the day off, so fewer shares usually change hands.",
+  "why": "When fewer people are trading, prices can swing more than normal on small amounts of news. A big move on a short day may not mean much for the long run.",
+  "source": "New York Stock Exchange",
+  "url": "https://www.nyse.com/markets/hours-calendars"
+ },
+ {
+  "date": "2026-11-25",
+  "tickers": [
+   "AMZN",
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Online holiday spending is up 9.1% so far",
+  "summary": "Adobe says U.S. shoppers spent $82.5 billion online from November 1 to 22, up 9.1% from a year earlier. It expects about $12.9 billion in online sales on Black Friday. The Black Friday figure is a forecast, and the data does not include shopping in stores.",
+  "why": "Spending by regular people is the biggest part of the U.S. economy. When shoppers keep buying, companies like Amazon can earn more. Strong spending can also keep prices rising, which matters for interest rates.",
+  "source": "Digital Commerce 360 (Adobe data)",
+  "url": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/"
+ },
+ {
+  "date": "2026-11-23",
+  "tickers": [
+   "NVDA",
+   "AMD",
+   "AVGO",
+   "TSM"
+  ],
+  "effect": "watch",
+  "title": "NVIDIA's CEO will face a Senate hearing on December 3",
+  "summary": "Jensen Huang is scheduled to testify in public before the Senate Banking Committee on December 3. The hearing is about U.S. rules that limit selling advanced chips to other countries. He is also set to meet privately with House committees on December 1.",
+  "why": "Government rules can change where a company is allowed to sell its products. If lawmakers push for tighter limits, chip companies could sell less abroad, so investors will listen closely.",
+  "source": "CoinDesk",
+  "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo"
  }
 ]
