@@ -2524,5 +2524,57 @@
   "why": "Government rules can change where a company is allowed to sell its products. If lawmakers push for tighter limits, chip companies could sell less abroad, so investors will listen closely.",
   "source": "CoinDesk",
   "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo"
+ },
+ {
+  "date": "2026-11-27",
+  "tickers": [
+   "ALL"
+  ],
+  "effect": "good",
+  "title": "Stocks finish a short holiday week with a big gain",
+  "summary": "U.S. stocks climbed in the half day session after Thanksgiving. The Dow rose about 590 points, or about 1.2%, the S&P 500 gained about 1.6% and the Nasdaq added about 2.3%. Tech and chip companies led the way, and the Nasdaq ended the week with one of its best weekly gains in a long time.",
+  "why": "A strong week after a big drop shows how fast the mood of the market can change. It is a good reminder not to panic on bad days, and also not to get too excited on great days.",
+  "source": "BigGo Finance",
+  "url": "https://finance.biggo.com/news/94218d89-8592-4b2f-a61c-1e75d032506d"
+ },
+ {
+  "date": "2026-11-27",
+  "tickers": [
+   "AMD",
+   "AVGO",
+   "TSM",
+   "VRT"
+  ],
+  "effect": "good",
+  "title": "Chip and memory stocks lead the bounce",
+  "summary": "Companies that make computer chips and memory had some of the biggest gains of the day. On our list, AMD rose 4.6%, Broadcom 3.8%, TSMC 3.2% and Vertiv 3.1%. Investors bought back into AI related shares after the holiday break.",
+  "why": "These companies sell the parts that power artificial intelligence. Their stocks tend to rise faster on good days and fall faster on bad days, which is why our page gives them higher risk scores.",
+  "source": "BigGo Finance",
+  "url": "https://finance.biggo.com/news/96a6dd9c-dfde-447d-9fba-83a4a62a0c21"
+ },
+ {
+  "date": "2026-11-27",
+  "tickers": [
+   "AMZN",
+   "GOOGL"
+  ],
+  "effect": "watch",
+  "title": "Anthropic's new stock climbs back above its IPO price",
+  "summary": "Shares of Anthropic, the AI company that started trading on the stock market last week, rose about 10% today. That pushed the price above $90, higher than the $83 price set for its IPO. Its first days of trading had been bumpy.",
+  "why": "An IPO is when a company sells shares to the public for the first time. Amazon and Alphabet have both invested in Anthropic, so how its stock does can affect how investors feel about AI and about those two companies.",
+  "source": "Finwire",
+  "url": "https://finwire.io/news/stock-markets-news/nasdaq-dow-rise-over-500-pts-as-anthropic-pops-11-to-lead-ai-rebound"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "NVIDIA paused sales of some approved AI chips to China",
+  "summary": "On its earnings call, NVIDIA said it had stopped shipping some Hopper family AI chips to China, even though the U.S. had allowed those sales. The company sold about $2.4 billion of these licensed chips to China last quarter. It did not say why it stopped or whether the pause is permanent.",
+  "why": "China is a big market. When a company stops selling there, future sales could be lower. NVIDIA rose much less than other chip stocks today, and its CEO faces questions from Congress next week, so this story is worth following.",
+  "source": "TimesLIVE",
+  "url": "https://www.timeslive.co.za/news/sci-tech/2026-11-18-nvidia-stops-shipping-us-approved-ai-chips-to-china/"
  }
 ]

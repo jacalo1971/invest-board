@@ -5,50 +5,50 @@
    "ALL"
   ],
   "effect": "good",
-  "title": "Asian stocks mostly rise before Wall Street reopens",
-  "summary": "Most stock markets in Asia moved higher on Friday while U.S. markets were still on their Thanksgiving break. Shares tied to artificial intelligence and computer chips led the gains. Investors are also keeping an eye on planned U.S. tariff increases on imports from several trading partners.",
-  "why": "Markets around the world often move together. A good night in Asia can set a hopeful mood for the U.S. open, but U.S. traders still make up their own minds once trading starts.",
-  "source": "Associated Press",
-  "url": "https://www.news4jax.com/business/2026/11/27/asian-shares-mostly-rise-ahead-of-wall-streets-reopening-after-the-thanksgiving-holiday/"
+  "title": "Stocks finish a short holiday week with a big gain",
+  "summary": "U.S. stocks climbed in the half day session after Thanksgiving. The Dow rose about 590 points, or about 1.2%, the S&P 500 gained about 1.6% and the Nasdaq added about 2.3%. Tech and chip companies led the way, and the Nasdaq ended the week with one of its best weekly gains in a long time.",
+  "why": "A strong week after a big drop shows how fast the mood of the market can change. It is a good reminder not to panic on bad days, and also not to get too excited on great days.",
+  "source": "BigGo Finance",
+  "url": "https://finance.biggo.com/news/94218d89-8592-4b2f-a61c-1e75d032506d"
  },
  {
   "date": "2026-11-27",
   "tickers": [
-   "ALL"
-  ],
-  "effect": "watch",
-  "title": "Half day for U.S. stocks on Black Friday",
-  "summary": "U.S. stock exchanges reopen Friday after being closed for Thanksgiving. Trading ends early, at 1 p.m. Eastern time. Many traders take the day off, so fewer shares usually change hands.",
-  "why": "When fewer people are trading, prices can swing more than normal on small amounts of news. A big move on a short day may not mean much for the long run.",
-  "source": "New York Stock Exchange",
-  "url": "https://www.nyse.com/markets/hours-calendars"
- },
- {
-  "date": "2026-11-25",
-  "tickers": [
-   "AMZN",
-   "ALL"
-  ],
-  "effect": "good",
-  "title": "Online holiday spending is up 9.1% so far",
-  "summary": "Adobe says U.S. shoppers spent $82.5 billion online from November 1 to 22, up 9.1% from a year earlier. It expects about $12.9 billion in online sales on Black Friday. The Black Friday figure is a forecast, and the data does not include shopping in stores.",
-  "why": "Spending by regular people is the biggest part of the U.S. economy. When shoppers keep buying, companies like Amazon can earn more. Strong spending can also keep prices rising, which matters for interest rates.",
-  "source": "Digital Commerce 360 (Adobe data)",
-  "url": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/"
- },
- {
-  "date": "2026-11-23",
-  "tickers": [
-   "NVDA",
    "AMD",
    "AVGO",
-   "TSM"
+   "TSM",
+   "VRT"
+  ],
+  "effect": "good",
+  "title": "Chip and memory stocks lead the bounce",
+  "summary": "Companies that make computer chips and memory had some of the biggest gains of the day. On our list, AMD rose 4.6%, Broadcom 3.8%, TSMC 3.2% and Vertiv 3.1%. Investors bought back into AI related shares after the holiday break.",
+  "why": "These companies sell the parts that power artificial intelligence. Their stocks tend to rise faster on good days and fall faster on bad days, which is why our page gives them higher risk scores.",
+  "source": "BigGo Finance",
+  "url": "https://finance.biggo.com/news/96a6dd9c-dfde-447d-9fba-83a4a62a0c21"
+ },
+ {
+  "date": "2026-11-27",
+  "tickers": [
+   "AMZN",
+   "GOOGL"
   ],
   "effect": "watch",
-  "title": "NVIDIA's CEO will face a Senate hearing on December 3",
-  "summary": "Jensen Huang is scheduled to testify in public before the Senate Banking Committee on December 3. The hearing is about U.S. rules that limit selling advanced chips to other countries. He is also set to meet privately with House committees on December 1.",
-  "why": "Government rules can change where a company is allowed to sell its products. If lawmakers push for tighter limits, chip companies could sell less abroad, so investors will listen closely.",
-  "source": "CoinDesk",
-  "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo"
+  "title": "Anthropic's new stock climbs back above its IPO price",
+  "summary": "Shares of Anthropic, the AI company that started trading on the stock market last week, rose about 10% today. That pushed the price above $90, higher than the $83 price set for its IPO. Its first days of trading had been bumpy.",
+  "why": "An IPO is when a company sells shares to the public for the first time. Amazon and Alphabet have both invested in Anthropic, so how its stock does can affect how investors feel about AI and about those two companies.",
+  "source": "Finwire",
+  "url": "https://finwire.io/news/stock-markets-news/nasdaq-dow-rise-over-500-pts-as-anthropic-pops-11-to-lead-ai-rebound"
+ },
+ {
+  "date": "2026-11-18",
+  "tickers": [
+   "NVDA"
+  ],
+  "effect": "watch",
+  "title": "NVIDIA paused sales of some approved AI chips to China",
+  "summary": "On its earnings call, NVIDIA said it had stopped shipping some Hopper family AI chips to China, even though the U.S. had allowed those sales. The company sold about $2.4 billion of these licensed chips to China last quarter. It did not say why it stopped or whether the pause is permanent.",
+  "why": "China is a big market. When a company stops selling there, future sales could be lower. NVIDIA rose much less than other chip stocks today, and its CEO faces questions from Congress next week, so this story is worth following.",
+  "source": "TimesLIVE",
+  "url": "https://www.timeslive.co.za/news/sci-tech/2026-11-18-nvidia-stops-shipping-us-approved-ai-chips-to-china/"
  }
 ]

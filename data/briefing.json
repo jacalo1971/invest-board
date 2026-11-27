@@ -1,32 +1,37 @@
 [
  {
   "kind": "takeaway",
-  "title": "Short day today: stocks close at 1 p.m.",
-  "text": "Wall Street reopens this morning after Thanksgiving, but only for a half day. Stocks stop trading at 1 p.m. Eastern time. The prices on this page are still from Wednesday's close, because the market was shut on Thursday. Overnight, most stock markets in Asia went up, led by tech and AI companies. That can give U.S. tech stocks a lift at the open, but nothing is promised. Today is also Black Friday, so stores and online sellers like Amazon may get extra attention."
+  "title": "Stocks end a short week with a big jump",
+  "text": "Today was a half day: trading stopped at 1 p.m. Eastern time. In that short session, the S&P 500 fund (SPY) rose 1.6% and the Nasdaq 100 fund (QQQ) rose 2.7%. For the whole week, SPY is up about 5.6% and QQQ about 7%, after a rough drop the week before. Every stock and fund on our list went up today. The biggest gains came from Rocket Lab (up 8.2%), AMD (up 4.6%), Amazon (up 4.0%) and Broadcom (up 3.8%). Fewer people trade on holidays, so prices can move more than usual on days like this. Markets are closed this weekend and reopen Monday."
  },
  {
   "kind": "alert",
-  "title": "AI suppliers are still much further from their highs",
-  "text": "The five AI supplier companies on our list (NVIDIA, Broadcom, TSMC, Vertiv and AMD) are, on average, about 40% below their highest price of the past year. The four AI giants (Alphabet, Amazon, Microsoft and Meta) are about 21% below on average. The suppliers also carry higher risk scores: about 6.7 out of 10, versus about 4.4 for the giants. Suppliers sell chips and equipment, so their sales can jump or drop quickly when the giants change their spending plans."
+  "title": "AI suppliers bounced harder, but are still far from their highs",
+  "text": "The five AI supplier companies on our list (NVIDIA, Broadcom, TSMC, Vertiv and AMD) rose about 3.1% on average today. The four AI giants (Alphabet, Amazon, Microsoft and Meta) rose about 2.1%. Even so, the suppliers are still about 38% below their highest price of the past year, while the giants are about 19% below. The suppliers also have higher risk scores (about 6.7 out of 10, compared with 4.3 for the giants). Higher risk means bigger swings in both directions."
  },
  {
   "kind": "alert",
-  "title": "Online holiday shopping is off to a strong start",
-  "text": "Adobe, which tracks online sales, says Americans spent $82.5 billion online from November 1 to 22. That is 9.1% more than the same days last year. Adobe expects about $12.9 billion of online spending on Black Friday alone. These are online sales only, and the Black Friday number is a forecast, not a final count. Strong shopping is usually a good sign for the economy and for Amazon."
+  "title": "NVIDIA lagged the chip rally today",
+  "text": "NVIDIA rose only 0.8% today, while AMD rose 4.6% and TSMC rose 3.2%. Over the whole week, though, NVIDIA is up about 20%, the most on our list. Next week is busy for the company: its CEO, Jensen Huang, is set to meet privately with House committees on December 1 and to speak at a public Senate hearing on December 3 about rules for selling chips to other countries. News from Washington can make the stock jump or drop quickly."
  },
  {
   "kind": "alert",
-  "title": "A busy week for NVIDIA is coming",
-  "text": "NVIDIA's CEO, Jensen Huang, is set to answer questions from lawmakers next week, in a private meeting with House committees on December 1 and a public Senate hearing on December 3. The Senate hearing is about rules that limit selling advanced chips to other countries. Big news from Washington can move NVIDIA, and other chip stocks often move with it."
+  "title": "Interest rates are still high",
+  "text": "The 10 year Treasury yield is the interest the U.S. government pays to borrow money for 10 years. It averaged 5.13% in October, up from 4.09% a year earlier. Many traders expect the Federal Reserve to raise its own rate at its December meeting. When safe bonds pay more, some investors are less willing to pay high prices for fast growing companies, which can hold those stocks back."
+ },
+ {
+  "kind": "alert",
+  "title": "Cyber Monday is next",
+  "text": "Monday, November 30, is Cyber Monday, usually the biggest online shopping day of the year. Adobe, which tracks online sales, forecasts about $15.1 billion of U.S. online spending that day, 6.2% more than last year. This is a forecast, not a final number. Strong shopping numbers can help companies like Amazon, and they also tell us how confident shoppers feel."
  },
  {
   "kind": "lesson",
-  "title": "Lesson 70: What is liquidity?",
-  "text": "Liquidity means how easy it is to buy or sell something quickly without changing its price much. A popular stock like Microsoft is very liquid: millions of shares trade every day, so there is almost always someone ready to buy or sell. A rare baseball card is not very liquid: you may wait weeks for a buyer, or have to drop your price. Liquidity can change. On short holiday days like today, many traders take the day off. With fewer buyers and sellers, a few big orders can push prices more than usual. That is why one quiet day's move should not be read as a big signal. For long-term investors, liquidity mostly matters when you need your money fast."
+  "title": "Lesson 71: Why one day does not make a trend",
+  "text": "A trend is the general direction a price moves over weeks or months, not over one day. Today almost everything went up. Last week, almost everything went down. If you only looked at one day, you would get two opposite stories. Think of a basketball player: one great game does not make them a star, and one bad game does not make them a bad player. You look at the whole season. Investors do the same thing. They look at how a company does over many months and years: its sales, its profits and its price. Our 52 week range and the price history on this page help you see the bigger picture. A good habit: before you react to one big day, zoom out and ask, what has this stock done over the last year?"
  },
  {
   "kind": "coverage",
   "title": "What this update covers",
-  "text": "Prices are from Wednesday, November 25, the last full trading day, because U.S. markets were closed Thursday for Thanksgiving. Risk scores and price scenarios use those prices. Analyst price targets are shown for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; the free data plan does not include them for Broadcom, Vertiv, Rocket Lab, Eli Lilly or Intuitive Surgical. The 10 year Treasury chart shows monthly averages through October. This is information for learning, not advice to buy or sell anything."
+  "text": "Prices are from today's close, Friday, November 27, a half day for U.S. markets. Risk scores and price scenarios use those prices. Analyst price targets are shown for NVIDIA, TSMC, AMD, Alphabet, Amazon, Microsoft, Meta, Lockheed Martin and GE Aerospace; targets and some company numbers for Broadcom, Vertiv, Rocket Lab, Eli Lilly and Intuitive Surgical are not available on our free data plan. The 10 year yield is a monthly average through October. Weekly changes compare today's prices with last Friday's close. News comes from public reports, and we link to each source. This page is for learning only and is not financial advice."
  }
 ]
